@@ -1,4 +1,6 @@
 # :page_with_curl: Spanish Paraphrase Corpora
+![GitHub](https://img.shields.io/github/license/GIL-UNAM/SpanishParaphraseCorpora)
+
 Manually paraphrased corpus in Spanish
 
 ## The Sushi Corpus
@@ -21,4 +23,4 @@ If you use the corpus please cite the following articles:
 The work was done with partial support of CONACYT project A1-S-27780 and UNAM-PAPIIT projects IA401219, TA100520, AG400119.
 
 ## License
-[CC-BY-4.0](https://choosealicense.com/licenses/cc-by-4.0/).
+
