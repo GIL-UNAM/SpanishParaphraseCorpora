@@ -21,3 +21,6 @@ If you use the corpus please cite the following articles:
 
 ## Aknowledgments
 The work was done with partial support of CONACYT project A1-S-27780 and UNAM-PAPIIT projects IA401219, TA100520, AG400119.
+
+## License
+[CC0 1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/)
