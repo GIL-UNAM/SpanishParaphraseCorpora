@@ -4,7 +4,7 @@
 Manually paraphrased corpus in Spanish
 
 ## The Sushi Corpus
-This corpus is designed to assess the similarity between a pair of texts and to evaluate different similarity measures, both for whole documents or for individual sentences. It is built around the subject of a Spanish blog article related to **Sushi**. Several volunteers (undergraduate, graduate, and Ph.D. students) were asked to intentionally reformulate or paraphrase this article. The paraphrase of the article was carried out on two levels, according to the rules:
+This (corpus)[https://github.com/GIL-UNAM/SpanishParaphraseCorpora/tree/main/Sushi] is designed to assess the similarity between a pair of texts and to evaluate different similarity measures, both for whole documents or for individual sentences. It is built around the subject of a Spanish blog article related to **Sushi**. Several volunteers (undergraduate, graduate, and Ph.D. students) were asked to intentionally reformulate or paraphrase this article. The paraphrase of the article was carried out on two levels, according to the rules:
 <ul>
     <li> <b>Low level:</b> Only lexical variation </li>
     <li> <b>High level:</b> Lexical, syntactic, textual or discursive organization variation and fusion or separation of sentences.</li>
@@ -21,6 +21,3 @@ If you use the corpus please cite the following articles:
 
 ## Aknowledgments
 The work was done with partial support of CONACYT project A1-S-27780 and UNAM-PAPIIT projects IA401219, TA100520, AG400119.
-
-## License
-
