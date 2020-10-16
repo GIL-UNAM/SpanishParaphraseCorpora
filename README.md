@@ -2,6 +2,13 @@
 Manually paraphrased corpus in Spanish
 
 ## The Sushi Corpus
+This corpus is designed to assess the similarity between a pair of texts and to evaluate different similarity measures, both for whole documents or for individual sentences. It is built around the subject of a Spanish blog article related to **Sushi**. Several volunteers (undergraduate, graduate, and Ph.D. students) were asked to intentionally reformulate or paraphrase this article. The paraphrase of the article was carried out on two levels, according to the rules:
+<ul>
+    <li> <b>Low level:</b> Only lexical variation </li>
+    <li> <b>High level:</b> Lexical, syntactic, textual or discursive organization variation and fusion or separation of sentences.</li>
+    <li> <b>No Paraphrase: </b> Texts on the same theme and source as the original article, related to sushi.
+    <li> <b>No Sushi: </b> Texts on different theme as the original article but with overlapping vocabulary were gathered. That is, texts not related to sushi, but with exactly the same vocabulary as the original one. Some volunteers wrote a free text using  the same content words as the original.
+</ul>
 
 ### :pencil: How to cite
 If you use the corpus please cite the following articles:
