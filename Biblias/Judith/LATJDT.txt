@@ -1,0 +1,340 @@
+JDT001001 Hacía doce años que Nabucodonosor, rey de Asiria, reinaba en la gran ciudad de Nínive. Arfaxad, que en aquel tiempo reinaba sobre los medos, en Ecbátana, 
+JDT001002 rodeó esta ciudad con una muralla de piedras talladas de metro y medio de ancho y tres de largo. La muralla tenía treinta y cinco metros de alto y veinticinco de ancho. 
+JDT001003 Junto a las puertas levantó torres de cincuenta metros de alto y veinte de ancho en los cimientos. 
+JDT001004 Las puertas, de treinta y cinco metros de alto y veinte de ancho, permitían la salida de sus fuerzas y el desfile de la infantería. 
+JDT001005 En aquellos días, el rey Nabucodonosor declaró la guerra al rey Arfaxad en la gran llanura que está en Ragau. 
+JDT001006 Se unieron a él todos los habitantes de la montaña, los del Eufrates, del Tigris, del Hidaspes y de la llanura de Arioj, rey de Elam. Fueron muchos los pueblos que se reunieron para combatir a los hijos de Jeleud. 
+JDT001007 Además, Nabucodonosor, rey de Asiria, mandó mensajeros a los habitantes de Persia y a todos los habitantes de Occidente: a los de Cilicia, Damasco, el Líbano y el Antilíbano, a todos los del litoral, 
+JDT001008 a las poblaciones del Carmelo, Galaad, alta Galilea, la gran llanura de Esdrelón, 
+JDT001009 a los habitantes de Samaria y sus ciudades, a los de más allá del Jordán, hasta Jerusalén, Batanea, Jelús, Cadés, el río de Egipto, Tafnes, Rameses y toda la tierra de Gosén, 
+JDT001010 hasta más allá de Tanis y Menfis, a todos los habitantes de Egipto, hasta las fronteras de Etiopía. 
+JDT001011 Pero los habitantes de todas estas regiones despreciaron el mensaje de Nabucodonosor y no quisieron ir con él a la guerra, ya que no lo temían, sino que lo consideraban como un hombre cualquiera. Por tanto, despidieron a los mensajeros con las manos vacías y avergonzados. 
+JDT001012 Nabucodonosor, indignado con todas aquellas naciones, juró por su trono y por su reino vengarse de todas ellas. 
+JDT001013 El año diecisiete, junto con su ejército, declaró la guerra a Arfaxad; lo derrotó en el combate, desconcertó todo su ejército, su caballería y sus carros; 
+JDT001014 se apoderó de sus ciudades, llegó hasta Ecbátana, ocupó sus torres, destruyó las plazas y las arruinó. 
+JDT001015 Persiguió a Arfaxad hasta las montañas de Ragau y lo atravesó con sus lanzas, acabando con él. 
+JDT001016 Luego, Nabucodonosor volvió a Nínive con sus soldados y con una inmensa multitud de gente armada que lo había seguido. Durante ciento veinte días descansaron allí y vivieron cómodamente. 
+JDT002001 El veintidós de enero del año dieciocho, se trató en el palacio de Nabucodonosor, rey de Asiria, sobre la manera de vengarse de las otras naciones, tal como lo había anunciado. 
+JDT002002 Convocó a sus ministros y a sus grandes y tuvo con ellos un consejo secreto. El mismo expuso todos los planes 
+JDT002003 y todos decidieron destruir a los que habían despreciado el llamado del rey. 
+JDT002004 Apenas terminó el consejo, Nabucodonosor llamó a Holofernes, jefe supremo del ejército, que le seguía en el mando, y le dijo: 
+JDT002005 “Así habla el rey grande, señor de toda la tierra: Toma contigo unos ciento veinte mil infantes valientes y una gran cantidad de caballos, con doce mil jinetes, 
+JDT002006 y anda contra todo el occidente, ya que se opusieron a mis planes. 
+JDT002007 Diles que se sometan, no sea que yo vaya furioso contra ellos. Cubriré la tierra con los pies de mis soldados, a los que entregaré el país como botín. 
+JDT002008 Los heridos llenarán los valles, y los cadáveres harán desbordar los ríos. 
+JDT002009 Los desterraré hasta los confines de la tierra. 
+JDT002010 Anda, pues, y apodérate de su territorio. Si se entregan a ti, guárdamelos para el día del castigo. 
+JDT002011 Pero si se rebelan, no los perdones; entrégalos a la muerte y al pillaje en toda la tierra. 
+JDT002012 Porque juro por mi vida y por el poder de mi reino que cumpliré todo lo que he dicho. 
+JDT002013 Tú no desobedezcas las órdenes de tu señor, sino realízalas pronto como te lo he mandado.” 
+JDT002014 Holofernes salió para convocar a los generales, jefes y capitanes del ejército asirio. 
+JDT002015 Contó unos ciento veinte mil hombres escogidos para la guerra, y doce mil arqueros a caballo, a los que formó en orden de batalla. 
+JDT002016 Tomó gran número de camellos, burros y mulas para el equipaje 
+JDT002017 y ovejas, bueyes y cabras para alimentarse. 
+JDT002018 Además, cada hombre recibió provisiones y gran cantidad de oro y plata de la casa real. 
+JDT002019 Salió, pues, Holofernes con su ejército delante del rey Nabucodonosor para cubrir toda la tierra de occidente con sus carros, sus caballos y sus infantes. 
+JDT002020 Le seguía una multitud numerosa como la langosta y como la arena de la tierra. Eran tantos que no se podían contar. 
+JDT002021 Durante la primera etapa de tres días llegaron desde Nínive a la llanura de Bektilez, cerca del monte que está al norte de Cilicia. 
+JDT002022 Desde allí partió con su ejército, infantería, caballos y carros hacia la región montañosa. 
+JDT002023 Arruinó Put y Lidia, a los hijos de Rassis y a los de Ismael, que están en el desierto, al sur de Jeleón. 
+JDT002024 Atravesó el Eufrates, recorrió Mesopotamia, destruyó todas las ciudades altas que dominan el torrente Abrona y llegó hasta el mar. 
+JDT002025 Se apoderó de Cilicia, derrotando a cuantos se le oponían; llegó a la frontera de Jafet por el sur, frente a Arabia; 
+JDT002026 rodeó a la gente de Madián, incendió sus tierras y tomó sus ganados; 
+JDT002027 en el tiempo de la siega del trigo bajó a la llanura de Damasco, incendió sus campos, dispersó sus ovejas y bueyes y mató a cuchillo a todos los jóvenes. 
+JDT002028 Los habitantes de Sidón y Tiro, los de Sur y Okina, los de Jamnia, Azoto y Ascalón tenían miedo y temblaban ante él. 
+JDT003001 Todos éstos enviaron a Holofernes mensajeros para decirle en son de paz: 
+JDT003002 “Nosotros nos consideramos siervos del gran rey Nabucodonosor y nos entregamos a ti. Trátanos como quieras. 
+JDT003003 Nuestras granjas, nuestro territorio, nuestros campos de trigo, nuestras ovejas, bueyes y sus apriscos, están a tu disposición. Haz con ello lo que quieras. 
+JDT003004 También son tuyas nuestras ciudades, y sus habitantes son tus siervos. Dirígete a ellos como quieras.” 
+JDT003005 Aquellos hombres se presentaron ante Holofernes y le transmitieron estas palabras. 
+JDT003006 Holofernes, entonces, bajó con su ejército al litoral, dejando guarniciones en las ciudades fortificadas, de donde tomó los mejores hombres en calidad de tropas auxiliares. 
+JDT003007 Los habitantes de las ciudades y de los pueblos de los alrededores lo recibieron con coronas y danzando al compás del tamboril. 
+JDT003008 Pero él destruyó sus templos, cortó los árboles de sus bosques sagrados y destruyó todas las divinidades para que los hombres de todas las lenguas y todas las tribus adoraran solamente a Nabucodonosor y lo proclamaran dios. 
+JDT003009 Después llegó frente a Esdrelón, cerca de Dotán, que está ubicado frente a la sierra montañosa de Judea. 
+JDT003010 Acampó entre Gueba y Escitópolis, y allí permaneció un mes para reorganizar el aprovisionamiento de su ejército. 
+JDT004001 Cuando los israelitas del territorio de Judá supieron que Holofernes, jefe supremo del ejército de Nabucodonosor, rey de Asiria, había despojado a los pueblos vecinos y destruido sus santuarios, 
+JDT004002 tuvieron miedo y temblaban pensando en la suerte de Jerusalén y su Templo, 
+JDT004003 ya que hacía poco que habían vuelto del destierro; el pueblo de Judea acababa de reunirse y de consagrar de nuevo el Templo con su altar y su mobiliario después de ser profanado. 
+JDT004004 Entonces avisaron a toda la región de Samaria, a Komá, Bet-Jorán, Belmain, Jericó, Joba, Esorá y el valle de Salem. 
+JDT004005 Ocuparon las alturas de las montañas, fortificaron los pueblos e hicieron provisiones para sostener la guerra, ya que habían terminado de segar sus campos. 
+JDT004006 El jefe de los sacerdotes, Joaquín, que estaba entonces en Jerusalén, escribió a los habitantes de Betulia y Betomestain, que está frente a Esdrelón, a la entrada de la llanura de Dotán, 
+JDT004007 diciéndoles que cuidaran las subidas de la montaña que dan acceso a Judea, pues era fácil detener allí el avance de los atacantes, ya que era tan estrecho el paso que sólo permitía pasar de dos en dos. 
+JDT004008 Los israelitas cumplieron las órdenes de Joaquín, jefe de los sacerdotes, y del consejo de los Ancianos de todo Israel, que se encontraba en Jerusalén. 
+JDT004009 Todos los israelitas se dirigieron humilde y fervorosamente a Dios. 
+JDT004010 Los hombres, sus esposas, sus hijos, sus ganados, los forasteros, los jornaleros y los esclavos se pusieron saco sobre sus cuerpos. 
+JDT004011 Los habitantes de Jerusalén, con sus esposas y sus niños, se arrodillaron ante el Templo, cubrieron de ceniza sus cabezas y extendieron las manos para rezar ante el Señor. 
+JDT004012 Cubrieron el altar de saco, y todos a una voz pidieron al Dios de Israel que no permitiera arrebatar a sus hijos y esposas, destruir sus ciudades y profanar su Templo. 
+JDT004013 El Señor oyó su voz y comprendió su angustia. El ayunó muchos días en Judá y Jerusalén ante el Templo del Señor Omnipotente. 
+JDT004014 Joaquín, jefe de los sacerdotes, los sacerdotes y ministros del Señor, vestidos de saco, ofrecían el sacrificio perpetuo, 
+JDT004015 y, con sus gorros cubiertos de ceniza, clamaban al Señor con todas sus fuerzas para que velara por todo Israel. 
+JDT005001 Holofernes, jefe supremo del ejército asirio, supo que los israelitas se preparaban para la guerra, que habían cerrado los pasos de las montañas, fortificando las cimas de los montes y obstaculizando las llanuras. 
+JDT005002 Se enojó muchísimo y llamó a los jefes de Moab, a los generales de Ammón y a todos los gobernadores del litoral 
+JDT005003 y les dijo: “Hijos de Canaán, díganme qué pueblo es éste que se estableció en la montaña, qué ciudades habita, cuál es la importancia de su ejército, en qué consiste su fuerza y su poder, qué rey guía su ejército 
+JDT005004 y por qué no se ha dirigido a mí como los otros países occidentales.” 
+JDT005005 Ajior, general de todos los amonitas, le respondió: “Escucha, señor, que te diré la verdad sobre ese pueblo que habita esta montaña junto a la que te encuentras. 
+JDT005006 Este pueblo desciende de los caldeos. 
+JDT005007 Habitaron primero Mesopotamia, pero no quisieron seguir a los dioses de sus padres, que vivían en Caldea. 
+JDT005008 Se apartaron del culto de sus padres y adoraron al Dios del cielo, al Dios que habían reconocido. Por esto, sus padres los despidieron de la presencia de sus dioses y se refugiaron en Mesopotamia, donde permanecieron largo tiempo. 
+JDT005009 Pero su Dios les aconsejó salir de su casa y marchar a la tierra de Canaán; se establecieron en ella y adquirieron oro, plata y gran cantidad de ganado. 
+JDT005010 Después bajaron a Egipto porque el hambre se extendió en Canaán, y permanecieron allí mientras tuvieron alimentos. Allí el pueblo aumentó mucho, de modo que ya no podía contarse. 
+JDT005011 El rey de Egipto los obligó a trabajar haciendo ladrillos, los oprimió y los redujo a la condición de esclavos. 
+JDT005012 Clamaron a su Dios, que castigó la tierra de Egipto con plagas incurables. Entonces los egipcios los mandaron lejos de ellos. 
+JDT005013 Dios secó el mar Rojo para que pasaran, 
+JDT005014 y los condujo hasta el Sinaí y Cadés-Barne. Echaron a todos los habitantes del desierto, 
+JDT005015 luego habitaron el país de los amorreos y acabaron por la fuerza con todos los jebonitas. Pasaron el Jordán, ocuparon toda la montaña 
+JDT005016 y despidieron al cananeo, al fereceo, al jebuseo, a los siquemitas, a todos los guirgaseos, y permanecieron allí mucho tiempo. 
+JDT005017 Mientras no ofendieron a su Dios vivieron felices, porque estaba con ellos un Dios que odia el mal. 
+JDT005018 Pero cuando se apartaron del camino que les había trazado, fueron exterminados en numerosos desastres y desterrados a otros países; el Templo de su Dios fue arrasado y sus ciudades tomadas por los enemigos. 
+JDT005019 Pero ahora, cuando volvieron a su Dios, regresaron de los diversos lugares en que se encontraban, se posesionaron de Jerusalén, donde está su santuario, y habitaron la región montañosa que había quedado desierta. 
+JDT005020 Así, pues, poderoso señor, informémonos para saber si este pueblo se ha portado mal y si han pecado contra su Dios; si la cosa es así, subamos y ataquémoslos. 
+JDT005021 Pero si no hay maldad en esa gente, déjalos y vuélvete, no sea que su Dios los proteja con su escudo y toda la tierra sea testigo de nuestra derrota.” 
+JDT005022 Cuando Ajior terminó de hablar, el pueblo reunido en torno a la tienda comenzó a criticar. Los magnates de Holofernes y los habitantes de la costa de Moab hablaron de apalearlo. 
+JDT005023 “¡No tememos a los hijos de Israel! Es un pueblo sin fuerza que no está preparado para una lucha dura. 
+JDT005024 Subamos, señor Holofernes, que serán un botín para tu ejército.” 
+JDT006001 Calmado el alboroto de la asamblea, Holofernes, jefe supremo del ejército de Asiria, dijo a Ajior y a los moabitas delante de los pueblos extranjeros: 
+JDT006002 “¿Quién eres tú, Ajior, y quiénes ustedes, que se dejaron sobornar por Israel y que hoy se permiten profetizar contra nosotros? ¿Por qué nos aconsejan que no luchemos contra Israel, diciendo que Dios los protegerá con su escudo? ¿Qué otros dioses hay fuera de Nabucodonosor? El nos dará fuerza y los exterminará de la faz de la tierra, sin que su Dios pueda librarlos. 
+JDT006003 Nosotros, sus siervos, venceremos a los israelitas de una vez, y no resistirán el empuje de nuestra caballería. 
+JDT006004 Los quemaremos sin distinción. Su sangre chorreará por sus montañas y sus llanuras se convertirán en cementerios. No se mantendrán en pie ante nosotros, pues serán totalmente destruidos, dice el rey Nabucodonosor, señor de toda la tierra. El lo dijo y todas sus palabras se cumplirán. 
+JDT006005 En cuanto a ti, Ajior, mercenario de Ammón, que pronunciaste estas palabras para tu desgracia, desde ahora no verás mi rostro hasta el día en que me vengue de esta raza venida de Egipto. 
+JDT006006 Entonces, la espada de mis soldados y la lanza de la multitud de mis servidores traspasará tu cuerpo; cuando yo vuelva del combate tú estarás reunido con los muertos de Israel. 
+JDT006007 Ahora mis servidores te van a llevar a la montaña y te dejarán en una de las ciudades de la subida, 
+JDT006008 para que compartas la suerte de ellos. 
+JDT006009 No pongas esa cara, si crees que son invencibles y que no se cumplirán mis palabras.” 
+JDT006010 Holofernes mandó a los hombres de su tienda que tomaran a Ajior, lo llevaran a Betulia y lo entregaran a los israelitas. 
+JDT006011 Sus servidores lo tomaron y lo sacaron fuera del campamento, a la llanura; de allí pasaron a la montaña y llegaron a las fuentes que están al pie de Betulia. 
+JDT006012 Cuando los hombres de la ciudad los divisaron, tomaron sus armas y salieron hacia la cumbre del monte, mientras que los honderos impedían su subida, disparándoles piedras. 
+JDT006013 Los asirios llegaron a la base del cerro, ataron a Ajior, dejándolo tendido al pie del cerro, y volvieron donde su señor. 
+JDT006014 Los israelitas bajaron, se acercaron a él, lo desataron y lo llevaron a Betulia, presentándolo a los jefes de la ciudad, 
+JDT006015 que en aquel tiempo eran Ozías, hijo de Miqueas, de la tribu de Simeón; Jabri, hijo de Gotoniel, y Jarmí, hijo de Melquiel. 
+JDT006016 Convocaron a todos los dirigentes de la ciudad, también se unieron a la asamblea los jóvenes y las mujeres; pusieron a Ajior en medio del pueblo y Ozías lo interrogó sobre lo que había pasado. 
+JDT006017 Ajior les dio a conocer lo de la asamblea de Holofernes, lo que dijo delante de todos los jefes de los asirios, y las amenazas de Holofernes contra Israel. 
+JDT006018 Entonces el pueblo se arrodilló y adoró a Dios, clamando: 
+JDT006019 “Señor, Dios del cielo, mira su soberbia y ten piedad de tu humilde pueblo; vuelve hoy tu rostro a los que te están consagrados.” 
+JDT006020 Animaron a Ajior y lo felicitaron calurosamente. 
+JDT006021 Después de la reunión, Ozías lo invitó a su casa y ofreció un banquete a los dirigentes. Durante toda la noche pidieron la ayuda del Dios de Israel. 
+JDT007001 Al día siguiente, Holofernes ordenó a su ejército y a todos los pueblos que se le habían unido para la guerra, poner su campamento cerca de Betulia, ocupar las pendientes de la montaña y pelear contra los israelitas. 
+JDT007002 Ese mismo día su ejército se puso en marcha. El número de guerreros era de ciento veinte mil de infantería y doce mil jinetes, sin contar los encargados del equipaje y la gran cantidad de hombres que iba a pie con ellos. 
+JDT007003 Acamparon en el valle que está cerca de Betulia, junto a la fuente, y se extendieron a lo ancho desde Dotán hasta Belmain y a lo largo, desde Betulia hasta Kiamón, que está frente a Esdrelón. 
+JDT007004 Cuando los israelitas vieron aquella multitud, se asustaron y se dijeron unos a otros: “Sin duda, éstos devorarán todo el país y ni los montes más altos, ni los barrancos ni las colinas, detendrán su marcha.” 
+JDT007005 Sin embargo, cada cual tomó su equipo de guerra, encendieron hogueras en las torres y permanecieron atentos toda la noche. 
+JDT007006 El segundo día, Holofernes exhibió toda su caballería ante los israelitas que había en Betulia, 
+JDT007007 examinó las subidas de la ciudad y ocupó los manantiales, dejando soldados en ellos, y él volvió a su ejército. 
+JDT007008 Los príncipes de Esaú, los jefes de Moab y los generales del litoral se acercaron a él y le dijeron: 
+JDT007009 “Escucha, señor, una palabra y no habrá ni un solo herido en tu ejército. 
+JDT007010 Este pueblo de los hijos de Israel confía más en las alturas de las montañas que habitan, y donde no es tan fácil subir, que en sus lanzas. 
+JDT007011 Por eso, señor, si quieres ahorrar la vida de tus hombres, no pelees contra ellos. 
+JDT007012 Quédate en tu campamento y conserva a tu ejército. Basta que tus siervos ocupen las fuentes que brotan de la falda de la montaña. 
+JDT007013 Como los de Betulia se abastecen de agua de esas fuentes, la sed los destruirá y entregarán la ciudad. Nosotros y nuestro pueblo subiremos a lo alto de la montaña para vigilar que nadie salga de la ciudad. 
+JDT007014 Hombres, mujeres y niños, desfallecidos por el hambre, caerán en las plazas antes de que intervengas con la espada. 
+JDT007015 Así los habrás castigado duramente por su rebeldía y por no haber salido a tu encuentro pacíficamente.” 
+JDT007016 Estos consejos agradaron a Holofernes y a sus oficiales, y Holofernes ordenó actuar conforme a ellos. 
+JDT007017 El ejército de los moabitas salió reforzado por cinco mil asirios, llegaron al valle y se apoderaron de los depósitos de agua y de las fuentes de los israelitas. 
+JDT007018 Por su parte, los edomitas y amonitas acamparon en la montaña frente a Dotán, y mandaron a algunos al sur y al este frente a Egrebel, que está al lado de Jus, sobre el torrente Mojmur. El resto del ejército asirio quedó en la llanura y cubría todo el país. Sus carpas y equipajes formaban un campamento inmenso porque era una enorme muchedumbre. Desaliento derrotismo 
+JDT007019 Desanimados, clamaron los israelitas al Señor, su Dios, al ver que los rodeaban sus enemigos sin que pudieran escapar. 
+JDT007020 Treinta y cuatro días estuvieron cercados por el ejército asirio: infantes, carros y jinetes. A los habitantes de Betulia se les acabaron las reservas de agua; 
+JDT007021 los pozos se agotaron y tuvieron que racionarla. 
+JDT007022 Los niños, las mujeres y los adolescentes desfallecían de sed y caían en las calles de la ciudad. 
+JDT007023 Entonces todos, hombres, mujeres, jóvenes y niños, acudieron en tropel a Ozías, y dijeron a una voz: 
+JDT007024 “Que Dios sea juez entre ti y nosotros, porque tú eres el causante de estas desgracias, al no querer tratar de paz con los asirios. 
+JDT007025 No hay quien nos pueda socorrer ahora. Dios nos ha abandonado en manos de los asirios para morir de sed y de miseria. 
+JDT007026 Convoca, pues, ahora, a todos los que están en la ciudad, y entreguémonos voluntariamente al ejército de Holofernes; 
+JDT007027 porque es preferible vivir cautivos y bendecir al Señor, que ver expirar ante nuestros ojos a nuestras esposas y niños. 
+JDT007028 Te exigimos por el cielo y la tierra, por nuestro Señor y Dios de nuestros padres, que nos castiga por nuestros pecados y los de ellos, que tomes esta resolución hoy mismo.” 
+JDT007029 Toda la asamblea se conmovió profundamente y clamó a Yavé, su Dios, a grandes voces. 
+JDT007030 Ozías se levantó y dijo: “Tengan confianza, hermanos míos, y esperemos durante cinco días la misericordia del Señor. Quizá se apiade de nosotros y no nos abandone hasta el fin. 
+JDT007031 Pero, si pasado ese plazo no llega ningún socorro, haremos lo que pidieron.” 
+JDT007032 Luego despidió al pueblo, y cada uno se fue a su lugar. Fueron a las murallas y torres de la ciudad y mandaron a las mujeres y a los niños a sus casas. Pero en la ciudad había un gran abatimiento. 
+JDT008001 En Betulia vivía Judit, hija de Merarí, hijo de Idox, hijo de José, hijo de Oziel, hijo de Elcías, hijo de Ananías, hijo de Gedeón, hijo de Rafaín, hijo de Ajitob, hijo de Elías, hijo de Jilquías, hijo de Eliab, hijo de Natanías, hijo de Salatiel, hijo de Simeón. 
+JDT008002 Manasés, su esposo, de su misma tribu y familia, había muerto durante la cosecha de la cebada. 
+JDT008003 Mientras vigilaba a los segadores que ataban las gavillas, le dio una insolación, cayó en cama y murió en Betulia, su ciudad. Fue sepultado junto a sus padres en el campo que hay entre Dotán y Balamón. Judit: judía que no duda en su fe 
+JDT008004 Hacía tres años y medio que Judit era viuda de Manasés. 
+JDT008005 En la terraza de su casa se había hecho una habitación donde vivía. Se vestía de penitencia 
+JDT008006 y ayunaba todos los días, menos los sábados y otras festividades de Israel. 
+JDT008007 Era extremadamente hermosa. Su marido le había dejado muchas riquezas, familia numerosa y posesiones llenas de rebaños de vacas y de ovejas, quedando ella como dueña. 
+JDT008008 No había nadie que hablara la más mínima palabra en su contra, ya que procuraba agradar a Dios en todo. 
+JDT008009 Judit, pues, oyó las amargas palabras que el pueblo había dicho contra el jefe de la ciudad, pues habían perdido el ánimo ante la escasez de agua. También supo que Ozías había prometido que al cabo de cinco días entregaría la ciudad. 
+JDT008010 Entonces envió a llamar a los dirigentes Jabrí y Jarmí. 
+JDT008011 Cuando llegaron a su casa les dijo: “Escúchenme, de Betulia. No están bien las palabras que han pronunciado delante del pueblo, cuando incluso han jurado ante Dios que entregarían la ciudad a nuestros enemigos si en el plazo convenido el Señor no les enviaba socorro. 
+JDT008012 ¿Quiénes son ustedes para poner a Dios a prueba? 
+JDT008013 Ese no es el medio para atraer su misericordia; más bien sirve para provocar su ira. 
+JDT008014 Ustedes nunca llegarán a conocer todo lo que siente una persona, no podrán apoderarse de sus pensamientos. Entonces, ¿cómo van a comprender a Dios que hizo todas las cosas? No, hermanos, no provoquen la cólera del Señor, Dios nuestro. 
+JDT008015 Si no quiere socorrernos en el plazo de cinco días, tiene poder para salvarnos en cualquier otro momento, como lo tiene para destruirnos en presencia de nuestros enemigos. 
+JDT008016 Pero ustedes no exijan garantías a los designios del Señor, nuestro Dios, porque Dios no se somete a las amenazas como un hombre, ni se le impone decisión alguna, como a hijos de hombres. 
+JDT008017 Más bien pidámosle que nos socorra mientras esperamos confiadamente que nos salve, y él escuchará nuestras súplicas, si le agrada hacerlo. 
+JDT008018 Es verdad que no se encontraría en nuestros días tribu, familia, pueblo o ciudad de las nuestras que se postre ante dioses hechos por mano del hombre, como sucedió en otros tiempos, 
+JDT008019 por lo cual, en castigo, nuestros padres fueron entregados a la espada y al saqueo, y murieron en forma desastrosa ante sus enemigos. 
+JDT008020 En cambio, nosotros no reconocemos a otro Dios fuera de él, y en esto radica nuestra esperanza de que no nos mirará con indiferencia, ni a nosotros, ni a ninguno de nuestra raza. 
+JDT008021 Porque si de hecho se apoderan de nosotros, caerá toda Judea, y nuestro Santuario será saqueado. 
+JDT008022 Tendremos que responder de esta profanación con nuestra propia sangre. Dios nos pedirá cuentas por la muerte de nuestros hermanos, la esclavitud de nuestro pueblo y la ruina de nuestra herencia. 
+JDT008023 El castigo nos alcanzará en medio de las naciones en que estemos como esclavos, y seremos maltratados por nuestros patrones. No habrá esperanza de que nuestra esclavitud se cambie en una suerte más feliz, sino que el Señor, nuestro Dios, la convertirá en deshonra. 
+JDT008024 Ahora, pues, mostremos a nuestros hermanos que nos sentimos solidarios con ellos y que sabemos luchar por nuestra religión, nuestro Templo y su altar. 
+JDT008025 Por todos estos motivos debemos dar gracias al Señor, nuestro Dios, que ha querido probarnos como a nuestros padres. 
+JDT008026 Recuerden lo que hizo con Abraham, las pruebas por las que hizo pasar a Isaac, lo que le sucedió a Jacob en Mesopotamia de Siria cuando pastoreaba el rebaño de Labán, hermano de su madre. 
+JDT008027 Como los colocó en el crisol para probar sus corazones, así el Señor nos hiere a los que nos acercamos a él, no para castigarnos, sino para instruirnos.” 
+JDT008028 Ozías respondió: “En todo lo que has dicho, has hablado con criterio, y nadie podrá oponerse a tus razones, 
+JDT008029 ya que no es hoy cuando has comenzado a dar muestras de tu sabiduría, sino que desde hace mucho tiempo todo el pueblo conoce tu inteligencia y la generosidad natural de tu corazón. 
+JDT008030 Pero el pueblo padecía mucha sed y nos obligaron a cumplir nuestra palabra, y a comprometernos con un juramento que no podemos romper. 
+JDT008031 Ahora, pues, tú que eres piadosa, pide por nosotros al Señor que envíe lluvia para llenar nuestros pozos, y así no nos veamos desfallecidos.” 
+JDT008032 Judit respondió: “Escúchenme. Voy a hacer algo cuyo recuerdo se prolongará entre los hijos de nuestra raza de generación en generación. 
+JDT008033 Esta noche estén en la puerta de la ciudad. Yo saldré con mi sirvienta y, antes del plazo que se han fijado para entregar la ciudad a nuestros enemigos, el Señor, por mi medio, visitará a Israel. 
+JDT008034 No intenten averiguar lo que quiero hacer, pues no lo diré hasta no haberlo cumplido.” 
+JDT008035 Entonces Ozías y los jefes le dijeron: “Vete en paz, y que el Señor Dios vaya delante de ti para tomar venganza de nuestros enemigos.” 
+JDT008036 Y dejando la habitación de Judit, regresaron a sus puestos. 
+JDT009001 Judit se arrodilló con el rostro inclinado, puso ceniza sobre su cabeza y dejó ver el saco que tenía puesto. Era precisamente a la misma hora en que se ofrecía en la Casa de Dios de Jerusalén el incienso de la tarde. Y dirigió su voz al Señor, diciendo: 
+JDT009002 “Señor, Dios de mi padre Simeón, a él le diste una espada para castigar a aquellos extranjeros que violaron a una virgen ultrajándola, que desnudaron su cuerpo para su propia vergüenza y que profanaron su seno para su propia deshonra. Ellos hicieron eso, aunque tú dijiste: 
+JDT009003 Esto no se hace. Pero entregaste a sus jefes a la muerte, y su lecho, rojo de vergüenza, lo dejaste rojo de sangre por su engaño. 
+JDT009004 Castigaste a los esclavos junto a los príncipes; y a los príncipes con los siervos. Entregaste sus mujeres al rapto, sus hijas a la esclavitud y sus posesiones para que fueran repartidas entre tus hijos queridos, que habían hecho suyos tus deseos, que tuvieron horror a la profanación hecha a su sangre y pidieron tu ayuda. 
+JDT009005 ¡Dios mío, escúchame! Tú hiciste las cosas pasadas, las presentes y las venideras, tú has pensado el presente y el futuro, y sólo se realiza lo que tú dispones, ya que los acontecimientos que tú quieres se presentan y te dicen: ¡Aquí estamos! 
+JDT009006 Pues preparas tus intervenciones y tus decisiones están previstas de antemano. 
+JDT009007 Mira la muchedumbre de los asirios; están orgullosos de sus caballos y jinetes, alaban la fortaleza de sus infantes, confían en sus escudos y en sus lanzas, en sus arcos y en sus hondas, pero no reconocen que tú eres el Señor, el que decide las guerras. 
+JDT009008 Señor es tu nombre. ¡Quebranta su fuerza con tu poder! ¡Derriba su dominio con tu ira!, pues pretenden profanar tu Santuario, manchar la Tienda donde se encuentra la gloria de tu Nombre y destruir con hierro los cuernos de tu altar. 
+JDT009009 Mira su orgullo y deja caer tu ira sobre sus cabezas, y da a mi mano de mujer la fuerza necesaria para lo que he dispuesto. 
+JDT009010 Castiga con la astucia de mis palabras al esclavo y al señor, al jefe y sus servidores; acaba con su soberbia por medio de mi mano de mujer. 
+JDT009011 Pues tu fuerza no está en la multitud, ni tu poder en los valientes, sino que eres el Dios de los humildes, defensor de los pequeños, apoyo de los débiles, protector de los abandonados, salvador de los desesperados. 
+JDT009012 Sí, Dios de mi padre y Dios de Israel, Señor de cielos y tierra, Creador de las aguas, Rey de toda la creación, ¡escucha mi plegaria! 
+JDT009013 Dame palabras seductoras para herir y matar a los que vienen como enemigos de tu alianza, de tu santa Casa, del monte Sión y la Casa que pertenece a tus hijos. 
+JDT009014 Haz que toda nación y toda tribu reconozca que eres Dios, todopoderoso y fuerte, y que fuera de ti no hay otro protector para el pueblo de Israel.” La de Judit 
+JDT010001 Acabada su plegaria al Dios de Israel, 
+JDT010002 Judit se levantó del suelo, llamó a su sierva y bajó a la habitación donde pasaba los sábados y días de fiesta. 
+JDT010003 Se quitó el saco que vestía y, después de bañada, cambió sus vestidos de viuda por los de fiesta, que usaba cuando vivía su esposo Manasés; se echó perfumes, se peinó y se adornó la cabeza con una cinta; 
+JDT010004 se calzó las sandalias, se puso collares, brazaletes, anillos, aros y todas sus joyas. Se arregló lo mejor que pudo con el fin de atraer las miradas de todos los que la vieran. 
+JDT010005 Llenó una bolsa con harina de cebada, tortas de higos y panes puros, lo envolvió todo y se lo entregó a su sierva, junto con un cuero lleno de vino y un cántaro de aceite. 
+JDT010006 Luego se dirigieron a la puerta de Betulia y allí se encontraron con Ozías y con Jabrí y Jarmí, dirigentes de la ciudad, 
+JDT010007 quienes al ver a Judit transformada quedaron maravillados de su belleza y le dijeron: 
+JDT010008 “¡Que el Dios de nuestros padres te conceda gracia y dé éxito a tus planes para gloria de Israel y de Jerusalén!” 
+JDT010009 Judit adoró a Dios y les dijo: “Manden abrir la puerta de la ciudad para que yo salga a realizar lo que me acaban de decir.” Ellos mandaron a los jóvenes que abrieran la puerta, como ella lo había pedido. 
+JDT010010 Cumplida la orden, Judit salió con su sierva. Los hombres de la ciudad la siguieron con la mirada mientras bajaba por la montaña hasta que llegó al valle, y allí la perdieron de vista. 
+JDT010011 Ambas caminaban rápidamente por el valle, cuando les salieron al encuentro centinelas asirios, 
+JDT010012 quienes detuvieron a Judit y le preguntaron: “¿Quién eres? ¿De dónde vienes y a dónde vas?” Ella respondió: “Soy hija de hebreos y huyo de ellos porque están a punto de ser devorados por ustedes. 
+JDT010013 Voy a presentarme a Holofernes, jefe del ejército de ustedes, para hablarle con sinceridad y mostrarle el camino para apoderarse de toda la montaña sin que ninguno de sus hombres sufra daño o pierda su vida.” 
+JDT010014 Aquellos hombres, al oírla hablar y ver su extraordinaria belleza, le dijeron: 
+JDT010015 “Has salvado tu vida con tu decisión de presentarte a nuestro señor. Anda a su tienda; algunos de los nuestros te acompañarán hasta que llegues a él. 
+JDT010016 Cuando estés en su presencia, no tengas miedo, cuéntale tus propósitos y te tratará bien.” 
+JDT010017 Y eligieron entre ellos a cien hombres que la acompañaron y guiaron hasta la carpa de Holofernes. 
+JDT010018 La noticia de su llegada se corrió de tienda en tienda. La gente de todo el campamento acudía en torno a ella, mientras esperaba fuera de la tienda de Holofernes que le anunciaran su llegada. 
+JDT010019 Quedaban prendidos de su belleza y, al verla, admiraban a los hijos de Israel y decían: “¿Quién puede despreciar a un pueblo que tiene mujeres tan bellas? Sería un error dejar con vida a un solo hombre, porque los que queden podrían engañar a todo el mundo.” 
+JDT010020 Los guardias personales de Holofernes y todos sus oficiales salieron para introducirla en la tienda. 
+JDT010021 Holofernes descansaba en su cama bajo colgaduras de oro y púrpura, adornada de esmeraldas y piedras preciosas. 
+JDT010022 Le anunciaron la llegada de Judit y salió a la entrada de su tienda precedido de lámparras de plata. 
+JDT010023 Cuando apareció Judit ante Holofernes y sus ayudantes, quedaron maravillados de la belleza de su rostro. Ella se puso de rodillas, pero los ayudantes de Holofernes la levantaron. 
+JDT011001 Holofernes le dijo: “Ten confianza, mujer, no tengas miedo, porque nunca he maltratado a los que se deciden a servir a Nabucodonosor, rey de toda la tierra. 
+JDT011002 Tampoco habría levantado mi espada contra tu pueblo de montañeses si no me hubieran despreciado; 
+JDT011003 pero ellos lo han querido así. Ahora dime por qué huyes de ellos y te refugias entre nosotros ¿Lo haces para salvarte? Ten confianza, salvarás tu vida esta noche y en adelante. 
+JDT011004 Nadie te hará daño; te tratarán bien como a los siervos de mi señor, el rey Nabucodonosor.” 
+JDT011005 Judit respondió: “Escucha mis palabras para que pueda hablar con libertad ante tu presencia. Esta noche diré sólo la verdad a mi señor. 
+JDT011006 Si sigues los consejos de tu sierva, todo se cumplirá por la mano de Dios y mi señor no fracasará en sus proyectos. 
+JDT011007 ¡Viva Nabucodonosor, rey de toda la tierra, y viva su poder que te ha enviado para poner en el recto camino a todo viviente! Gracias a tu poder, no sólo los hombres le sirven, sino que hasta las bestias salvajes, los ganados y las aves del cielo viven para Nabucodonosor y toda su casa. 
+JDT011008 Nosotros hemos oído hablar de tu sabiduría y de la prudencia de tu espíritu y toda la tierra sabe que tú eres el más hábil de todo el reino, de profundos conocimientos y muy entendido para la guerra. 
+JDT011009 También conocemos el discurso que Ajior pronunció en tu consejo y oímos sus propuestas, pues los hombres de Betulia lo acogieron y él les contó todo lo que dijo en tu presencia. 
+JDT011010 Ahora, poderoso señor, no desprecies sus palabras; tenlas bien presentes, que son verdaderas. Nuestro pueblo no será vencido, ni la espada podrá contra ellos si no han pecado contra su Dios. 
+JDT011011 Pero, para que no quedes decepcionado y fracasado, la muerte caerá sobre ellos. Han caído en un pecado que hace enojarse a Dios cada vez que lo cometen 
+JDT011012 En vista de que les faltan alimentos y escasea el agua, han decidido consumir todo lo que Dios con sus leyes les tiene prohibido comer. 
+JDT011013 Incluso las primicias del trigo y las décimas del vino y del aceite, cosas sagradas y reservadas a los sacerdotes de Jerusalén y que ningún laico puede tocar ni siquiera con las manos. 
+JDT011014 Han enviado mensajeros a Jerusalén (donde el pueblo hace lo mismo), para conseguir autorización de los Ancianos. 
+JDT011015 Y en cuanto les sea concedido y lo realicen, entonces Dios te los entregará para su destrucción. 
+JDT011016 Cuando supe todo esto, huí de ellos, y Dios me envió para realizar contigo hazañas tales que, cuando la tierra lo sepa, todos queden desconcertados. 
+JDT011017 Soy piadosa y sirvo al Dios del cielo noche y día. Ahora quiero quedarme a tu lado. Cada noche saldré al valle a rezar a Dios y él me avisará en cuanto hayan caído en el pecado. 
+JDT011018 Entonces, yo te avisaré para que salgas con tu ejército y ninguno de ellos podrá oponerse. 
+JDT011019 Te guiaré por toda Judea hasta llegar al corazón de Jerusalén. Tú los llevarás como ovejas sin pastor, y ni siquiera un perro ladrará contra ti. Todo esto me ha sido revelado para que te lo comunique.” 
+JDT011020 Estas palabras agradaron a Holofernes y a todos sus oficiales, que, admirados de su sabiduría, dijeron: 
+JDT011021 “De un extremo a otro del mundo no hay mujer tan hermosa como ésta y tan sensata en sus palabras.” 
+JDT011022 Holofernes le dijo: “Bien ha hecho Dios en mandarte delante de tu pueblo, para demostrarle que el poder está en mis manos y la ruina en manos de los que desprecian a mi señor. 
+JDT011023 Eres tan hermosa como prudente para hablar. Si haces lo que has dicho, tu Dios será mi Dios, vivirás en el palacio de Nabucodonosor y serás famosa en toda la tierra.” 
+JDT012001 La invitó a pasar donde tenía sus cubiertos de plata y mandó que le sirvieran de sus manjares y su vino. Pero Judit le dijo: 
+JDT012002 “No debo comer esto para no caer en falta; basta con lo que traje.” Holofernes replicó: 
+JDT012003 “Cuando se te acaben las cosas que tienes, ¿de dónde sacaremos otras iguales, si entre nosotros no hay nadie de los tuyos?” 
+JDT012004 Judit respondió “No te preocupes, porque antes que consuma lo que traje, el Señor cumplirá, por mi mano, sus designios.” 
+JDT012005 Los ayudantes la llevaron a su tienda, donde durmió hasta medianoche. 
+JDT012006 Luego se levantó para salir a orar, 
+JDT012007 pues había pedido a Holofernes que ordenara a sus guardias que la dejaran salir. Judit tres días en el campamento, y cada noche iba al valle de Betulia y se lavaba en la fuente donde estaban los guardias. 
+JDT012008 A su regreso, rogaba al Dios de Israel que encaminara sus pasos para alegría de todo su pueblo. 
+JDT012009 Ya purificada, volvía a su tienda para la comida. En tienda de Holofernes 
+JDT012010 Al cuarto día, Holofernes dio un banquete al que invitó solamente a sus oficiales, excluyendo a los que estaban de servicio. 
+JDT012011 Dijo a Bagoas, su mayordomo: “Convence a esa mujer hebrea que está en tu casa que venga a comer y beber en nuestra compañía. 
+JDT012012 Sería una vergüenza para nosotros dejar que se fuera una mujer así sin haber tenido relaciones con ella. Si no logramos convencerla, se reirá harto de nosotros.” 
+JDT012013 Bagoas salió, pues, de la carpa de Holofernes y entró en la de Judit. Le dijo: “No te niegues, bella joven, a venir donde mi señor para que te honre y bebas con nosotros alegremente. Hoy mismo llegarás a ser como una de las asirias que viven en el palacio de Nabucodonosor.” 
+JDT012014 Respondió Judit: “¿Quién soy yo para oponerme a mi señor? Todo lo que agrade a sus ojos lo haré con gusto, y eso será para mí motivo de alegría hasta el día de mi muerte.” 
+JDT012015 Se levantó, se adornó con sus vestidos y todos sus adornos de mujer. Su sirvienta se le adelantó y extendió en el suelo, delante de Holofernes, la piel que Bagoas había dado a Judit para su uso diario y donde pudiera reclinarse para comer. 
+JDT012016 Entró Judit y se instaló. El corazón de Holofernes quedó cautivado y su espíritu perturbado. Era presa de un deseo intenso de poseerla, porque desde el día en que la vio atisbaba el momento favorable para seducirla. 
+JDT012017 Le dijo, pues: “Bebe y participa de nuestra alegría.” 
+JDT012018 Judit respondió: “Bebo gustosa, señor, porque desde que nací jamás me sentí tan feliz como hoy.” Tomó lo que su sirvienta le había preparado 
+JDT012019 y comió y bebió ante él. Holofernes estaba bajo su encanto, 
+JDT012020 por eso bebió tal cantidad de vino como jamás en su vida había tomado. Dios cosas asombrosas 
+JDT013001 Cuando se hizo tarde, sus oficiales se apuraron en irse. Bagoas cerró la carpa por fuera, después de haber despedido del lado de su amo a los que permanecían todavía. Todos fueron a acostarse, fatigados por el exceso en la bebida. 
+JDT013002 Judit fue dejada sola en la tienda con Holofernes, hundido en su cama y ahogado en vino. 
+JDT013003 Entonces Judit dijo a su sirvienta que permaneciera fuera, cerca del dormitorio, y que esperara su salida, como ella lo hacía diariamente. Además había tenido la precaución de decir que saldría para hacer su oración, y había hablado en el mismo sentido con Bagoas. 
+JDT013004 Todos se habían ido de la carpa de Holofernes, y nadie, grande o pequeño, se había quedado en el dormitorio. Judit, de pie al lado de la cama, dijo interiormente: “Señor, Dios de toda fortaleza, favorece en esta hora lo que voy a hacer para gloria de Jerusalén. 
+JDT013005 Este es el momento para que salves a tu pueblo. Da éxito a mis planes para aplastar a los enemigos que se han levantado en contra nuestra.” 
+JDT013006 Avanzó entonces hacia la cabecera de la cama, de donde colgaba la espada de Holofernes, la desenvainó 
+JDT013007 y después, acercándose al lecho, tomó al hombre por la cabellera y dijo: “Señor, Dios de Israel, dame fuerzas en este momento.” 
+JDT013008 Lo golpeó dos veces en el cuello, con todas sus fuerzas, y le cortó la cabeza. 
+JDT013009 Después hizo rodar el cuerpo lejos del lecho y arrancó las cortinas de las columnas. En seguida salió y entregó la cabeza de Holofernes a su sirvienta, 
+JDT013010 que la puso en la bolsa en que guardaba sus alimentos, y las dos salieron del campamento como tenían costumbre para ir a rezar. Una que atravesaron el campamento, rodearon la quebrada, subieron la pendiente de Betulia y llegaron a sus puertas. 
+JDT013011 De lejos, Judit gritó a los guardias de las puertas: “Abran, abran la puerta. El Señor, nuestro Dios, está con nosotros para hacer maravillas en Israel y desplegar su fuerza contra nuestros enemigos, como lo ha hecho hoy.” 
+JDT013012 Los hombres de la ciudad, al oír su voz, se apuraron en bajar hasta la puerta de la ciudad y llamaron a los ancianos. 
+JDT013013 Del más pequeño hasta el más grande, todos acudieron, porque ya no esperaban su regreso. Abrieron las puertas, acogieron a las dos mujeres, encendieron luces para verlas y las rodearon. 
+JDT013014 Con fuerte voz, Judit les dijo: “¡Alaben Dios! ¡Alábenlo! ¡Alábenlo, porque no ha apartado su bondad del pueblo de Israel! ¡Esta noche, por mi mano, ha aplastado nuestros enemigos!” 
+JDT013015 Entonces sacó de la bolsa la cabeza de Holofernes y la mostró: “Aquí tienen la cabeza de Holofernes, general en jefe del ejército asirio, y éstas son las cortinas de su cama. El Señor lo mató por la mano de una mujer. 
+JDT013016 ¡Viva el Señor, que me protegió en mi empresa! Mi cara no encantó a ese hombre sino para perderlo, ya que no pecó conmigo; no me manchó ni me deshonró.” 
+JDT013017 Presa de un indecible entusiasmo, todo el pueblo se postró para adorar a Dios y gritó a una sola voz: “Bendito seas, Dios nuestro, tú que en este día aniquilaste a los enemigos de tu pueblo.” Que Altísimo te bendiga más que a todas las mujeres 
+JDT013018 Ozías, por su parte, dijo a Judit: “Hija mía, que Dios Altísimo te bendiga más que a todas las mujeres de la tierra. ¡Y sea el Señor Dios, Creador del cielo y de la tierra, que te condujo para que cortaras la cabeza del jefe de nuestros enemigos! 
+JDT013019 Jamás los hombres olvidarán la confianza que has demostrado, y siempre recordarán las hazañas de Dios. 
+JDT013020 Haga Dios que siempre te celebren, y que nunca te falten sus dones, porque no vacilaste en exponer tu vida por tu pueblo oprimido, y, para salvarnos del desastre, tomaste ante Dios la decisión más eficaz.” Todo pueblo respondió: “Amén. Amén.” 
+JDT014001 Judit les dijo: “Escuchen, hermanos; tomen esta cabeza y cuélguenla en las murallas. 
+JDT014002 Al amanecer, los más valientes con un jefe a la cabeza, tomen sus armas y salgan de la ciudad como si intentaran bajar a la llanura contra los asirios, 
+JDT014003 pero no bajen. Ellos tomarán sus armas e irán a despertar a los jefes de su ejército. Se presentarán a la tienda de Holofernes, y al no encontrarlo, quedarán aterrorizados y huirán ante ustedes. 
+JDT014004 Entonces ustedes y todos los habitantes de Israel los perseguirán para matarlos. 
+JDT014005 Pero antes llamen a Ajior, el amonita, para que vea y reconozca al que despreciaba a Israel, al que lo envió a nosotros para morir.” 
+JDT014006 Llegó Ajior, que estaba en casa de Ozías, y al ver la cabeza de Holofernes en manos de un hombre del pueblo, se desmayó. 
+JDT014007 Una vez recuperado, se arrodilló a los pies de Judit y le dijo: ¡Bendita en toda Judá y en todas las naciones, que, al oír tu nombre, quedarán asombradas! 
+JDT014008 Ahora cuéntame lo que has hecho estos días.” Judit, medio del pueblo, narró todo lo que había hecho, desde que salió hasta ese momento. 
+JDT014009 Al terminar, todo el pueblo dio gritos de alegría, que se escucharon toda la ciudad. 
+JDT014010 Por su parte Ajior, al ver lo que había hecho el Dios de Israel, creyó él, se circuncidó y quedó unido para siempre al pueblo de Israel. 
+JDT014011 Apenas amaneció, colgaron la cabeza de Holofernes en la muralla, tomaron sus armas y salieron a los accesos del cerro. 
+JDT014012 Los asirios que los vieron, les avisaron a sus oficiales y éstos a su vez a los generales, capitanes y a todos los jefes, 
+JDT014013 hasta llegar a la tienda de Holofernes. Allí dijeron a su encargado general: “Despierta a nuestro jefe, que los esclavos quieren bajar a luchar con nosotros.” 
+JDT014014 Bagoas descorrió la cortina, pues creía que Holofernes dormía con Judit. 
+JDT014015 Como nadie contestó, entró en el dormitorio y lo encontró en el suelo, muerto y sin cabeza. 
+JDT014016 Gritó muy fuerte y rasgó sus ropas. 
+JDT014017 Luego entró en la tienda de Judit y, al no encontrarla, corrió a las tropas y gritó: 
+JDT014018 “¡Los esclavos nos han traicionado! Una sola mujer hebrea ha llenado de vergüenza a la gente de Nabucodonosor. Holofernes está muerto en el suelo y sin cabeza.” 
+JDT014019 Los jefes del ejército asirio, desanimados por estas palabras, rasgaron sus vestiduras y dieron grandes gritos en el campo. 
+JDT015001 Cuando lo supieron los que estaban en el campamento, se conmovieron, 
+JDT015002 ya no respetaron ninguna disciplina, sino que llenos de miedo huyeron por todos los caminos de la montaña y la llanura. 
+JDT015003 Los que estaban en torno a los judíos, también huyeron; entonces los guerreros de Israel se dejaron caer sobre ellos. 
+JDT015004 Ozías mandó mensajeros a Betomestaim, a Jobá, a Coba y por todo Israel, para informarles de lo que había pasado, invitándolos a perseguir y destruir a los enemigos. 
+JDT015005 Cuando los israelitas supieron esto, se lanzaron sobre ellos, y los persiguieron hasta Coba. También acudieron los de Jerusalén y los de la montaña, pues ya sabían lo que había pasado en el campamento de sus enemigos. Los de Galaad y Galilea los persiguieron hasta más allá de Damasco. 
+JDT015006 En cuanto a los demás habitantes de Betulia, bajaron al campamento asirio, lo saquearon y recogieron grandes riquezas. 
+JDT015007 Los israelitas que volvían de la matanza se adueñaron del resto; también los hombres de las aldeas y granjas de las llanuras y montañas recogieron gran botín de todo lo que los enemigos habían abandonado. 
+JDT015008 El sumo sacerdote, Joaquín, y todo el Consejo de Ancianos de los habitantes de Jerusalén vinieron a enterarse de los beneficios con que el Señor había colmado a Israel, y para ver a Judit y saludarla. 
+JDT015009 Al entrar a su casa, todos la felicitaban con estas palabras: “¡Tú la gloria de Jerusalén, el supremo de Israel, el mayor de nuestra raza! 
+JDT015010 ¡Qué obra más grande ha sido la de tus manos, y qué beneficiosa resultó para Israel! Dios ha mirado con buenos ojos todo lo que hiciste. ¡Que Señor Todopoderoso te bendiga a través de las edades!” Y respondieron: ¡Amén! 
+JDT015011 El saqueo del campamento asirio duró un mes. A Judit le dieron la tienda de campaña de Holofernes con los objetos de plata, las camas, los cojines y todos los muebles. Ella lo tomó, trajo su mula y cargó todo en unos carros. 
+JDT015012 Todas las mujeres de Israel se reunieron para verla y aclamarla, y organizaron danzas para festejarla. Ella tomó palmas y las distribuyó entre las mujeres que la acompañaban. 
+JDT015013 Judit iba encabezando al pueblo y guiando la danza de las mujeres. Todos los hombres de Israel la seguían armados, llevando en la frente coronas y cantando himnos. 
+JDT015014 Judit entonó este canto de acción de gracias, y todo Israel le respondía: El de Judit 
+JDT016001 ¡Alaben a mi Dios con tamboriles, canten Señor con platillos ofrézcanle salmo de alabanza, ensalcen invoquen su nombre! 
+JDT016002 Dios es el Señor que acaba la guerra, que en medio de su pueblo, para de mis perseguidores. 
+JDT016003 Los asirios venían de las montañas del norte, su ejército cerraba los valles y caballos cubrían los montes. 
+JDT016004 Querían incendiar mis tierras, acabar mis jóvenes y lactantes, y a las vírgenes. 
+JDT016005 El Señor todopoderoso los rechazó por de una mujer. 
+JDT016006 Su jefe no fue derribado por guerreros, ni por hijos de titanes, ni por gigantes. ¡Fue hija de Merarí, que la hermosura de su rostro lo desarmó! 
+JDT016007 Se sacó sus vestidos de viuda para a los afligidos de Israel; adornó rostro, 
+JDT016008 puso una cinta en sus cabellos y vistió de lino para seducirlo, 
+JDT016009 sus sandalias atrajeron su mirada y belleza encadenó alma. ¡El atravesó su cuello! 
+JDT016010 Los persas se estremecieron de su audacia, los se sorprendieron de su temeridad. 
+JDT016011 Entonces mis humildes clamaron y temieron; mis gritaron y abandonaron el campo. 
+JDT016012 Hijos de madres jóvenes los atacaron; como hijos de desertores los hirieron. Murieron la batalla contra mi Señor. 
+JDT016013 Cantaré a mi Dios un canto nuevo: “Tú grande, Señor, glorioso, admirable insuperable en poder. 
+JDT016014 Que te sirvan todas las criaturas, pues hablaste y fueron hechas, enviaste espíritu y las hizo, nadie resistir tu voz. 
+JDT016015 Los montes y las aguas se conmoverán, las se derretirán como cera; pero siempre te mostrarás bueno con que te temen. 
+JDT016016 Todo sacrificio es de poco valor para ti. ¡Ni nombre la grasa de los holocaustos! Pero que teme al Señor será grande para siempre. 
+JDT016017 ¡Ay de las naciones que atacan mi raza! El las castigará el día del juicio; pondrá y gusanos en su carne, y de dolor eternamente. 
+JDT016018 Cuando llegaron a Jerusalén, adoraron a Dios y, después de que se purificó el pueblo, le ofrecieron sacrificios, ofrendas y regalos. 
+JDT016019 Judit ofreció para el Templo todo el mobiliario de Holofernes, que el pueblo le había entregado, así como las cortinas de su dormitorio que ella misma se había llevado. 
+JDT016020 Durante tres meses el pueblo permaneció en Jerusalén celebrando fiestas delante del Santuario. Judit estaba con ellos. 
+JDT016021 Pasados aquellos días, cada uno volvió a su casa. Judit regresó a Betulia y se dedicó a su hacienda. Fue famosa en todo el país hasta el día de su muerte. 
+JDT016022 Muchos le ofrecieron matrimonio, pero no aceptó a nadie desde que murió su esposo Manasés, y fue a reunirse con su pueblo. 
+JDT016023 Su vejez la pasó en casa de su marido. A su sierva le dio la libertad. Murió en Betulia a la edad de ciento cinco años y fue sepultada en el sepulcro de Manasés. 
+JDT016024 En esta ocasión el pueblo estuvo de duelo siete días. Antes de morir distribuyó su hacienda entre los parientes de su esposo y los suyos. 
+JDT016025 Mientras vivió Judit, nadie amenazó a Israel, y ni siquiera mucho tiempo después de su muerte. 
