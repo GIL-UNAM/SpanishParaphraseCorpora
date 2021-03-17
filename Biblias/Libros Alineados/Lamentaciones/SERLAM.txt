@@ -1,0 +1,154 @@
+LAM001001 Álef. ¡Ay, cómo se sienta solitaria la ciudad populosa! Es como una viuda la grande entre las naciones. La princesa entre las provincias está sujeta a tributo. 
+LAM001002 Bet. Pasa las noches llorando, las lágrimas surcan sus mejillas. No hay quien la consuele entre todos los que la amaban. Todos sus amigos la han traicionado, se le han vuelto enemigos. 
+LAM001003 Guímel. Desterrada está Judá, en aflicción y dura servidumbre; dispersa entre las naciones, no encuentra reposo. Le dieron alcance sus perseguidores, la cercaron de angustias. 
+LAM001004 Dálet. Los caminos de Sión están de luto, porque nadie acude a las fiestas; desiertas están todas sus puertas, sus sacerdotes gimen, se afligen sus doncellas, y ella misma está colmada de amargura. 
+LAM001005 He. Sus opresores prevalecen, sus enemigos son felices; porque Yahveh la ha afligido por sus muchos pecados. Sus niños marcharon cautivos delante del opresor. 
+LAM001006 Váu. Desapareció de la hija de Sión toda su gloria. Sus príncipes eran como ciervos que no encuentran pasto; caminaban sin fuerzas delante del perseguidor. 
+LAM001007 Zain. Jerusalén se acuerda, en sus días de aflicción y de extravío, de todos sus tesoros, que databan de tiempo inmemorial. Cuando cayó su pueblo en manos del opresor, sin que nadie la ayudara, sus opresores la vieron e hicieron burla de su ruina. 
+LAM001008 Jet. Jerusalén pecó mucho, por eso quedó impura. Cuantos la honraban, la desprecian porque vieron su desnudez. También ella gime y se vuelve de espaldas. 
+LAM001009 Tet. . Su impureza impregna sus vestidos. No se acordó de su fin; ha caído de forma inesperada, sin tener quien la consuele. Mira, Yahveh, mi aflicción, y cómo se crece mi enemigo. 
+LAM001010 Yod. Su mano tendió el opresor a todos sus tesoros; ella vio a las naciones entrar en su santuario, aquellas a las que prohibiste entrar en tu asamblea. 
+LAM001011 Kaf. Todo su pueblo gime buscando pan; dan sus joyas a cambio de alimento para conservar la vida. Mira, Yahveh, y observa cuán abatida estoy. 
+LAM001012 Lámed. ¡Vosotros, todos los que pasáis por el camino, mirad y ved si hay dolor como el dolor que me atormenta, con el que Yahveh me afligió el día de su ardiente ira! 
+LAM001013 Mem. De lo alto mandó fuego que ha penetrado en mis huesos. Tendió una red a mis pies, me obligó a retroceder. Desolada me dejó, enferma todo el día. 
+LAM001014 Nun. Su mano ha entretejido el pesado yugo de mis pecados: lo hace pesar sobre mi cuello, quebranta mis fuerzas. El Señor me entregó en manos de aquellos quienes yo no podía resistir. 
+LAM001015 Sámek. El Señor rechazó lejos de mí a todos mis guerreros. Convocó contra mí una asamblea para aplastar a mis jóvenes. El Señor pisó en el lagar a la virgen, hija de Judá. 
+LAM001016 Ain. Por eso estoy llorando y mis ojos se deshacen en lágrimas, porque se alejó de mí el consolador, el que puede devolverme la vida. Mis hijos están desolados, porque prevalece el enemigo. 
+LAM001017 Pe. Sión tiende sus manos: no tiene quien la consuele. Yahveh mandó contra Jacob a los opresores del contorno. Jerusalén se ha convertido en inmundicia para ellos. 
+LAM001018 Sade. Justo es Yahveh, pues he sido rebelde a su palabra. Oíd, pueblos todos, ved mi dolor: mis doncellas y mis jóvenes han ido al cautiverio. 
+LAM001019 Qof. Llamé a mis amantes, pero ellos me han abandonado. Mis sacerdotes y mis ancianos perecieron en la ciudad mientras buscaban el sustento que les conservara la vida. 
+LAM001020 Res. ¡Mira, Yahveh, cuán angustiada estoy! Me hierven las entrañas, mi corazón se retuerce en mi interior, porque he sido muy rebelde. Por fuera hace estragos la espada, por dentro es como la muerte. 
+LAM001021 Sin. Oye cómo gimo: no tengo quien me consuele. Todos mis enemigos supieron mi desgracia, se alegraron por lo que tú hiciste. ¡Haz venir el día que anunciaste, y entonces serán como yo! 
+LAM001022 Tau. Tau. ¡Llegue toda su maldad ante ti, y pórtate con ellos como te portaste conmigo, a causa de todas mis maldades! Porque son muchos mis gemidos y mi corazón desfallece.  
+LAM002001 Álef. ¡Ay, cómo oscureció en su ira el Señor a la hija de Sión! Precipitó del cielo a la tierra el esplendor de Israel; no se acordó del escabel de sus pies el día de su ira. 
+LAM002002 Bet. Destruyó el Señor sin piedad todas las moradas de Jacob; derribó, en su furor, las fortalezas de la hija de Judá; echó por tierra, profanó al reino con sus jefes. 
+LAM002003 Guímel. Cercenó, en su cólera ardiente, toda la potencia de Israel; retiró de él su diestra ante el enemigo; encendió en Jacob un fuego cuyas llamas devoran cuanto hay alrededor. 
+LAM002004 Dálet. Tensó, como enemigo, su arco, aseguró, como opresor, su diestra y mató a la flor de la juventud; sobre la tienda de la hija de Sión lanzó como fuego su furor. 
+LAM002005 He. El Señor fue como enemigo: aniquiló a Israel; destruyó todos sus palacios, derribó sus fortalezas; multiplicó en la hija de Judá llantos y gemidos. 
+LAM002006 Váu. Forzó, como la de un jardín, su cerca, derribó su lugar de reunión. Yahveh hizo olvidar en Sión fiestas y sábados; rechazó en el furor de su ira al rey y al sacerdote. 
+LAM002007 Zain. Desdeñó su altar el Señor, profanó su santuario; entregó los muros de sus palacios en poder del enemigo; éste gritó en la casa de Yahveh como en día de fiesta. 
+LAM002008 Jet. Yahveh decidió derribar la muralla de la hija de Sión; tendió la cuerda y no retiró su mano hasta destruirlo todo; antemuro y muralla hizo gemir, y a una se derrumbaron. 
+LAM002009 Tet. Se hundieron en tierra sus puertas; Él rompió y quebró sus cerrojos. Su rey y sus príncipes están entre gentiles; ya no hay ley. Tampoco sus profetas reciben visión de Yahveh. 
+LAM002010 Yod. En tierra están, sentados y mudos, los ancianos de la hija de Sión; echaron ceniza sobre sus cabezas, se ciñeron de saco; bajaron la cabeza hasta el suelo las doncellas de Jerusalén. 
+LAM002011 Kaf. Mis ojos se consumen por las lágrimas, hierven mis entrañas. Se derramó por tierra mi hiel a causa del desastre de la hija de mi pueblo, al ver que niños y lactantes desfallecían en las plazas de la ciudad. 
+LAM002012 Lámed. Decían a sus madres: '¿Dónde hay pan y vino?', mientras caían extenuados, heridos de muerte, en las plazas de la ciudad, exhalando su espíritu en el regazo de sus madres. 
+LAM002013 Mem. ¿A quién puedo ponerte como ejemplo? ¿A qué te compararé, hija de Jerusalén? ¿A qué te igualaré, para consolarte, virgen, hija de Sión? ¡Grande como el mar es tu quebranto! ¿Quién podrá curarte? 
+LAM002014 Nun. Tus profetas tuvieron para ti visiones engañosas y necias. No te descubrieron tu pecado, de modo que cambiara tu suerte; te hicieron vaticinios falaces e ilusorios. 
+LAM002015 Sámek. Contra ti batieron palmas cuantos pasaban por el camino; silbaron y movieron la cabeza contra la hija de Jerusalén: '¿Es ésta la ciudad que llamaban primor de hermosura, delicia de toda la tierra?'. 
+LAM002016 Pe. Abrieron su boca contra ti todos tus enemigos; silbaron e hicieron rechinar los dientes, diciendo: 'La hemos destruido. ¡Éste es el día que esperábamos, lo hemos logrado, lo hemos visto!'. 
+LAM002017 Ain. Hizo Yahveh lo que había resuelto, cumplió su palabra, la que había decretado desde tiempos antiguos: destruyó sin piedad, hizo que de ti se riera el enemigo, elevó el poder de tus opresores. 
+LAM002018 Sade. Clama al Señor, gime, hija de Sión; derrama lágrimas a torrentes de día y de noche, no te concedas reposo, no descansen las pupilas de tus ojos. 
+LAM002019 Qof. Levántate, grita de noche, al comenzar las vigilias; derrama tu corazón como agua en la presencia del Señor; alza hacia él tus manos por la vida de tus pequeñuelos, que desfallecen de hambre en las esquinas de las calles. 
+LAM002020 Res. Mira, Yahveh, y considera: ¿a quién has tratado así? ¿Tendrán que comer las mujeres el fruto de su vientre, los niños que llevan todavía en sus brazos? ¿Matarán en el santuario del Señor a los sacerdotes y a los profetas? 
+LAM002021 Sin. Yacen por tierra en las calles niños y viejos; mis doncellas y mis jóvenes cayeron a espada. Has matado en el día de tu ira, has degollado sin piedad. 
+LAM002022 Tau. Convocaste, como a un día de fiesta, mis terrores en todo alrededor; no hubo, en el día de la ira de Yahveh, quien escapase ni quedase con vida. A los que llevé en mis brazos y crié los exterminó mi enemigo.  
+LAM003001 Álef. Yo soy el hombre que conoció la aflicción bajo el látigo de su furor. 
+LAM003002 Él me guió y me condujo en la oscuridad, no en la luz. 
+LAM003003 Sólo contra mí vuelve y revuelve su mano todo el día. 
+LAM003004 Bet. Consumió mi carne y mi piel, quebrantó mis huesos. 
+LAM003005 Edificó contra mí y me cercó de veneno y de fatiga. 
+LAM003006 En tinieblas me hizo habitar como a los que murieron hace tiempo. 
+LAM003007 Guímel. Me amuralló, y no puedo salir; hizo más pesadas mis cadenas. 
+LAM003008 Aun cuando grito y pido auxilio, cierra el paso a mi oración. 
+LAM003009 Cortó mis caminos con piedras sillares, hizo tortuosos mis senderos. 
+LAM003010 Dálet. Me acechó como un oso, como un león en su guarida. 
+LAM003011 Me cerró el camino y me desgarró, me dejó hecho un horror. 
+LAM003012 Tensó su arco y me puso como blanco de sus saetas. 
+LAM003013 He. Clavó en mis entrañas las flechas de su aljaba. 
+LAM003014 He sido la risa de todo mi pueblo, su cantilena de todos los días. 
+LAM003015 Me hartó de amarguras, me embriagó de ajenjo. 
+LAM003016 Váu. Ralló con guijarros mis dientes, me cubrió de polvo. 
+LAM003017 Privaste mi espíritu de paz; me olvidé de la dicha 
+LAM003018 y me dije: '¡Pereció mi apoyo y mi esperanza en Yahveh!'. 
+LAM003019 Zain. Recordar mi dolor y mi extravío es ajenjo y veneno. 
+LAM003020 Recuerda sin cesar y se abate dentro de mí mi alma. 
+LAM003021 Pero hay algo que recuerdo y me da esperanza: 
+LAM003022 Jet. que no se han terminado las bondades de Yahveh ni se han agotado sus misericordias; 
+LAM003023 nuevas son cada mañana. ¡Grande es tu fidelidad! 
+LAM003024 Mi posesión es Yahveh, dice mi alma, por eso espero en Él. 
+LAM003025 Tet. Bueno es Yahveh para los que en Él esperan, para el alma que le busca. 
+LAM003026 Bueno es aguardar en silencio el auxilio de Yahveh. 
+LAM003027 Bueno es para el hombre llevar el yugo desde su juventud; 
+LAM003028 Yod. se sentará solitario y callará cuando Dios se lo impone. 
+LAM003029 Pondrá en el polvo su boca; ¡quizás aún haya esperanza! 
+LAM003030 Ofrecerá la mejilla al que le hiere, se hartará de oprobios. 
+LAM003031 Kaf. Porque no rechaza por siempre el Señor. 
+LAM003032 Si aflige, también se apiada, por su inmensa bondad. 
+LAM003033 No castiga por capricho ni aflige a los hijos del hombre. 
+LAM003034 Lámed. Aplastar con los pies a todos los cautivos de un país; 
+LAM003035 violar el derecho de un hombre ante la faz del Altísimo; 
+LAM003036 trampear a un hombre en su pleito, ¿no lo ve el Señor? 
+LAM003037 Mem. ¿Quién dijo algo y sucedió sin que el Señor lo disponga? 
+LAM003038 ¿No salen de la boca del Altísimo los males y los bienes? 
+LAM003039 ¿Por qué ha de quejarse un hombre mientras vive por el castigo de sus pecados? 
+LAM003040 Nun. Examinemos nuestra conducta, revisémosla y convirtámonos a Yahveh. 
+LAM003041 Levantemos nuestro corazón y nuestras manos, a Dios, que está en los cielos. 
+LAM003042 Hemos pecado, hemos sido rebeldes; y tú no has perdonado. 
+LAM003043 Sámek. Te cubriste de ira y nos perseguiste, mataste sin piedad. 
+LAM003044 Te envolviste en tu nube, para que no pasara la oración. 
+LAM003045 Basura y desecho nos hiciste en medio de los pueblos. 
+LAM003046 Pe. Abrieron contra nosotros su boca todos nuestros enemigos. 
+LAM003047 Terror y tumba fue nuestra suerte, devastación y desastre. 
+LAM003048 Torrentes de agua derraman mis ojos por el desastre de la hija de mi pueblo. 
+LAM003049 Ain. Mis ojos manan sin parar, no tienen reposo, 
+LAM003050 hasta que mire y vea Yahveh desde los cielos. 
+LAM003051 Los ojos me duelen de llorar por todas las hijas de mi ciudad. 
+LAM003052 Sade. Como a un pájaro me cazaron mis enemigos sin motivo. 
+LAM003053 Sofocaron mi vida en la fosa, echaron piedras sobre mí. 
+LAM003054 Cubrieron las aguas mi cabeza. Me dije: '¡Estoy perdido!'. 
+LAM003055 Qof. Invoqué tu nombre, Yahveh, desde lo más hondo de la fosa. 
+LAM003056 Has oído mi voz: ¡no cierres tus oídos a mis gemidos y clamores! 
+LAM003057 Te acercaste el día que te invoqué; me dijiste: '¡No temas!'. 
+LAM003058 Res. Defendiste, Señor, mi causa, rescataste mi vida. 
+LAM003059 Tú ves, Yahveh, mi opresión. ¡Defiende mi causa! 
+LAM003060 Tú ves sus deseos de venganza, todas sus maquinaciones contra mí. 
+LAM003061 Sin. Tú oyes, Yahveh, sus insultos, todas sus maquinaciones contra mí. 
+LAM003062 Cuando hablan y traman mis adversarios van todo el día contra mí. 
+LAM003063 Tanto si se sientan como si se levantan mira que soy el objeto de sus burlas. 
+LAM003064 Tau. Dales, Yahveh, la recompensa que merecen sus obras. 
+LAM003065 Dales la ceguera de corazón. ¡Caiga tu maldición sobre ellos! 
+LAM003066 ¡Persíguelos en tu ira y extermínalos de debajo de los cielos, Yahveh! 
+LAM004001 Álef. ¡Ay, cómo se ha ennegrecido el oro, cómo se ha alterado el oro más fino! Están esparcidas las piedras sagradas por todas las esquinas de las calles. 
+LAM004002 Bet. Los hijos de Sión, los más preciados, estimados como su peso en oro, ¡ay! son tenidos por vasijas de arcilla, obra de manos de alfarero. 
+LAM004003 Guímel. Hasta los chacales ofrecen las ubres para dar de mamar a sus crías; la hija de mi pueblo se ha vuelto cruel como las avestruces del desierto. 
+LAM004004 Dálet. La lengua del niño de pecho se ha pegado a su paladar por la sed. Los pequeñuelos pedían pan; no había quien se lo repartiese. 
+LAM004005 He. Los que comían manjares exquisitos desfallecen por las calles; los que se criaron entre púrpura se acuestan en los basureros. 
+LAM004006 Váu. Superaba la culpa de la hija de Sión al pecado de Sodoma, que fue destruida en un instante sin que nadie pusiera las manos en ella. 
+LAM004007 Zain. Más cándidos eran que la nieve sus príncipes, más blancos que la leche, más rubicundo su cuerpo que el coral: su estampa era un zafiro. 
+LAM004008 Jet. Más negro es hoy su rostro que el hollín; nadie los reconoce por las calles. Su piel se ha pegado a sus huesos, seca está como madera. 
+LAM004009 Tet. Más dichosos fueron los muertos a espada que los muertos de hambre, que se consumen extenuados, por falta de alimento. 
+LAM004010 Yod. Manos de mujeres delicadas pusieron a cocer sus propios hijos, y éstos fueron su alimento en el desastre de la hija de mi pueblo. 
+LAM004011 Kaf. Yahveh desahogó su furor, derramó su ardiente cólera; encendió un fuego en Sión que devoró sus cimientos. 
+LAM004012 Lámed. No hubieran creído los reyes de la tierra ni los habitantes todos del orbe que pudiera el adversario y el enemigo cruzar las puertas de Jerusalén. 
+LAM004013 Mem. Fue así por los pecados de sus profetas, por las iniquidades de sus sacerdotes, que derramaron en medio de ella la sangre de inocentes. 
+LAM004014 Nun. Vagaban como ciegos por las calles, manchados estaban de sangre, de suerte que nadie podía tocar sus vestidos. 
+LAM004015 Sámek. '¡Apartaos! ¡Un impuro!', les gritaban. '¡Apartaos! ¡Apartaos! ¡No toquéis!'. Vagaban dispersos y la gente decía: 'Que no sigan viviendo aquí'. 
+LAM004016 Pe. El rostro de Yahveh los dispersó, no volverá a mirarlos. No hubo respeto a los sacerdotes, no se tuvo piedad de los ancianos. 
+LAM004017 Ain. Todavía se consumen nuestros ojos esperando en vano el socorro. Desde nuestra atalaya oteábamos a una nación incapaz de salvarnos. 
+LAM004018 Sade. Espiaban nuestros pasos, nos prohibían andar por nuestras plazas. Se acercaba nuestro fin, se cumplían nuestros días. Sí; nuestro fin ha llegado. 
+LAM004019 Qof. Más veloces eran nuestros perseguidores que las águilas del cielo; nos acosaban en los montes, en el desierto nos tendían emboscadas. 
+LAM004020 Res. Nuestro aliento vital, el ungido de Yahveh, fue atrapado en sus fosos: aquel de quien decíamos: 'A su sombra viviremos entre las naciones'. 
+LAM004021 Sin. ¡Alégrate, exulta, hija de Edom, que moras en el país de Us! También a ti te llegará la copa, te embriagarás y te quedarás desnuda. 
+LAM004022 Tau. Tu castigo está cumplido, hija de Sión; Yahveh no volverá a desterrarte. Castigará tu iniquidad, hija de Edom, pondrá tus pecados al desnudo. 
+LAM005001 Recuerda, Yahveh, lo que nos ha sucedido, mira y ve nuestro oprobio. 
+LAM005002 Nuestra heredad ha pasado a extranjeros, nuestras casas a extraños. 
+LAM005003 Huérfanos estamos, sin padre; como viudas son nuestras madres. 
+LAM005004 Nuestra agua bebemos a cambio de dinero, nuestra leña adquirimos pagando su precio. 
+LAM005005 Con un yugo a nuestro cuello, somos perseguidos, estamos agotados, no nos dan descanso. 
+LAM005006 Hacia Egipto tendimos la mano, hacia Asiria, para hartarnos de pan. 
+LAM005007 Pecaron nuestros padres, ya no existen; pero nosotros cargamos con sus culpas. 
+LAM005008 Esclavos nos dominan, no hay quien nos libre de su mano. 
+LAM005009 Con riesgo de la vida traemos nuestro pan, afrontando la espada de la estepa. 
+LAM005010 Nuestra piel abrasa como un horno por los ardores del hambre. 
+LAM005011 Violaron a las mujeres en Sión, a las vírgenes en las ciudades de Judá. 
+LAM005012 Con sus manos colgaron a los príncipes, no respetaron la faz de los ancianos. 
+LAM005013 Pusieron a la muela a los jóvenes, los niños cayeron bajo el peso de la leña. 
+LAM005014 Los ancianos no acuden a la puerta, los jóvenes han dejado sus cantares. 
+LAM005015 Cesó la alegría en nuestro corazón, en duelo se trocó nuestra danza. 
+LAM005016 Cayó la corona de nuestra cabeza. ¡Ay de nosotros, porque hemos pecado! 
+LAM005017 Por esto está enfermo nuestro corazón, por esto están nublados nuestros ojos: 
+LAM005018 por el monte de Sión, que está devastado. ¡Las raposas se pasean por él! 
+LAM005019 Pero tú, Yahveh, eternamente reinas, tu trono permanece de edad en edad. 
+LAM005020 ¿Por qué habrías de olvidarnos para siempre, por qué abandonarnos por toda la vida? 
+LAM005021 Conviértenos a ti, Yahveh, y nos convertiremos; renueva nuestros días como antaño, 
+LAM005022 si no nos has rechazado del todo, si estás irritado hasta el extremo con nosotros.  
