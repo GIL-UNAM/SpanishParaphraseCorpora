@@ -1,0 +1,117 @@
+CNT001001 El mejor cantar, por Salomón. Besos 
+CNT001002 ¡Que me bese con besos de su boca! Son mejores que el vino tus amores, 
+CNT001003 es mejor el olor de tus perfumes. Tu nombre es como un bálsamo fragante, y de ti se enamoran las doncellas. 
+CNT001004 ¡Ah, llévame contigo, sí, corriendo, a tu alcoba condúceme, rey mío: a celebrar contigo nuestra fiesta y alabar tus amores más que el vino! ¡Con razón de ti se enamoran! Diálogo 
+CNT001005 Tengo la tez morena, pero hermosa, muchachas de Jerusalén, como las tiendas de Cadar, los pabellones de Salomón. 
+CNT001006 No se fijen en mi tez oscura, es que el sol me ha bronceado: enfadados conmigo, mis hermanos de madre me pusieron a guardar sus viñas; y mi viña, la mía, no la supe guardar. 
+CNT001007 Avísame, amor de mi alma, dónde pastoreas, dónde recuestas tu ganado en la siesta, para que no vaya perdida por los rebaños de tus compañeros. 
+CNT001008 Si no lo sabes, tú, la más bella de las mujeres, sigue las huellas de las ovejas, y lleva a pastar tus cabritos en los apriscos de los pastores. 
+CNT001009 Amada, te pareces a la yegua de la carroza del Faraón. 
+CNT001010 ¡Qué bellas tus mejillas con los pendientes, tu cuello con los collares! 
+CNT001011 Te haremos pendientes de oro, incrustados de plata. 
+CNT001012 Mientras el rey estaba en su diván, mi nardo despedía su perfume. 
+CNT001013 Mi amado es para mí una bolsa de mirra que descansa en mis pechos; 
+CNT001014 mi amado es para mí como un ramo florido de ciprés de los jardines de Engadí. 
+CNT001015 ¡Qué hermosa eres, mi amada, qué hermosa eres! Tus ojos son palomas. 
+CNT001016 ¡Qué hermoso eres, mi amado, qué dulzura y qué hechizo! Nuestra cama es de frondas 
+CNT001017 y las vigas de casa son de cedro, y el techo de cipreses. 
+CNT002001 Soy un narciso de Sarón, una azucena de las vegas. 
+CNT002002 Azucena entre espinas es mi amada entre las muchachas. 
+CNT002003 Manzano entre los árboles silvestres, es mi amado entre los jóvenes: a su sombra quisiera sentarme y comer de sus frutos sabrosos. 
+CNT002004 Me metió en su bodega y contra mí enarbola su bandera de amor. 
+CNT002005 Denme fuerzas con pasas y vigor con manzanas: ¡desfallezco de amor! 
+CNT002006 Ponme la mano izquierda bajo la cabeza 
+CNT002007 ¡Muchachas de Jerusalén, por las ciervas y las gacelas de los campos, les conjuro, que no vayan a molestar, que no despierten al amor, hasta que él quiera! 
+CNT002008 ¡Oigan, que llega mi amado saltando sobre los montes, brincando por los collados! 
+CNT002009 Es mi amado como un gamo, es mi amado un cervatillo. Miren: se ha parado detrás de la tapia, atisba por las ventanas, mira por las celosías. 
+CNT002010 Habla mi amado y me dice: 'Levántate, amada mía, hermosa mía, ven a mí! 
+CNT002011 Porque ha pasado el invierno, las lluvias han cesado y se han ido, 
+CNT002012 brotan flores en la vega, llega el tiempo de la poda, el arrullo de la tórtola se deja oír en los campos; 
+CNT002013 apuntan los frutos en la higuera, la viña en flor difunde perfume. ¡Levántate, amada mía, hermosa mía, ven a mí! 
+CNT002014 Paloma mía que anidas en los huecos de la peña, en las grietas del barranco. déjame ver tu figura, déjame escuchar tu voz, porque es muy dulce tu voz y es hermosa tu figura'. 
+CNT002015 Agárrennos las raposas, las raposas pequeñitas, que destrozan nuestras viñas, nuestras viñas florecidas. 
+CNT002016 ¡Mi amado es mío y yo soy suya, del pastor de azucenas! 
+CNT002017 Mientras sopla la brisa y las sombras se alargan, retorna, amado mío, imita al cervatillo por montes y quebradas. 
+CNT003001 En mi cama, por la noche, buscaba al amor de mi alma: lo busqué y no lo encontré. 
+CNT003002 Me levanté y recorrí la ciudad por las calles y las plazas, buscando al amor de mi alma; lo busqué y no lo encontré. 
+CNT003003 Me han encontrado los guardias que rondan por la ciudad: ¿Vieron al amor de mi alma? 
+CNT003004 Pero apenas los pasé, encontré al amor de mi alma: lo agarré y ya no lo soltaré, hasta meterlo en la casa de mi madre, en la alcoba de la que me llevó en sus entrañas. 
+CNT003005 ¡Muchachas de Jerusalén, por las ciervas y gacelas de los campos, les conjuro que no vayan a molestar, que no despierten al amor hasta que él quiera! 
+CNT003006 ¿Qué es eso que sube por el desierto como columna de humo, como nube de incienso y de mirra y perfumes de mercaderes? 
+CNT003007 ¡Es la litera de Salomón! La rodean sesenta soldados, los valientes de todo Israel, 
+CNT003008 todos llevan al flanco la espada, veteranos de muchos combates, todos llevan al flanco la espada por temor a sorpresas nocturnas. 
+CNT003009 El rey Salomón se hizo construir un palanquín con maderas del Líbano, 
+CNT003010 con columnas de plata, con respaldo de oro, con asiento de púrpura, taraceado por dentro de marfil. 
+CNT003011 ¡Muchachas de Sión, salgan para ver al rey Salomón, con la rica corona que le ciñó su madre el día de su boda, día de fiesta de su corazón! 
+CNT004001 ¡Qué hermosa eres, mi amada, qué hermosa eres! Tus ojos de paloma, por entre el velo; tu pelo es un rebaño de cabras descolgándose por las laderas de Galaad. 
+CNT004002 Son tus dientes un rebaño esquilado recién salido de bañar, cada oveja tiene mellizos, ninguna hay sin corderos'. 
+CNT004003 Tus labios son cinta escarlata, y tu hablar, melodioso; tus sienes, entre el velo, son dos mitades de granada. 
+CNT004004 Es tu cuello la torre de David, construida con sillares, de la que penden miles de escudos, miles de adargas de capitanes. 
+CNT004005 Son tus pechos dos crías mellizas de gacela paciendo entre azucenas. 
+CNT004006 Mientras sopla la brisa y se alargan las sombras me voy al monte de la mirra, iré por la colina del incienso. 
+CNT004007 ¡Toda eres hermosa, amada mía, y no hay en ti defecto! 
+CNT004008 Ven desde el Líbano, novia mía, ven; baja del Líbano, desciende de la cumbre del Amana, de la cumbre del Senir y del Hermón, de las cuevas de leones, de los montes de panteras. 
+CNT004009 Me has enamorado, hermana y novia mía, me has enamorado con una sola de tus miradas, con una vuelta de tu collar. 
+CNT004010 j Qué bellos tus amores, hermana y novia mía; tus amores son mejores que el vino! Y tu aroma es mejor que los perfumes. 
+CNT004011 Un panal que destila son tus labios, y tienes, novia mía, miel y leche debajo de tu lengua; y la fragancia de tus vestidos es fragancia del Líbano. 
+CNT004012 Eres jardín cerrado, hermana y novia mía; eres jardín cerrado, fuente sellada. 
+CNT004013 Tus brotes son jardines de granados con frutos exquisitos, 
+CNT004014 nardo y enebro y azafrán, canela y cinamomo, con árboles de incienso, mirra y áloe, con los mejores bálsamos y aromas. 
+CNT004015 La fuente del jardín es pozo de agua viva que baja desde el Líbano. 
+CNT004016 Despierta, cierzo; llégate, austro; orea mi jardín, que exhale sus perfumes. Entra, amor mío, en tu jardín a comer de sus frutos exquisitos. 
+CNT005001 Ya vengo a mi jardín, hermana y novia mía, a recoger el bálsamo y la mirra, a comer de mi miel y mi panal, a beber de mi leche y de mi vino. Compañeros, coman y beban, embriáguense, mis amigos. 
+CNT005002 Estaba yo durmiendo, mi corazón en vela, cuando oigo a mi amado que me llama: 'Ábreme, amada mía, mi paloma sin mancha, que tengo la cabeza cuajada de rocío, mis rizos, del relente de la noche'. 
+CNT005003 Ya me quité la túnica, ¿cómo voy a ponérmela de nuevo? Ya me lavé los pies, ¿cómo voy a mancharlos otra vez? 
+CNT005004 Mi amor mete la mano por la abertura: me estremezco al sentirlo, 
+CNT005005 al escucharlo se me escapa el alma. Ya me he levantado a abrir a mi amado: mis manos gotean perfume de mirra, mis dedos mirra que fluye por la manilla de la cerradura. 
+CNT005006 Yo misma abro a mi amado; abro, y mi amado se ha marchado ya. Lo busco, y no lo encuentro; lo llamo, y no responde. 
+CNT005007 Me encontraron los guardias que rondan la ciudad. Me golpearon e hirieron, me quitaron el manto los centinelas de las murallas. 
+CNT005008 Muchachas de Jerusalén, les conjuro que si encuentran a mi amado le digan..., ¿qué le dirán?..., que estoy enferma de amor. 
+CNT005009 ¿Qué distingue a tu amado de los otros, tú, la más bella? ¿Qué distingue a tu amado de los otros, que así nos conjuras? 
+CNT005010 Mi amado es blanco y sonrosado, descuella entre diez mil. 
+CNT005011 Su cabeza es de oro, del más puro; sus rizos son racimos de palmera, negros como los cuervos. 
+CNT005012 Sus ojos, dos palomas a la vera del agua que se bañan en leche y se posan al borde de la alberca. 
+CNT005013 Sus mejillas, macizos de bálsamo que exhalan aromas; sus labios son lirios con mirra que fluye. 
+CNT005014 Sus brazos, torneados en oro, engastados con piedras de Tarsis; su cuerpo es de marfil labrado, todo incrustado de zafiros; 
+CNT005015 sus piernas, columnas de mármol apoyadas en plintos de oro. Gallardo como el Líbano, juvenil como un cedro; 
+CNT005016 es muy dulce su boca, todo él pura delicia. Así es mi amado, mi amigo, muchachas de Jerusalén. 
+CNT006001 ¿Adonde fue tu amado, la más bella de todas las mujeres? ¿Adonde fue tu amado? Queremos buscarlo contigo. 
+CNT006002 Ha bajado mi amado a su jardín, a los macizos de las balsameras, el pastor de jardines a cortar azucenas. 
+CNT006003 Yo soy de mi amado y mi amado es mío, el pastor de azucenas. 
+CNT006004 Eres bella, amiga mía, como Tirsá, igual que Jerusalén tu hermosura; terrible como escuadrón a banderas desplegadas. 
+CNT006005 ¡Aparta de mí tus ojos, que me turban! Tus cabellos son un hato de cabras que se descuelgan por las cuestas de Galaad; 
+CNT006006 y la hilera de tus dientes como un rebaño esquilado, recién salido del baño: cada oveja con mellizos y ninguna sin corderos 
+CNT006007 Tus sienes, por entre el velo, dos mitades de granada. 
+CNT006008 Si sesenta son las reinas, ochenta las concubinas, sin número las doncellas, 
+CNT006009 una sola es mi paloma, sin defecto; una sola, predilecta de su madre. Al verla, la felicitan las muchachas, y la alaban las reinas y concubinas. 
+CNT006010 ¿Quién es esa que se asoma como el alba, hermosa como la luna y límpida como el sol, terrible como escuadrón a banderas desplegadas? 
+CNT006011 Bajé a mi nogueral a examinar los brotes de la vega, a ver si las vides florecían, a ver si ya se abrían los botones de los granados; 
+CNT006012 y, sin saberlo, me encontré en la carroza con mi príncipe. 
+CNT006013 Vuélvete, vuélvete, Sulamita; vuélvete, vuélvete, para que te veamos. ¿Qué miran en la Sulamita cuando danza en medio de dos coros? 
+CNT007001 Tus pies hermosos en las sandalias, hija de príncipes; esa curva de tus caderas como collares, labor de orfebre; 
+CNT007002 tu ombligo, una copa redonda, rebosando licor, y tu vientre, montón de trigo, rodeado de azucenas; 
+CNT007003 tus pechos, como crias mellizas de gacela; 
+CNT007004 tu cuello es una torre de marfil; 'tu cabeza se yergue semejante al Carmelo; tus ojos, dos albercas de Jesbón, junto a la Puerta Mayor; es el perfil de tu nariz igual que el saliente del Líbano, que mira hacia Damasco; 
+CNT007005 tus cabellos de púrpura, con sus trenzas, cautivan a un rey. 
+CNT007006 ¡Qué hermosa estás, qué bella, qué delicia en tu amor! 
+CNT007007 Tu talle es de palmera; tus pechos, los racimos. 
+CNT007008 Yo pensé: treparé a la palmera a tomar sus dátiles; son para mí tus pechos como racimos de 'uvas; tu aliento, como aroma de manzanas. 
+CNT007009 ¡Ay, tu boca es un vino generoso que fluye acariciando y me moja los labios y los dientes! 
+CNT007010 Yo soy de mi amado y él me busca con pasión. 
+CNT007011 Amado mío, ven, vamos al campo, al abrigo de enebros' pasaremos la noche,, 
+CNT007012 madrugaremos para ver las viñas, para ver si las vides ya florecen, si ya se abren las yemas y si echan flores los granados, y allí te daré mi amor... 
+CNT007013 Perfuman las mandrágoras y a la puerta hay mil frutas deleitosas, frutas secas y frescas que he guardado, mi amado, para ti. 
+CNT008001 Oh si fueras mi hermano y criado a los pechos de mi madre! Al verte por la calle te besaría sin temor a burlas, 
+CNT008002 te metería en casa de mi madre, en la alcoba de la que me crió, te daría a beber vino aromado, licor de mis granados. 
+CNT008003 Pone la mano izquierda bajo mi cabeza y me abraza con la derecha. 
+CNT008004 ¡Muchachas de Jerusalén, les conjuro que no vayan a molestar, que no despierten al amor hasta que él quiera! 
+CNT008005 ¿Quién es esa que sube del desierto apoyada en su amado? Bajo el manzano te desperté, allí donde tu madre te dio a luz con dolores de parto. 
+CNT008006 Grábame como un sello en tu brazo, como un sello en tu corazón, porque es fuerte el amor como la muerte, es cruel la pasión como el abismo; es centella de fuego, llamarada divina; 
+CNT008007 las aguas torrenciales no podrán apagar el amor ni anegarlo los ríos. Si alguien quisiera comprar el amor con todas las riquezas de su casa, se haría despreciable. 
+CNT008008 Nuestra hermana es tan pequeñita, que no le han crecido los pechos. ¿Qué haremos con nuestra hermanita cuando vengan para pedirla? 
+CNT008009 Si es una muralla, le pondremos almenas de plata; si es una puerta, la protegeremos con planchas de cedro. 
+CNT008010 '-Soy una muralla, y mis pechos son los torreones; pero yo seré para él mensajera de paz'. 
+CNT008011 Salomón tenía una viña en Baal Hamón; se la dio a guardar a aparceros, que le traen de sus frutos cada uno mil siclos de plata. 
+CNT008012 Mi viña es sólo para mí; para ti, Salomón, los mil sucios, y da doscientos a los aparceros. 
+CNT008013 Señora délos jardines, mis compañeros te escuchan, déjanos oír tu voz. 
+CNT008014 -Date prisa, amor mío, como el gamo, conocí el cervatillo, por las lomas de las balsameras. 

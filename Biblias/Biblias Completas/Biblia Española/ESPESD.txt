@@ -1,0 +1,280 @@
+ESD001001 El año primero de Ciro, rey de Persia, el Señor, para cumplir lo que había anunciado por boca de Jeremías, movió a Ciro de Persia a promulgar de palabra y por escrito en todo su remo: 
+ESD001002 Ciro, rey de Persia, decreta: El Señor, Dios del cielo, me ha entregado todos los reinos de la tierra y me ha encargado construirle un templo en Jerusalén de Judá. 
+ESD001003 Los que entre ustedes pertenezcan a ese pueblo, que su Dios los acompañe y suban a Jerusalén de Judá para reconstruir el templo del Señor, Dios de Israel, el Dios que habita en Jerusalén. 
+ESD001004 Y a todos los supervivientes, dondequiera que residan, la gente del lugar les proporcionará plata, oro, hacienda y ganado, además de las ofrendas voluntarias para el templo del Dios de Jerusalén', 
+ESD001005 Entonces, todos los que se sintieron movidos por Dios -cabezas de familia de Judá y Benjamín, sacerdotes y levitas- se pusieron en marcha y subieron a reedificar el, templo de Jerusalén. 
+ESD001006 Sus vecinos les proporcionaron de todo: plata, oro, hacienda, ganado y otros muchos regalos, además de las ofrendas voluntarias, 
+ESD001007 El rey Ciro mandó sacar el ajuar del templo que Nabucodonosor se había llevado de Jerusalén para colocarlo en el templo de su dios. 
+ESD001008 Ciro de Persia lo consignó al tesorero Mitrídates, que lo contó delante de Sesbasar, príncipe de Judá. 
+ESD001009 Era la siguiente cantidad: treinta copas de oro, mil copas de plata, veintinueve cuchillos, 
+ESD001010 treinta vasos de oro, cuatrocientos diez vasos de plata y mil objetos de otras clases. 
+ESD001011 Total de objetos de oro y plata: cinco mil cuatrocientos, Sesbasar los llevó todos consigo cuando los desterrados subieron de Babilonia a Jerusalén. 
+ESD002001 Lista de los pertenecientes a la provincia de Judá, deportados a Babilonia por Nabucodonosor, que volvieron a Jerusalén y Judá -cada uno a su pueblo- desde el destierro. 
+ESD002002 Fueron con Zorobabel, Josué, Nehemías, Serayas, Reelayas, Mardoqueo, Bilsán, Mispar, Bigvay, Rejún y Baná. Lista de los seglares: 
+ESD002003 descendientes de Faros, dos mil ciento setenta y dos; 
+ESD002004 descendientes de Sefatías, trescientos setenta y dos: 
+ESD002005 descendientes de Araj, setecientos setenta y cinco; 
+ESD002006 descendientes de Pajat Moab, descendientes de Josué y de Joab, dos mil ochocientos doce; 
+ESD002007 descendientes de Elán, mil doscientos cincuenta y cuatro; 
+ESD002008 descendientes de Zatú, novecientos cuarenta y cinco; 
+ESD002009 descendientes de Zacay, setecientos sesenta; 
+ESD002010 descendientes de Baní, seiscientos cuarenta y dos; 
+ESD002011 descendientes de Bebay, seiscientos veintitrés; 
+ESD002012 descendientes de Azgad, mil doscientos veintidós; 
+ESD002013 descendientes de Adonicán, seiscientos setenta y seis; 
+ESD002014 descendientes de Bigvay, dos mil cincuenta y seis; 
+ESD002015 descendientes de Adín, cuatrocientos cincuenta y cuatro; 
+ESD002016 descendientes de Ater, de Ezequías, noventa y ocho; 
+ESD002017 descendientes de Besay, trescientos veintitrés; 
+ESD002018 descendientes de Yorá, ciento doce; 
+ESD002019 descendientes de Jasún, doscientos veintitrés; 
+ESD002020 descendientes de Guibar, noventa y cinco; 
+ESD002021 ciento veintitrés hombres de Belén; 
+ESD002022 cincuenta y seis de Netofá; 
+ESD002023 ciento veintiocho de Anatot; 
+ESD002024 cuarenta y dos de Azmaut; 
+ESD002025 setecientos cuarenta y tres de Villasotos, Leona y Pozos; 
+ESD002026 seiscientos veintiuno de Rama y Loma; 
+ESD002027 ciento veintidós de Micmás; 
+ESD002028 doscientos veintitrés de Betel y Ay; 
+ESD002029 descendientes de Nebo, cincuenta y dos; 
+ESD002030 descendientes de Magbís, ciento cincuenta y seis; 
+ESD002031 descendientes del otro Elán, mil doscientos cincuenta y cuatro; 
+ESD002032 descendientes de Jarín, trescientos veinte; 
+ESD002033 descendientes de Lod, Jadid y Onó, setecientos veinticinco; 
+ESD002034 descendientes de Jericó trescientos cuarenta, y cinco; 
+ESD002035 descendientes de Senáá, tres mil seiscientos treinta, 
+ESD002036 Sacerdotes: descendientes de Yedayas, de la familia de Josué, novecientos setenta y tres; 
+ESD002037 descendientes de Imer, mil cincuenta y dos; 
+ESD002038 descendientes de Pasjur, mil doscientos cuarenta y siete; 
+ESD002039 descendientes de Jarín, mil diecisiete, 
+ESD002040 Levitas: descendientes de Josué y de Cadmiel, de la familia de Hodavías, setenta y cuatro. 
+ESD002041 Cantores: descendientes de Asaf, ciento veintiocho. 
+ESD002042 Porteros: descendientes de Salían, Ater, Talmón, Acub, Jatitá y Sobay, ciento treinta y nueve en total. 
+ESD002043 Donados: descendientes de Sijá, Jasufá, Tabaot, 
+ESD002044 Queros, Siahá, Fadón, 
+ESD002045 Lebaná, Jagabá, Acub, 
+ESD002046 Jagab, Samlay, Janán, 
+ESD002047 Guidel, Gájar, Reayas, 
+ESD002048 Resín, Necodá, Gazán, 
+ESD002049 Uzá, Pasej, Besay, 
+ESD002050 Asná, meunitas, nefusitas, 
+ESD002051 Bacbuc, Jacufá, Jarjur, 
+ESD002052 Baslut, Mejidá, Jarsá, 
+ESD002053 Barcos, Sisara, Támaj, 
+ESD002054 Nesij y Jatifá. 
+ESD002055 Siervos de Salomón; descendientes de Sotay, Soféret, Perudá, 
+ESD002056 Yalá, Darcón, Guidel, 
+ESD002057 Sefatías, Jatil, Poquéret, el sebaíta, y Amí. 
+ESD002058 Total de donados y siervos de Salomón, trescientos noventa y dos. 
+ESD002059 Lista de los que subieron de Tel Mélaj, Tel Jarsá, Querub, Adán e Imer, pero no pudieron probar su ascendencia o su origen israelita. 
+ESD002060 Descendientes de Delayas, Tobías y Necodá, seiscientos cincuenta y dos. 
+ESD002061 Y entre los sacerdotes, los descendientes de Jobayas, Hacós y Barzilay (que se casó con una hija del galaadita Barzilay y tomó su nombre). 
+ESD002062 Buscaron su registro genealógico, pero no lo encontraron, y se les excluyó del sacerdocio. 
+ESD002063 El gobernador les ordenó que no comieran de los alimentos sagrados hasta que apareciera un sacerdote experto en consultar las suertes. 
+ESD002064 La comunidad constaba en total de cuarenta y dos mil trescientas sesenta personas, 
+ESD002065 sin contar los esclavos y esclavas, que eran siete mil trescientos treinta y siete. Tenían doscientos, entre cantores y cantoras; 
+ESD002066 setecientos treinta y seis caballos, doscientos cuarenta y cinco mulos, 
+ESD002067 cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros. 
+ESD002068 Cuando llegaron al templo de Jerusalén, algunos cabezas de familia hicieron donativos para que se reconstruyera en su mismo sitio. 
+ESD002069 De acuerdo con sus posibilidades, entregaron al fondo del culto sesenta y un mil dracmas de oro, cinco mil minas de plata y cien túnicas sacerdotales. 
+ESD002070 Los sacerdotes, los levitas y parte del pueblo se establecieron en Jerusalén; los cantores, los porteros y los donados, en sus pueblos, y el resto de Israel, en los suyos. 
+ESD003001 Los israelitas se encontraban ya en sus poblaciones cuando al llegar el mes de octubre se reunieron todos a una en Jerusalén. 
+ESD003002 Entonces Josué, hijo de Yosadac, con sus parientes los sacerdotes, y Zorobabel, hijo de Sealtiel, con sus parientes, se pusieron a construir el altar del Dios de Israel para ofrecer en él holocaustos, como manda la Ley de Moisés, hombre de Dios, 
+ESD003003 Levantaron el altar en su antiguo sitio -aunque intimidados por los colonos extranjeros- y ofrecieron en él al Señor los holocaustos matutinos y vespertinos, 
+ESD003004 Celebraron la fiesta de las Chozas, como está mandado, ofreciendo holocaustos según el número y el ritual de cada día; 
+ESD003005 y siguieron ofreciendo el holocausto diario, el de principios de mes, el de las solemnidades dedicadas al Señor y los ofrecidos voluntariamente al Señor. 
+ESD003006 El día primero de octubre comenzaron a ofrecer holocaustos al Señor. Pero aún no se habían echado los cimientos del templo. 
+ESD003007 Entonces, de acuerdo con lo autorizado por Ciro de Persia, contrataron canteros y carpinteros, y dieron a los sidonios y tirios alimentos, bebidas y aceite para que enviaran a Jafa, por vía marítima, madera de cedro del Líbano, 
+ESD003008 A los dos años de haber llegado al templo de Jerusalén, el mes de abril, Zorobabel, hijo de Sealtiel, Josué, hijo de Yosadac, sus demás parientes sacerdotes y levitas, y tocios los que habían vuelto a Jerusalén del cautiverio comenzaron la obra del templo, poniendo al frente de ella a los levitas mayores de veinte años. 
+ESD003009 Josué, sus hijos y hermanos, Cadmiel y sus hijos, Hodavías, los hijos de Henadad, sus hijos y sus hermanos, los levitas, se pusieron todos al frente de los obreros que trabajaban en el templo. 
+ESD003010 Cuando los albañiles terminaron de echar los cimientos, se presentaron los sacerdotes, revestidos, con trompetas, y los levitas, descendientes de Asaf, con címbalos, para entonar himnos al Señor, según ordenó David, rey de Israel. 
+ESD003011 Alabaron y dieron gracias al Señor 'porque es bueno, porque es eterna su misericordia' con Israel. Todo el pueblo alabó con vítores al Señor por haberse echado los cimientos del templo. 
+ESD003012 Muchos sacerdotes, levitas y cabezas de familia -los ancianos que habían visto con sus propios ojos el primer templo- lloraban a voces, mientras otros muchos lanzaban gritos de alegría. 
+ESD003013 Y era imposible distinguir entre gritos de alegría y sollozos, porque el clamor de la gente era tan grande que se oía desde lejos. 
+ESD004001 Cuando los rivales de Judá y Benjamín se enteraron de que los desterrados estaban construyendo el templo del Señor, Dios de Israel, „ 
+ESD004002 se presentaron a Zorobabel, a Josué y a los cabezas de familia, y les dijeron: Vamos a ayudarles, porque también nosotros servimos a su Dios, igual que ustedes, y le ofrecemos sacrificios desde que Asaradón de Asiría nos instaló aquí. 
+ESD004003 Zorobabel, Josué y los demás cabezas de familia les respondieron: No edificaremos juntos el templo de nuestro Dios. Lo haremos nosotros solos, como ha mandado Ciro de Persia. 
+ESD004004 Entonces los colonos extranjeros se dedicaron a desmoralizar a los judíos y a intimidarlos para que dejaran de construir. 
+ESD004005 Desde tiempos de Ciro hasta el reinado de Darío de Persia estuvieron sobornando consejeros que hicieran fracasar sus planes. 
+ESD004006 Cuando Jerjes subió al trono, al comienzo de su reinado, redactaron una denuncia contra los habitantes de Judá y Jerusalén. 
+ESD004007 Y en tiempos de Artajerjes, Bislán, Mitrídates, Tabeel y demás colegas enviaron un informe a Artajerjes de Persia. El documento estaba redactado en arameo, con aclaraciones también en arameo. 
+ESD004008 El gobernador Rejún y el secretario Simsay escribieron al rey Artajerjes una carta contra Jerusalén. 
+ESD004009 Exactamente, la firmaron el gobernador Rejún, el secretario Simsay, sus demás colegas, los jueces y los legados, funcionarios persas, ciudadanos de Uruc, Babilonia, Susa -es decir, elamitas-, 
+ESD004010 los restantes pueblos que el ilustre emperador Asurbanipal deportó e instaló en las ciudades de Samaria y en el resto de Transeufratina, etc. 
+ESD004011 Copia de la carta que enviaron: 'Al rey Artajerjes, tus súbditos, habitantes de Transeufratina, etc. 
+ESD004012 Comunicamos al rey que los judíos que han venido de tu región piensan reconstruir Jerusalén, ciudad rebelde y perversa: están dispuestos a levantar la muralla y ya han echado los cimientos. 
+ESD004013 Sepa el rey que si reconstruyen esta ciudad y levantan sus murallas no seguirán pagando tributo, contribución ni peaje, lo que en definitiva perjudicaría a su majestad. 
+ESD004014 Como nosotros vivimos a sueldo de la corona, no podemos tolerar esta ofensa a su majestad y le comunicamos lo que ocurre. 
+ESD004015 Que investiguen en los anales de tus predecesores y verás cómo se trata de una ciudad rebelde, que trae de cabeza a los reyes y a las provincias y que ha estado siempre fomentando insurrecciones. Por eso la destruyeron. 
+ESD004016 Nosotros hacemos saber al rey que, si se reconstruye esta ciudad y se terminan sus murallas, perderás pronto los territorios de TransJordania'. 
+ESD004017 El rey respondió: 'Al gobernador Rejún, al secretario Simsay y a sus demás colegas que residen en Samaria y en las restantes localidades de Transeufratina; paz, etc. 
+ESD004018 Me han leído una traducción del documento que enviaron. 
+ESD004019 Mandé investigar el caso y, efectivamente, esa ciudad se ha rebelado desde antiguo contra los reyes y se han producido en ella sediciones y revueltas. 
+ESD004020 En Jerusalén ha habido reyes poderosos que dominaban toda Transeufratina, y a los que se pagaban impuestos, contribuciones y peajes. 
+ESD004021 Ordenen, pues, que se impida a esos hombres reconstruir la ciudad hasta nueva orden. 
+ESD004022 Guárdense de actuar con negligencia en este asunto, para que no empeore la situación en perjuicio de los reyes'. 
+ESD004023 Cuando leyeron al gobernador Rejún, al secretario Simsay y a sus demás colegas la copia del documento del rey Artajerjes, se dirigieron en seguida a Jerusalén, a los judíos, y les obligaron con las armas a detener las obras. 
+ESD004024 Se suspendieron, pues, las obras del templo de Jerusalén y estuvieron paradas hasta el año segundo del reinado de Darío de Persia 
+ESD005001 Entonces, el profeta Ageo y el profeta Zacarías, hijo de Ido, comenzaron a profetizar a los judíos de Judá y Jerusalén como legados en nombre del Dios de Israel. 
+ESD005002 Zorobabel, hijo de Sealtiel, y Josué, hijo de Yosadac, se pusieron a reconstruir el templo de Jerusalén, acompañados y alentados por los profetas de Dios. 
+ESD005003 Pero Tatenay, sátrapa de Transeufratina, Setar Boznay y sus colegas se acercaron, y les dijeron: ¿Quién les ha ordenado construir este templo y armar ese maderamen? 
+ESD005004 ¿Cómo se llaman los hombres que han mandado construir este edificio? 
+ESD005005 Pero Dios velaba por las autoridades de Judá y les permitieron seguir las obras mientras no llegara un decreto de Darío y les entregaran el escrito. 
+ESD005006 Copia de la carta que enviaron Tatenay, sátrapa de Transeufratina, Setar Boznay, sus colegas y las autoridades de Transeufratina al rey Darío. 
+ESD005007 El escrito estaba redactado en los siguientes términos: 'Al rey Darío, paz completa. 
+ESD005008 Sepa el rey que hemos ido a la provincia de Judá y resulta que los judíos con su senado están construyendo en Jerusalén un gran templo- con piedras sillares y recubren sus paredes de madera; trabajan a conciencia y el trabajo les cunde. 
+ESD005009 Entonces preguntamos al senado: '¿Quién les ha ordenado reconstruir esta casa y armar ese maderamen?'. 
+ESD005010 Les pedimos también sus nombres, y tomamos por escrito los de sus jefes para poder informarte. 
+ESD005011 Nos dieron la siguiente respuesta: 'Nosotros somos servidores del Dios del cielo y tierra, y estamos reconstruyendo un templo edificado antaño, que construyó y terminó un gran rey de Israel. 
+ESD005012 Pero nuestros padres irritaron al Dios del cielo, y éste los entregó en manos del caldeo Nabucodonosor, rey de Babilonia, que destruyó este templo y deportó el pueblo a Babilonia. 
+ESD005013 Sin embargo, el primer año de su reinado, Ciro de Babilonia ordenó reconstruirlo. 
+ESD005014 Además, los objetos de oro y plata que Nabucodonosor se llevó del templo de Jerusalén al de Babilonia el rey Ciro mandó sacarlos de este último y los consignó a un hombre llamado Sesbasar, al que nombró sátrapa, 
+ESD005015 diciéndole:. Toma estos objetos, ve a llevarlos al templo de Jerusalén y que reconstruyan la casa de Dios en su mismo sitio. 
+ESD005016 Sesbasar vino, echó los cimientos del templo de Jerusalén y desde entonces lo estamos construyendo; pero todavía no hemos terminado'. 
+ESD005017 Por consiguiente, si al rey le parece, que investiguen en los archivos reales de Babilonia, a ver si es verdad que el rey Ciro ordenó reconstruir este templo de Jerusalén. Y que nos comuniquen lo que el rey decida' 
+ESD006001 El rey Darío ordenó investigar' en la tesorería de Babilonia, que servía también de archivo, 
+ESD006002 y resultó que en Ecbatana, la fortaleza de la provincia de Media, había un rollo redactado en los siguientes términos: Memorándum. 
+ESD006003 El año primero de su reinado, el rey Ciro decretó a propósito del templo de Jerusalén: Constrúyase un templo donde ofrecer sacrificios y echen sus cimientos. Su altura será de treinta metros y su ancho de otros treinta. 
+ESD006004 Tendrá tres hileras de piedras sillares y una hilera de madera nueva. Los gastos correrán a cargo de la corona. 
+ESD006005 Además, los objetos de oro y plata de la casa de Dios, que Nabucodonosor trasladó del templo de Jerusalén al de Babilonia, serán devueltos al templo de Jerusalén para que ocupen su puesto en la casa de Dios. 
+ESD006006 Por consiguiente, Tatenay, sátrapa de Transeufratina, Setar Boznay y sus colegas, las autoridades de Transeufratina, manténganse al margen 
+ESD006007 y permitan al sátrapa, y al senado de Judá que trabajen reconstruyendo el templo de Dios en su antiguo sitio. 
+ESD006008 En cuanto al senado de Judá y a la construcción del templo, les ordeno que se paguen a esos hombres todos los gastos puntualmente y sin interrupción, utilizando los fondos reales de los impuestos de Transeufratina. 
+ESD006009 Los novillos, carneros y corderos que necesiten para los holocaustos del Dios del cielo, igual que el trigo, la sal, el vino y el aceite, se les proporcionarán sin falta cada día, según las indicaciones de los: sacerdotes de Jerusalén, 
+ESD006010 para que ofrezcan sacrificios al Dios del cielo rogando por la salud del rey y de sus hijos. 
+ESD006011 Asimismo, ordeno: al que no cumpla este edicto, arrancarán una viga de su casa y lo empalarán en ella, y convertirán su casa en un montón de escombros. 
+ESD006012 Ya todo rey o pueblo que, transgrediendo esta orden, intente destruir el templo de Jerusalén, el Dios que le ha dado su nombre lo aniquile. La orden es mía y quiero que se cumpla a la letra. Darío. 
+ESD006013 Tatenay, sátrapa de Transeufratina, Setar Boznay y sus colegas hicieron puntualmente lo que había mandado el rey Darío. 
+ESD006014 De este modo, el senado de Judá adelantó mucho la construcción, cumpliendo las instrucciones de los profetas Ageo y Zacarías, hijo de Ido, hasta que por fin la terminaron, conforme a lo mandado por el Dios de Israel y por Ciro, Darío y Artajerjes], reyes de Persia. 
+ESD006015 El templo se terminó el día tres del mes de marzo, el año sexto del reinado de Darío. 
+ESD006016 Los israelitas -sacerdotes, levitas y resto de los deportados- celebraron con júbilo la dedicación del templo, 
+ESD006017 ofreciendo con este motivo cien toros; doscientos carneros, cuatrocientos corderos y doce machos cabríos -uno -por tribu- como sacrificio expiatorio por todo Israel. 
+ESD006018 El culto del' templo de Jerusalén se lo encomendaron a los sacerdotes,- por grupos, y a los levitas, por clases, como manda la ley de Moisés. 
+ESD006019 Los deportados celebraron la Pascua el día catorce del mes de abril; 
+ESD006020 como los levitas se habían purificado, junto con los sacerdotes, estaban puros e inmolaron la víctima pascual para todos los deportados, para los sacerdotes sus hermanos y para ellos mismos. 
+ESD006021 La comieron los israelitas que habían vuelto' del destierro y todos los que, renunciando a la impureza de los colonos extranjeros, se unieron a ellos para servir al Señor, Dios de Israel. 
+ESD006022 Celebraron con gozo la fiesta de los Ázimos durante siete días; festejaban al Señor porque, cambiando la actitud del rey de Asiría, los animó a trabajar en el templo del Dios de Israel. 
+ESD007001 Años más tarde, durante el reinado de Artajerjes de Persia, Esdras, hijo de Serayas, de Azadas, de Jelcias, 
+ESD007002 de Salún, de Sadoc, de Ajitub, 
+ESD007003 de Amarías, de Azarías, de Merayot, 
+ESD007004 de Zerajías, de Uzí, de Buquí, 
+ESD007005 de Abisúa, de Fineés, de Eleazar, hijo del sumo sacerdote Aarón, 
+ESD007006 subió de Babilonia. Era un letrado experto en la Ley que dio el Señor, Dios de Israel, por medio de Moisés. El rey le concedió todo lo que pedía porque el Señor, su Dios, estaba con él, 
+ESD007007 El año treinta y siete del rey Artajerjes subieron a Jerusalen algunos israelitas, sacerdotes, levitas, cantores, porteros y donados. 
+ESD007008 Llegaron a Jerusalen en julio del año séptimo del rey. 
+ESD007009 El uno de marzo decidió salir de Babilonia y el uno de julio llegó a Jerusalen, con la ayuda de Dios, 
+ESD007010 porque Esdras se había dedicado a estudiar la Ley del Señor para cumplirla y para enseñar a Israel sus mandatos y preceptos. 
+ESD007011 Copia del documento que entregó el rey Artajerjes a Esdras, sacerdoteletrado, especialista en los preceptos del Señor y en sus mandatos a Israel: 
+ESD007012 Artajerjes, rey de reyes, al sacerdote Esdras, doctor en la ley del Dios del cielo, Paz perfecta, etc. 
+ESD007013 Dispongo que mis súbditos israelitas, incluidos sus sacerdotes y levitas, que deseen ir a Jerusalén puedan ir contigo. 
+ESD007014 El rey y sus siete consejeros te envían para ver cómo se cumple en Judá y Jerusalén la ley de tu Dios, que te han confiado, 
+ESD007015 y para llevar la plata y el oro que el rey y sus consejeros han ofrecido voluntariamente al Dios de Israel, que habita en Jerusalén, 
+ESD007016 además de la plata y el oro que recojas en la provincia de Babilonia y de los dones que ofrezcan el pueblo y los sacerdotes al templo de su Dios en Jerusalén. 
+ESD007017 Emplea exactamente ese dinero en comprar novillos, carneros y corderos, con las oblaciones y libaciones correspondientes, y ofrécelos en el altar del templo dedicado al Dios de ustedes en Jerusalén, 
+ESD007018 El oro y la plata que sobren lo emplearán como mejor te parezca a ti y a tus hermanos, de acuerdo con la voluntad del Dios de ustedes. 
+ESD007019 Los objetos que te entreguen para el culto del templo de tu Dios los pondrás al servicio de Dios en Jerusalén, 
+ESD007020 Cualquier otra cosa que necesites para el templo te la proporcionarán en la tesorería real. 
+ESD007021 Yo, el rey Artajerjes, ordeno a todos los tesoreros de Transeufratina que entreguen puntualmente a Esdras, sacerdote, doctor en la Ley del Dios del cielo, todo lo que les pida, 
+ESD007022 hasta un total de tres mil kilos de plata, cien cargas de trigo, cien medidas de vino y cien de aceite; la sal sin restricciones. 
+ESD007023 Hágase puntualmente todo lo que ordene el Dios del cielo con respecto a su templo, para que no se irrite contra el reino, el rey y sus hijos. 
+ESD007024 Y les hacemos saber que todos los sacerdotes, levitas, cantores, porteros, donados y servidores de esa casa de Dios están exentos de impuesto, contribución y peaje, 
+ESD007025 Tú, Esdras, con esa prudencia que Dios te ha dado, nombra magistrados y jueces que administren justicia a todo tu pueblo de Transeufratina, es decir, a todos los que conocen la Ley de tu Dios, y a los que no la conocen, enséñasela. 
+ESD007026 Al que no cumpla exactamente la Ley de Dios y la orden del rey, que se le condene a muerte, o al destierro, o a pagar una multa, o a la cárcel. 
+ESD007027 Bendito sea el Señor, Dios de nuestros padres, que movió al rey a dotar el templo de Jerusalén 
+ESD007028 y me granjeó su favor, el de sus consejeros y el de las autoridades militares. Animado al ver que el Señor, mi Dios, me ayudaba, reuní a algunos israelitas importantes para que subieran conmigo. 
+ESD008001 Lista de los cabezas de familia, indicando su genealogía, que subieron conmigo desde Babilonia durante el reinado de Artajerjes: 
+ESD008002 de los descendientes de Fineés, Guersón; de los descendientes de Itamar, Daniel; de los descendientes de David, 
+ESD008003 Jatús, hijo de Secanías; de los descendientes de Faros, Zacarías y ciento cincuenta registrados con él; 
+ESD008004 de los descendientes de Pajat Moab, Elioenay, hijo de Zerajías, con doscientos varones; 
+ESD008005 de los descendientes de Zatú, Secanías, hijo de Yajziel, con trescientos varones; 
+ESD008006 de los descendientes de Adín, Ebed, hijo de Jonatán, con cincuenta varones; 
+ESD008007 de los descendientes de Elam, Isaías, hijo de Atalías, con setenta varones; 
+ESD008008 de los descendientes de Sefatías, Zebadías, hijo de Miguel, con ochenta varones; 
+ESD008009 de los descendientes de Joab, Abdías, hijo de Yejiel, con doscientos dieciocho varones; 
+ESD008010 de los descendientes de Baní, Selomit, hijo de Yosifías, con ciento sesenta varones; 
+ESD008011 descendientes de Bebay, Zacarías, hijo de Bebay, con veintiocho varones; 
+ESD008012 descendientes de Azgad, Juan, hijo de Hacatán, con ciento diez varones; 
+ESD008013 descendientes de Adonicán, los últimos, llamados Elifélet, Yeguiel y Semayas, con sesenta varones; 
+ESD008014 descendientes de Bigvay, Utay y Zabud, con setenta varones. 
+ESD008015 Los reuní junto al río que corre hacia Ahavá; acampamos allí tres días, y observé que había seglares y sacerdotes, pero no encontré levitas. 
+ESD008016 Entonces envié a los jefes Eliezer, Ariel, Semayas, Elnatán, Yarib, Elnatán, Natán, Zacarías y Mesulán, y a Yoyarib y Elnatán, hombres prudentes, 
+ESD008017 con la orden de presentarse a Ido, jefe de la localidad de Casifía, a fin de que nos proporcionaran empleados para el templo de nuestro Dios. 
+ESD008018 Gracias a Dios, nos enviaron un hombre prudente, descendiente de Majlí, de Leví, de Israel: Serebías, que vino con dieciocho personas entre hijos y hermanos. 
+ESD008019 También nos enviaron a Yasabías e Isaías, descendientes de Merarí, con veinte entre hijos y hermanos. 
+ESD008020 Y doscientos veinte donados, de los que David y las autoridades destinaron al servicio de los levitas. Todos fueron designados nominalmente. 
+ESD008021 Allí, junto al río Ahavá, proclamé un ayuno para hacer penitencia ante nuestro Dios y pedirle un feliz viaje para nosotros, nuestros niños y nuestros bienes. 
+ESD008022 Porque nos daba reparo pedirle al rey infantes y jinetes que nos protegieran de enemigos durante el viaje, después de haberle dicho: 'Nuestro Dios protege a los que le sirven, mientras su poder y su cólera se vuelven contra los que lo abandonan'. 
+ESD008023 Por esta intención ayunamos y suplicamos al Señor, que nos atendió benignamente. 
+ESD008024 Escogí a doce príncipes de los sacerdotes y también a Serebías y Yasabías con diez de sus hermanos. 
+ESD008025 Pesé ante ellos la plata, el oro y los objetos que el rey, sus consejeros y los israelitas residentes allí habían entregado como ofrenda al templo de nuestro Dios. 
+ESD008026 Lo pesé, y les entregué diecinueve mil quinientos kilos de plata, cien objetos de plata que pesaban sesenta kilos y tres mil kilos de oro, 
+ESD008027 veinte copas de oró de mil dárteos y dos objetos de bronce fino dorado, valiosos como el oro. 
+ESD008028 Y les dije: Ustedes están consagrados al Señor. Estos objetos son sagrados y la plata y el oro son ofrendas voluntarias al Señor, Dios de nuestros padres. 
+ESD008029 Vigílenlos y guárdenlos hasta que los pesen en Jerusalén, en las salas del templo, delante de los príncipes de los sacerdotes, los levitas y los cabezas de familia de Israel. 
+ESD008030 Los sacerdotes y levitas tomaron la plata, el oro y los objetos que habían contado para llevarlos a Jerusalén, al templo de nuestro Dios. 
+ESD008031 El doce de marzo partimos del río Ahavá y nos encaminamos hacia Jerusalén. Nuestro Dios nos protegió y nos libró de enemigos y asaltantes durante el viaje. 
+ESD008032 Llegamos a Jerusalén y descansamos allí tres días. 
+ESD008033 El cuarto contamos la plata, el oro y los objetos en el templo de nuestro Dios y se los entregamos al sumo sacerdote, Meremot, hijo de Urías, en presencia de Eleazar, hijo de Fineés, y de los levitas Yozabad, hijo de Josué, y Noadías, hijo de Binuy. 
+ESD008034 Tras contar y pesar todo, se puso el inventario por escrito. 
+ESD008035 Los deportados que volvían del cautiverio ofrecieron holocaustos al Dios de Israel: doce novillos por todo Israel, noventa y seis carneros, setenta y siete corderos y doce machos cabríos como sacrificio expiatorio; todos en holocausto al Señor. 
+ESD008036 Luego entregaron los decretos del rey a los sátrapas imperiales y a los gobernadores de Transeufratina, que ayudaron al pueblo y al templo de Dios. 
+ESD009001 Más adelante se me acercaron las autoridades para decirme: El pueblo de Israel, los sacerdotes y los levitas han cometido las mismas abominaciones que los pueblos paganos, cananeos, hititas, fereceos, jebuseos, amonitas, moabitas, egipcios y amorreos; 
+ESD009002 ellos y sus hijos se han casado con extranjeras, y la raza santa se ha mezclado con pueblos paganos. Los jefes y los consejeros han sido los primeros en cometer esta infamia. 
+ESD009003 Cuando me enteré de esto, me rasgué los vestidos y el manto, me afeité la cabeza y la barba y me senté desolado. 
+ESD009004 Todos los que respetaban la Ley del Dios de Israel se reunieron junto a mí al enterarse de esta infamia de los deportados. Permanecí abatido hasta la hora de la oblación de la tarde. 
+ESD009005 Pero al llegar ése instante acabé mi penitencia, y con el vestido y el manto rasgados, me arrodillé y alcé las manos al Señor, mi Dios, 
+ESD009006 diciendo: Dios mío, de pura vergüenza no me atrevo a levantar el rostro hacia ti, porque nuestros delitos sobrepasan nuestra cabeza y nuestra culpa llega al cielo. 
+ESD009007 Desde los tiempos de nuestros padres hasta hoy hemos sido reos de grandes culpas, y por nuestros delitos, nosotros con nuestros reyes y sacerdotes hemos sido entregados a reyes extranjeros, a la espada, al destierro, al saqueo y a la ignominia, que es la situación actual. 
+ESD009008 Pero ahora el Señor, nuestro Dios, nos ha concedido un momento de gracia, dejándonos un resto y una estaca en su lugar santo, dando luz a nuestros ojos y concediéndonos respiro en nuestra esclavitud. 
+ESD009009 Porque éramos esclavos, pero nuestro Dios no nos abandonó en nuestra esclavitud; nos granjeó el favor de los reyes de Persia, nos dio tiempo para levantar el templo de nuestro Dios y restaurar sus ruinas y nos dio una tapia en Judá y Jerusalén. 
+ESD009010 Y ahora, Dios nuestro, ¿qué podemos decir después de todo esto? Hemos abandonado los preceptos 
+ESD009011 que nos diste, por medio de tus siervos los profetas, diciendo:'La tierra que van a poseer es una tierra manchada por la inmundicia de los pueblos paganos, por las abominaciones con que la han llenado de un extremo a otro, por sus impurezas. 
+ESD009012 Por consiguiente, no entreguen sus hijas a los hijos de ellos ni casen a sus hijos con las hijas de ellos; no pretendan nunca su alianza ni su favor; así se harán ustedes fuertes, comerán los frutos de la tierra y se la legarán a sus hijos para siempre'. 
+ESD009013 Después de todo lo que nos ha ocurrido por nuestras malas acciones y nuestra grave culpa -aunque tú, Dios nuestro, has estimado por lo bajo nuestros delitos y nos has dejado salir con vida-, 
+ESD009014 ¿volveremos a violar tus preceptos, emparentándonos con estos pueblos abominables? ¿No te irritarás hasta acabar con nosotros sin dejar un resto con vida? 
+ESD009015 Señor, Dios de Israel, este resto que hoy sigue con vida demuestra que eres justo. Nos presentamos ante ti como reos, pues después de lo ocurrido no podemos enfrentarnos contigo. 
+ESD010001 Mientras Esdras, llorando y postrado ante el templo de Dios, oraba, y hacía esta confesión, una gran multitud de israelitas -hombres, mujeres y niños- se reunió junto a él llorando sin parar. 
+ESD010002 Entonces Secanías, hijo de Yejiel, descendiente de Elam, tomó la palabra y dijo a Esdras: Hemos sido infieles a nuestro Dios al casarnos con mujeres extranjeras de los pueblos paganos. Pero todavía hay esperanza para Israel. 
+ESD010003 Nos comprometemos con nuestro Dios a despedir a todas las mujeres extranjeras y a los niños que hemos tenido de ellas, según decidas tú y los observantes de los preceptos de nuestro Dios. Cúmplase la Ley. 
+ESD010004 Levántate, que este asunto es competencia tuya y nosotros te apoyaremos. Actúa con energía. 
+ESD010005 Esdras se puso en pie e hizo jurar a los príncipes de los sacerdotes, a los levitas y a todo Israel que actuarían de esa forma. Ellos lo juraron, 
+ESD010006 Entonces Esdras salió del templo y fue al aposento de Yehojanán, hijo de Elyasib, donde pasó la noche. Pero en señal de duelo no comió ni bebió, entristecido como estaba por la infidelidad de los desterrados. 
+ESD010007 Pregonaron por Judá y Jerusalén que todos los deportados se reunieran en Jerusalén. 
+ESD010008 Al que no acudiera en el plazo de tres días establecido por las autoridades y los senadores le incautarían los bienes para el Señor y lo expulsarían de la comunidad de los desterrados. 
+ESD010009 Al tercer día estaban en Jerusalén todos los judíos y benjaminitas, Era el veinte de diciembre. Todo el pueblo se encontraba en la explanada del templo, temblando a causa del problema y de la lluvia intensa. 
+ESD010010 El sacerdote Esdras se puso en pie y les dijo: Han pecado al casarse con mujeres extranjeras, agravando la culpa de Israel. 
+ESD010011 Ahora, confiésenlo al Señor, Dios de sus padres, cumplan su voluntad y sepárense de los pueblos paganos y de las mujeres extranjeras. 
+ESD010012 Toda la comunidad respondió en alta voz; Haremos lo que nos dices. 
+ESD010013 Pero somos muchos, y en época de lluvias no hay quien resista a la intemperie.- El problema no se resuelve en un día ni en dos, porque somos muchos los que hemos cometido este pecado. 
+ESD010014 Sería mejor que nuestros jefes representaran a toda la comunidad. Los ciudadanos que se hayan casado con una extranjera se presentarán cuando los llamen, junto con los concejales y jueces de cada pueblo, hasta que apartemos la cólera de Dios que hemos provocado con tal conducta. 
+ESD010015 Sólo se opusieron Jonatán, hijo de Asael, y Yajzías, hijo de Tiquá, apoyados por Mesulán y por el levita Sabtay. 
+ESD010016 Los desterrados lo hicieron así. El sacerdote Esdras escogió algunos cabezas de familia, según sus linajes, designándolos nominalmente. El uno de diciembre se sentaron a examinar el asunto 
+ESD010017 y el uno de marzo terminaron con todos los hombres que se habían casado con extranjeras. 
+ESD010018 Sacerdotes casados con extranjeras: Maseyas, Eliezer, Yarib y Guedalías, descendientes de Josué, hijo de Yosadac, y de sus hermanos; 
+ESD010019 se comprometieron a dejar sus mujeres y a ofrecer un carnero por su reato. 
+ESD010020 Jananí y Zebadías, descendientes de Imer. 
+ESD010021 Maseyas, Elías, Semayas, Yejiel y Uzías, descendientes de Jarín. 
+ESD010022 Elioenay, Maseyas, Ismael, Netanel, Yozabad y Elasá, descendientes de Pasjur. 
+ESD010023 Levitas: Yozabad, Semeí, Quelayas, que era quelita, Petajías, Judá y Eliezer. 
+ESD010024 Cantores: Eliasib. Porteros: Salún, Telen y Urí, 
+ESD010025 Seglares: Ramías, Yizías, Malquías, Miyamín, Eleazar, Malquías y Benayas, descendientes de Faros. 
+ESD010026 Matanías, Zacarías, Yejiel, Abdí, Yeremot y Elias, descendientes de Elam. 
+ESD010027 Elioenay, Eliasib, Matanías, Yeremot, Zabat y Azizá, descendientes de Zatú. 
+ESD010028 Juan, Anañías, Zabay y Atlay, descendientes de Bebay. 
+ESD010029 Mesulán, Maluc, Adayas, Yasub, Seal y Yeramot, descendientes de Baní. 
+ESD010030 Adná, Quelal, Benayas, Maseyas, Matanías, Belasel, Binuy y Manases, descendientes de Pajat Moab. 
+ESD010031 Eliezer, Yesiyas, Malquías, Semayas, Simeón, 
+ESD010032 Benjamín, Maluc y Semanas, descendientes de Jarín. 
+ESD010033 Matnay, Matatá, Zabad, Elifélet, Yeremay, Manases y Semeí, descendientes de Jasúrt. 
+ESD010034 Descendientes de Baní: Maday, Amrán, Uel, 
+ESD010035 Benayas, Bedías, Queluhí, 
+ESD010036 Vanías, Meremot, Eliasib, 
+ESD010037 Matanías, Matenay, Yasay, 
+ESD010038 Baní, Binuy, Semeí, 
+ESD010039 Selemías, Natán, Adayas, 
+ESD010040 Macnadbay, Sasay, Saray, 
+ESD010041 Azarel, Selemías, Semarías, 
+ESD010042 Salún, Amarías y José. 
+ESD010043 Yeguiel, Matitías, Zabad, Zebiná, Yaday, Joel y Benayas, descendientes de Nebó. 
+ESD010044 Todos éstos se habían casado con extranjeras y despidieron a sus mujeres y a sus hijos. 
