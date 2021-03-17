@@ -1,0 +1,915 @@
+PRV001001 Los proverbios de Salomón, hijo de David, rey de Israel: 
+PRV001002 Para entender sabiduría y castigo; para entender las razones prudentes; 
+PRV001003 para recibir el castigo de prudencia, justicia, juicio y equidad; 
+PRV001004 para dar astucia a los simples, y a los jóvenes inteligencia y consejo. 
+PRV001005 Si el sabio los oyere, aumentará la doctrina; y el entendido adquirirá consejo; 
+PRV001006 para entender parábola y declaración; palabras de sabios, y sus enigmas. 
+PRV001007 El principio de la sabiduría es el temor del SEÑOR; los locos despreciaron la sabiduría y el castigo. 
+PRV001008 Oye, hijo mío, el castigo de tu padre, y no deseches la ley de tu madre; 
+PRV001009 porque aumento de gracia serán a tu cabeza, y collares a tu cuello. 
+PRV001010 Hijo mío, si los pecadores te quisieren engañar, no consientas. 
+PRV001011 Si dijeren: Ven con nosotros, espiemos a alguno para matarle, acechemos al inocente sin razón; 
+PRV001012 los tragaremos vivos como el sepulcro, y enteros, como los que caen en un abismo; 
+PRV001013 hallaremos riquezas de toda clase, llenaremos nuestras casas de despojos; 
+PRV001014 echa tu suerte entre nosotros; tengamos todos una bolsa, 
+PRV001015 hijo mío, no andes en camino con ellos; aparta tu pie de sus veredas; 
+PRV001016 porque sus pies correrán al mal, e irán presurosos a derramar sangre. 
+PRV001017 Porque en vano se tenderá la red ante los ojos de toda ave; 
+PRV001018 mas ellos a su propia sangre espían, y a sus almas ponen asechanza. 
+PRV001019 Tales son las sendas de todo el que es dado a la codicia, la cual prenderá el alma de sus poseedores. 
+PRV001020 La sabiduría clama de fuera; en las plazas da su voz; 
+PRV001021 clama en los principales lugares de concurso; en las entradas de las puertas de la ciudad dice sus razones: 
+PRV001022 ¿Hasta cuándo, oh simples, amaréis la simpleza, y los burladores desearán el burlar, y los locos aborrecerán la ciencia? 
+PRV001023 Volveos a mi reprensión; he aquí yo os derramaré mi espíritu, y os haré saber mis palabras. 
+PRV001024 Por cuanto llamé, y no quisisteis; extendí mi mano, y no hubo quien escuchase; 
+PRV001025 antes desechasteis todo consejo mío, y no quisisteis mi reprensión; 
+PRV001026 también yo me reiré en vuestra calamidad, y me burlaré cuando os viniere lo que teméis; 
+PRV001027 cuando viniere como una destrucción lo que teméis, y vuestra calamidad llegare como un torbellino; cuando sobre vosotros viniere tribulación y angustia. 
+PRV001028 Entonces me llamarán, y no responderé; me buscarán de mañana, y no me hallarán; 
+PRV001029 por cuanto aborrecieron la sabiduría, y no escogieron el temor del SEÑOR, 
+PRV001030 ni quisieron mi consejo, y menospreciaron toda reprensión mía. 
+PRV001031 Comerán, pues, del fruto de su camino, y de sus consejos se hartarán. 
+PRV001032 Porque el reposo de los ignorantes los matará, y la prosperidad de los locos los echará a perder. 
+PRV001033 Mas el que me oyere, habitará confiadamente, y vivirá reposado del temor del mal. 
+PRV002001 Hijo mío, si tomares mis palabras, y mis mandamientos guardares dentro de ti, 
+PRV002002 haciendo estar atento tu oído a la sabiduría; si inclinares tu corazón a la prudencia; 
+PRV002003 si clamares a la inteligencia, y a la prudencia dieres tu voz; 
+PRV002004 si como a la plata la buscares, y la escudriñares como a tesoros; 
+PRV002005 entonces entenderás el temor del SEÑOR, y hallarás el conocimiento de Dios. 
+PRV002006 Porque el SEÑOR da la sabiduría, y de su boca viene el conocimiento y la inteligencia. 
+PRV002007 El guarda el ser a los rectos; es escudo a los que caminan perfectamente, 
+PRV002008 guardando las veredas del juicio, y el camino de sus misericordiosos guardará. 
+PRV002009 Entonces entenderás justicia, juicio, y equidad, y todo buen camino. 
+PRV002010 Cuando la sabiduría entrare en tu corazón, y la ciencia fuere dulce a tu alma, 
+PRV002011 el consejo te guardará, te preservará la inteligencia, 
+PRV002012 para librarte del mal camino, del hombre que habla perversidades; 
+PRV002013 que dejan las veredas derechas, por andar por caminos tenebrosos; 
+PRV002014 que se alegran haciendo mal, que se huelgan en malas perversidades; 
+PRV002015 cuyas veredas son torcidas, y ellos torcidos en sus caminos. 
+PRV002016 Para librarte de la mujer extraña, de la ajena que halaga con sus palabras; 
+PRV002017 que desampara el príncipe de su juventud, y se olvida del pacto de su Dios. 
+PRV002018 Por lo cual su casa está inclinada a la muerte, y sus veredas van hacia los muertos. 
+PRV002019 Todos los que a ella entraren, no volverán, ni tomarán las veredas de la vida. 
+PRV002020 Para que andes por el camino de los buenos, y guardes las veredas de los justos. 
+PRV002021 Porque los rectos habitarán la tierra, y los perfectos permanecerán en ella; 
+PRV002022 mas los impíos serán cortados de la tierra, y los prevaricadores serán de ella desarraigados. 
+PRV003001 Hijo mío, no te olvides de mi ley; y tu corazón guarde mis mandamientos; 
+PRV003002 porque largura de días y años de vida y paz te aumentarán. 
+PRV003003 Misericordia y verdad no te desamparen; átalas a tu cuello, escríbelas en la tabla de tu corazón; 
+PRV003004 y hallarás gracia y buena opinión en los ojos de Dios y de los hombres. 
+PRV003005 Fíate del SEÑOR de todo tu corazón, y no estribes en tu propia prudencia. 
+PRV003006 Reconócelo en todos tus caminos, y él enderezará tus veredas. 
+PRV003007 No seas sabio en tu propia opinión; teme al SEÑOR, y apártate del mal; 
+PRV003008 porque será medicina a tu ombligo, y tuétano a tus huesos. 
+PRV003009 Honra al SEÑOR de tu sustancia, y de las primicias de todos tus frutos; 
+PRV003010 y serán llenos tus alfolíes con abundancia, y tus lagares rebosarán de mosto. 
+PRV003011 No deseches, hijo mío, el castigo del SEÑOR; ni te fatigues de su corrección; 
+PRV003012 porque el SEÑOR castiga al que ama y quiere, como el padre al hijo. 
+PRV003013 Bienaventurado el hombre que halló la sabiduría, y que saca a luz la inteligencia; 
+PRV003014 porque su mercadería es mejor que la mercadería de la plata, y sus frutos más que el oro fino. 
+PRV003015 Más preciosa es que las piedras preciosas; y todo lo que puedes desear, no se puede comparar a ella. 
+PRV003016 Largura de días trae en su mano derecha; en su izquierda riquezas y honra. 
+PRV003017 Sus caminos son caminos deleitosos, y todas sus veredas paz. 
+PRV003018 Ella es árbol de vida a los que de ella echan mano; y bienaventurados son los que la mantienen. 
+PRV003019 El SEÑOR con sabiduría fundó la tierra; afirmó los cielos con inteligencia. 
+PRV003020 Con su ciencia se partieron los abismos, y destilan el rocío los cielos. 
+PRV003021 Hijo mío, no se aparten estas cosas de tus ojos; guarda la ley y el consejo; 
+PRV003022 y serán vida a tu alma, y gracia a tu cuello. 
+PRV003023 Entonces andarás por tu camino confiadamente, y tu pie no tropezará. 
+PRV003024 Cuando te acostares, no tendrás temor; antes te acostarás, y tu sueño será suave. 
+PRV003025 No tendrás temor del pavor repentino, ni de la ruina de los impíos cuando viniere; 
+PRV003026 porque el SEÑOR será tu confianza, y él guardará tu pie para que no seas tomado. 
+PRV003027 No detengas el bien de sus dueños, cuando tuvieres poder para hacerlo. 
+PRV003028 No digas a tu prójimo: Ve, y vuelve, y mañana te daré; cuando tienes contigo qué darle. 
+PRV003029 No pienses mal contra tu prójimo, estando él confiado de ti. 
+PRV003030 No pleitees con alguno sin razón, si él no te ha hecho agravio. 
+PRV003031 No envidies al hombre injusto, ni escojas alguno de sus caminos. 
+PRV003032 Porque el perverso es abominado del SEÑOR; mas su secreto es con los rectos. 
+PRV003033 La maldición del SEÑOR está en la casa del impío; mas él bendecirá la morada de los justos. 
+PRV003034 Ciertamente él escarnecerá a los escarnecedores, y a los humildes dará gracia. 
+PRV003035 Los sabios heredarán la honra; mas los locos sostendrán deshonra. 
+PRV004001 Oíd, hijos, el castigo del padre; y estad atentos para que sepáis inteligencia. 
+PRV004002 Porque os doy buena enseñanza; no desamparéis mi ley. 
+PRV004003 Porque yo fui hijo de mi padre, delicado y único delante de mi madre. 
+PRV004004 Y él me enseñaba, y me decía: Sustente tu corazón mis razones, guarda mis mandamientos, y vivirás. 
+PRV004005 Adquiere sabiduría, adquiere inteligencia; no te olvides ni te apartes de las razones de mi boca; 
+PRV004006 no la dejes, y ella te guardará; ámala, y te conservará. 
+PRV004007 Sabiduría primero que todo; adquiere sabiduría; y ante toda tu posesión adquiere inteligencia. 
+PRV004008 Crece en ella, y ella te engrandecerá; ella te honrará, cuando tú la hubieres abrazado. 
+PRV004009 Dará a tu cabeza aumento de gracia; corona de hermosura te entregará. 
+PRV004010 Oye, hijo mío, y recibe mis razones; y se te multiplicarán años de vida. 
+PRV004011 Por el camino de la sabiduría te he encaminado, y por veredas derechas te he hecho andar. 
+PRV004012 Cuando anduvieres por ellas no se estrecharán tus pasos; y si corrieres, no tropezarás. 
+PRV004013 Ten el castigo, no lo dejes; guárdalo, porque eso es tu vida. 
+PRV004014 No entres por la vereda de los impíos, ni vayas por el camino de los malos. 
+PRV004015 Desampárala, no pases por ella; apártate de ella, y pasa. 
+PRV004016 Porque no duermen ellos, si no hicieren mal; y pierden su sueño, si no han hecho caer. 
+PRV004017 Porque comen pan de maldad, y beben vino de robos. 
+PRV004018 Mas la vereda de los justos es como la luz del lucero, que va en aumento hasta que el día es perfecto. 
+PRV004019 El camino de los impíos es como la oscuridad; no saben en qué tropiezan. 
+PRV004020 Hijo mío, está atento a mis palabras; inclina tu oído a mis razones. 
+PRV004021 No se aparten de tus ojos; guárdalas en medio de tu corazón. 
+PRV004022 Porque son vida a los que las hallan, y medicina a toda su carne. 
+PRV004023 Sobre toda cosa guardada, guarda tu corazón; porque de él mana la vida. 
+PRV004024 Aparta de ti la perversidad de la boca, y aleja de ti la iniquidad de labios. 
+PRV004025 Tus ojos miren lo recto, y tus párpados enderecen tu camino delante de ti. 
+PRV004026 Pesa la vereda de tus pies, y todos tus caminos sean ordenados. 
+PRV004027 No te desvíes a diestra, ni a siniestra; aparta tu pie del mal. 
+PRV005001 Hijo mío, está atento a mi sabiduría, y a mi inteligencia inclina tu oído; 
+PRV005002 para que guardes consejo, y tus labios conserven la ciencia. 
+PRV005003 Porque los labios de la mujer extraña destilan miel, y su paladar es más blando que el aceite; 
+PRV005004 mas su fin es amargo como el ajenjo, agudo como cuchillo de dos filos. 
+PRV005005 Sus pies descienden a la muerte; sus pasos sustentan el sepulcro; 
+PRV005006 si no pesares el camino de vida, sus caminos son inestables; no los conocerás. 
+PRV005007 Ahora pues, hijos, oídme, y no os apartéis de las razones de mi boca. 
+PRV005008 Aleja de ella tu camino, y no te acerques a la puerta de su casa; 
+PRV005009 para que no des a los extraños tu honor, y tus años al cruel; 
+PRV005010 para que no se harten los extraños de tu fuerza, y tus trabajos estén en casa del extraño; 
+PRV005011 y gimas en tus postrimerías, cuando se consumiere tu carne y tu cuerpo, 
+PRV005012 y digas: ¡Cómo aborrecí el castigo, y mi corazón menospreció la reprensión; 
+PRV005013 y no oí la voz de los que me castigaban; y a los que me enseñaban no incliné mi oído! 
+PRV005014 Casi en todo mal he estado, en medio de la sociedad y de la congregación. 
+PRV005015 Bebe el agua de tu cisterna, y las corrientes de tu pozo. 
+PRV005016 Rebosan por de fuera tus fuentes, en las plazas los ríos de tus aguas. 
+PRV005017 Sean para ti solo, y no para los extraños contigo. 
+PRV005018 Será bendito tu manantial; y alégrate de la mujer de tu juventud. 
+PRV005019 Como cierva de amores y graciosa gacela, sus pechos te satisfagan en todo tiempo; y en su amor andarás ciego de continuo, sin fijar tus ojos en nadie más. 
+PRV005020 ¿Y por qué, hijo mío, andarás ciego con la ajena, y abrazarás el seno de la extraña? 
+PRV005021 Pues que los caminos del hombre están ante los ojos del SEÑOR, ¡y él pesa todas sus veredas! 
+PRV005022 Sus propias iniquidades prenderán al impío, y con las cuerdas de su pecado será detenido. 
+PRV005023 El morirá por no haberse sometido al castigo; y por la grandeza de su locura, errará. 
+PRV006001 Hijo mío, si salieres fiador por tu amigo, si prometiste al extraño, 
+PRV006002 enlazado eres con las palabras de tu boca, y preso con las razones de tu boca. 
+PRV006003 Haz esto ahora, hijo mío, y líbrate, porque has caído en la mano de tu prójimo; ve, humíllate, y esfuerza tu prójimo. 
+PRV006004 No des sueño a tus ojos, ni a tus párpados adormecimiento. 
+PRV006005 Escápate como la gacela de la mano del cazador, y como el ave de la mano del parancero. 
+PRV006006 Ve a la hormiga, oh perezoso, mira sus caminos, y sé sabio; 
+PRV006007 la cual no teniendo capitán, ni gobernador, ni señor, 
+PRV006008 prepara en el verano su comida y en el tiempo de la siega allega su mantenimiento. 
+PRV006009 Perezoso, ¿hasta cuándo has de dormir? ¿Cuándo te levantarás de tu sueño? 
+PRV006010 Tomando un poco de sueño, cabeceando otro poco, y cruzado los brazos otro poco para volver a dormir; 
+PRV006011 así vendrá tu necesidad como caminante, y tu pobreza como hombre de escudo. 
+PRV006012 El hombre perverso es varón inicuo, anda en perversidad de boca; 
+PRV006013 guiña con sus ojos, habla con sus pies, enseña con sus dedos; 
+PRV006014 perversidades hay en su corazón, anda pensando mal en todo tiempo; enciende rencillas. 
+PRV006015 Por tanto su calamidad vendrá de repente; súbitamente será quebrantado, y no habrá remedio. 
+PRV006016 Seis cosas aborrece el SEÑOR, y aun siete abomina su alma: 
+PRV006017 Los ojos altivos, la lengua mentirosa, las manos derramadoras de sangre inocente, 
+PRV006018 el corazón que maquina pensamientos inicuos, los pies presurosos para correr al mal, 
+PRV006019 el testigo falso que habla mentiras, y el que enciende rencillas entre los hermanos. 
+PRV006020 Guarda, hijo mío, el mandamiento de tu padre, y no dejes la ley de tu madre; 
+PRV006021 átala siempre en tu corazón, enlázala a tu cuello. 
+PRV006022 Te guiará cuando anduvieres; cuando durmieres te guardará; hablará contigo cuando despertares. 
+PRV006023 Porque el mandamiento es candela, y la enseñanza luz; y camino de vida las reprensiones del castigo; 
+PRV006024 para que te guarden de la mala mujer, de la blandura de la lengua de la extraña. 
+PRV006025 No codicies su hermosura en tu corazón, ni ella te prenda con sus ojos; 
+PRV006026 porque a causa de la mujer ramera es reducido el hombre a un bocado de pan; y la mujer caza la preciosa alma del varón. 
+PRV006027 ¿Tomará el hombre fuego en su seno, sin que sus vestidos se quemen? 
+PRV006028 ¿Andará el hombre sobre las brasas, sin que sus pies se quemen? 
+PRV006029 Así el que entrare a la mujer de su prójimo; no será sin culpa cualquiera que la tocare. 
+PRV006030 No tienen en poco al ladrón, cuando hurtare para saciar su alma teniendo hambre; 
+PRV006031 pero tomado, paga siete veces; da toda la sustancia de su casa. 
+PRV006032 Mas el que comete adulterio con la mujer, es falto de corazón; corrompe su alma el que tal hace. 
+PRV006033 Plaga y vergüenza hallará; y su afrenta nunca será raída. 
+PRV006034 Porque el celo sañudo del varón no perdonará en el día de la venganza; 
+PRV006035 no tendrá respeto a ninguna redención; ni querrá perdonar, aunque multipliques el cohecho. 
+PRV007001 Hijo mío, guarda mis razones, y encierra contigo mis mandamientos. 
+PRV007002 Guarda mis mandamientos, y vivirás; y mi ley como las niñas de tus ojos. 
+PRV007003 Lígalos a tus dedos; escríbelos en la tabla de tu corazón. 
+PRV007004 Di a la sabiduría: Tú eres mi hermana; y a la inteligencia llama parienta, 
+PRV007005 para que te guarden de la mujer ajena, y de la extraña que ablanda sus palabras. 
+PRV007006 Porque mirando yo por la ventana de mi casa, por mi celosía, 
+PRV007007 vi entre los simples, consideré entre los jóvenes, un joven falto de entendimiento, 
+PRV007008 el cual pasaba por la calle, junto a la esquina de aquella, e iba camino de su casa; 
+PRV007009 a la tarde del día, ya que oscurecía; en la oscuridad y tiniebla de la noche. 
+PRV007010 Y he aquí, una mujer que le sale al encuentro con atavío de ramera, guardada de corazón, 
+PRV007011 alborotadora y rencillosa, sus pies no pueden estar en casa; 
+PRV007012 unas veces de fuera, o bien por las plazas, acechando por todas las esquinas. 
+PRV007013 Y traba de él, y lo besa; desvergonzó su rostro, y le dijo: 
+PRV007014 Sacrificios de paz había prometido, hoy he pagado mis votos; 
+PRV007015 por tanto he salido a encontrarte, buscando tu rostro, y te he hallado. 
+PRV007016 Con paramentos he ataviado mi cama, recamados con cordoncillo de Egipto. 
+PRV007017 He sahumado mi cámara con mirra, áloes, y canela. 
+PRV007018 Ven, embriaguémonos de amores hasta la mañana; alegrémonos en amores. 
+PRV007019 Porque el marido no está en casa, se ha ido a un largo viaje; 
+PRV007020 el saco de dinero llevó en su mano, el día de la fiesta volverá a su casa. 
+PRV007021 Lo derribó con la mucha suavidad de sus palabras, con la blandura de sus labios lo persuadió. 
+PRV007022 Se va en pos de ella luego, como va el buey al degolladero, y como el loco a las prisiones para ser castigado; 
+PRV007023 de tal manera que la saeta traspasó su hígado; como el ave que se apresura al lazo, y no sabe que es contra su vida. 
+PRV007024 Ahora pues, hijos, oídme, y estad atentos a las razones de mi boca. 
+PRV007025 No se aparte a sus caminos tu corazón; no yerres en sus veredas. 
+PRV007026 Porque a muchos ha hecho caer muertos; y todos los fuertes han sido muertos por ella. 
+PRV007027 Caminos del sepulcro son su casa, que descienden a las cámaras de la muerte. 
+PRV008001 ¿No clama la sabiduría, y da su voz la inteligencia? 
+PRV008002 En los altos cabezos, junto al camino, a las encrucijadas de las veredas se para; 
+PRV008003 en el lugar de las puertas, a la entrada de la ciudad, a la entrada de las puertas da voces: 
+PRV008004 Oh hombres, a vosotros clamo; y mi voz es a los hijos de los hombres. 
+PRV008005 Entended, simples, la astucia; y vosotros, locos, tomad entendimiento. 
+PRV008006 Oíd, porque hablaré cosas excelentes; y abriré mis labios para cosas rectas. 
+PRV008007 Porque mi paladar hablará verdad, y mis labios abominan la impiedad. 
+PRV008008 En justicia son todas las razones de mi boca; no hay en ellas cosa perversa ni torcida. 
+PRV008009 Todas ellas son rectas al que entiende; rectas a los que han hallado sabiduría. 
+PRV008010 Recibid mi castigo, y no plata; y ciencia más que el oro escogido. 
+PRV008011 Porque mejor es la sabiduría que las piedras preciosas; y todas las cosas que se pueden desear, no son de comparar con ella. 
+PRV008012 Yo, la sabiduría, moré con la astucia; y yo invento la ciencia de los consejos. 
+PRV008013 El temor del SEÑOR es aborrecer el mal; la soberbia, la arrogancia, el mal camino, y la boca perversa, aborrezco. 
+PRV008014 Conmigo está el consejo y el ser; yo soy la inteligencia; mía es la fortaleza. 
+PRV008015 Por mí reinan los reyes, y los príncipes determinan justicia. 
+PRV008016 Por mí dominan los príncipes, y todos los gobernadores juzgan la tierra. 
+PRV008017 Yo amo a los que me aman; y los que me buscan me hallan. 
+PRV008018 Las riquezas y la honra están conmigo; sólidas riquezas, y justicia. 
+PRV008019 Mejor es mi fruto que el oro, y que la piedra preciosa; y mi rédito mejor que la plata escogida. 
+PRV008020 Por vereda de justicia guiaré, por en medio de veredas de juicio; 
+PRV008021 para hacer heredar a mis amigos el ser, y que yo llene sus tesoros. 
+PRV008022 El SEÑOR me poseyó en el principio de su camino, desde entonces, antes de sus obras. 
+PRV008023 Eternalmente tuve el principado, desde el principio, antes de la tierra. 
+PRV008024 Antes de los abismos fui engendrada; antes que fuesen las fuentes de las muchas aguas. 
+PRV008025 Antes que los montes fuesen fundados, antes de los collados, era yo engendrada; 
+PRV008026 no había aún hecho la tierra, ni las campiñas, ni el principio del polvo del mundo. 
+PRV008027 Cuando componía los cielos, allí estaba yo; cuando señalaba por compás la sobrefaz del abismo; 
+PRV008028 cuando afirmaba los cielos arriba, cuando afirmaba las fuentes del abismo; 
+PRV008029 cuando ponía al mar su estatuto, y a las aguas, que no pasasen su mandamiento; cuando señalaba los fundamentos de la tierra; 
+PRV008030 con él estaba yo ordenándolo todo; y fui su delicia todos los días, teniendo solaz delante de él en todo tiempo. 
+PRV008031 Tengo solaz en la redondez de su tierra; y mis solaces son con los hijos de los hombres. 
+PRV008032 Ahora, pues, hijos, oídme; y bienaventurados los que guardaren mis caminos. 
+PRV008033 Obedeced el castigo, y sed sabios; y no lo menospreciéis. 
+PRV008034 Bienaventurado el hombre que me oye, trasnochando a mis puertas cada día, guardando los umbrales de mis entradas. 
+PRV008035 Porque el que me hallare, hallará la vida; y alcanzará la voluntad del SEÑOR. 
+PRV008036 Mas el que peca contra mí, defrauda su alma; todos los que me aborrecen, aman la muerte. 
+PRV009001 La sabiduría edificó su casa, labró sus siete columnas; 
+PRV009002 mató sus víctima, templó su vino, y puso su mesa. 
+PRV009003 Envió sus criadas; sobre lo más alto de la ciudad clamó: 
+PRV009004 cualquier simple, venga acá. A los faltos de entendimiento (o de corazón) dijo: 
+PRV009005 Venid, comed mi pan, y bebed del vino que yo he templado. 
+PRV009006 Dejad las simplezas, y vivid; y andad por el camino de la inteligencia. 
+PRV009007 El que castiga al burlador, afrenta se acarrea; el que reprende al impío, se atrae mancha. 
+PRV009008 No castigues al burlador, para que no te aborrezca; castiga al sabio, y te amará. 
+PRV009009 Da al sabio, y será más sabio; enseña al justo, y acrecerá su saber. 
+PRV009010 El temor del SEÑOR es el principio de la sabiduría; y la ciencia de los santos es inteligencia. 
+PRV009011 Porque por mí se aumentarán tus días, y años de vida se te añadirán. 
+PRV009012 Si fueres sabio, para ti lo serás; mas si fueres burlador, pagarás tú solo. 
+PRV009013 La mujer loca, alborotadora, simple e ignorante; 
+PRV009014 se sienta en una silla a la puerta de su casa, en lo alto de la ciudad, 
+PRV009015 para llamar a los que pasan por el camino; a los que enderecen sus caminos: 
+PRV009016 Cualquier simple, venga acá. A los faltos de entendimiento dijo: 
+PRV009017 Las aguas hurtadas son dulces, y el pan comido en oculto es suave. 
+PRV009018 Y no saben que allí están los muertos; que sus convidados están en los profundos de la sepultura. 
+PRV010001 (Las parábolas de Salomón.) El hijo sabio alegra al padre; y el hijo loco es tristeza a su madre. 
+PRV010002 Los tesoros de maldad no serán de provecho; mas la justicia libra de la muerte. 
+PRV010003 El SEÑOR no dejará hambrear el alma del justo; mas la iniquidad lanzará a los impíos. 
+PRV010004 La mano negligente hace pobre; mas la mano de los diligentes enriquece. 
+PRV010005 El que recoge en el verano es hijo entendido; el que duerme en el tiempo de la siega es hijo que avergüenza. 
+PRV010006 Bendita es la cabeza del justo; mas la boca de los impíos cubrirá la iniquidad. 
+PRV010007 La memoria del justo será bendita; mas el nombre de los impíos hederá. 
+PRV010008 El sabio de corazón recibirá los mandamientos; mas el que habla locuras caerá. 
+PRV010009 El que camina en integridad, anda confiado; mas el que pervierte sus caminos, será quebrantado. 
+PRV010010 El que guiña el ojo acarrea tristeza; y el que habla locuras caerá. 
+PRV010011 Vena de vida es la boca del justo; mas la boca de los impíos cubrirá la iniquidad. 
+PRV010012 El odio despierta las rencillas; mas la caridad cubrirá todas las maldades. 
+PRV010013 En los labios del prudente se halla sabiduría; y es vara a las espaldas del falto de entendimiento. 
+PRV010014 Los sabios guardan la sabiduría; mas la boca del loco es calamidad cercana. 
+PRV010015 Las riquezas del rico son su ciudad fuerte; y el desmayo de los pobres es su pobreza. 
+PRV010016 La obra del justo es para vida; mas el fruto del impío es para pecado. 
+PRV010017 Camino a la vida es guardar el castigo; mas el que deja la reprensión, yerra. 
+PRV010018 El que encubre el odio es de labios mentirosos; y el que echa mala fama es loco. 
+PRV010019 En las muchas palabras no falta rebelión; mas el que refrena sus labios es prudente. 
+PRV010020 Plata escogida es la lengua del justo; mas el entendimiento (o corazón) de los impíos es como nada. 
+PRV010021 Los labios del justo apacientan a muchos; mas los locos con falta de entendimiento mueren. 
+PRV010022 La bendición del SEÑOR es la que enriquece, y no añade tristeza con ella. 
+PRV010023 Hacer abominación es como risa al loco; mas la sabiduría recrea al varón de entendimiento. 
+PRV010024 Lo que el impío teme, eso le vendrá; mas Dios da a los justos lo que desean. 
+PRV010025 Cuando pasare el torbellino, el malo no será; mas el justo, fundado para siempre. 
+PRV010026 Como el vinagre a los dientes, y como el humo a los ojos, así es el perezoso a los que lo envían. 
+PRV010027 El temor del SEÑOR aumentará los días; mas los años de los impíos serán acortados. 
+PRV010028 La esperanza de los justos es alegría; mas la esperanza de los impíos perecerá. 
+PRV010029 El camino del SEÑOR es fortaleza al perfecto; pero es espanto a los que obran maldad. 
+PRV010030 El justo eternalmente no será removido; mas los impíos no habitarán la tierra. 
+PRV010031 La boca del justo producirá sabiduría; mas la lengua perversa será cortada. 
+PRV010032 Los labios del justo conocerán la voluntad de Dios; mas la boca de los impíos habla perversidades. 
+PRV011001 El peso falso abominación es al SEÑOR; mas la pesa cabal le agrada. 
+PRV011002 Cuando vino la soberbia, vino también la deshonra; mas con los humildes es la sabiduría. 
+PRV011003 La perfección de los rectos los encaminará; mas la perversidad de los pecadores los echará a perder. 
+PRV011004 No aprovecharán las riquezas en el día de la ira; mas la justicia librará de la muerte. 
+PRV011005 La justicia del perfecto enderezará su camino; mas el impío por su impiedad caerá. 
+PRV011006 La justicia de los rectos los librará; mas los pecadores en su pecado serán presos. 
+PRV011007 Cuando muere el hombre impío, perece su esperanza; y la esperanza de los malos perecerá. 
+PRV011008 El justo es librado de la tribulación; mas el impío entra en lugar suyo. 
+PRV011009 El hipócrita con la boca daña a su prójimo; mas los justos son librados con la sabiduría. 
+PRV011010 En el bien de los justos la ciudad se alegra; mas cuando los impíos perecen, hay fiestas. 
+PRV011011 Por la bendición de los rectos la ciudad será engrandecida; mas por la boca de los impíos ella será trastornada. 
+PRV011012 El que carece de entendimiento, menosprecia a su prójimo; mas el hombre prudente calla. 
+PRV011013 El que anda en chismes, descubre el secreto; mas el de espíritu fiel encubre la cosa. 
+PRV011014 Cuando faltaren las industrias, caerá el pueblo; mas en la multitud de consejeros hay salud. 
+PRV011015 Con ansiedad será afligido el que fiare al extraño; mas el que aborreciere las fianzas vivirá confiado. 
+PRV011016 La mujer graciosa tendrá honra; y los fuertes tendrán riquezas. 
+PRV011017 A su alma hace bien el hombre misericordioso; mas el cruel atormenta su carne. 
+PRV011018 El impío hace obra falsa; mas el que sembrare justicia, tendrá galardón firme. 
+PRV011019 Como la justicia es para vida, así el que sigue el mal es para su muerte. 
+PRV011020 Abominación son al SEÑOR los perversos de corazón; mas los perfectos de camino le son agradables. 
+PRV011021 Por más pactos que tenga hechos con la muerte, el malo no será absuelto; mas la simiente de los justos escapará. 
+PRV011022 Zarcillo de oro en la nariz del puerco es la mujer hermosa y apartada de razón. 
+PRV011023 El deseo de los justos solamente es bueno; mas la esperanza de los impíos es enojo. 
+PRV011024 Hay quienes reparten, y les es añadido más; y hay quienes retienen más de lo que es justo, mas vienen a pobreza. 
+PRV011025 El alma de bendición a los demás será engordada; y el que saciare, él también será saciado. 
+PRV011026 Al que retiene el grano, el pueblo lo maldecirá; mas bendición será sobre la cabeza del que vende. 
+PRV011027 El que madruga al bien, hallará favor; mas al que busca el mal, éste le vendrá. 
+PRV011028 El que confía en sus riquezas, caerá; mas los justos reverdecerán como ramos. 
+PRV011029 El que turba su casa heredará viento; y el loco será siervo del sabio de corazón. 
+PRV011030 El fruto del justo es árbol de vida; y el que gana almas, es sabio. 
+PRV011031 Ciertamente el justo será recompensado en la tierra; ¡cuánto más el impío y el pecador! 
+PRV012001 El que ama el castigo ama la sabiduría; mas el que aborrece la reprensión, es ignorante. 
+PRV012002 El bueno alcanzará favor del SEÑOR; mas él condenará al hombre de malos pensamientos. 
+PRV012003 El hombre no se afirmará por medio de la impiedad; mas la raíz de los justos no será movida. 
+PRV012004 La mujer virtuosa es corona de su marido; mas la mala, como carcoma en sus huesos. 
+PRV012005 Los pensamientos de los justos son rectitud; mas las astucias de los impíos, engaño. 
+PRV012006 Las palabras de los impíos son para asechar la sangre; mas la boca de los rectos los librará. 
+PRV012007 Dios trastornará a los impíos, y no serán más; pero la casa de los justos permanecerá. 
+PRV012008 Según su sabiduría es alabado el hombre; mas el perverso de corazón será menospreciado. 
+PRV012009 Mejor es el que se menosprecie y se hace siervo, que el que se precia, y carece de pan. 
+PRV012010 El justo tiene misericordia aun a su bestia; mas las piedad de los impíos es crueldad. 
+PRV012011 El que labra su tierra, se saciará de pan; mas el que sigue a los vagabundos es falto de entendimiento. 
+PRV012012 Desea el impío la red de los malos; mas la raíz de los justos dará fruto. 
+PRV012013 El impío es enredado en la prevaricación de sus labios; mas el justo saldrá de la tribulación. 
+PRV012014 El hombre será saciado de bien del fruto de su boca; y la paga de las manos del hombre le será dada. 
+PRV012015 El camino del loco es derecho en su opinión; mas el que obedece al consejo es sabio. 
+PRV012016 El loco al momento da a conocer su ira; mas el que cubre la injuria es cuerdo. 
+PRV012017 El que habla verdad, declara justicia; mas el testigo mentiroso, engaño. 
+PRV012018 Hay quienes hablan como dando estocadas de espada; mas la lengua de los sabios es medicina. 
+PRV012019 El labio de la verdad permanecerá para siempre; mas la lengua de mentira por un momento. 
+PRV012020 Engaño hay en el corazón de los que piensan mal; mas alegría en el de los que piensan bien. 
+PRV012021 Ninguna adversidad acontecerá al justo; mas los impíos serán llenos de mal. 
+PRV012022 Los labios mentirosos son abominación al SEÑOR; mas los obradores de la verdad su contentamiento. 
+PRV012023 El hombre cuerdo encubre su sabiduría; mas el corazón de los locos publica la locura. 
+PRV012024 La mano de los diligentes se enseñoreará; mas la negligencia será tributaria. 
+PRV012025 El cuidado congojoso en el corazón del hombre, lo abate; mas la buena palabra lo alegra. 
+PRV012026 El justo hace reflexionar a su prójimo; mas el camino de los impíos les hace errar. 
+PRV012027 El engañoso ni aun asará su caza; mas el haber del hombre diligente es precioso. 
+PRV012028 En la vereda de la justicia está la vida; y el camino de su vereda no es muerte. 
+PRV013001 El hijo sabio toma el castigo del padre; mas el burlador no escucha la reprensión. 
+PRV013002 Del fruto de su boca el hombre comerá bien; mas el alma de los prevaricadores hallará mal. 
+PRV013003 El que guarda su boca guarda su alma; mas el que mucho abre sus labios tendrá calamidad. 
+PRV013004 El alma del perezoso desea, y nada alcanza; mas el alma de los diligentes será engordada. 
+PRV013005 El justo aborrece la palabra de mentira; mas el impío se hace odioso y abominable. 
+PRV013006 La justicia guarda al de perfecto camino; mas la impiedad trastornará al pecador. 
+PRV013007 Hay quienes se hacen ricos, y no tienen nada; y hay quienes se hacen pobres, y tienen muchas riquezas. 
+PRV013008 La redención de la vida del hombre son sus riquezas; pero el pobre no oye censuras. 
+PRV013009 La luz de los justos se alegrará; mas se apagará la candela de los impíos. 
+PRV013010 Ciertamente la soberbia dará a luz contienda; mas con los avisados es la sabiduría. 
+PRV013011 Las riquezas de vanidad disminuirán; pero el que trabaja las multiplicará. 
+PRV013012 La esperanza que se prolonga, es tormento del corazón; mas árbol de vida es el deseo cumplido. 
+PRV013013 El que menosprecia la palabra, perecerá por ello; mas el que teme el mandamiento, será recompensado. 
+PRV013014 La ley al sabio es manantial de vida, para apartarse de los lazos de la muerte. 
+PRV013015 El buen entendimiento conciliará gracia; mas el camino de los prevaricadores es duro. 
+PRV013016 Todo hombre cuerdo obra con sabiduría; mas el loco manifestará su locura. 
+PRV013017 El mal mensajero caerá en mal; mas el mensajero fiel es medicina. 
+PRV013018 Pobreza y vergüenza tendrá el que menosprecia el castigo; mas el que guarda la corrección, será honrado. 
+PRV013019 El deseo cumplido deleita el alma; pero apartarse del mal es abominación a los locos. 
+PRV013020 El que anda con los sabios, sabio será; mas el que se allega a los locos, será quebrantado. 
+PRV013021 Mal perseguirá a los pecadores; mas a los justos les será bien retribuido. 
+PRV013022 El bueno dejará herencia a los hijos de los hijos; y el haber del pecador, para el justo está guardado. 
+PRV013023 En el barbecho de los pobres hay mucho pan; mas se pierde por falta de juicio. 
+PRV013024 El que detiene el castigo, a su hijo aborrece; mas el que lo ama, madruga a castigarlo. 
+PRV013025 El justo come hasta saciar su alma; mas el vientre de los impíos tendrá necesidad. 
+PRV014001 La mujer sabia edifica su casa; mas la loca con sus manos la derriba. 
+PRV014002 El que camina en su rectitud teme al SEÑOR; mas el pervertido en sus caminos lo menosprecia. 
+PRV014003 En la boca del loco está la vara de la soberbia; mas los labios de los sabios los guardarán. 
+PRV014004 Sin bueyes el alfolí está limpio; mas por la fuerza del buey hay abundancia de pan. 
+PRV014005 El testigo verdadero no mentirá; mas el testigo falso hablará mentiras. 
+PRV014006 El burlador buscó la sabiduría, y no la halló; mas la sabiduría al hombre entendido es fácil. 
+PRV014007 Vete de delante del hombre loco, pues no le conociste labios de ciencia. 
+PRV014008 La ciencia del cuerdo es entender su camino; mas la locura de los locos es engaño. 
+PRV014009 Los locos se hablan pecado; mas entre los rectos hay amor. 
+PRV014010 El corazón conoce la amargura de su alma; y extraño no se entremeterá en su alegría. 
+PRV014011 La casa de los impíos será asolada; mas la tienda de los rectos florecerá. 
+PRV014012 Hay camino que al hombre parece derecho; pero su fin son caminos de muerte. 
+PRV014013 Aun en la risa el burlador tendrá dolor en el corazón; y el término de aquella alegría es congoja. 
+PRV014014 De sus caminos será harto el desviado de corazón; y el hombre de bien se apartará de él. 
+PRV014015 El simple cree a toda palabra; mas el entendido entiende sus pasos. 
+PRV014016 El sabio teme, y se aparta del mal; mas el loco se arrebata, y confía. 
+PRV014017 El que presto se enoja, hará locura; y el hombre malicioso será aborrecido. 
+PRV014018 Los simples heredarán la locura; mas los cuerdos se coronarán de sabiduría. 
+PRV014019 Los malos se inclinarán delante de los buenos, y los impíos a las puertas del justo. 
+PRV014020 El pobre es odioso aun a su amigo; pero muchos son los que aman al rico. 
+PRV014021 El pecador menosprecia a su prójimo; mas el que tiene misericordia de los pobres, es bienaventurado. 
+PRV014022 ¿No yerran los que piensan mal? Pero los que piensan bien alcanzarán misericordia y verdad. 
+PRV014023 En toda labor hay fruto; mas el hablar y no hacer, empobrece. 
+PRV014024 La corona de los sabios es su sabiduría; mas lo que distingue a los locos es su locura. 
+PRV014025 El testigo verdadero libra las almas; mas el engañoso hablará mentiras. 
+PRV014026 En el temor del SEÑOR está la fuerte confianza; y allí sus hijos tendrán esperanza. 
+PRV014027 El temor del SEÑOR es manantial de vida, para ser apartado de los lazos de la muerte. 
+PRV014028 En la multitud del pueblo está la gloria del rey; y en la falta del pueblo la flaqueza del príncipe. 
+PRV014029 El que tarde se aíra, es grande de entendimiento; mas el corto de espíritu engrandece la locura. 
+PRV014030 El corazón apacible es vida de la carne; mas la envidia, pudrimiento de huesos. 
+PRV014031 El que oprime al pobre, afrenta a su Hacedor; mas el que tiene misericordia del pobre, lo honra. 
+PRV014032 Por su maldad será lanzado el impío; mas el justo en su muerte tiene esperanza. 
+PRV014033 En el corazón del cuerdo reposará la sabiduría; y es conocida en medio de los locos. 
+PRV014034 La justicia engrandece al pueblo; mas el pecado es afrenta de las naciones. 
+PRV014035 La benevolencia del rey es para con el siervo entendido; mas su enojo contra el que lo avergüenza. 
+PRV015001 La respuesta suave quita la ira; mas la palabra áspera hace subir el furor. 
+PRV015002 La lengua de los sabios adornará la sabiduría; mas la boca de los locos hablará locura. 
+PRV015003 Los ojos del SEÑOR están en todo lugar, mirando a los malos y a los buenos. 
+PRV015004 La sana lengua es árbol de vida; mas la perversidad en ella es quebrantamiento de espíritu. 
+PRV015005 El loco menosprecia el castigo de su padre; mas el que guarda la corrección, saldrá cuerdo. 
+PRV015006 En la casa del justo hay gran provisión; pero turbación en los frutos del impío. 
+PRV015007 Los labios de los sabios esparcen sabiduría; mas no así el corazón de los locos. 
+PRV015008 El sacrificio de los impíos es abominación al SEÑOR; mas la oración de los rectos es su gozo. 
+PRV015009 Abominación es al SEÑOR el camino del impío; mas él ama al que sigue justicia. 
+PRV015010 El castigo es molesto al que deja el camino; mas el que aborreciere la corrección, morirá. 
+PRV015011 El infierno y la perdición están delante del SEÑOR; ¡cuánto más los corazones de los hombres! 
+PRV015012 El burlador no ama al que le castiga; ni se allega a los sabios. 
+PRV015013 El corazón alegre hermosea el rostro; mas por el dolor de corazón el espíritu se abate. 
+PRV015014 El corazón entendido busca la sabiduría; mas la boca de los locos pace locura. 
+PRV015015 Todos los días del pobre son trabajosos; mas el de buen corazón tiene un convite continuo. 
+PRV015016 Mejor es lo poco con el temor del SEÑOR, que el gran tesoro donde hay turbación. 
+PRV015017 Mejor es la comida de legumbres donde hay amor, que de buey engordado donde hay odio. 
+PRV015018 El hombre iracundo revolverá contiendas; mas el que tarde se enoja, apaciguará la rencilla. 
+PRV015019 El camino del perezoso es como seto de espinos; mas la vereda de los rectos como una calzada. 
+PRV015020 El hijo sabio alegra al padre; mas el hombre loco menosprecia a su madre. 
+PRV015021 La locura es alegría al falto de entendimiento; mas el hombre entendido enderezará su caminar. 
+PRV015022 Los pensamientos son frustrados donde no hay consejo; mas en la multitud de consejeros se afirman. 
+PRV015023 El hombre se alegra con la respuesta de su boca; y la palabra a su tiempo, ¡cuán buena es! 
+PRV015024 El camino de la vida es cuesta arriba al entendido, para apartarse del infierno abajo. 
+PRV015025 El SEÑOR asolará la casa de los soberbios; mas él afirmará la heredad de la viuda. 
+PRV015026 Abominación son al SEÑOR los pensamientos del malo; mas el hablar de los limpios es limpio. 
+PRV015027 Alborota su casa el codicioso; mas el que aborrece las dádivas vivirá. 
+PRV015028 El corazón del justo piensa para responder; mas la boca de los impíos derrama malas cosas. 
+PRV015029 Lejos está el SEÑOR de los impíos; mas él oye la oración de los justos. 
+PRV015030 La luz de los ojos alegra el corazón; y la buena fama engorda los huesos. 
+PRV015031 La oreja que escucha la corrección de vida, entre los sabios morará. 
+PRV015032 El que tiene en poco el castigo, menosprecia su alma; mas el que escucha la corrección, tiene corazón entendido. 
+PRV015033 El temor del SEÑOR es enseñanza de sabiduría; y delante de la honra está la humildad. 
+PRV016001 Del hombre son las preparaciones del corazón; mas del SEÑOR la respuesta de la lengua. 
+PRV016002 Todos los caminos del hombre son limpios en su opinión; mas el SEÑOR pesa los espíritus. 
+PRV016003 Encomienda al SEÑOR tus obras, y tus pensamientos serán afirmados. 
+PRV016004 Todas las cosas ha hecho el SEÑOR por sí mismo, y aun al impío para el día malo. 
+PRV016005 Abominación es al SEÑOR todo altivo de corazón; el pacto que él haga, no será sin castigo. 
+PRV016006 Con misericordia y verdad será reconciliado el pecado; y con el temor del SEÑOR se aparta del mal. 
+PRV016007 Cuando los caminos del hombre son agradables al SEÑOR, aun a sus enemigos hacen estar en paz con él. 
+PRV016008 Mejor es lo poco con justicia, que la muchedumbre de frutos sin derecho. 
+PRV016009 El corazón del hombre piensa su camino; mas el SEÑOR endereza sus pasos. 
+PRV016010 Sentencia divina está en los labios del rey; en juicio no prevaricará su boca. 
+PRV016011 Peso y balanzas de juicio son del SEÑOR; obra suya son todas las pesas de la bolsa. 
+PRV016012 Abominación es a los reyes hacer impiedad; porque con justicia será afirmado el trono. 
+PRV016013 Los labios justos son el contentamiento de los reyes; y aman al que habla lo recto. 
+PRV016014 La ira del rey es mensajero de muerte; mas el hombre sabio la evitará. 
+PRV016015 En la luz del rostro del rey está la vida; y su benevolencia es como nube de lluvia tardía. 
+PRV016016 Mejor es adquirir sabiduría que oro preciado; y adquirir inteligencia vale más que la plata. 
+PRV016017 El camino de los rectos es apartarse del mal; el que guarda su camino guarda su alma. 
+PRV016018 Antes del quebrantamiento es la soberbia; y antes de la caída la altivez de espíritu. 
+PRV016019 Mejor es humillar el espíritu con los humildes, que partir despojos con los soberbios. 
+PRV016020 El entendido en la palabra, hallará el bien; y bienaventurado el que confía en el SEÑOR. 
+PRV016021 El sabio de corazón es llamado entendido; y la dulzura de labios aumentará la doctrina. 
+PRV016022 Manantial de vida es el entendimiento al que lo posee; mas la erudición de los locos es locura. 
+PRV016023 El corazón del sabio hace prudente su boca; y con sus labios aumenta la doctrina. 
+PRV016024 Panal de miel son los dichos suaves; suavidad al alma y medicina a los huesos. 
+PRV016025 Hay camino que es derecho al parecer del hombre, mas su salida son caminos de muerte. 
+PRV016026 El alma del que trabaja, trabaja para sí; porque su boca le constriñe. 
+PRV016027 El hombre perverso cava en busca del mal; y en sus labios hay como llama de fuego. 
+PRV016028 El hombre perverso levanta contienda; y el chismoso aparta los príncipes. 
+PRV016029 El hombre malo lisonjea a su prójimo, y le hace andar por el camino no bueno; 
+PRV016030 cierra sus ojos para pensar perversidades; mueve sus labios, efectúa el mal. 
+PRV016031 Corona de honra es la vejez, que se hallará en el camino de justicia. 
+PRV016032 Mejor es el que tarde se aíra que el fuerte; y el que se enseñorea de su espíritu, que el que toma una ciudad. 
+PRV016033 La suerte se echa en el regazo; mas del SEÑOR es el juicio de ella. 
+PRV017001 Mejor es un bocado seco, y en paz, que la casa de contienda llena de víctimas. 
+PRV017002 El siervo prudente se enseñoreará del hijo que deshonra, y entre los hermanos compartirá la herencia. 
+PRV017003 El crisol para la plata, y la hornaza para el oro; mas el SEÑOR prueba los corazones. 
+PRV017004 El malo está atento al labio inicuo; y el mentiroso escucha a la lengua maldiciente. 
+PRV017005 El que escarnece al pobre, afrenta a su Hacedor; y el que se alegra en la calamidad ajena, no quedará sin castigo. 
+PRV017006 Corona de los viejos son los hijos de los hijos; y la honra de los hijos, sus padres. 
+PRV017007 No conviene al loco la altilocuencia; ¡cuánto menos al príncipe el labio mentiroso! 
+PRV017008 Piedra preciosa es el cohecho en ojos de sus dueños; a donde quiera que se vuelve, da prosperidad. 
+PRV017009 El que cubre la prevaricación, busca amistad; mas el que reitera la palabra, aparta al príncipe. 
+PRV017010 Aprovecha la reprensión en el entendido, más que cien azotes en el loco. 
+PRV017011 El rebelde no busca sino mal; y mensajero cruel será enviado contra él. 
+PRV017012 Mejor es que se encuentre un hombre con una osa a la cual han robado sus cachorros, que con un loco en su locura. 
+PRV017013 El que da mal por bien, no se apartará el mal de su casa. 
+PRV017014 Soltar las aguas (hablar precipitadamente) es el principio de la contienda; pues, antes que se revuelva el pleito, déjalo. 
+PRV017015 El que justifica al impío, y el que condena al justo, ambos por igual son abominación al SEÑOR. 
+PRV017016 ¿De qué sirve el precio en la mano del loco para comprar sabiduría, no teniendo entendimiento? 
+PRV017017 En todo tiempo ama el amigo; mas el hermano para la angustia es nacido. 
+PRV017018 El hombre falto de entendimiento toca la mano, fiando a otro delante de su amigo. 
+PRV017019 La prevaricación ama el que ama pleito; y el que alza su portada, quebrantamiento busca. 
+PRV017020 El perverso de corazón nunca hallará bien; y el que revuelve con su lengua, caerá en mal. 
+PRV017021 El que engendra al loco, para su tristeza lo engendra; y el padre del loco no se alegrará. 
+PRV017022 El corazón alegre hará bien como una medicina; mas el espíritu triste seca los huesos. 
+PRV017023 El impío toma dádiva en secreto para pervertir las veredas del derecho. 
+PRV017024 En el rostro del entendido aparece la sabiduría; mas los ojos del loco manifiestan su locura hasta el cabo de la tierra. 
+PRV017025 El hijo loco es enojo a su padre, y amargura a la que lo engendró. 
+PRV017026 Ciertamente no es bueno condenar al justo, ni herir a los príncipes por hacer lo recto. 
+PRV017027 El que detiene sus palabras tiene sabiduría; y de espíritu valioso es el hombre entendido. 
+PRV017028 Aun el loco cuando calla, es contado por sabio; el que cierra sus labios es entendido. 
+PRV018001 Segun su antojo busca el que se desvía; en toda doctrina se envolverá. 
+PRV018002 No toma placer el loco en la inteligencia, sino en lo que descubre su corazón. 
+PRV018003 Cuando viene el impío, viene también el menosprecio, y con el deshonrador la afrenta. 
+PRV018004 Aguas profundas son las palabras de la boca del hombre; y arroyo revertiente, la fuente de la sabiduría. 
+PRV018005 Tener respeto a la persona del impío, para hacer caer al justo de su derecho, no es bueno. 
+PRV018006 Los labios del loco vienen con pleito; y su boca a plaga llama. 
+PRV018007 La boca del loco es quebrantamiento para sí, y sus labios son lazos para su alma. 
+PRV018008 Las palabras del chismoso parecen blandas, mas ellas descienden hasta lo íntimo del vientre. 
+PRV018009 También el que es negligente en su obra es hermano del dueño disipador. 
+PRV018010 Torre fuerte es el nombre del SEÑOR; a él correrá el justo, y será levantado. 
+PRV018011 Las riquezas del rico son la ciudad de su fortaleza, y como un muro alto en su imaginación. 
+PRV018012 Antes del quebrantamiento se eleva el corazón del hombre, y antes de la honra es el abatimiento. 
+PRV018013 El que responde palabra antes de oír, le es locura y oprobio. 
+PRV018014 El ánimo del hombre soportará su enfermedad; mas ¿quién soportará al ánimo angustiado? 
+PRV018015 El corazón del entendido adquiere sabiduría; y el oído de los sabios busca la ciencia. 
+PRV018016 La dádiva del hombre le ensancha el camino, y le lleva delante de los grandes. 
+PRV018017 El justo es el primero en su pleito; y su adversario viene, y le busca. 
+PRV018018 La suerte pone fin a los pleitos, y desparte los fuertes. 
+PRV018019 El hermano ofendido es más tenaz que una ciudad fuerte; y las contiendas de los hermanos son como cerrojos de alcázar. 
+PRV018020 Del fruto de la boca del hombre se llenará su vientre; se saciará del producto de sus labios. 
+PRV018021 La muerte y la vida están en poder de la lengua; y el que la ama comerá de sus frutos. 
+PRV018022 El que halló esposa halló el bien, y alcanzó la benevolencia del SEÑOR. 
+PRV018023 El pobre habla con ruegos; mas el rico responde durezas. 
+PRV018024 El hombre que tiene amigos, ha de mostrarse amigo; y amigo hay más unido que un hermano. 
+PRV019001 Mejor es el pobre que camina en integridad, que el de perversos labios y loco. 
+PRV019002 El alma sin sabiduría no es buena; y el presuroso de pies peca. 
+PRV019003 La locura del hombre tuerce su camino; y contra el SEÑOR se aíra su corazón. 
+PRV019004 Las riquezas allegan muchos amigos; mas el pobre, de su amigo es apartado. 
+PRV019005 El testigo falso no será absuelto; y el que habla mentiras no escapará. 
+PRV019006 Muchos rogarán al príncipe; mas cada uno es amigo del hombre que da. 
+PRV019007 Todos los hermanos del pobre le aborrecen; ¡cuánto más sus amigos se alejarán de él! Buscará la amistad y no la hallará. 
+PRV019008 El que posee entendimiento, ama su alma; guarda la inteligencia, para hallar el bien. 
+PRV019009 El testigo falso no quedará sin castigo; y el que habla mentiras, perecerá. 
+PRV019010 No conviene al loco el deleite; ¡cuánto menos al siervo ser señor de los príncipes! 
+PRV019011 El entendimiento del hombre detiene su furor; y su honra es disimular la ofensa. 
+PRV019012 Como el bramido del cachorro de león es la ira del rey; y su favor como el rocío sobre la hierba. 
+PRV019013 Dolor es para su padre el hijo loco; y gotera continua las contiendas de la mujer. 
+PRV019014 La casa y las riquezas herencia son de los padres; mas del SEÑOR la mujer prudente. 
+PRV019015 La pereza hace caer en sueño; y el alma negligente hambreará. 
+PRV019016 El que guarda el mandamiento, guarda su alma; mas el que menospreciare sus caminos, morirá. 
+PRV019017 Al SEÑOR presta el que da al pobre, y él le dará su paga. 
+PRV019018 Castiga a tu hijo en tanto que hay esperanza; mas no se excite tu alma para destruirlo. 
+PRV019019 El de grande ira llevará la pena; porque aun si lo librares seguirá lo mismo. 
+PRV019020 Escucha el consejo, y recibe el castigo, para que seas sabio en tu vejez. 
+PRV019021 Muchos pensamientos hay en el corazón del hombre; mas el consejo del SEÑOR permanecerá. 
+PRV019022 Contentamiento es a los hombres hacer misericordia; pero es mejor hacerlo al pobre que al mentiroso. 
+PRV019023 El temor del SEÑOR es para vida; el que lo tenga vivirá satisfecho; no será visitado de mal. 
+PRV019024 El perezoso esconde su mano en el seno; aun a su boca no la llevará. 
+PRV019025 Hiere al burlador, y el simple se hará avisado; y corrigiendo al entendido, entenderá ciencia. 
+PRV019026 El que roba a su padre y ahuyenta a su madre, es hijo avergonzador y deshonrador. 
+PRV019027 Cesa, hijo mío, de oír la enseñanza que induce a divagar de las razones de sabiduría. 
+PRV019028 El testigo perverso se burlará del juicio; y la boca de los impíos encubrirá la iniquidad. 
+PRV019029 Aparejados están juicios para los burladores, y azotes para los cuerpos de los locos. 
+PRV020001 El vino hace burlador, la cerveza alborotador; y cualquiera que en ellos yerra, no será sabio. 
+PRV020002 Como bramido de cachorro de león es el miedo del rey; el que lo hace enojar, peca contra su alma. 
+PRV020003 Honra es del hombre dejarse de contienda; mas todo loco se envolverá en ella. 
+PRV020004 El perezoso no ara a causa del invierno; pedirá, pues, en la siega, y no hallará. 
+PRV020005 Como aguas profundas es el consejo en el corazón del hombre; mas el hombre entendido lo alcanzará a sacar. 
+PRV020006 Muchos hombres publican cada uno su misericordia; mas varón de verdad, ¿quién lo hallará? 
+PRV020007 El justo que camina en su integridad, bienaventurados serán sus hijos después de él. 
+PRV020008 El rey que se sienta en el trono de juicio, con su mirar disipa todo mal. 
+PRV020009 ¿Quién podrá decir: Yo he limpiado mi corazón; limpio estoy de mi pecado? 
+PRV020010 Doble pesa y doble medida, abominación son al SEÑOR ambas cosas. 
+PRV020011 Aun el niño es conocido por sus obras, si su obra fuere limpia y recta. 
+PRV020012 El oído que oye, y el ojo que ve; el SEÑOR hizo ambas cosas. 
+PRV020013 No ames el sueño, para que no te empobrezcas; abre tus ojos, y te saciarás de pan. 
+PRV020014 El que compra dice: Malo es, malo es; mas cuando se aparta, se alaba. 
+PRV020015 Hay oro y multitud de piedras preciosas; mas los labios sabios son vaso precioso. 
+PRV020016 Quítale su ropa al que salió por fiador del extraño; y tómale prenda al que fía la extraña. 
+PRV020017 Sabroso es al hombre el pan de mentira; mas después su boca será llena de cascajo. 
+PRV020018 Los pensamientos con el consejo se ordenan; y con industria se hace la guerra. 
+PRV020019 El que descubre el secreto, en chismes anda; no te entremetas, pues, con el que lisonjea con sus labios. 
+PRV020020 El que maldice a su padre o a su madre, su candela será apagada en oscuridad tenebrosa. 
+PRV020021 La herencia adquirida de prisa al principio, su postrimería no será bendita. 
+PRV020022 No digas, yo me vengaré; espera al SEÑOR, y él te salvará. 
+PRV020023 Abominación son al SEÑOR las pesas dobles; y el peso falso no es bueno. 
+PRV020024 Del SEÑOR son los pasos del hombre; ¿cómo, pues, entenderá el hombre su camino? 
+PRV020025 Lazo es al hombre el devorar lo santo, y andar pesquisando después de los votos. 
+PRV020026 El rey sabio esparce los impíos; y sobre ellos hace rodar la rueda. 
+PRV020027 Candela del SEÑOR es el aliento del hombre que escudriña lo secreto del vientre. 
+PRV020028 Clemencia y verdad guardan al rey; y con clemencia sustenta su trono. 
+PRV020029 La gloria de los jóvenes es su fortaleza, y la hermosura de los viejos su vejez. 
+PRV020030 Las señales de las heridas son medicina para lo malo; y las vivas amonestaciones llegan a lo más secreto del vientre. 
+PRV021001 Como los repartimientos de las aguas, así está el corazón del rey en la mano del SEÑOR; a todo lo que quiere lo inclina. 
+PRV021002 Todo camino del hombre es recto en su opinión; mas el SEÑOR pesa los corazones. 
+PRV021003 Hacer justicia y juicio es al SEÑOR más agradable que sacrificio. 
+PRV021004 Altivez de ojos, y orgullo de corazón, que es la candela de los impíos, es pecado. 
+PRV021005 Los pensamientos del solícito ciertamente van a abundancia; mas los de todo presuroso, indefectiblemente a pobreza. 
+PRV021006 Allegar tesoros con lengua de mentira, es vanidad desatentada de aquellos que buscan la muerte. 
+PRV021007 La rapiña de los impíos los destruirá; por cuanto no quisieron hacer juicio. 
+PRV021008 El camino del hombre perverso es torcido y extraño; mas la obra del limpio es recta. 
+PRV021009 Mejor es vivir en un rincón del terrado que con la mujer rencillosa en espaciosa casa. 
+PRV021010 El alma del impío desea mal; su prójimo no le parece bien. 
+PRV021011 Cuando el burlador es castigado, el simple se hace sabio; y enseñando al sabio, toma sabiduría. 
+PRV021012 Considera el justo la casa del impío; cómo los impíos son trastornados por el mal. 
+PRV021013 El que cierra su oído al clamor del pobre, también él clamará, y no será oído. 
+PRV021014 El presente en secreto amansa el furor, y el don en el seno, la fuerte ira. 
+PRV021015 Alegría es al justo el hacer juicio; mas quebrantamiento a los que hacen iniquidad. 
+PRV021016 El hombre que yerra del camino de la sabiduría, vendrá a parar en la compañía de los muertos. 
+PRV021017 Hombre necesitado será el que ama el deleite; y el que ama el vino y el ungüento no enriquecerá. 
+PRV021018 El rescate del justo será el impío, y por los rectos el prevaricador. 
+PRV021019 Mejor es morar en tierra del desierto, que con la mujer rencillosa e iracunda. 
+PRV021020 Tesoro codiciable y aceite hay en la casa del sabio; mas el hombre loco lo disipará. 
+PRV021021 El que sigue la justicia y la misericordia, hallará la vida, la justicia, y la honra. 
+PRV021022 La ciudad de los fuertes tomó el sabio, y derribó la fuerza en que ella confiaba. 
+PRV021023 El que guarda su boca y su lengua, su alma guarda de angustias. 
+PRV021024 Soberbio, arrogante y burlador es el nombre del que obra con la furia de la soberbia. 
+PRV021025 El deseo del perezoso le mata, porque sus manos no quieren trabajar. 
+PRV021026 Hay quien todo el día codicia; mas el justo da, y sigue dando. 
+PRV021027 El sacrificio de los impíos es abominación; ¡cuánto más ofreciéndolo con maldad! 
+PRV021028 El testigo mentiroso perecerá; mas el hombre que oye, permanecerá en su dicho. 
+PRV021029 El hombre impío endurece su rostro; mas el recto ordena sus caminos. 
+PRV021030 No hay sabiduría, ni inteligencia, ni consejo, contra el SEÑOR. 
+PRV021031 El caballo se apareja para el día de la batalla; mas del SEÑOR es el salvar. 
+PRV022001 De más estima es la buena fama que las muchas riquezas; y la buena gracia más que la plata y el oro. 
+PRV022002 El rico y el pobre se encontraron; a todos ellos los hizo el SEÑOR. 
+PRV022003 El avisado ve el mal, y se esconde; mas los simples pasan, y reciben el daño. 
+PRV022004 Riquezas, y honra, y vida, son la remuneración de la humildad y del temor del SEÑOR. 
+PRV022005 Espinas y lazos hay en el camino del perverso; el que guarda su alma se alejará de ellos. 
+PRV022006 Instruye al niño en su carrera; aun cuando fuere viejo no se apartará de ella. 
+PRV022007 El rico se enseñoreará de los pobres, y el que toma prestado es siervo del que presta. 
+PRV022008 El que sembrare iniquidad, iniquidad segará; y se consumirá la vara de su ira. 
+PRV022009 El ojo misericordioso será bendito, porque dio de su pan al menesteroso. 
+PRV022010 Echa fuera al burlador, y saldrá la contienda; y cesará el pleito y la afrenta. 
+PRV022011 El que ama la limpieza de corazón, y la gracia de sus labios; su compañero será el rey. 
+PRV022012 Los ojos del SEÑOR miran por la ciencia; mas él trastorna las cosas de los prevaricadores. 
+PRV022013 Dice el perezoso: El león está afuera; en medio de la calle seré muerto. 
+PRV022014 Sima profunda es la boca de las extrañas; aquel contra el cual estuviere el SEÑOR airado, caerá en ella. 
+PRV022015 La locura está ligada en el corazón del niño; mas la vara de la corrección la hará alejar de él. 
+PRV022016 El que oprime al pobre para aumentarse él, y que da al rico, ciertamente será pobre. 
+PRV022017 Inclina tu oído, y oye las palabras de los sabios, y pon tu corazón a mi sabiduría; 
+PRV022018 porque es cosa deleitable, si las guardares en tus entrañas; y que juntamente sean ordenadas en tus labios. 
+PRV022019 Para que tu confianza sea en el SEÑOR, te las he hecho saber hoy a ti también. 
+PRV022020 ¿No te he escrito tres veces en consejos y ciencia, 
+PRV022021 para hacerte saber la certidumbre de las razones verdaderas, para que puedas responder razones de verdad a los que a ti enviaren? 
+PRV022022 No robes al pobre, porque es pobre, ni quebrantes en el juicio al necesitado; 
+PRV022023 porque el SEÑOR juzgará la causa de ellos, y despojará el alma de aquellos que los despojaren. 
+PRV022024 No te entremetas con el iracundo, ni te acompañes con el hombre de enojos; 
+PRV022025 para que no aprendas sus veredas, y tomes lazo para tu alma. 
+PRV022026 No estés entre los que tocan la mano, entre los que fían por deudas. 
+PRV022027 Si no tuvieres para pagar, ¿por qué han de quitar tu cama de debajo de ti? 
+PRV022028 No traspases el término antiguo que pusieron tus padres. 
+PRV022029 ¿Has visto hombre solícito en su obra? Delante de los reyes estará; no estará delante de los oscuros. 
+PRV023001 Cuando te sentares a comer con algún señor, considera bien lo que estuviere delante de ti; 
+PRV023002 y pon cuchillo a tu garganta, si tienes gran apetito. 
+PRV023003 No codicies sus manjares, porque es pan engañoso. 
+PRV023004 No trabajes por ser rico; desiste de tu cuidado. 
+PRV023005 ¿Has de poner tus ojos en las riquezas, siendo ningunas? Porque se harán alas, como alas de águila, y volarán al cielo. 
+PRV023006 No comas pan de hombre de mal ojo, ni codicies sus manjares; 
+PRV023007 porque cual es su pensamiento en su alma, tal es él. Come y bebe, te dirá; mas su corazón no está contigo. 
+PRV023008 ¿Comiste tu parte? La vomitarás; y perderás tus suaves palabras. 
+PRV023009 No hables a oídos del loco; porque menospreciará la prudencia de tus razones. 
+PRV023010 No traspases el término antiguo, ni entres en la heredad de los huérfanos; 
+PRV023011 porque el defensor de ellos es el Fuerte, el cual juzgará la causa de ellos contra ti. 
+PRV023012 Aplica tu corazón al castigo, y tus oídos a las palabras de sabiduría. 
+PRV023013 No detengas el castigo del niño; porque si lo hirieres con vara, no morirá. 
+PRV023014 Tú lo herirás con vara, y librarás su alma del infierno. 
+PRV023015 Hijo mío, si tu corazón fuere sabio, también a mí se me alegrará el corazón; 
+PRV023016 mis entrañas también se alegrarán, cuando tus labios hablaren cosas rectas. 
+PRV023017 No tenga tu corazón envidia de los pecadores, antes persevera en el temor del SEÑOR todo tiempo; 
+PRV023018 porque ciertamente hay fin, y tu esperanza no será cortada. 
+PRV023019 Oye tú, hijo mío, y sé sabio, y endereza tu corazón al camino. 
+PRV023020 No estés con los bebedores de vino, ni con los comedores de carne; 
+PRV023021 porque el bebedor y el comilón empobrecerán; y el sueño hará vestir vestidos rotos. 
+PRV023022 Oye a tu padre, a aquel que te engendró; y cuando tu madre envejeciere, no la menosprecies. 
+PRV023023 Compra la verdad, y no la vendas; la sabiduría, la enseñanza, y la inteligencia. 
+PRV023024 Mucho se alegrará el padre del justo; y el que engendró sabio se gozará con él. 
+PRV023025 Alégrense tu padre y tu madre, y gócese la que te dio a luz. 
+PRV023026 Dame, hijo mío, tu corazón, y miren tus ojos por mis caminos. 
+PRV023027 Porque sima profunda es la ramera, y pozo angosto la extraña. 
+PRV023028 También ella, como robador, acecha, y multiplica entre los hombres los prevaricadores. 
+PRV023029 ¿Para quién será el ay? ¿Para quién el ay? ¿Para quién las rencillas? ¿Para quién las quejas? ¿Para quién las heridas en balde? ¿Para quién lo amoratado de los ojos? 
+PRV023030 Para los que se detienen junto al vino, para los que van buscando la mixtura. 
+PRV023031 No mires al vino cuando rojea, cuando resplandece su color en el vaso, se entra suavemente; 
+PRV023032 mas al fin morderá como serpiente, y como basilisco dará dolor. 
+PRV023033 Tus ojos mirarán las extrañas, y tu corazón hablará perversidades. 
+PRV023034 Y serás como el que duerme en medio del mar, y como el que se acuesta junto al timón. 
+PRV023035 Y dirás: Me hirieron, mas no me dolió; me azotaron, mas no lo sentí; cuando despertare, aun lo volveré a buscar. 
+PRV024001 No tengas envidia de los hombres malos, ni desees estar con ellos; 
+PRV024002 porque su corazón piensa en robar, e iniquidad hablan sus labios. 
+PRV024003 Con sabiduría se edificará la casa, y con prudencia se afirmará; 
+PRV024004 y con ciencia se llenarán las cámaras de todas riquezas preciosas y hermosas. 
+PRV024005 El hombre sabio es fuerte; y el hombre entendido es valiente de fuerza. 
+PRV024006 Porque con industrias harás la guerra; y la salud está en la multitud de consejeros. 
+PRV024007 Alta está para el loco la sabiduría; en la puerta no abrirá él su boca. 
+PRV024008 Al que piensa mal hacer le llamarán hombre de malos pensamientos. 
+PRV024009 El pensamiento del loco es pecado; y abominación a los hombres el burlador. 
+PRV024010 Si fueres flojo en el día de tribulación, tu fuerza será reducida. 
+PRV024011 Si dejares de librar los que son tomados para la muerte, y los que son llevados al degolladero; 
+PRV024012 si dijeres: Ciertamente no lo supimos; ¿no lo entenderá el que pesa los corazones? El que mira por tu alma, él lo conocerá, y dará al hombre según sus obras. 
+PRV024013 Come, hijo mío, de la miel, porque es buena, y del panal dulce a tu paladar; 
+PRV024014 tal será el conocimiento de la sabiduría a tu alma, si la hallares; y al fin tu esperanza no será cortada. 
+PRV024015 Oh impío, no aceches la tienda del justo, no saquees su cámara; 
+PRV024016 porque siete veces cae el justo, y vuelve a levantarse; mas los impíos caerán en el mal. 
+PRV024017 Cuando cayere tu enemigo, no te regocijes; y cuando tropezare, no se alegre tu corazón; 
+PRV024018 para que el SEÑOR no lo mire, y le desagrade, y aparte de sobre él su enojo. 
+PRV024019 No te entremetas con los malignos, ni tengas envidia de los impíos; 
+PRV024020 porque para el malo no habrá buen fin, y la candela de los impíos será apagada. 
+PRV024021 Teme al SEÑOR, hijo mío, y al rey; no te entremetas con los veleidosos; 
+PRV024022 porque su quebrantamiento se levantará de repente; y el quebrantamiento de ambos, ¿quién lo comprenderá? 
+PRV024023 También estas cosas pertenecen a los sabios. Tener acepción de personas en el juicio no es bueno. 
+PRV024024 El que dijere al malo: Justo eres, los pueblos lo maldecirán, y le detestarán las naciones; 
+PRV024025 mas los que lo reprenden, serán agradables, y sobre ellos vendrá bendición de bien. 
+PRV024026 Besados serán los labios del que responde palabras rectas. 
+PRV024027 Prepara tus labores de afuera, y disponlas en tu heredad; y después edificarás tu casa. 
+PRV024028 No seas testigo falso contra tu prójimo; y no lisonjees con tus labios. 
+PRV024029 No digas: Como me hizo, así le haré; daré el pago al varón según su obra. 
+PRV024030 Pasé junto a la heredad del hombre perezoso, y junto a la viña del hombre falto de entendimiento; 
+PRV024031 y he aquí que por toda ella habían ya crecido espinas, ortigas habían ya cubierto su faz, y su cerca de piedra estaba ya destruida. 
+PRV024032 Y yo miré, y lo puse en mi corazón; lo vi, y tomé castigo. 
+PRV024033 Un poco de sueño, cabeceando otro poco, poniendo mano sobre mano otro poco para dormir; 
+PRV024034 así vendrá como caminante tu necesidad, y tu pobreza como hombre de escudo. 
+PRV025001 También estos son proverbios de Salomón, los cuales copiaron los varones de Ezequías, rey de Judá. 
+PRV025002 Honra de Dios es encubrir la palabra; mas honra del rey es escudriñar la palabra. 
+PRV025003 Para la altura de los cielos, y para la profundidad de la tierra, y para el corazón de los reyes, no hay investigación. 
+PRV025004 Quita las escorias de la plata, y saldrá vaso al fundidor. 
+PRV025005 Aparta al impío de la presencia del rey, y su trono se afirmará en justicia. 
+PRV025006 No te alabes delante del rey, ni estés en el lugar de los grandes; 
+PRV025007 porque mejor es que se te diga: Sube acá, que no que seas abajado delante del príncipe a quien han mirado tus ojos. 
+PRV025008 No salgas a pleito presto, no sea que no sepas qué hacer al fin, después que tu prójimo te haya avergonzado. 
+PRV025009 Trata tu causa con tu compañero, y no descubras el secreto a otro; 
+PRV025010 para que no te deshonre el que lo oyere, y tu infamia no pueda repararse. 
+PRV025011 Manzana de oro con figuras de plata es la palabra dicha como conviene. 
+PRV025012 Como zarcillo de oro y joyel de oro fino, es el que reprende al sabio que tiene oído dócil. 
+PRV025013 Como frío de nieve en tiempo de la siega, así es el mensajero fiel a los que lo envían; pues al alma de su señor da refrigerio. 
+PRV025014 Como nubes y vientos sin lluvia, así es el hombre que se jacta en don de mentira. 
+PRV025015 Con larga paciencia se aplaca el príncipe; y la lengua blanda quebranta los huesos. 
+PRV025016 ¿Hallaste la miel? Come lo que te basta; no sea que hastiado de ella, la vomites. 
+PRV025017 Detén tu pie de la casa de tu prójimo, no sea que hastiado de ti te aborrezca. 
+PRV025018 Martillo y cuchillo y saeta aguda, es el hombre que habla contra su prójimo falso testimonio. 
+PRV025019 Diente quebrado y pie resbalador, es la confianza en el prevaricador en el tiempo de angustia. 
+PRV025020 El que canta canciones al corazón afligido, es como el que quita la ropa en tiempo de frío, o el que sobre el jabón echa vinagre. 
+PRV025021 Si el que te aborrece tuviere hambre, dale de comer pan; y si tuviere sed, dale de beber agua; 
+PRV025022 porque ascuas allegas sobre su cabeza, y el SEÑOR te lo pagará. 
+PRV025023 El viento del norte ahuyenta la lluvia, y el rostro airado la lengua detractora. 
+PRV025024 Mejor es estar en un rincón del terrado, que con la mujer rencillosa en casa espaciosa. 
+PRV025025 Como el agua fría al alma sedienta, así son las buenas nuevas de lejanas tierras. 
+PRV025026 Como fuente turbia y manantial corrompido, es el justo que se inclina delante del impío. 
+PRV025027 Comer mucha miel no es bueno; ni inquirir de su propia gloria es gloria. 
+PRV025028 Como ciudad derribada y sin muro, es el hombre cuyo espíritu no tiene rienda. 
+PRV026001 Como la nieve en el verano, y la lluvia en la siega, así conviene al loco la honra. 
+PRV026002 Como el gorrión en su vagar, y como la golondrina en su vuelo, así la maldición sin causa nunca vendrá. 
+PRV026003 El látigo para el caballo, y el cabestro para el asno, y la vara para el cuerpo del loco. 
+PRV026004 Nunca respondas al loco en conformidad a su locura, para que no seas tú también como él. 
+PRV026005 Responde al loco mostrándole su locura, para que no se estime sabio en su opinión. 
+PRV026006 El que da un cargo al que no tiene facultad para ejercitarlo, es el que envía algo por mano del loco; y beberá el daño. 
+PRV026007 Así como camina el cojo; es el proverbio en la boca del loco. 
+PRV026008 Como quien liga la piedra en la honda, así es el que da honra al loco. 
+PRV026009 Espinas hincadas en mano del embriagado, tal es el proverbio en la boca de los locos. 
+PRV026010 El gran Dios cría todas las cosas; y al loco da la paga, y a los transgresores da el salario. 
+PRV026011 Como perro que vuelve a su vómito, así el loco que repite su locura. 
+PRV026012 ¿Has visto hombre sabio en su propia opinión? Más esperanza hay del loco que de él. 
+PRV026013 Dice el perezoso: El león está en el camino; el león está en las calles. 
+PRV026014 Las puertas se revuelven en sus quicios; así el perezoso en su cama. 
+PRV026015 Esconde el perezoso su mano en el seno; se cansa de volverla a su boca. 
+PRV026016 Más sabio es el perezoso en su propia opinión que siete que le den consejo. 
+PRV026017 El que pasando se deja llevar de la ira en pleito ajeno, es como el que toma al perro por las orejas. 
+PRV026018 Como el que enloquece, y echa llamas, y saetas, y muerte, 
+PRV026019 tal es el hombre que daña a su amigo, y dice: Ciertamente lo hice por broma. 
+PRV026020 Sin leña se apaga el fuego; y donde no hay chismoso, cesa la contienda. 
+PRV026021 El carbón para brasas, y la leña para el fuego; y el hombre rencilloso para encender contienda. 
+PRV026022 Las palabras del chismoso parecen blandas; mas ellas entran hasta lo secreto del vientre. 
+PRV026023 Como escoria de plata echada sobre el tiesto, son los labios enardecidos y el corazón malo. 
+PRV026024 El que odia disimula con sus labios; mas en su interior maquina engaño. 
+PRV026025 Cuando hablare amigablemente, no le creas; porque siete abominaciones hay en su corazón. 
+PRV026026 Aunque su odio se encubre en el desierto; su malicia será descubierta en la congregación. 
+PRV026027 El que cavare sima, caerá en ella; y el que revuelva la piedra, a él volverá. 
+PRV026028 La falsa lengua aborrece al que atormenta; y la boca lisonjera hace resbaladero. 
+PRV027001 No te jactes del día de mañana; porque no sabes qué dará de sí el día. 
+PRV027002 Alábete el extraño, y no tu boca; el ajeno, y no tus labios. 
+PRV027003 Pesada es la piedra, y la arena pesa; mas la ira del loco es más pesada que ambas cosas. 
+PRV027004 Cruel es la ira, e impetuoso el furor; mas ¿quién parará delante de la envidia? 
+PRV027005 Mejor es la reprensión manifiesta que el amor oculto. 
+PRV027006 Fieles son las heridas del que ama; pero importunos los besos del que aborrece. 
+PRV027007 El alma saciada desprecia el panal de miel; mas al alma hambrienta todo lo amargo es dulce. 
+PRV027008 Como el ave se va de su nido, así el hombre se va de su lugar. 
+PRV027009 El ungüento y el incienso alegran el corazón; así la dulzura del amigo con el consejo del alma. 
+PRV027010 No dejes a tu amigo, ni al amigo de tu padre; ni entres en casa de tu hermano el día de tu aflicción. Mejor es el vecino cerca que el hermano lejano. 
+PRV027011 Sé sabio, hijo mío, y alegra mi corazón, y tendré qué responder al que me deshonrare. 
+PRV027012 El avisado ve el mal, y se esconde, mas los simples pasan, y llevan el daño. 
+PRV027013 Quítale su ropa al que fio al extraño; y al que fio a la extraña, tómale prenda. 
+PRV027014 El que bendice a su amigo en alta voz, madrugando de mañana, por maldición se le contará. 
+PRV027015 Gotera continua en tiempo de lluvia, y la mujer rencillosa, son semejantes; 
+PRV027016 el que la escondió, escondió el viento; porque el aceite en su mano derecha clama. 
+PRV027017 Hierro con hierro se aguza; y el hombre le da ánimo a su amigo. 
+PRV027018 El que guarda la higuera, comerá su fruto; y el que guarda a su señor, será honrado. 
+PRV027019 Como en agua el rostro corresponde al rostro, así el corazón del hombre al hombre. 
+PRV027020 El sepulcro y la perdición nunca se sacian; así los ojos del hombre nunca están satisfechos. 
+PRV027021 El crisol prueba la plata, y la hornaza el oro; y al hombre la boca del que lo alaba. 
+PRV027022 Aunque majes al loco en un mortero entre granos de trigo a pisón majados, no se quitará de él su locura. 
+PRV027023 Considera atentamente el rostro de tus ovejas; pon tu corazón al ganado; 
+PRV027024 porque las riquezas no son para siempre; ¿Y será la corona para perpetuas generaciones? 
+PRV027025 Saldrá la grama, aparecerá la hierba, y se segarán las hierbas de los montes. 
+PRV027026 Los corderos son para tus vestidos, y los cabritos son para el precio del campo; 
+PRV027027 y abundancia de leche de las cabras para tu mantenimiento, y para mantenimiento de tu casa, y para sustento de tus criadas. 
+PRV028001 Huye el impío sin que nadie lo persiga; mas el justo está confiado como un leoncillo. 
+PRV028002 Por la rebelión de la tierra sus príncipes son muchos; mas por el hombre entendido y sabio permanecerá sin mutación. 
+PRV028003 El hombre pobre y robador de los pobres, es lluvia de avenida que deja sin pan. 
+PRV028004 Los que dejan la ley, alaban al impío; mas los que la guardan, contenderán con ellos. 
+PRV028005 Los hombres malos no entienden el juicio; mas los que buscan al SEÑOR, entienden todas las cosas. 
+PRV028006 Mejor es el pobre que camina en su perfección, que el de perversos caminos, y rico. 
+PRV028007 El que guarda la ley es hijo prudente; mas el que es compañero de glotones, avergüenza a su padre. 
+PRV028008 El que aumenta sus riquezas con usura y recambio, para que se dé a los pobres las allega. 
+PRV028009 El que aparta su oído para no oír la ley, su oración también será abominable. 
+PRV028010 El que hace errar a los rectos por el mal camino, el caerá en su misma sima; mas los perfectos heredarán el bien. 
+PRV028011 El hombre rico es sabio en su opinión; mas el pobre entendido es más sabio que él. 
+PRV028012 Cuando los justos se alegran, grande es la gloria; mas cuando los impíos son levantados, el hombre cuerdo se esconderá. 
+PRV028013 El que encubre sus pecados, no prosperará; mas el que los confiesa y se aparta, alcanzará misericordia. 
+PRV028014 Bienaventurado el hombre que siempre teme a Dios; mas el que endurece su corazón, caerá en mal. 
+PRV028015 León rugiente y oso hambriento, es el príncipe impío sobre el pueblo pobre. 
+PRV028016 El príncipe falto de entendimiento multiplicará los agravios; mas el que aborrece la avaricia, prolongará sus días. 
+PRV028017 El hombre que hace violencia con sangre de persona, huirá hasta el sepulcro, y nadie le sustentará. 
+PRV028018 El que camina en integridad, será salvo; mas el de perversos caminos caerá en alguno. 
+PRV028019 El que labra su tierra, se saciará de pan; mas el que sigue a los ociosos, se llenará de pobreza. 
+PRV028020 El hombre de la verdad tendrá muchas bendiciones; mas el que se apresura a enriquecer, no será absuelto. 
+PRV028021 Tener acepción de personas en el juicio, no es bueno; hasta por un bocado de pan prevaricará el hombre. 
+PRV028022 Se apresura a ser rico el hombre de mal ojo; y no conoce que le ha de venir pobreza. 
+PRV028023 El que reprende al hombre, hallará después mayor gracia que el que lisonjea con la lengua. 
+PRV028024 El que roba a su padre o a su madre, y dice que no es maldad, compañero es del hombre destruidor. 
+PRV028025 El altivo de ánimo suscita contiendas; mas el que en el SEÑOR confía, medrará. 
+PRV028026 El que confía en su corazón es loco; mas el que camina en sabiduría, será salvo. 
+PRV028027 El que da al pobre, nunca tendrá pobreza; mas el que del pobre aparta sus ojos, tendrá muchas maldiciones. 
+PRV028028 Cuando los impíos son levantados, el hombre cuerdo se esconderá; mas cuando perecen, los justos se multiplican. 
+PRV029001 El hombre que reprendido endurece la cerviz, de repente será quebrantado; y no habrá para él medicina. 
+PRV029002 Cuando los justos dominan, el pueblo se alegra; mas cuando domina el impío, el pueblo gime. 
+PRV029003 El hombre que ama la sabiduría, alegra a su padre; mas el que mantiene rameras, perderá la hacienda. 
+PRV029004 El rey con el juicio afirma la tierra; mas el hombre amigo de presentes la destruirá. 
+PRV029005 El hombre que lisonjea a su prójimo, red tiende delante de sus pasos. 
+PRV029006 En la prevaricación del hombre malo hay lazo; mas el justo cantará y se alegrará. 
+PRV029007 Conoce el justo el derecho de los pobres; mas el impío no entiende sabiduría. 
+PRV029008 Los hombres burladores enlazan la ciudad; mas los sabios apartan la ira. 
+PRV029009 Si el hombre sabio contendiere con el loco, que se enoje o que se ría, no tendrá reposo. 
+PRV029010 Los hombres sanguinarios aborrecen al perfecto; mas los rectos buscan su alma. 
+PRV029011 El loco da rienda suelta a todo su espíritu; mas el sabio al fin lo sosiega. 
+PRV029012 Del señor que escucha la palabra mentirosa, todos sus ministros son impíos. 
+PRV029013 El pobre y el usurero se encontraron; el SEÑOR alumbra los ojos de ambos. 
+PRV029014 El rey que juzga con verdad a los pobres, su trono será firme para siempre. 
+PRV029015 La vara y la corrección dan sabiduría; mas el muchacho suelto avergonzará a su madre. 
+PRV029016 Cuando los impíos son muchos, mucha es la prevaricación; mas los justos verán la ruina de ellos. 
+PRV029017 Corrige a tu hijo, y te dará descanso, y dará deleite a tu alma. 
+PRV029018 Sin visión profética el pueblo perecerá; mas el que guarda la ley es bienaventurado. 
+PRV029019 El siervo no se castigará con palabras; porque entiende, mas no hace caso. 
+PRV029020 ¿Has visto hombre ligero en sus palabras? Más esperanza hay del loco que de él. 
+PRV029021 El que regala a su siervo desde su niñez, a la postre será su hijo. 
+PRV029022 El hombre iracundo levanta contiendas; y el furioso muchas veces peca. 
+PRV029023 La soberbia del hombre le abate; pero al humilde de espíritu sustenta la honra. 
+PRV029024 El cómplice del ladrón aborrece su vida; oirá maldiciones, y no lo denunciará. 
+PRV029025 El temor a los hombres es peligroso; mas el que confía en el SEÑOR será levantado. 
+PRV029026 Muchos buscan el favor del príncipe; mas del SEÑOR viene el juicio de cada uno. 
+PRV029027 Abominación es a los justos el hombre inicuo; y abominación es al impío el de rectos caminos. 
+PRV030001 Palabras de Agur, hijo de Jaqué: La profecía que dijo el varón a Itiel, a Itiel y a Ucal. 
+PRV030002 Ciertamente más rudo soy yo que ninguno, ni tengo entendimiento de hombre. 
+PRV030003 Yo ni aprendí sabiduría, ni conozco la teología. 
+PRV030004 ¿Quién subió al cielo, y descendió? ¿Quién encerró los vientos en sus puños? ¿Quién ató las aguas en un paño? ¿Quién afirmó todos los términos de la tierra? ¿Cuál es su nombre, y el nombre de su hijo, si sabes? 
+PRV030005 Toda palabra de Dios es limpia; es escudo a los que en él esperan. 
+PRV030006 No añadas a sus palabras, para que no te reprenda, y seas hallado mentiroso. 
+PRV030007 Dos cosas te he demandado; no me las niegues antes que muera: 
+PRV030008 Vanidad y palabra mentirosa aparta de mí; no me des pobreza ni riquezas; manténme del pan de mi juicio; 
+PRV030009 para que no me sacie, y te niegue, y diga, ¿Quién es el SEÑOR? O no sea que siendo pobre, hurte, y blasfeme el nombre de mi Dios. 
+PRV030010 No acuses al siervo ante su señor, para que no te maldiga, y peques. 
+PRV030011 Hay generación que maldice a su padre, y a su madre no bendice. 
+PRV030012 Hay generación limpia en su opinión, y nunca se ha limpiado su inmundicia. 
+PRV030013 Hay generación cuyos ojos son altivos, y cuyos párpados son alzados. 
+PRV030014 Hay generación cuyos dientes son espadas, y sus muelas cuchillos, para devorar de la tierra a los pobres, y de entre los hombres a los menesterosos. 
+PRV030015 La sanguijuela tiene dos hijas que se llaman, dame, dame. Tres cosas hay que nunca se sacian; aun la cuarta nunca dice, basta: 
+PRV030016 El sepulcro, y la matriz estéril, la tierra que no se sacie de aguas, y el fuego que jamás dice: Basta. 
+PRV030017 El ojo que escarnece a su padre, y menosprecia la enseñanza de la madre, los cuervos lo saquen del río, y lo devoren los hijos del águila. 
+PRV030018 Tres cosas me son ocultas; aun tampoco sé la cuarta: 
+PRV030019 El rastro del águila en el aire; el rastro de la culebra sobre la peña; el rastro de la nave en medio del mar; y el rastro del hombre en la doncella. 
+PRV030020 Tal es el rastro de la mujer adúltera, come, y limpia su boca, y dice: No he hecho maldad. 
+PRV030021 Por tres cosas se alborota la tierra, y la cuarta no puede sufrir: 
+PRV030022 Por el siervo cuando reinare; y por el loco cuando se saciare de pan; 
+PRV030023 por la mujer aborrecida cuando se casare; y por la sierva cuando heredare a su señora. 
+PRV030024 Cuatro cosas son de las más pequeñas de la tierra, y las mismas son más sabias que los sabios: 
+PRV030025 Las hormigas, pueblo no fuerte, y en el verano preparan su comida; 
+PRV030026 los conejos, pueblo no fuerte, y ponen su casa en la piedra; 
+PRV030027 las langostas, no tienen rey, y salen todas acuadrilladas; 
+PRV030028 la araña, ase con las manos, y está en palacios de rey. 
+PRV030029 Tres cosas hay de hermoso andar, y la cuarta pasea muy bien: 
+PRV030030 El león, fuerte entre todos los animales, que no vuelve atrás por nadie; 
+PRV030031 el lebrel ceñido de lomos; asimismo el macho cabrío; y el rey contra el cual ninguno se levanta. 
+PRV030032 Si caíste, fue porque te enalteciste; y si mal pensaste, pon el dedo sobre la boca. 
+PRV030033 Ciertamente el que exprime la leche, sacará manteca; y el que recio se suena las narices, sacará sangre; y el que provoca la ira, causará contienda. 
+PRV031001 Palabras del rey Lemuel; la profecía con que le enseñó su madre. 
+PRV031002 ¿Qué, hijo mío? ¿Y qué, hijo de mi vientre? ¿Y qué, hijo de mis deseos? 
+PRV031003 No des a las mujeres tu fuerza ni tus caminos, que es para destruir los reyes. 
+PRV031004 No es de los reyes, oh Lemuel, no es de los reyes beber vino, ni de los príncipes la cerveza. 
+PRV031005 No sea que bebiendo olviden la ley, y perviertan el derecho de todos los hijos afligidos. 
+PRV031006 Dad la cerveza al que perece, y el vino a los de amargo ánimo. 
+PRV031007 Beban, y se olviden de su necesidad, y de su miseria no se acuerden más. 
+PRV031008 Abre tu boca por el mudo, en el juicio de todos los hijos de muerte. 
+PRV031009 Abre tu boca, juzga justicia, y el derecho del pobre y del menesteroso. 
+PRV031010 Alef Mujer valiente, ¿quién la hallará? Porque su valor pasa largamente a la de piedras preciosas. 
+PRV031011 Bet El corazón de su marido está en ella confiado, y no tendrá necesidad de despojo. 
+PRV031012 Guímel Ella le dará bien y no mal, todos los días de su vida. 
+PRV031013 Dálet Buscó lana y lino, y con voluntad labró con sus manos. 
+PRV031014 He Fue como navío de mercader; trae su pan de lejos. 
+PRV031015 Vau Se levantó aun de noche, y dio comida a su familia, y ración a sus criadas. 
+PRV031016 Zain Consideró la heredad, y la compró; y plantó viña del fruto de sus manos. 
+PRV031017 Het Ciñó sus lomos de fortaleza, y esforzó sus brazos. 
+PRV031018 Tet Gustó que era buena su granjería; su candela no se apagó de noche. 
+PRV031019 Yod Aplicó sus manos al huso, y sus manos tomaron la rueca. 
+PRV031020 Caf Alargó su mano al pobre, y extendió sus manos al menesteroso. 
+PRV031021 Lámed No tendrá temor de la nieve por su familia, porque toda su familia está vestida de ropas dobles. 
+PRV031022 Mem Ella se hizo tapices; de lino fino y púrpura es su vestido. 
+PRV031023 Nun Conocido es su marido en las puertas, cuando se sienta con los ancianos de la tierra. 
+PRV031024 Sámec Hizo telas, y vendió; y dio cintas al mercader. 
+PRV031025 Aín Fortaleza y hermosura es su vestidura; y en el día postrero reirá. 
+PRV031026 Pe Abrió su boca con sabiduría; y la ley de clemencia está en su lengua. 
+PRV031027 Tsade Considera los caminos de su casa, y no come el pan de balde. 
+PRV031028 Caf Se levantaron sus hijos, y la llamaron bienaventurada; y su marido también la alabó. 
+PRV031029 Res Muchas mujeres hicieron el bien; mas tú las sobrepasas a todas. 
+PRV031030 Sin Engañosa es la gracia, y vana la hermosura; la mujer que teme al SEÑOR, ésa será alabada. 
+PRV031031 Tau Dadle del fruto de sus manos, y alábenla en las puertas sus hechos. 
