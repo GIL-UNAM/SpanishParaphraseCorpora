@@ -1,0 +1,945 @@
+1CR001001 Adán, Set, Enós, 
+1CR001002 Quenán, Mahaliel, Jered; 
+1CR001003 Henoc, Matusalén, Lamec, 
+1CR001004 Noé, Sem, Cam y Jafet. 
+1CR001005 Hijos de Jafet: Gómer, Magog, los medos, Javán, Tubal, Mésec y Tirás. 
+1CR001006 Hijos de Gómer: Asquenas, Rifat y Togormá. 
+1CR001007 Hijos de Javán: Elizá, Tarsis, Quittim y Rodanim. 
+1CR001008 Hijos de Cam: Cus y Misraim Put, y Canaán. 
+1CR001009 Hijos de Cus: Sebá, Javilá, Sabtá, Ramá y Sabtecá. Hijos de Ramá: Sebá y Dedán. 
+1CR001010 Cus engendró a Nimrod, que fue el primer hombre poderoso de la tierra. 
+1CR001011 Misraim engendró a los luditas, anamitas, lehabitas, naftujitas, 
+1CR001012 patrusitas, caslujitas y caftoritas, de donde proceden los filisteos. 
+1CR001013 Canán engendró a Sidón su primogénito, a Het, 
+1CR001014 y al jebuseo, al amorreo, al guirgaseo, 
+1CR001015 al jeveo, al arquita, al sinita, 
+1CR001016 al arvadita, al semarita y al jamatita. 
+1CR001017 Hijos de Sem: Elam, Asur, Arfaxad, Lud y Aram. Hijos de Aram: Us, Jul, Guéter y Mésec. 
+1CR001018 Arfaxad engendró a Selaj y Selaj engendró a Héber. 
+1CR001019 A Héber le nacieron dos hijos: el nombre del primero era Péleg, porque en sus días fue dividida la tierra, y el nombre de su hermano era Yogtán. 
+1CR001020 Yogtán engendró a Almodad, Selef, Jasarmávet, Yéraj, 
+1CR001021 Hadoram, Uzal Diglá, 
+1CR001022 Ebal, Abimael, Seba, 
+1CR001023 Ofir, Javilá, Yobab. Todos ellos hijos de Yogtán. 
+1CR001024 Sem, Arfaxad, Selaj, 
+1CR001025 Héber, Péleg, Reú, 
+1CR001026 Serug, Najor, Teraj, 
+1CR001027 Abram, o sea Abraham. Descendencia Abraham 
+1CR001028 Hijos de Abraham: Isaac e Ismael. 
+1CR001029 Sus descendientes son éstos: El de Ismael: Nebayot; después, Quedar, Abdeel, Mibsam, 
+1CR001030 Mismá, Dumá, Masá, Jadad, Temá, 
+1CR001031 Yetur, Nafis y Quedmá. Estos son los hijos de Ismael. Hijos Queturá, concubina Abraham. Dio a luz a Zimrán, Jocsán, Medán, Madián, Jisbaq y Súaj. 
+1CR001032 Hijos Yoqsán: Sebá y Dedán. 
+1CR001033 Hijos Madián: Efá, Efer, Henoc, Abidá y Eldaá. Todos ellos son hijos Queturá. 
+1CR001034 Abraham engendró a Isaac. Hijos de Isaac: Esaú e Israel. 
+1CR001035 Hijos de Esaú: Elifaz, Reuel, Jeus, Yalam y Coré. 
+1CR001036 Hijos de Elifaz: Temán, Omar, Sefi, Gatam, Quenaz, Timmá y Amalec. 
+1CR001037 Hijos de Reuel: Nájat, Zéraj, Sammá y Miza. 
+1CR001038 Hijos de Seir: Lotán, Sobal, Sibón, Aná, Disón, Eser y Disán. 
+1CR001039 Hijos de Lotán: Jori y Homá. Hermana de Lotán fue Timná. 
+1CR001040 Hijos de Sobá: Alyán, Manájat, Ebal, Sefi y Onam. Hijos de Sibón: Ayá y Aná. 
+1CR001041 Hijos de Aná: Disón. Hijos de Disón: Jamrán, Esbam, Jitram y Keram. 
+1CR001042 Hijos de Eser: Bilán, Zayán y Yacán. Hijos de Disón: Us y Aran. 
+1CR001043 Estos son los reyes que reinaron en el país de Edom antes que hubiera rey entre los israelitas: Bela, hijo de Beor; el nombre de su ciudad era Dinaba. 
+1CR001044 Murió Bela, y reinó en su lugar Yobab, hijo de Zéraj, de Bosrá. 
+1CR001045 Murió Yobab y reinó en su lugar Jusam, del país de los teranitas. 
+1CR001046 Murió Jusam, y en su lugar reinó Abad, hijo de Bedad, que derrotó a los madianitas en los campos de Moab; el nombre de su ciudad fue Avit. 
+1CR001047 Murió Adad, y reinó en su lugar Samlá, de Marecá. 
+1CR001048 Murió Samlá y reinó en su lugar Saúl, de Rejobot-han-Nahar. 
+1CR001049 Murió Saúl y reinó en su lugar Baal-Janán, hijo de Acbor. 
+1CR001050 Murió Baal-Janán y reinó en su lugar Hadad. El nombre de su ciudad era Paí, y el de su mujer Mehetabel, hija de Matred, hija de Mezahab. 
+1CR001051 Murió Hadad y hubo gobernadores, llamados jeques, en Edom: el jeque Timmá, el jeque Alyá, el jeque Yetet, 
+1CR001052 el jeque Olibamá, el jeque Elá, el jeque Pinón, 
+1CR001053 el jeque Quenaz, el jeque Temán, el jeque Mibsar, 
+1CR001054 el jeque Magdiel, el jeque Iram. Estos fueron los jeques de Edom. Hijos Israel y descendientes Judá 
+1CR002001 Estos son los hijos de Israel: Rubén, Simeón, Leví y Judá, Isacar y Zabulón, 
+1CR002002 Dan, José y Benjamín, Neftalí, Gad y Aser. 
+1CR002003 Hijos de Judá: Er, Onán y Selá; los tres le nacieron de la hija de Suá, la cananea. Er, primogénito de Judá, era malo a los ojos de Yavé, que le quitó la vida. 
+1CR002004 Tamar, nuera de Judá, le dio a luz a Fares y Zéraj. Todos los hijos de Judá fueron cinco. 
+1CR002005 Hijos de Fares: Hesrón y Jamul. 
+1CR002006 Hijos de Zéraj: Zimrí, Hetán, Hemán, Calcol y Darda, en total cinco. 
+1CR002007 Hijos de Carmi: Acar, que perturbó a Israel por haber violado el anatema. 
+1CR002008 Hijos de Etam: Azarías. 
+1CR002009 Hesrón fue padre de Jerajmeel, Ram y Kelubay. 
+1CR002010 Ram fue padre de Aminadab y éste de Najasón, príncipe de los hijos de Judá. 
+1CR002011 Najasón fue padre de Salmá, éste de Booz, 
+1CR002012 éste de Obed y éste de Jesé. 
+1CR002013 Jesé tuvo siete hijos, el primogénito Eliab, y después Abinadab, Sama, 
+1CR002014 Netanel, Raday, 
+1CR002015 Osem y David. 
+1CR002016 Sus hermanas fueron Sarvia y Abigaíl. Hijos de Sarvia: Abisay, Joab y Asael, tres. 
+1CR002017 Abigaíl dio a luz a Amasá, cuyo padre fue Jeter el ismaelita. 
+1CR002018 Caleb, hijo de Hesrón, engendró a Azubá, Isá y Jeriot. Estos son sus hijos: Jéser, Sobab y Ardón. 
+1CR002019 Murió Azubá y Caleb tomó por mujer a Efratá, de la que tuvo a Jur. 
+1CR002020 Jur engendró a Uri, y Uri engendró a Besaleel. 
+1CR002021 Después se unió Hesrón a la hija de Maquir, padre de Galaad. Tenía él sesenta años cuando la tomó por mujer y le dio a luz a Segub. 
+1CR002022 Segub engendró a Jaír, que poseyó veintitrés ciudades en el país de Galaad. 
+1CR002023 Pero los guesuritas y los arameos se apoderaron de las aldeas de Jaír, con Quenat y sus campamentos: sesenta ciudades. Todos éstos son los hijos de Maquir, padre de Galaad. 
+1CR002024 Después de morir Hesrón, Caleb se unió a Efratá, mujer de su padre Hesrón, la cual le dio a luz a Asjur padre de Tecoa. 
+1CR002025 Los hijos de Jerajmeel, primogénito de Hesrón, fueron: Ram, el primogénito, Buná, Orén, Osem y Ajías. 
+1CR002026 Jerajmeel tuvo otra mujer cuyo nombre era Atará, que fue madre de Onam. 
+1CR002027 Los hijos de Ram, primogénito de Jerajmeel, fueron: Maás, Yamín y Equer. 
+1CR002028 Y los hijos de Onam fueron Samay y Yadá. Los hijos de Samay, Nadab y Abisur. 
+1CR002029 La mujer de Abisur se llamaba Abigaíl, que dio a luz a Ajbán y Molid. 
+1CR002030 Los hijos de Nadab fueron Séled y Apaim; Séled murió sin hijos. 
+1CR002031 Hijo de Apaim fue Jisí; hijo de Jisí, Sesán; hijo de Sesán, Ajlay. 
+1CR002032 Hijos de Yadá, hermano de Samay, fueron Jéter y Jonatán; Jéter murió sin hijos. 
+1CR002033 Hijos de Jonatán: Pélet y Zazá. Estos fueron los descendientes de Jerajmeel. 
+1CR002034 Sesán no tuvo hijos, sino hijas; tenía Sesán un siervo egipcio que se llamaba Yarjá. 
+1CR002035 Y dio Sesán una hija suya a su siervo Yarjá por esposa, la cual le engendró a Atay. 
+1CR002036 Atay engendró a Natán, Natán engendró a Zabad, 
+1CR002037 Zabad engendró a Efal, Efal engendró a Obed, 
+1CR002038 Obed engendró a Jehú, Jehú engendró a Azarías, 
+1CR002039 Azarías engendró a Jeles, Jeles engendró a Elasá, 
+1CR002040 Elasá engendró a Sismay, Sismay engendró a Sal-lum, 
+1CR002041 Sal-lum engendró a Jecamías, Jecamías engendró a Elisama. 
+1CR002042 Hijos de Caleb, hermano de Jerajmeel: Mesá, su primogénito, que fue padre de Zif; tuvo por hijo a Maresá, padre de Hebrón. 
+1CR002043 Hijos de Hebrón: Coré, Tapnaf, Requem y Sema. 
+1CR002044 Sema engendró a Rajam, padre de Yorqueam, Requem engendró a Samay. 
+1CR002045 Hijo de Samay fue Maón y Maón fue padre de Bet-Sur. 
+1CR002046 Efá, concubina de Caleb, dio a luz a Jarán, Mosá y Gazes; Jarán engendró a Gazes. 
+1CR002047 Hijos de Yadav: Reguem, Jotam, Guesán, Pelet, Efá y Saaf. 
+1CR002048 Maacá, concubina de Caleb, dio a luz a Séber y Tirjama. 
+1CR002049 Engendró también a Saaf, padre de Madmaná, y a Sevá, padre de Majbená y padre de Guibeá. Hija de Caleb fue Axá. 
+1CR002050 Estos fueron los hijos de Caleb. Hijos Jur, primogénito Efratá: Sobal, padre Cariatiarim; 
+1CR002051 Salmá, padre de Belén; Járef, padre de Bet- Gader. 
+1CR002052 Sobal, padre de Cariatiarim, tuvo por hijos a Haroé, es decir, la mitad de los manajistas 
+1CR002053 y las familias de Cariatiarim; los jitríes, los putíes, los sumatíes y los misraíes. De ellos salieron los soratíes y los de Estol. 
+1CR002054 Hijos de Salmá: Belén y los netofatíes, Atrot-Ben-Joab, la otra mitad de los manajitas, los soríes y 
+1CR002055 las familias de los sofríes que habitaban en Jabés, los tiratíes, los simatíes, los sucatíes. Estos son quenitas descendientes de Jamat, padre de la familia de Recab. Descendencia David 
+1CR003001 Estos son los hijos que le nacieron a David en Hebrón: el primogénito Amnón, hijo de Ajinoam, de Jizreel; el segundo, Daniel, hijo de Abigaíl de Carmelo; 
+1CR003002 el tercero Absalón, hijo de Maacá, hija de Talmay, rey de Guesur; el cuarto, Adonías, hijo de Jaguit; 
+1CR003003 el quinto, Sefatías, de Abital; el sexto, Jitream, de su mujer Eglá. 
+1CR003004 Estos seis le nacieron en Hebrón, donde reinó siete años y seis meses. Reinó Jerusalén treinta y tres años. 
+1CR003005 Estos son los que le nacieron Jerusalén: Simá, Sobab, Natán, Salomón, los cuatro de Betsabé, hija de Ammiel. Además, 
+1CR003006 Jibjar, Elisamá, Elifelet, 
+1CR003007 Nogah, Néfeg, Yafia, 
+1CR003008 Elisamá, Elyadá, Elifélet: nueve. 
+1CR003009 Estos son los hijos de David, sin contar los hijos de las concubinas. Hermana de ellos fue Tamar. 
+1CR003010 Salomón fue padre de Roboam, éste de Abías, éste de Asá, éste de Josafat, 
+1CR003011 éste de Joram, éste de Ocozías, éste de Joas, 
+1CR003012 éste de Amasías, éste de Azarías, éste de Jotam, 
+1CR003013 éste de Ajaz, éste de Ezequías, éste de Manasés, 
+1CR003014 éste de Amón, éste de Josías. 
+1CR003015 Hijos de Josías: Yojanán, el primogénito; Joaquim, el segundo; Sedecías, el tercero; Salum, el cuarto. 
+1CR003016 Hijos de Joaquim: su hijo Joaquín y su hijo Sedecías. 
+1CR003017 Hijos de Joaquín el desterrado: Sealtiel. Sus hijos: 
+1CR003018 Malquiram, Pedaías, Senasar, Jeconías, Hosamá, Nedabías. Hijos de Pedías: Zorobabel y Semí. 
+1CR003019 Hijos de Zorobabel: Mesulam, Henanías y Selomit, hermana de ellos. 
+1CR003020 Hijos de Mesulam: Hasubá, Ohel, Berequías, Hasadías y Yusab-Jesed: cinco. 
+1CR003021 Hijos de Hananías: Pelatías; Isaías, hijo suyo; Refaías, hijo suyo; Arnán, hijo suyo; Abdías, hijo suyo; Secanías, hijo suyo. Hijos de Secanías: 
+1CR003022 Semaías, Jatús, Jigal, Bariaj, Nearías y Safal: seis. 
+1CR003023 Hijos de Nearías: Elyoenay, Ezequías, Azricam: tres. 
+1CR003024 Hijos de Elyoenay: Jodaías, Elyasib, Pelaías, Acub, Jojanán, Delaías y Ananí: siete. Genealogías los príncipes las doce tribus 
+1CR004001 Hijos de Judá: Fares, Hesrón, Carmí, Jur y Sobal. 
+1CR004002 Reaías, hijo de Sobal, engendró a Yajat, Yajat engendró a Ajuma y Lahad. Estas son las familias de los soreatitas. 
+1CR004003 Estos fueron los hijos de Etam: Jizrael, Jismás y Jibdás. Su hermana se llamaba Haselponí. 
+1CR004004 Penuel fue padre de Guedor, y Ezer, padre de Jusá. 
+1CR004005 Estos son los hijos de Jur, primogénito de Efratá, padre de Belén. Asjur, padre de Tecoa, tuvo dos mujeres: Elea y Naará. 
+1CR004006 Naará dio a luz a Ajuzam, Jéfer, los timeítas y los ajastaritas. Estos son los hijos de Naará. 
+1CR004007 Hijos de Elea: Seret, Jesojar, Etnán. 
+1CR004008 Cos engendró a Anub y Sobeba y las familias de Ajarjel, hijo de Harum. 
+1CR004009 Pero Jabés fue más ilustre que sus hermanos, y su madre le dio el nombre de Jabés, diciendo: “Di a luz con dolor.” 
+1CR004010 Jabés invocó al Dios de Israel, exclamando: “Si de verdad me bendices, se ensancharán mis términos, tu mano estará conmigo y alejarás el mal para que no padezca aflicción.” Y le concedió Dios lo que pedía. 
+1CR004011 Caleb, hermano de Sujá, engendró a Mejir, que fue padre de Estón. 
+1CR004012 Estón engendró a Bet-Rafá, Paseaj y Tejiná, padre de Ir-Najás, hermano de Eselón el queniceo. Estos son los hombres de Recab. 
+1CR004013 Hijos de Quenaz: Otoniel y Seraías. Hijos de Otoniel: Jatat y Meonotay. 
+1CR004014 Meonotay engendró a Ofrá, y Seraías engendró a Joab, padre de Gue-Jarasim, pues eran artesanos. 
+1CR004015 Hijos de Caleb, hijo de Jefuné: Iru, Elá y Naán; hijo de Elá: Quenaz. 
+1CR004016 Hijos de Jehaled: Zif, Zifá, Tiryá y Asavel. 
+1CR004017 Hijos de Ezra: Jéter, Méred, Efer y Yalón. Jéter fue padre de María, Samay y Jisbaj, padre de Estemoa. 
+1CR004018 Su mujer, la de Judá, dio a luz a Jered, padre de Guedor, a Jéber, padre de Socó, y a Jecutiel, padre de Zanóaj. Estos son los hijos de Bitía, hija del faraón, que Méred había tomado por esposa. 
+1CR004019 Hijos de la mujer de Odías, hermana de Nájam: el padre de Queilá el garmita y Estemoa el macateo. 
+1CR004020 Hijos de Simón: Ammón y Riná, Ben-Janán y Tilón. Hijos de Jisí: Zojet y Ben- Zojet. 
+1CR004021 Hijos de Selá, hijo de Judá: Er, padre de Lecá, y Ladá, padre de Maresá y las familias de los que trabajan el lino en Bet-Asbea. 
+1CR004022 Joaquim, los hombres de Cozebá y Joás y Saraf, que se casaron en Moab, antes de volver a Belén. Estas son cosas muy antiguas. 
+1CR004023 Ellos eran alfareros y habitaban en Netaim y Gaderá; moraban allí con el rey, trabajando a su servicio. 
+1CR004024 Hijos de Simeón: Nemuel, Yanun, Yarib, Zéraj y Saúl. 
+1CR004025 Salum, su hijo; Mibsam, su hijo; Mismá, su hijo. 
+1CR004026 Hijos de Mismá: Jamuel, hijo suyo; Zacur, hijo suyo; Simí, hijo suyo. 
+1CR004027 Simí tuvo dieciséis hijos y seis hijas, pero sus hermanos no tuvieron muchos hijos, ni se multiplicaron todas sus familias como los hijos de Judá. 
+1CR004028 Habitaban en Bersebá, Moladá, Jasar-Sual, 
+1CR004029 Bilá, Esem y Tolad, Betuel, Jormá, Siquelag, 
+1CR004030 Bet-Marjabot, Jasar-Susim, Bet-Birí y Saarayim. 
+1CR004031 Estas fueron sus ciudades hasta el reino de David. 
+1CR004032 También sus aldeas: Etam, Ain, Rimmón, Toquen y Asán, cinco ciudades, 
+1CR004033 y todas sus aldeas que están en torno a aquellas ciudades, hasta Baalat. Aquí habitaron y se distribuyeron por grupos. 
+1CR004034 Mesobab, Yamlec, Yosá, hijo de Amasías, 
+1CR004035 Joel, Jehú, hijo de Yosibías, hijo de Seraías, hijo de Aviel; 
+1CR004036 Elyoenay, Yaacobá, Jesojaías, Asaías, Adiel, Jesimiel y Benaías, 
+1CR004037 Zizá, hijo de Sifi, hijo de Alón, hijo de Jedaías, hijo de Simrí, hijo de Semaías. 
+1CR004038 Estos que han sido citados por sus nombres son los que vinieron con sus familias y sus casas paternas y se multiplicaron grandemente. 
+1CR004039 Se dirigieron a la entrada de Guedor, hasta el oriente del valle, buscando pastos para sus ganados. 
+1CR004040 Y hallaron pastos abundantes y buenos y una tierra espaciosa, tranquila y segura, pues antes habían morado allí los descendientes de Cam. 
+1CR004041 Estos que se han citado por sus nombres vinieron en tiempos de Ezequías, rey de Judá, y destruyeron las tiendas de aquéllos, y los refugios que allí se encontraban, entregándolos al anatema hasta el día de hoy; y habitaron en lugar de ellos, ya que había allí pastos para sus ganados. 
+1CR004042 Algunos de los hijos de Simeón, en número de quinientos hombres, se fueron a la montaña de Seir, siendo sus jefes Selatías, Nearías, Refaías, Uziel, hijo de Ysí; 
+1CR004043 derrotaron a los restos de Amalec, que habían escapado, y habitaron allí hasta el día de hoy. 
+1CR005001 Hijos de Rubén, primogénito de Israel. Rubén había nacido el primero, pero porque fue con la concubina de su padre, sus derechos de primogénito pasaron a los hijos de José, hijo de Israel. Con todo, José no fue inscrito en las genealogías como el primogénito, 
+1CR005002 pues Judá se hizo poderoso entre sus hermanos y de él procede el príncipe, pero los derechos de primogénito pertenecen a José. 
+1CR005003 Hijos de Rubén, primogénito de Israel: Henoc, Palú, Hesrón y Carmí. 
+1CR005004 Hijos de Joel: Semaías, hijo suyo; Gog, hijo suyo; Simí, hijo suyo; 
+1CR005005 Mica, hijo suyo; Reaías, hijo suyo; Baal, hijo suyo; 
+1CR005006 Beerá, hijo suyo, al cual Teglatfalasar, rey de Asiria, llevó cautivo. Era jefe de los rubenitas. 
+1CR005007 Hermanos suyos, por familias, agrupados según sus genealogías: el primero, Jeiel, Zacarías, 
+1CR005008 Belá, hijo de Azaz, hijo de Sema, hijo de Joel. Estos en Aroer y hasta Nebo y Baal-Meón. 
+1CR005009 Habitaban, asimismo, al oriente desde el río Eufrates hasta el borde del desierto, pues sus ganados se habían multiplicado en la tierra de Galaad. 
+1CR005010 En los días de Saúl hicieron guerra contra los agareos, que cayeron en sus manos; y habitaron en sus tiendas por toda la parte oriental de Galaad. 
+1CR005011 Los hijos de Gad habitaban frente a ellos en la tierra de Basán hasta Salcá. 
+1CR005012 Joel fue el primero, Safán, el segundo; luego Yany y Safat, en Basán. 
+1CR005013 Sus hermanos, por casas paternas, fueron: Miguel, Mesulam, Seba, Yoraim, Yacán, Zía y Héber: siete. 
+1CR005014 He aquí los hijos de Abigaíl, hijo de Jurí, hijo de Jaroaj, hijo de Galaad, hijo de Miguel, hijo de Jesisay, hijo de Yajó, hijo de Buz. 
+1CR005015 Ají, hijo de Abdiel, hijo de Guní, era cabeza de sus casas paternas. 
+1CR005016 Habitaban en Galaad, en Basán y sus aldeas, y en todos los pastizales comunes de Sarón hasta sus confines. 
+1CR005017 Todos ellos fueron alistados en los días de Jotam, rey de Judá, y en los días de Jeroboam, rey de Israel. 
+1CR005018 Los hijos de Rubén, los de Gad y la media tribu de Manasés, eran hombres valientes, llevaban escudo y espada, manejaban el arco y eran diestros en la guerra. Eran 44.760, listos para la guerra. 
+1CR005019 Hicieron guerra contra los agareos, contra Jetur, Nafis y Nodab, 
+1CR005020 y Dios los ayudó contra ellos, de suerte que los agareos y todos los que con ellos estaban fueron derrotados, pues en la batalla clamaron a Dios y les fue propicio, por cuanto confiaban en él. 
+1CR005021 Capturaron sus ganados: sus camellos, en número de 50.000, 250.000 ovejas, 2.000 burros y 100.000 personas, pues 
+1CR005022 por ser guerra de Dios, cayeron muertos muchos. Habitaron el lugar de ellos hasta el destierro. 
+1CR005023 Los hijos de la media tribu de Manasés habitaron en el país desde Basán hasta Baal-Hermón, Senir y la montaña de Hermón. 
+1CR005024 Eran muy numerosos. He aquí los jefes de sus casas paternas: Efer, Jisí, Eliel, Azriel, Jeremías, Jodavías y Yajdiel, hombres valerosos, gente famosa, jefes de sus casas paternas. 
+1CR005025 Pero fueron infieles al Dios de sus padres y se prostituyeron siguiendo a los dioses de los pueblos del país que Dios había destruido delante de ellos. 
+1CR005026 Por lo cual el Dios de Israel excitó contra ellos a Teglatfalasar, rey de Asiria, que deportó a los rubenitas, los gaditas y la media tribu de Manasés, y los llevó a Calaj, Haber, Jará y el río Gozan, hasta el día de hoy. Genealogía los sumos sacerdotes 
+1CR005027 de Leví: Guersón, Quehat y Merarí. 
+1CR005028 de Quehat: Amram, Jishar, Hebrón y Uziel. 
+1CR005029 de Amram: Aarón, Moisés y María. de Aarón: Nadab, Abihú, Eleazar e Itamar. 
+1CR005030 Eleazar fue padre de Finjas, éste de Abisua, éste de Buqui, éste de Uzi, 
+1CR005031 éste de Zarajías, éste de Merayot, 
+1CR005032 éste de Amarías, éste de Ajitub, 
+1CR005033 éste de Sadoc, éste de Ajimaas, 
+1CR005034 éste de Azarías, éste de Yojanán, 
+1CR005035 éste de Azarías, el cual ejerció el sacerdocio en la Casa que Salomón edificó en Jerusalén. 
+1CR005036 Azarías fue padre de Amarías, éste de Ajitub, 
+1CR005037 éste de Saco, éste de Salum, 
+1CR005038 éste de Hilquías, éste de Azarías, 
+1CR005039 éste de Seraías, éste de Josadec. 
+1CR005040 Este salió cuando Yavé deportó a Judá y Jerusalén por mano de Nabuconodosor. Familias los levitas 
+1CR006001 Hijos de Leví: Guersón, Quehat y Merarí. 
+1CR006002 Estos son los nombres de los hijos de Guersón: Libní y Simí. 
+1CR006003 Hijos de Quehat: Amram, Jishar, Hebrón y Uziel. 
+1CR006004 Hijos de Merarí: Majlí y Musi. Estas son las familias de los levitas, según sus casas paternas. 
+1CR006005 De Guersón: Libní, hijo suyo; Yajat, hijo suyo; Zimmá, hijo suyo; 
+1CR006006 Yoaj, hijo suyo; Iddó, hijo suyo; Zéraj, hijo suyo; Yeatray, hijo suyo. 
+1CR006007 Hijos de Quehat: Aminadab, hijo suyo; Coré, hijo suyo; Assir, hijo suyo; 
+1CR006008 Elcaná, hijo suyo; Ebyasaf, hijo suyo; Asir, hijo suyo; 
+1CR006009 Tajat, hijo suyo; Uriel, hijo suyo; Saúl, hijo suyo. 
+1CR006010 Hijos de Elcaná: Amasay y Ajimot. 
+1CR006011 Elcaná, hijo suyo; Sufay, hijo suyo; Nájat, hijo suyo; 
+1CR006012 Eliab, su hijo; Jerojaim, su hijo; Elcaná, hijo suyo. 
+1CR006013 Hijos de Samuel: Joel, el primogénito, y Abías, el segundo. 
+1CR006014 Hijos de Merarí: Majlí; Libní, hijo suyo; Simí, hijo suyo; Uzá, hijo suyo; 
+1CR006015 Simca, hijo suyo; Jagguías, hijo suyo; Asaías, hijo suyo. 
+1CR006016 Estos son los que puso David para dirigir el canto en la casa de Yavé, desde que el Arca tuvo un lugar de reposo. 
+1CR006017 Ejercían el ministerio de cantores ante la Morada de la Tienda de Reunión, hasta que Salomón edificó la Casa de Yavé en Jerusalén. Cumplían su servicio conforme a su reglamento. 
+1CR006018 Estos son los que ejercían ese ministerio con sus hijos: De hijos de Quehat: Hemán, el cantor, hijo de Joel, hijo de Samuel, 
+1CR006019 hijo de Elcaná, hijo de Jerojam, hijo de Eliel, hijo de Tóaj, 
+1CR006020 hijo de Suf, hijo de Elcaná, hijo de Májat, hijo de Amasay, 
+1CR006021 hijo de Elcaná, hijo de Joel, hijo de Azarías, hijo de Sofonías, 
+1CR006022 hijo de Tájat, hijo de Asir, hijo de Ebyasaj, hijo de Coré, 
+1CR006023 hijo de Jisear, hijo de Quehat, hijo de Leví, hijo de Israel. 
+1CR006024 Su hermano Asaf, que asistía a su derecha: Asaf, hijo de Berequías, hijo de Simá, 
+1CR006025 hijo de Miguel, hijo de Basías, hijo de Malaquías, 
+1CR006026 hijo de Etni, hijo de Zéraj, hijo de Adaías, 
+1CR006027 hijo de Etán, hijo de Zima, hijo de Simí, 
+1CR006028 hijo de Yájat, hijo de Guersón, hijo de Leví. 
+1CR006029 Los hijos de Merarí, hermanos de ellos, asistían a la izquierda: Etán, hijo de Quisí, hijo de Abadí, hijo de Maluc, 
+1CR006030 hijo de Asabías, hijo de Amasías, hijo de Ilquías, 
+1CR006031 hijo de Amasí, hijo de Baní, hijo de Sémer, 
+1CR006032 hijo de Majalí, hijo de Musí, hijo de Merarí, hijo de Leví. 
+1CR006033 Sus hermanos, los levitas, estaban dedicados al servicio de la morada de la Casa de Dios. 
+1CR006034 Aarón y sus hijos quemaban las ofrendas en el altar del holocausto y en el altar de los perfumes, según todo el servicio de las cosas sacratísimas, y hacían la expiación por todo Israel, conforme a todo cuanto había mandado Moisés, siervo de Dios. 
+1CR006035 Estos son los hijos de Aarón: Eleazar, su hijo; Finjas, su hijo; Abisúa, su hijo; 
+1CR006036 Buquí, su hijo; Uzí, su hijo; Zerajías, su hijo; 
+1CR006037 Merayot, su hijo; Amarías, su hijo; Ajitub, su hijo; 
+1CR006038 Sadoq, su hijo; Ajimas, su hijo. 
+1CR006039 He aquí las residencias según el orden de sus territorios. A hijos de Aarón, de la familia de quehatitas -según la suerte cayó para ellos-, 
+1CR006040 se les dio Hebrón, en la tierra de Judá, con sus pastizales circundantes; 
+1CR006041 pero el campo de la ciudad y sus aldeas se dieron a Caleb, hijo de Jefunné. 
+1CR006042 Se dio a hijos de Aarón como ciudades de asilo: Hebrón, Libná con sus pastizales, Jatir con sus pastizales, 
+1CR006043 Debir con sus pastizales, 
+1CR006044 Asán con sus pastizales, y Betsemés con sus pastizales. De la tribu de Benjamín: Guebá con sus pastizales, Alémet con sus pastizales y Anatot con sus pastizales. 
+1CR006045 El total de todas sus ciudades: trece ciudades según sus familias. 
+1CR006046 A los otros hijos de Quehat les dieron por sorteo, conforme a sus familias, diez ciudades de la tribu de Efraím, de la tribu de Dan y de la media tribu de Manasés. 
+1CR006047 A los hijos de Guersón, según sus familias, trece ciudades de la tribu de Isacar, de la tribu de Aser, de la tribu de Neftalí y de la tribu de Manasés, en el Basán. 
+1CR006048 A los hijos de Merarí, según sus familias, les tocaron en suerte doce ciudades de la tribu de Rubén, de la tribu de Gad y de la tribu de Zabulón; 
+1CR006049 los hijos de Israel dieron a los levitas estas ciudades con sus pastizales. 
+1CR006050 De la tribu de los hijos de Judá, de la tribu de los hijos de Simeón y de la tribu de los hijos de Benjamín, les tocaron en suerte las ciudades a las que pusieron sus nombres. 
+1CR006051 En la tribu de Efraím se tomaron ciudades para algunas familias de los hijos de Quehat. 
+1CR006052 Se les asignó como ciudades de asilo: Siquem con sus pastizales, en la montaña de Efraím, Gezer con sus pastizales, 
+1CR006053 Yoqmean con sus pastizales y Betorón con sus pastizales, 
+1CR006054 Ayalón con sus pastizales, Gat- Rimón con sus pastizales. 
+1CR006055 Y de la media tribu de Manasés: Aner con sus pastizales, Gat-Rimón con sus pastizales. 
+1CR006056 Para los hijos de Guersón: De las familias de la media tribu de Manasés, Golán, en Basán, con sus pastizales. Astarot con sus pastizales. 
+1CR006057 De la tribu de Isacar, Cadés con sus pastizales, Dobrat con sus pastizales, 
+1CR006058 Ramot con sus pastizales, Anen con sus pastizales. 
+1CR006059 De la tribu de Aser, Masal con sus pastizales, Abdón con sus pastizales, 
+1CR006060 Horac con sus pastizales y Rejob con sus pastizales. 
+1CR006061 De la tribu de Neftalí: Cadés en Galilea con sus pastizales, Jammón con sus pastizales y Cariatiarim con sus pastizales. 
+1CR006062 Para los demás hijos de Merarí: De la tribu de Zabulón: Rimmón con sus pastizales y Tabor con sus pastizales. 
+1CR006063 Y en la otra parte del Jordán, frente a Jericó, al oriente del Jordán, de la tribu de Rubén: Béser en el desierto, con sus pastizales, y Yasá con sus pastizales. 
+1CR006064 Quedemot con sus pastizales y Mefat con sus pastizales. 
+1CR006065 De la tribu de Gad: Ramot en Galaad con sus pastizales, Majanaim con sus pastizales, 
+1CR006066 Hesbón con sus pastizales y Yazer con sus pastizales. Familias los príncipes las doce tribus 
+1CR007001 Hijos de Isacar: Tolá, Puá, Yasub, Simrón: cuatro. 
+1CR007002 Hijos de Tolá: Uzí, Refaías, Yeriel, Yajmay, Yibsam y Samuel, jefe de las casas paternas de Tolá. Su número, en los días de David, era, según sus genealogías, de veintidós mil seiscientos, valientes guerreros. Hijos de Uzí: Yizrajías. 
+1CR007003 Hijos de Yizrajías: Miguel, Abdías, Joel, Yisías: en total cuatro jefes. 
+1CR007004 Tenían el cargo según sus genealogías, de mantener tropas de guerra con hombres armados en número de treinta y seis mil; pues tenían muchas mujeres e hijos. 
+1CR007005 Sus hermanos, de todas las familias de Isacar, eran ochenta y siete mil esforzados guerreros, inscritos todos ellos en las genealogías. 
+1CR007006 Hijos de Benjamín: Bela, Béker, Yedaiel: tres. 
+1CR007007 Hijos de Bela: Esbón, Uzí, Uzziel, Yerimot e Irí: cinco jefes de las casas paternas, esforzados guerreros, inscritos en las genealogías en número de veintidós mil treinta y cuatro. 
+1CR007008 Hijos de Béker: Zamirá, Joás, Eliezar, Elyoneay, Omrí, Yeremot, Abías, Anatot y Alemet; todos éstos, hijos de Béker. 
+1CR007009 Estaban inscritos según sus linajes y los jefes de sus casas paternas tenían veinte mil doscientos guerreros esforzados. 
+1CR007010 Hijos de Jedaiel: Bilán. Hijos de Bilán: Jeús, Benjamín, Ehúd, Kemaná, Zefán, Tarsís y Ajisajar. 
+1CR007011 Todos éstos fueron hijos de Jedaiel, cabezas de familia, esforzados guerreros, en número de diecisiete mil doscientos, aptos para la milicia y la guerra. 
+1CR007012 Supim y Jupim, hijos de Ir; Jusin, otro hijo suyo. 
+1CR007013 Hijos de Neftalí: Jaijasiel, Gumí, Jeser, Salum, hijos de Bilá. 
+1CR007014 Hijos de Manasés: Asriel, que le dio a luz su concubina aramea. Esta le dio también a luz a Maquir, padre de Galaad. 
+1CR007015 Maquir tomó una mujer para Jupim y para Supim, y el nombre de su hermana era Maaca. El nombre del segundo era Selofjad; Selofjad tuvo hijas: 
+1CR007016 Maaca, mujer de Maquir, dio a luz un hijo, a quien llamó Fares. Su hermano se llamaba Seres y sus hijos Ulam y Requem. 
+1CR007017 Hijos de Ulam: Bedan. Estos son los hijos de Galaad, hijo de Maquir, hijo de Manasés. 
+1CR007018 Su hermana, Amoleket, dio a luz a Isjod, Abiézer y Majlá. 
+1CR007019 Los hijos de Semidá fueron: Ajyam, Sique, Liqjí y Anian. 
+1CR007020 Hijos de Efraím: Sutélaj, Bered, su hijo; Tájat, su hijo; Zabad, su hijo; Sutélaj, su hijo; Ezer y Elad. 
+1CR007021 A estos dos los hombres de Gat los mataron, pues habían bajado a apoderarse de sus ganados. 
+1CR007022 Su padre Efraím los lloró durante muchos días y sus hermanos vinieron a consolarlo. 
+1CR007023 Después se unió a su esposa, que quedó embarazada y le dio un hijo, a quien llamó Beriá, porque la desgracia estaba en su casa. 
+1CR007024 Hija suya fue Será, que edificó Betorón de arriba y de abajo y Ulen-Será. 
+1CR007025 Refaj, hijo suyo; Resef, hijo suyo; Telaj, hijo suyo; Tajan, hijo suyo; 
+1CR007026 Laedán, hijo suyo; Ammihud, hijo suyo; Elisamá, hijo suyo; 
+1CR007027 Nun, hijo suyo; Josué, hijo suyo. 
+1CR007028 Tenían propiedades y habitaban en Betel y sus aldeas anexas, en Narán, hacia el oriente, en Guézer y sus aldeas anexas, hacia el occidente, en Siquem y sus aldeas, hasta Acyá y sus aldeas. 
+1CR007029 Y en manos de los hijos de Manasés estaban Betsan y sus aldeas anexas, Meguidó y sus aldeas, Dor y sus aldeas. En ellas habitaron los hijos de José, hijo de Israel. 
+1CR007030 Hijos de Aser: Yimmá, Yisvá, Yisví, Beriá, y Seraj, hermana de éstos. 
+1CR007031 Hijos de Beriá: 
+1CR007032 Jéber y Malkiel, el cual fue padre de Birzavit. Jeber engendró a Jaflet, Semer, Jotam y Suá, hermana de ellos. 
+1CR007033 Hijos de Jaflet: Pasak, Zimhal y Asvat. Estos son los hijos de Jaflet. 
+1CR007034 Hijos de Semer: Ají, Roegá, Jubá y Aran. 
+1CR007035 Hijos de Hélem, su hermano: Sofaj, Yimmá, Seles y Amal. 
+1CR007036 Hijos de Sofaj: Suaj, Jarnefer, Sual, Berí y Yimrá; 
+1CR007037 Béser, Hob, Sammá, Silsá, Yitrán y Beerá. 
+1CR007038 Hijos de Yeter: Yefunné, Pispá y Ará. 
+1CR007039 Hijos de Ulá: Araj, Janiel y Risías. 
+1CR007040 Todos éstos fueron hijos de Aser, jefes de familia, gente escogida, esforzados guerreros, jefes de príncipes. En los registros genealógicos estaban inscritos en número de 26.000 hombres, aptos para la milicia y la guerra. 
+1CR008001 Benjamín engendró a Bela, su primogénito; Asbel, el segundo; Ajram, el tercero; 
+1CR008002 Nojá, el cuarto, y Rafá, el quinto. 
+1CR008003 Los hijos de Bela fueron: Addar y Guerá, padre de Ehúd, 
+1CR008004 Abisúa, Namán, Ajoaj, 
+1CR008005 Guerá, Sefufán y Juram. 
+1CR008006 Estos son los hijos de Ehúd, los jefes de familia de los que moraban en Guebá y a los que deportaron a Manájat: 
+1CR008007 Namán, Ajías y Guerá. Este los deportó y engendró a Uzá y Ajud. 
+1CR008008 Sajaraim tuvo dos hijos cuando estaba en los campos de Moab, después de haber despedido a sus mujeres Jusim y Bará. 
+1CR008009 Y de su mujer Odés engendró Jobab, Sibías, Mesá, Malkom, 
+1CR008010 Jeus, Sakías y Mirmá. Estos son sus hijos, jefes de casas paternas. 
+1CR008011 Y de Jusim tuvo dos hijos: a Abitub y Elpaal. 
+1CR008012 Hijos de Elpaal: Heber, Misam y Semed, el cual edificó Onó, Luc y sus aldeas anexas. 
+1CR008013 Beriá y Sema fueron cabezas de familia de los habitantes de Ayalón, que pusieron en fuga a los moradores de Gat. 
+1CR008014 Ajio: Sesaq, Yemerot, 
+1CR008015 Zebadías, Arad, Eder, 
+1CR008016 Miguel, Yispá, Yojá; eran hijos de Beraí. 
+1CR008017 Zebadías, Mesulam, Jizquí, Jáber, 
+1CR008018 Yismeray, Yislías y Yoab, hijos de Elpaal. 
+1CR008019 Juaquim, Zikri, Zabdí, 
+1CR008020 Elienay, Siletay, Eliel, 
+1CR008021 Adaías, Beraías y Simrat, hijos de Simi. 
+1CR008022 Jispán, Héber, Eliel, 
+1CR008023 Abdón, Zikri, Janán, 
+1CR008024 Jananías, Elam, Anatotía, 
+1CR008025 Jifdías y Penuel: hijos de Sesaq. 
+1CR008026 Samseray, Sejarías, Atalías, 
+1CR008027 Jarsías, Elías y Zikrí: hijos de Yerojam. 
+1CR008028 Estos eran los jefes de las casas paternas, según sus linajes, que habitaban en Jerusalén. 
+1CR008029 En Gabaón habitaba Yoel, padre de Gabaón, cuya esposa se llamaba Maacá, 
+1CR008030 su hijo primogénito: Abdón, después Sur, Quis, Baal, Ner, Nadab, 
+1CR008031 Guedor, Akyó, Zaker. 
+1CR008032 Miclot engendró a Simá. También éstos habitaron, igual que sus hermanos, en Jerusalén. 
+1CR008033 Ner fue padre de Quis; éste de Saúl, éste de Jonatán, Malquisúa, Abinadab e Isbaal. 
+1CR008034 Jonatán fue padre de Meribaal, éste de Mica, 
+1CR008035 éste de Pitón, Melec, Tacrea, Ajaz. 
+1CR008036 Este fue padre de Jedada, éste de Alemet, Azmanet y Zinri, éste de Mosa, 
+1CR008037 éste de Bina, éste de Rafá, éste de Elasa, éste de Asel. 
+1CR008038 Este tuvo seis hijos: Azricam, Bocri, Ismael, Searías, Abdías y Janán. Todos éstos fueron hijos de Asel. 
+1CR008039 Su hermano Esec fue padre de Ulam, su primogénito, Jeus y Elifelet. 
+1CR008040 Los hijos de Ulam eran valientes guerreros y manejaban el arco. Tuvieron numerosos hijos y nietos: ciento cincuenta. Todos eran de los hijos de Benjamín. 
+1CR009001 Todos los israelitas estaban registrados en las genealogías e inscritos en el Libro de los Reyes de Israel. En cuanto a los de Judá, fueron deportados a Babilonia por sus infidelidades de la Ley. Habitantes Jerusalén después del destierro 
+1CR009002 Los primeros que volvieron a habitar en sus propiedades y ciudades fueron israelitas, sacerdotes, levitas y donados. 
+1CR009003 En Jerusalén habitaron hijos de Judá, hijos de Benjamín, hijos de Efraím y de Manasés. 
+1CR009004 De los hijos de Judá, Utay, hijo de Amihúd, hijo de Omrí, hijo de Imrí, hijo de Baní, de los hijos de Peres, hijo de Judá. 
+1CR009005 De los selanitas: Asaías, el primogénito, y de sus hijos. 
+1CR009006 De los hijos de Zéraj: Seuel y sus hermanos: seiscientos noventa. 
+1CR009007 De los hijos de Benjamín: Salu, hijo de Mesulam, hijo de Hodavías, hijo de Hasenúa; 
+1CR009008 Jibneías, hijo de Jerojam; Elá, hijo de Uzí, hijo de Mikrí, y Mesulam, hijo de Sefatía, hijo de Reuel, hijo de Jibnías, 
+1CR009009 y sus hermanos, según sus genealogías: novecientos cincuenta y seis. Todos éstos eran jefes de familias en sus respectivas casas paternas. 
+1CR009010 De los sacerdotes: Jedaías, Jehoyarib, Juaquim, 
+1CR009011 Azarías, hijo de Hilquías, hijo de Mesulam, hijo de Sadoc, hijo de Merayot, hijo de Ajitub, príncipe de la Casa de Dios. 
+1CR009012 Adaías, hijo de Jerojam, hijo de Pasjur, hijo de Malkías; Hasay, hijo de Adiel, hijo de Yajzerá, hijo de Mesulam, hijo de Mesilemit, hijo de Immer; 
+1CR009013 y sus hermanos, jefes de sus casas paternas: mil setecientos sesenta hombres aptos para los ejercicios del culto de la Casa de Dios. 
+1CR009014 De los levitas: Semaías, hijo de Jasub, hijo de Azricam, hijo de Jazabías, de los hijos de Merarí, 
+1CR009015 Baqbacar, Heras, Galal y Matanías, hijo de Micá, hijo de Zikrí, hijo de Asaf; 
+1CR009016 Abdías, hijo de Semaías, hijo de Galal, hijo de Jedutún; y Berekías, hijo de Asá, hijo de Elcaná, que habitaban en los poblados de los netofatíes. 
+1CR009017 Los porteros: Salum, Acub, Talmón, Ajimán y sus hermanos. 
+1CR009018 Salum era el jefe; y están hasta el presente junto a la puerta del rey, al oriente; éstos son los porteros del campamento de los hijos de Leví. 
+1CR009019 Salum, hijo de Coré, hijo de Ebiasaf, hijo de Coré, y sus hermanos los coreítas, de la misma casa paterna, tenían el servicio de culto como guardianes de los umbrales de la Tienda, pues sus padres habían tenido a su cargo la guardia de acceso al campamento de Yavé. 
+1CR009020 Antiguamente su jefe había sido Finjas, hijo de Eleazar, con el que estaba Yavé. 
+1CR009021 Zacarías, hijo de Meselemías, era portero de la entrada de la Tienda de Reunión. 
+1CR009022 El total de esos hombres escogidos para porteros era de doscientos doce, y estaban inscritos en sus poblados. David y Samuel el vidente los habían establecido en sus cargos permanentes. 
+1CR009023 Tanto ellos como sus hijos tenían a su cargo las puertas de la Casa de Yavé, la Casa de la Tienda. 
+1CR009024 Había porteros a los cuatro vientos; al oriente, al occidente, al norte y al mediodía. 
+1CR009025 Sus hermanos, que habitaban en poblados, tenían que venir periódicamente a estar con ellos durante siete días, 
+1CR009026 porque los cuatro jefes de los porteros eran permanentes; algunos levitas estaban al cuidado de las cámaras y de los tesoros de la Casa de Dios. 
+1CR009027 Pasaban la noche alrededor de la Casa de Dios, pues les incumbía su vigilancia y tenían las llaves para abrirlas todas las mañanas. 
+1CR009028 Unos tenían el cuidado de los utensilios del culto, y los contaban al meterlos y al sacarlos. 
+1CR009029 Otros estaban encargados de los utensilios y de todos los instrumentos del Santuario, de la flor de harina, el vino, el aceite, el incienso y los aromas. 
+1CR009030 Pero los que hacían la mezcla para los aromas eran sacerdotes. 
+1CR009031 Matatías, uno de los levitas, primogénito de Salum el coreíta, estaba al cuidado constante de las cosas que se freían en sartén. 
+1CR009032 Y entre sus hermanos estaban los hijos de Quehatitas, que estaban encargados de poner en fila los panes de cada sábado. 
+1CR009033 Ellos eran también cantores, cabezas de familia de los levitas y moraban aparte en las habitaciones de la Casa, pues se ocupaban de día y de noche en su ministerio. 
+1CR009034 Estos son, según sus genealogías, los cabezas de familia de los levitas, jefes de sus linajes que habitaban en Jerusalén. Orígenes muerte de Saúl 
+1CR009035 En Gabaón vivían el padre de Gabaón, Jeuel, cuya esposa se llamaba Maacá, 
+1CR009036 y su hijo primogénito Abdán. Después, Sur, Quis, Baal, Ner, Nadab, 
+1CR009037 Guedor, Ajyó, Zacarías y Miclot. Miclot engendró a Simam. 
+1CR009038 También éstos habitaron en Jerusalén junto a sus hermanos a instigación de éstos. 
+1CR009039 Ner fue padre de Quis, éste de Saúl, éste de Jonatán, Malquisua, Abinadab e Isbaal. 
+1CR009040 Jonatán fue padre de Meribaal y éste de Mica. 
+1CR009041 Mica fue padre de Piton, Melec, Tacrea y Ajaz. 
+1CR009042 Este fue padre de Yara, éste de Alemet, Azmavet y Zimrí; éste fue padre de Mosa 
+1CR009043 y éste de Bina, éste de Refaías, éste de Elasa, éste de Asel. 
+1CR009044 Asel tuvo seis hijos, cuyos nombres son: Azricam, su primogénito, Ismael, Searías, Obdías y Janán. Estos fueron los hijos de Asel. 
+1CR010001 Los filisteos pelearon contra Israel; huyeron los hombres de Israel ante los filisteos, y cayeron heridos de muerte en el monte Gelboé. 
+1CR010002 Los filisteos apretaron de cerca a Saúl y a sus hijos, y mataron a Jonatán, Abinadab y Malquisua, hijos de Saúl. 
+1CR010003 El peso de la batalla cargó sobre Saúl, los arqueros lo descubrieron y fue herido por ellos. 
+1CR010004 Saúl dijo a su escudero: “Saca tu espada y traspásame con ella; no sea que vengan esos incircuncisos y se burlen de mí.” Pero el escudero no quiso, pues estaba lleno de temor. Entonces Saúl la espada y se arrojó sobre ella. 
+1CR010005 Viendo el escudero que Saúl había muerto se arrojó también él sobre su espada y murió. 
+1CR010006 Así murió Saúl con sus tres hijos; y toda su gente murió juntamente con él. 
+1CR010007 Todos los hombres de Israel, que estaban en el valle, vieron que las tropas de Israel se daban a la fuga y que Saúl y sus hijos habían muerto. Entonces abandonaron sus ciudades y huyeron; vinieron los filisteos y se establecieron en ellas. 
+1CR010008 Al otro día vinieron los filisteos para despojar a los muertos, y encontraron a Saúl y a sus hijos caídos en el monte Gelboé. 
+1CR010009 Despojándolo, se llevaron su cabeza y sus armas, y mandaron anunciar la buena nueva por todo el país de los filisteos, en medio de sus ídolos y de toda su gente. 
+1CR010010 Depositaron las armas de Saúl en el templo de sus dioses y clavaron su cráneo en el templo de Dagón. 
+1CR010011 Todos los habitantes de Jabés de Galaad supieron lo que los filisteos habían hecho con Saúl, 
+1CR010012 se levantaron todos los valientes, tomaron el cadáver de Saúl y los de sus hijos, y los llevaron a Jabés. Enterraron sus huesos bajo el terebinto de Jabés, y ayunaron siete días. 
+1CR010013 Saúl murió a causa de la infidelidad que había cometido contra Yavé, porque no guardó la palabra de Yavé, y también por haber interrogado y consultado a los espiritistas. 
+1CR010014 No consultó a Yavé, por lo que éste lo hizo morir, y transfirió el reino a David, hijo de Jesé. David, 
+1CR011001 Todo Israel se congregó en torno a David, en Hebrón, y le dijeron: “Somos nosotros de tu carne y de tus huesos. 
+1CR011002 Ya antes, cuando Saúl era nuestro rey, eras tú el que dirigía a Israel; Yavé, tu Dios, te ha dicho: Tú apacentarás a mi pueblo Israel, tú serás el jefe de mi pueblo Israel.” 
+1CR011003 Vinieron todos los jefes de Israel a donde el rey, a Hebrón; David hizo allí un pacto con ellos en presencia de Yavé y ellos lo ungieron como rey de Israel, según la palabra que Yavé había pronunciado por boca de Samuel. 
+1CR011004 David marchó con todo Israel, contra Jerusalén, o sea Jebús. 
+1CR011005 Los habitantes del país eran los jebuseos, y decían a David: “No entrarás aquí.” Pero David se apoderó de la fortaleza de Sión, que es la ciudad de David. 
+1CR011006 Dijo David: “El que primero ataque a los jebuseos, ése será jefe y príncipe.” Subió primero Joab, hijo de Sarvia, y pasó a ser jefe. 
+1CR011007 Se instaló David en la fortaleza; por esto la llamaron ciudad de David. 
+1CR011008 Edificó alrededor de la ciudad desde valle del Milo hasta otro extremo. Joab reparó resto de la ciudad. 
+1CR011009 David iba creciendo de día en día y Yavé Sebaot estaba con él. Los de David 
+1CR011010 Estos son los jefes de los valientes de David que, durante todo su reino, se esforzaron con él y con todo Israel para que reinara según la palabra dicha por Yavé, respecto a Israel. 
+1CR011011 Esta es la lista de los héroes de David: Isbaal, hijo de Jakmoní, jefe de los tres que con su lanza mató a trescientos en una sola batalla. 
+1CR011012 Después de él, Eleazar, hijo de Dodó, el ajojita, que era uno de los tres héroes. 
+1CR011013 Este estaba con David en Pas Dammim, donde los filisteos se habían concentrado para la batalla. Había allí una parcela toda de cebada, y el pueblo estaba huyendo de los filisteos. 
+1CR011014 El, Eleazar, se mantuvo firme en medio de la parcela, la defendió y derrotó a los filisteos. Yavé obró allí una gran victoria. 
+1CR011015 Tres de los Treinta bajaron al principio de la siega a la cueva de Adullam, donde estaba David, mientras los filisteos se hallaban acampados en el valle de los Rafaím. 
+1CR011016 Estando, pues, David en la cueva, una guarnición de filisteos ocupaba Belén. 
+1CR011017 Le vino entonces a David un deseo y dijo: “Quién me diera a beber agua de la cisterna que hay en la puerta de Belén.” 
+1CR011018 Al punto estos tres irrumpieron en medio del campamento de los filisteos, sacaron agua de la cisterna que hay en la puerta de Belén, se la llevaron y se la ofrecieron a David. Pero David no quiso beberla, sino que la derramó en el suelo y la ofreció a Yavé, diciendo: 
+1CR011019 “No quiera Dios que yo haga tal cosa, no voy yo a beber esta agua, pues sería beber la sangre de estos hombres, ya que la trajeron arriesgando su vida.” No quiso beberla. Esto es lo que hicieron los tres héroes. 
+1CR011020 Abisay, hermano de Joab, era el jefe de los Treinta. Hirió con su lanza a trescientos hombres y conquistó renombre entre los Treinta. 
+1CR011021 Fue el más famoso de los Treinta, llegando a ser su capitán, pero no igualó a los tres. 
+1CR011022 Benaías, hijo de Yoyada, hombre valeroso y autor de grandes hazañas, natural de Cabseel, mató a los dos hijos de Ariel de Moab; además bajó y mató a un león dentro de una cisterna, en un día de nieve. 
+1CR011023 Mató también a un egipcio que tenía cinco codos de altura; el egipcio tenía en su mano una lanza del tamaño de un enjullo de telar. Arremetió contra él con un palo, le arrebató la lanza que tenía en la mano, y con la misma lo mató. 
+1CR011024 Esto hizo Banaías, hijo de Yoyada, y se conquistó gran fama entre los treinta héroes. 
+1CR011025 Fue muy famoso entre los Treinta, pero no igualó a los Tres. David lo admitió en su guardia personal. 
+1CR011026 Los héroes valientes fueron: Azael, hermano de Joab; Elkanan, hijo de Dodó, natural de Belén; 
+1CR011027 Sammot, de Harod; Jeles, de Pelet; 
+1CR011028 Irá, hijo de Iques, de Tecoa; Abiezer, de Anatot; 
+1CR011029 Sibeka, de Jusá; Ilay, el ajojita; 
+1CR011030 Mahray, de Netofá; Jéled, hijo de Baaná, de Netofá; 
+1CR011031 Itai, hijo de Ribay, de Guibea, de los hijos de Benjamín; Benaías, de Piraton; 
+1CR011032 Juray, de los torrentes de Gas; Abiel, el arbatita; 
+1CR011033 Azmavet, de Bajurim; Elyajabá, de Saalbón; 
+1CR011034 los hijos de Gasem el guisonita; Jonatán, hijo de Sagué, de Haror; 
+1CR011035 Ajiam, hijo de Sakar, el Haratita; Elifal, hijo de Ur; 
+1CR011036 Efer, de Mekerá; Ajías, de Giloh; 
+1CR011037 Jesró, de Carmelo; Naray, hijo de Esbay; 
+1CR011038 Joel, hermano de Natán; Mibjar, hijo de Agrí; 
+1CR011039 Seleq, el amonita; Najraí, de Berot, escudero de Joab, hijo de Salvia; 
+1CR011040 Irá, de Yatir; Gareb, de Yatir; 
+1CR011041 Urías, el heteo. Zabad, de Ajlay; 
+1CR011042 Adina, de Sizá, el rubenita, jefe de los rubenitas, y con él treinta; 
+1CR011043 Janan, de Maaká, Josafat, el mitnita; 
+1CR011044 Uzías, de Astarot; Sama y Yoel, hijos de Jotam, de Aroer; 
+1CR011045 Jediael, de Simrí; Joya, su hermano, el Tisita; 
+1CR011046 Eliel, el majavita; Yeribay y Yosabías, hijos de Elanam, Yitmá, el moabita; 
+1CR011047 Eliel, Obde y Yasiel, de Sobá. Los partidarios de David 
+1CR012001 Estos son los que vinieron a juntarse con David, en Siquelag, mientras se mantenía alejado de Saúl, hijo de Quis; estaban entre los guerreros de refuerzo para los combates. 
+1CR012002 Manejaban el arco y la honda lo mismo con la derecha que con la izquierda para tirar flechas y lanzar piedras. De hermanos de Saúl, el benjaminita: 
+1CR012003 Ajiezer, el jefe y Joas, hijos de Semá, de Guibeá; Jeziel y Pélet, hijos de Azmavet; Bereká y Jehú, de Anatot; 
+1CR012004 Jismaías, de Gabaón, valeroso como Treinta y tal vez más que ellos; 
+1CR012005 Jeremías, Jajaziel, Yojanan, Yozabed, de Guederot; 
+1CR012006 Eluzay, Jerimot, Bealías, Semerías, y Sefatías, de Jafir; Elcaná, Jisjiva, Azarel. 
+1CR012007 Yoézer, Yasobam, coeritas: 
+1CR012008 Joel y Zebadías, hijos de Jerojam de Guedor. 
+1CR012009 Hubo también gaditas que se pasaron a David cuando éste estaba en su refugio en el desierto, guerreros valientes, hombres de guerra, diestros con el escudo y la lanza, sus rostros como el león y ligeros como la gacela salvaje. 
+1CR012010 Su jefe era Ezer; Obdías el segundo; Eliab, el tercero; 
+1CR012011 Mismaná, cuarto; Jeremías, el quinto; 
+1CR012012 Atay, el sexto; Eliel, el séptimo; 
+1CR012013 Yojanán, el octavo; Elzabad, el noveno; 
+1CR012014 Jeremías, el décimo; Makbanay, el undécimo; 
+1CR012015 éstos eran, entre hijos de Gad, jefes del ejército; el que menos, valía por cien hombres y el que más, valía por mil. 
+1CR012016 Estos fueron que atravesaron el Jordán en el primer mes, cuando suele desbordarse por todas sus riberas, y pusieron en fuga a todos habitantes de valles, a oriente y occidente. También vinieron al escondite donde estaba David 
+1CR012017 algunos de hijos de Benjamín y Judá. 
+1CR012018 David se presentó delante de ellos y les dijo: “Si vienen a mí en son de paz para ayudarme, mi corazón se unirá con el de ustedes; pero si es para engañarme y ayudar a mis enemigos, puesto que yo tengo las manos limpias de todo pecado, el Dios de nuestros padres sea testigo y juez.” 
+1CR012019 Entonces el Espíritu estuvo sobre Amasías, jefe de los Treinta; dijo: “Tuyos somos, oh David, y contigo estamos, oh hijo de Jesé; paz, paz a ti; y paz a quienes te ayuden; ya que a ti te defiende tu Dios.” David los recibió y los hizo jefes de sus tropas. 
+1CR012020 También de Manasés se pasaron algunos a David, cuando éste iba con los filisteos al combate contra Saúl, si bien no peleó al lado de ellos; porque los príncipes de los filisteos después de haberlo hablado entre ellos, lo hicieron volver, diciendo: “A costa de nuestra vida, este hombre se reconciliará con Saúl su señor.” 
+1CR012021 Cuando regresó a Siquelag, se unieron a él algunos de los hijos de Manasés: Adná, Yazaba, Jediael, Miguel, Yozabad, Elihú y Siletay, jefes de millares de Manasés. 
+1CR012022 Estos ayudaron a David al frente de sus banderas, pues todos eran hombres valientes, y llegaron a ser jefes en el ejército. 
+1CR012023 Cada día, en efecto, acudía gente a David para ayudarlo, hasta que el campamento llegó a ser grande, como un campamento de Dios. Guerreros hicieron rey a David 
+1CR012024 Este es el número de los guerreros preparados para la guerra que vinieron donde David, a Hebrón, para transferirle el reino de Saúl, conforme a la orden de Yavé. 
+1CR012025 De los hijos de Judá, llevando escudo y lanza, seis mil ochocientos, armados para la guerra. 
+1CR012026 De los hijos de Simeón, hombres valerosos para la guerra, siete mil cien. 
+1CR012027 De los hijos de Leví, cuatro mil seiscientos 
+1CR012028 y también Jehoyadá, príncipe de los hijos de Aarón, con otros tres mil setecientos. 
+1CR012029 Sadoc, joven y valeroso, con los veintidós jefes de su casa paterna. 
+1CR012030 los hijos de Benjamín, hermano de Saúl, tres mil: hasta entonces la mayor parte de ellos habían permanecido fieles a la familia de Saúl. 
+1CR012031 los hijos de Efraím, veinte mil ochocientos hombres valientes, famosos en sus casas paternas. 
+1CR012032 la media tribu de Manasés, dieciocho mil, nominalmente designados para ir a proclamar rey a David. 
+1CR012033 los hijos de Isacar, expertos en distinguir las oportunidades y saber lo que Israel debía hacer, doscientos jefes, y todos sus hermanos bajo sus órdenes. 
+1CR012034 De Zabulón, cincuenta mil, aptos para salir a campaña, ejercitados en todas las armas de guerra, que se ordenaban con resolución. 
+1CR012035 De Neftalí, mil jefes, y con ellos treinta y siete mil hombres con escudo y lanza. 
+1CR012036 De los danitas, preparados para la batalla, veintiocho mil seiscientos. 
+1CR012037 De Aser, aptos para salir a campaña y preparados para la batalla, cuarenta mil. 
+1CR012038 Y de Transjordania, de los rubenitas, de los gaditas y de la media tribu de Manasés, provistos de todos los pertrechos de guerra para la batalla, ciento veinte mil. 
+1CR012039 Todos estos hombres listos para el combate vinieron espontáneamente a Hebrón a proclamar a David rey de todo Israel; y los demás israelitas estaban unánimes en hacer rey a David. 
+1CR012040 Permanecieron allí con David tres días comiendo y bebiendo, porque sus hermanos les habían preparado víveres. 
+1CR012041 Además, de los pueblos vecinos e incluso de Isacar, Zabulón y Neftalí, traían comida, en burros, camellos, mulos y bueyes; provisiones de harina, tortas de higo y pasas, vino, aceite, ganado mayor y menor en abundancia, pues reinaba la alegría en Israel. Traslado Arca 
+1CR013001 David consultó con los jefes de millar y cien y con todos los oficiales. 
+1CR013002 Luego dijo a toda la asamblea de Israel: “Si les parece bien y la cosa conviene a Yavé, nuestro Dios, vamos a mandar un mensaje a nuestros hermanos que han quedado en todas las regiones de Israel y, además, a los sacerdotes y levitas en sus ciudades y aldeas, para que se reúnan con nosotros; 
+1CR013003 y volvamos a traer a nuestro lado el Arca de nuestro Dios, ya que no nos hemos preocupado por ella en tiempos de Saúl. 
+1CR013004 Toda la asamblea acordó hacerlo así, pues la propuesta pareció bien a todo el pueblo. 
+1CR013005 David entonces congregó a todo Israel, desde Sijor de Egipto hasta la entrada de Jamat, para traer el Arca de Yavé desde Cariatiarim. 
+1CR013006 Subió, pues, David con todo Israel, hacia Baalá, a Cariatiarim de Judá, para subir de allí el Arca de Dios que lleva el Nombre de Yavé que está sobre los querubines. 
+1CR013007 Cargaron el Arca de Yavé en una carreta nueva, y se la llevaron de la casa de Abinadab; Uzzá y Ajyó conducían la carreta. 
+1CR013008 David y todo Israel bailaba delante de Yavé con todas sus fuerzas, cantando y tocando cítaras, salterios y panderos, címbalos y trompetas. 
+1CR013009 Al llegar a la era de Quidom, Uzzá extendió su mano para sostener el Arca, porque los bueyes amenazaban volcarla. 
+1CR013010 Yavé se enojó contra Uzzá y lo hirió por haber tocado el Arca, cayendo muerto allí delante de Dios. 
+1CR013011 David se enojó porque Yavé había castigado a Uzzá; y se llamó aquel lugar Peres Uzzá hasta el día de hoy. 
+1CR013012 David tuvo miedo aquel día a Yavé y dijo: “¿Cómo voy a llevar a mi casa el Arca de Dios?” 
+1CR013013 Por eso no la llevó a su casa, a la ciudad de David, sino que la hizo llevar a la casa de Obededom de Gat. 
+1CR013014 El Arca de Dios habitó tres meses en la casa de Obededom y Yavé hizo prosperar su casa y cuanto tenía. 
+1CR014001 Hiram, rey de Tiro, envió a David mensajeros y maderas de cedro y también albañiles y carpinteros para edificarle una casa. 
+1CR014002 Entonces David conoció que Yavé lo había confirmado como rey de Israel, ya que su reino había sido ensalzado a causa de Israel, su pueblo. 
+1CR014003 David tomó por esposas otras mujeres en Jerusalén y tuvo más hijos e hijas. 
+1CR014004 Estos son los nombres de los que tuvo en Jerusalén: Samúa, Sobad, Natán, Salomón, 
+1CR014005 Gibjar, Elisúa, Elfalet, 
+1CR014006 Nogah, Nefec, Yafia, 
+1CR014007 Elisama, Baalyadá y Elifelet. 
+1CR014008 Cuando los filisteos supieron que David había sido ungido rey sobre todo Israel, subieron todos a buscarlo. David se enteró y les salió al paso. 
+1CR014009 Los filisteos, siguiendo su marcha, extendieron sus tropas por el valle de Rafaim. 
+1CR014010 Entonces David consultó a Yavé diciendo: “¿Acaso debo atacar a los filisteos y me los entregarás en mis manos?” 
+1CR014011 Yavé le respondió: “Sube, pues yo los entregaré en tus manos.” Los filisteos avanzaron hasta Baalfarasim y allí los derrotó David y dijo: “Yavé ha disipado por mi mano a los enemigos, como se disipan las aguas.” Y por esto se llamó aquel lugar Baalfarasim. 
+1CR014012 Los filisteos abandonaron allí sus ídolos, que fueron arrojados al fuego por orden de David. 
+1CR014013 Nuevamente los filisteos invadieron el valle y, de nuevo, 
+1CR014014 David consultó a Yavé, el cual le contestó: “No subas detrás de ellos sino que das un rodeo y les vienes al encuentro por el lado donde están los árboles que dan bálsamo, 
+1CR014015 y cuando escuches el ruido como de alguien que anda por la copa de los árboles, entonces darás la batalla, porque Yavé va delante de ti para derrotar al ejército de los filisteos.” 
+1CR014016 David hizo como le había mandado Yavé y persiguió a los filisteos desde Gabaón hasta Guezer. 
+1CR014017 La fama de David se extendió por todas las regiones, pues Yavé difundía su terror sobre todas las naciones. 
+1CR015001 David se hizo casas en la Ciudad de David, preparó un lugar para el Arca y le levantó una tienda de campaña. 
+1CR015002 Entonces dijo David: “Solamente los levitas llevarán el Arca, pues a ellos los escogió Yavé para llevarla y servirle a él para siempre.” 
+1CR015003 David, pues, congregó a todo Israel en Jerusalén para subir el Arca de Yavé al lugar que había preparado para ella. 
+1CR015004 David reunió también a los hijos de Aarón y a los levitas. 
+1CR015005 De los hijos de Quehat: a Uriel, el jefe y a sus hermanos, ciento veinte; 
+1CR015006 de los hijos de Merarí: a Asaías, el jefe y a sus hermanos, doscientos veinte; 
+1CR015007 de los hijos de Guersom, a Joel, el jefe y a sus hermanos, ciento treinta; de los hijos de Elisafán: 
+1CR015008 a Semaías, el jefe y sus hermanos, doscientos; 
+1CR015009 de los hijos de Hebrón a Eliel, el jefe y sus hermanos, ochenta; 
+1CR015010 de los hijos de Uziel: a Aminadab, el jefe y a sus hermanos, ciento doce. 
+1CR015011 También llamó David a los sacerdotes Sadoq y Abiatar y a los levitas Uriel, Asaías, Semanias, Eliel y Aminadab 
+1CR015012 y les dijo: “Ustedes son los cabezas de familia de los levitas. Santifíquense ustedes y sus hermanos, para subir el Arca de Yavé, el Dios de Israel, al lugar que para ella tengo preparado; 
+1CR015013 pues Yavé, nuestro Dios, nos castigó cuando, en su ausencia, no lo consultamos según está establecido.” 
+1CR015014 Se santificaron, pues, los sacerdotes y levitas, para subir el Arca de Yavé, Dios de Israel. 
+1CR015015 Luego los levitas trasladaron a hombros el Arca de Yavé, como lo había ordenado Moisés, según la palabra de Yavé, llevando las varas sobre los hombros. 
+1CR015016 David dijo a los jefes de los levitas que dispusieran a sus hermanos, los cantores, con instrumentos musicales, salterios y címbalos para que los hicieran resonar, con voz de júbilo. 
+1CR015017 Los levitas designaron a Hemán, hijo de Joel; y de sus hermanos, a Asaf, hijo de Berekías; y de los hijos de Merarí, hermanos suyos, a Etán, hijo de Quisaías. 
+1CR015018 Con ellos a sus hermanos de segundo orden: Zacarías, Aziel, Semiramot, Jejiel, Uni, Eliab, Bananías, Maseías, Matatías, Elifele, Micneas, Obededom y Jeiel, porteros. 
+1CR015019 Los cantores Heman, Asaf y Etam hacían resonar címbalos de bronce. 
+1CR015020 Zacarías, Uziel, Semiramot, Jejiel, Uní, Eliab, Maseías y Benaías tenían arpas de tonos bajos. 
+1CR015021 Matatías, Elifele, Micneas, Obededom, Jeiel y Ozazías tenían cítaras de tonos altos para dirigir el canto. 
+1CR015022 Kenonías, jefe de los levitas, dirigía el traslado, porque era hombre entendido en esas cosas. 
+1CR015023 Berekías y Elcaná eran porteros del Arca. 
+1CR015024 Sebanías, Josafat, Nataniel, Amasay, Zacarías, Benaías y Eliezer, sacerdotes, tocaban las trompetas delante del Arca de Dios. Obededom y Jejías eran porteros del arca. 
+1CR015025 Así, pues, David, los ancianos de Israel y los jefes militares fueron a traer el Arca de la Alianza de Yavé, desde la casa de Obededom a Jerusalén con gran fiesta y alegría. 
+1CR015026 Y mientras Dios ayudaba a los levitas portadores del Arca de Yavé, sacrificaron siete terneros y siete carneros. 
+1CR015027 David iba revestido de una manta de lino fino, lo mismo que todos los levitas que portaban el Arca, los cantores y Kenonías, el jefe que dirigía el traslado. También llevaba un efod de lino. 
+1CR015028 Todo Israel subía el Arca de Yavé entre clamores y resonar de cuernos, con trompetas y címbalos y haciendo sonar los salterios y las cítaras. 
+1CR015029 Cuando el Arca de la Alianza de Yavé entró en la ciudad de David, Micol, hija de Saúl, estaba mirando por una ventana; vio al rey que saltaba y lo despreció en su corazón. 
+1CR016001 Trajeron el Arca de Yavé y la colocaron en medio de la tienda que David había hecho levantar para ella; y ofrecieron ante Dios víctimas quemadas y sacrificios de comuniones. 
+1CR016002 Cuando David hubo acabado de ofrecer las víctimas consumidas por el fuego y los sacrificios de comunión, bendijo al pueblo en nombre de Yavé, 
+1CR016003 y repartió a todo el pueblo de Israel, hombres y mujeres, a cada uno, una torta de pan, una porción de carne asada y un pastel de pasas. David el culto 
+1CR016004 David estableció delante del Arca de Yavé a los levitas, cuyo servicio sería celebrar, glorificar y alabar a Yavé, Dios de Israel. 
+1CR016005 Asaf era el jefe; Zacarías era el segundo; luego Uziel, Semiramot, Jejiel, Matatías, Eliab, Benaías, Obededom y Jeiel con sus instrumentos, salterios y cítaras. Asaf hacía sonar los címbalos. 
+1CR016006 Los sacerdotes Benaías y Yajaziel tocaban sin interrupción las trompetas delante del Arca de la Alianza de Dios. 
+1CR016007 Aquel día David estableció por primera vez que Yavé sería alabado por medio de Asaf y sus hermanos en la forma siguiente: 
+1CR016008 Celebren al Señor, alaben su nombre, proclamen sus maravillas a todo el mundo. 
+1CR016009 Entónenle cantos y que todos mediten sus prodigios. 
+1CR016010 Que su santo nombre sea nuestro orgullo. Que se llenen de alegría los que buscan al Señor. 
+1CR016011 Piensen en el Señor y en su poder, busquen siempre su mirada. 
+1CR016012 Recuerden cuántas maravillas ha obrado, sus prodigios y sus decisiones. 
+1CR016013 Descendientes de Israel su siervo; hijos de Jacob, su elegido. 
+1CR016014 El Señor en persona es nuestro Dios, sus sentencias abarcan toda la tierra. 
+1CR016015 Recuerda eternamente su alianza, la promesa que hizo a tantas generaciones. 
+1CR016016 El pacto conseguido con Abraham, el juramento que hizo a Isaac. 
+1CR016017 Para que fuera la ley de Jacob su alianza eterna con Israel. 
+1CR016018 Cuando le dijo: Te daré la tierra de Canaán como parte de tu herencia. 
+1CR016019 Cuando aún eran muy pocos y escasos y forasteros en esa tierra. 
+1CR016020 Iban como peregrinos de pueblo en pueblo y emigraban de una nación a otra. 
+1CR016021 No consintió que nadie los maltratara y por ellos castigó a los reyes. 
+1CR016022 Diciéndoles: No toquen a mis elegidos, ni hagan daño a mis profetas. 
+1CR016023 Cante al Señor toda la tierra, de día en día anuncien su salvación. 
+1CR016024 Proclamen su gloria entre las naciones y digan sus maravillas entre los pueblos. 
+1CR016025 Grande es el Señor y digno de alabanza, más tremendo que todos los dioses. 
+1CR016026 No existen esos dioses de las gentes: no son más que ídolos. 
+1CR016027 el Señor quien hizo los cielos. 
+1CR016028 Majestad y gloria van delante de él, poder y esplendor llenan su santuario. 
+1CR016029 Adoren al Señor todas las familias de la tierra. Reconozcan su poder. 
+1CR016030 Den gloria a su santo nombre. Ofrézcanle sacrificios, entren en su templo. 
+1CR016031 ante él con vestidos sagrados. 
+1CR016032 Que la tierra entera se estremezca ante él: el mundo ahora no se conmoverá. 
+1CR016033 Haya júbilo en el cielo y en la tierra; digan entre las naciones: El Señor reina. 
+1CR016034 Que resuene el mar y cuanto lo llena. Alégrese el campo y todo lo que en él vive. 
+1CR016035 Y salten de gozo todos los árboles, gócense delante del Señor que ya viene, viene para juzgar a la tierra. 
+1CR016036 Alaben al Señor porque es bueno. Porque es eterna su misericordia. 
+1CR016037 Digan: Sálvanos, Señor, Dios nuestro, y júntanos de entre las naciones, a fin de celebrar tu nombre santo y tener nuestra gloria en alabarte. 
+1CR016038 Bendito sea el Señor, Dios de Israel, desde siempre hasta siempre: Que todo el pueblo diga: Amén. Aleluya. Todo pueblo contestó “Amén” y alabó a Yavé. 
+1CR016039 David dejó allí, ante el Arca de la Alianza de Yavé, a Asaf y a sus hermanos, para celebrar el culto constantemente delante del Arca según el rito de cada día; 
+1CR016040 y a Obededom, hijo de Jedutum, y a Josá, como porteros. 
+1CR016041 David dejó al sacerdote Sadoq y a sus hermanos, los sacerdotes, delante de la Morada de Yavé en el alto de Gabaón, 
+1CR016042 para que ofrecieran continuamente sacrificios a Yavé en el altar de los holocaustos, por la mañana y por la tarde, según todo lo escrito en la ley que Yavé había mandado a Israel. 
+1CR016043 Con ellos estaban Hemán y Jedutún, y el resto de los hombres escogidos y señalados cada cual por su nombre para alabar a Yavé, y cantar: “Porque es eterna su misericordia.” 
+1CR016044 Y con estos Hemán y Jedutún había trompetas, címbalos e instrumentos para los cánticos de Dios. Los hijos de Jedutún permanecían a la puerta. 
+1CR016045 Después el pueblo se fue a sus casas, y David a la suya para bendecirla. La de Natán 
+1CR017001 Cuando David ya estuvo en su casa, dijo al profeta Natán: “Mira que yo vivo en una casa de madera de cedro mientras el Arca de la Alianza de Yavé está bajo pieles.” 
+1CR017002 Le respondió Natán: “Haz todo cuanto te inspira tu corazón, porque Dios está contigo.” 
+1CR017003 Aquella misma noche Yavé habló a Natán, para decirle: “Ve y transmite este recado a mi siervo David: 
+1CR017004 Esto dice Yavé: No me edificarás tú la casa en que yo habite. 
+1CR017005 Pues no he habitado en casa alguna desde el día en que hice subir a los hijos de Israel, hasta el día de hoy; sino que he andado de tienda en tienda y de morada en morada. 
+1CR017006 Durante todo el tiempo que he ido de un lado a otro con todo Israel, ¿he dicho acaso a alguno de los jueces de Israel, a los que encargué el gobierno de mi pueblo: Por qué no me edifican una casa de cedro? 
+1CR017007 Di, pues, ahora, esto a mi siervo David: Así habla Yavé Sebaot: Yo te saqué de detrás de las ovejas para que fueras jefe de mi pueblo Israel, 
+1CR017008 y he estado contigo en todas tus empresas, he eliminado a todos tus enemigos de delante de ti y voy a hacerte un nombre grande como el nombre de los grandes de la tierra. 
+1CR017009 Fijaré un lugar a mi pueblo de Israel y lo plantaré allí para que no se mueva más; no será ya perturbado y los malvados no seguirán oprimiéndolo como antes. 
+1CR017010 Desde los días en que instituí jueces sobre mi pueblo de Israel, te sometí a todos tus enemigos, y te anuncié que Yavé te edificará una casa. 
+1CR017011 Cuando se cumplan tus días para ir con tus padres, afirmaré después de ti a uno de tus descendientes, a uno de tu sangre, y aseguraré tu reino. 
+1CR017012 El me edificará una Casa y yo afirmaré su trono para siempre. 
+1CR017013 Yo seré para él un padre, y él será para mí un hijo, y no apartaré de él mi amor, como lo aparté del que estaba ante ti. 
+1CR017014 Yo lo mantendré en mi casa y en mi reino para siempre y su trono estará firme eternamente.” 
+1CR017015 Y Natán habló a David conforme a todas estas palabras y conforme a esta visión. Acción gracias David 
+1CR017016 Vino entonces el rey David a sentarse delante de Yavé, y dijo: “¿Quién soy yo, oh Yavé Dios, y qué es mi casa para que hayas hecho por mí tales cosas?, 
+1CR017017 y aun esto es poco a tus ojos, oh Dios, que también haces promesas a mi descendencia para el futuro lejano. Me has mirado como si fuera un hombre distinguido, ¡oh Yavé Dios! 
+1CR017018 ¿Qué más le queda que desear a David? Tú me conoces a mí, tu siervo. 
+1CR017019 ¡Oh, Señor!, por amor de tu siervo y según tu corazón has realizado toda esta obra, para dar a conocer todas tus grandezas. 
+1CR017020 ¡Oh Yavé! Nadie hay como tú, ni hay Dios fuera de ti, según todo lo que hemos oído con nuestros oídos. 
+1CR017021 Y ¿qué otro pueblo hay sobre la tierra como tu pueblo de Israel, a quien Dios haya ido a rescatar para hacerlo su pueblo, dándole renombre por medio de cosas grandes y terribles, arrojando naciones de delante de él y librándolo en la esclavitud de Egipto? 
+1CR017022 Tú has constituido a Israel tu pueblo, como pueblo tuyo para siempre, y tú, Yavé, te has hecho su Dios. 
+1CR017023 Ahora, pues, oh Yavé, que se verifique eternamente la palabra que has dirigido respecto a tu siervo y a su casa; y haz según tu palabra. 
+1CR017024 Sí, que todo se verifique; y sea tu nombre engrandecido por siempre y que se diga: Yavé Sebaot, el Dios de Israel, es un Dios para Israel. Y que la familia de tu siervo David subsista en tu presencia. 
+1CR017025 ¡Oh Dios mío! Acabas de revelar a tu siervo que vas a edificarle una casa, y por esto he encontrado valor para orar en tu presencia. 
+1CR017026 Ahora, pues, Yavé, tú eres Dios y tú has prometido esta dicha a tu siervo, 
+1CR017027 y ahora te has dignado bendecir la casa de tu siervo para que permanezca por siempre en tu presencia. ¡Oh Yavé! Tú eres el que bendice y mi casa, pues, será bendita para siempre.” Guerras David 
+1CR018001 Después de esto David derrotó a los filisteos y los sometió, tomando Gat y sus aldeas de manos de los filisteos. 
+1CR018002 Venció también a los moabitas, que quedaron sometidos a David y le pagaban impuestos. 
+1CR018003 David derrotó a Hadadezer, rey de Sobá, en Jamat, cuando éste iba a establecer su dominio sobre la región del río Eufrates. 
+1CR018004 David tomó mil carros de guerra, siete mil soldados de caballería y veinte mil de infantería; luego cortó los jarretes a todos los caballos de los carros, a excepción de cien carros que guardó. 
+1CR018005 Los arameos de Damasco vinieron en socorro de Hadadezer rey de Sobá, y David mató a veintidós mil arameos. 
+1CR018006 David estableció gobernadores en Aram de Damasco, y los arameos quedaron sometidos a David, pagándole impuestos. Así Yavé hizo triunfar a David dondequiera que iba. 
+1CR018007 David tomó los escudos de oro que llevaban los servidores de Hadadezer y los llevó a Jerusalén. De Tibjat y Kun, ciudades de Hadadezer, 
+1CR018008 David tomó una gran cantidad de bronce, con el cual Salomón hizo el Mar de Bronce, las columnas y los utensilios de bronce. 
+1CR018009 Cuando Toú, rey de Jamat, supo que David había derrotado a todas las fuerzas de Hadadezer, rey de Sobá, 
+1CR018010 envió a Hadoram, su hijo, donde el rey David para saludarlo y para felicitarlo por haber atacado y vencido a Hadadezer, ya que Toú estaba en guerra con Hadadezer. Hadoram toda clase de objetos de oro, de plata y de bronce. 
+1CR018011 El rey David los consagró también a Yavé con la plata y el oro que había tomado a todas las naciones; a Edom, a Moab, a los hijos de Ammón, a los filisteos y a los amalecitas. 
+1CR018012 David se hizo famoso cuando volvió después de derrotar a dieciocho mil edomitas en el Valle de la Sal. 
+1CR018013 Puso gobernadores en Edom; y todos los edomitas quedaron sometidos a David. Yavé hizo triunfar a David en todas las expediciones que emprendió. 
+1CR018014 David reinó sobre todo Israel. Su administración era honrada, y juzgaba con justicia a todo su pueblo. 
+1CR018015 Joab, hijo de Sarvia, era jefe del ejército; Josafat, hijo de Ajitub, era el canciller; 
+1CR018016 Sadoq, hijo de Ajitub, y Abimelec, hijo de Abiatar eran sacerdotes; 
+1CR018017 Sivsa era secretario; Benaías, hijo de Jeovadá, mandaba a los cereteos y peleteos. Pero los hijos de David eran primeros al lado del rey. 
+1CR019001 Después de esto, murió Najás, rey de los amonitas, y en su lugar reinó su hijo. 
+1CR019002 Entonces David dijo: “Tendré con Janún, hijo de Najás, la misma benevolencia que su padre tuvo conmigo”, y envió David mensajeros para que lo consolaran por la muerte de su padre. Pero cuando los servidores de David llegaron al país de Ammón, donde Janún, para consolarlo, 
+1CR019003 los príncipes de los hijos de Ammón dijeron a Janún: “¿Es que David ha enviado a consolarte para honrar la memoria de tu padre o más bien para explorar, espiar y poder destruir el país?” 
+1CR019004 Janún tomó presos a los enviados de David, les rapó la cabeza y la barba, les cortó a media altura sus vestidos hasta las nalgas y así los despidió. 
+1CR019005 David supo lo que les había pasado y envió gente a su encuentro ya que venían muy avergonzados. El rey dijo: “Quédense en Jericó hasta que les crezca la barba, y después vuelvan.” 
+1CR019006 Cuando los hijos de Ammón vieron que se habían hecho odiosos a David, Janún y los amonitas enviaron mil talentos de plata para tomar a sueldo carros de guerra y hombres para manejarlos, de Aram de Mesopotamia, Aram de Maacá y de Sobá. 
+1CR019007 Tomaron a sueldo treinta y dos mil carros de guerra y al rey de Maacá con su ejército, los cuales vinieron y acamparon frente a Medebá, mientras los hijos de Ammón se congregaban desde sus ciudades y llegaban para la batalla. 
+1CR019008 David lo supo, y envió a Joab con toda la tropa y con los valientes. 
+1CR019009 Los amonitas salieron a campaña y se ordenaron en batalla a la entrada de la ciudad, mientras que los reyes que habían venido estaban aparte en el campo. 
+1CR019010 Viendo Joab que tenía un frente de combate por delante y otro por detrás, escogió los mejores de Israel y los puso en línea contra los arameos. 
+1CR019011 Puso el resto del ejécito al mando de su hermano Abisay y lo ordenó en batalla frente a los amonitas. 
+1CR019012 Dijo Joab: “Si los arameos me dominan, ven en mi ayuda; y si los hijos de Ammón te dominan a ti, iré a socorrerte. 
+1CR019013 Ten fortaleza y esforcémonos por nuestro pueblo y por las ciudades de nuestro Dios, que Yavé haga lo que le parezca bueno.” 
+1CR019014 Joab avanzó con su ejército para luchar contra los arameos, que huyeron delante de él. 
+1CR019015 Viendo los amonitas que los arameos emprendían la fuga, huyeron también ellos ante Abisay, hermano de Joab, y volvieron a la ciudad, mientras que Joab regresó a Jerusalén. 
+1CR019016 Al ver los arameos que Israel los había vencido enviaron mensajeros a los arameos del otro lado del río para que vinieran a ayudarlos: Sofac jefe de las tropas de Hadadezer estaba a su frente. 
+1CR019017 Avisaron a David, que reuniendo a todo Israel pasó el Jordán, llegó donde estaban ellos y tomó posición frente a ellos. David se puso en orden de batalla contra los arameos, y éstos trabaron combate con él. 
+1CR019018 Los arameos huyeron ante Israel: David mató a siete mil soldados de infantería de los carros y a cuarenta mil de infantería. Mató también a Sofac, jefe del ejército. 
+1CR019019 Cuando los hombres de Hadadezer vieron que Israel los derrotó, hicieron la paz con David y le quedaron sometidos. En adelante los arameos ya no se atrevieron a seguir ayudando a los amonitas. Otras 
+1CR020001 A la vuelta del año, en el tiempo en que los reyes salen a pelear, Joab se fue con la mayor parte del ejército para asolar el país de los hijos de Ammón; después fue a sitiar a Raba, mientras David se quedó en Jerusalén. Entre tanto, Joab conquistó a Raba y la destruyó. 
+1CR020002 David tomó la corona del dios Milcom de encima de su cabeza. Comprobaron que pesaba un talento de oro, con una piedra preciosa que fue puesta en la cabeza de David. Se llevó además un gran botín de la ciudad. 
+1CR020003 Sacó de la ciudad a todos sus habitantes y los hizo despedazar con sierras, con trillos de dientes de acero y con hoces. Así hizo con todas las ciudades de los amonitas. Luego David regresó con todo su ejército a Jerusalén. 
+1CR020004 Después de esto, tuvo lugar una batalla en Guezer contra los filisteos; entonces Sibekay, jusasita, mató a Sipay, uno de los descendientes de Rafá. Los filisteos tuvieron que someterse. 
+1CR020005 Hubo otra guerra contra los filisteos y Eljanán, hijo de Jair, mató a Lajmi, hermano de Goliat, el de Gat; el asta de su lanza era como un enjullo de telar. 
+1CR020006 Hubo guerra de nuevo en Gat, y había un hombre de gran estatura que tenía veinticuatro dedos, seis en cada mano y pie. 
+1CR020007 También éste descendía de Rafá. Desafió a Israel y lo mató Jonatán, hijo de Simá, hermano de David. 
+1CR020008 Estos son los que descendían de Rafá de Gat, que murieron en manos de David y de sus tropas. El 
+1CR021001 Satanás se levantó contra Israel e incitó a David a hacer el censo de Israel. 
+1CR021002 Dijo, pues, David a Joab y a los jefes del pueblo: “Vayan y cuenten a los israelitas desde Bersebá a Dan, y prepárenme un informe para que yo sepa su número.” 
+1CR021003 Respondió Joab: “Multiplique Yavé su pueblo cien veces más de lo que es. ¿Acaso no son todos ellos siervos de mi señor? ¿Por qué, pues, pides esto? ¿Por qué acarrear una culpa sobre Israel?” 
+1CR021004 De todos modos prevaleció la orden del rey y Joab recorrió todo Israel, volviéndose después a Jerusalén. 
+1CR021005 Joab entregó a David la cifra del censo del pueblo: había en todo Israel un millón cien mil hombres capaces de manejar las armas, y en Judá, cuatrocientos setenta mil. 
+1CR021006 No incluyó en este censo a la tribu de Leví, ni a la de Benjamín, porque Joab detestaba la orden del rey. 
+1CR021007 Esto desagradó a Yavé, por lo cual castigó a Israel. 
+1CR021008 David, entonces, dijo a Yavé: “He cometido un gran pecado haciendo esto. Pero ahora perdona, te ruego, la falta de tu siervo, pues he sido muy estúpido.” 
+1CR021009 Y Yavé habló a Gad, profeta de David, para decirle: 
+1CR021010 “Transmite a David este recado: Así dice Yavé: Te propongo tres cosas, la que escojas, la llevaré a cabo.” 
+1CR021011 Llegó Gad donde David y le dijo: “Así dice Yavé: Elige para ti 
+1CR021012 tres años de hambre o tres meses de derrotas ante tus enemigos que te perseguirán con su espada, o bien tres días durante los cuales la espada de Yavé, la peste, aqueje el país y el Angel de Yavé haga estragos en todo el territorio de Israel. Ahora, pues, contéstame, ya que tengo que responder al que me envía.” 
+1CR021013 David respondió a Gad: “Estoy en gran angustia. Pero caiga yo en manos de Yavé, porque es grande su misericordia, y no caiga en manos de los hombres.” 
+1CR021014 Yavé, pues, envió la peste sobre Israel y murieron setenta mil hombres. 
+1CR021015 Yavé mandó un Angel contra Jerusalén para destruirla; pero cuando ya lo estaba haciendo Yavé miró y se arrepintió del mal y dijo al Angel exterminador: “Basta ya, retira tu mano.” El de Yavé estaba junto a la era de Ornán el jebuseo. 
+1CR021016 Alzando David los ojos vio el que estaba entre el cielo y la tierra con una espada desenvainada en su mano, extendida sobre Jerusalén. Entonces David y los jefes, vestidos con sacos, se postraron rostro en tierra. 
+1CR021017 Y David dijo a Yavé: “Yo fui quien ordenó hacer el censo del pueblo. Yo fui quien pequé; yo cometí el mal; pero estas ovejas ¿qué culpa tienen? Oh Yavé, Dios mío, caiga tu mano sobre mí, y sobre la familia de mi padre, pero que no haya plaga en tu pueblo.” 
+1CR021018 El Angel de Yavé ordenó a Gad que dijera a David de subir para alzar un altar a Yavé en la era de Ornán el jebuseo. 
+1CR021019 Subió David cumpliendo la orden que Yavé le había dado por boca de Gad. 
+1CR021020 Ornán, que estaba trillando el trigo, se volvió y vio al Angel; sus cuatro hijos que estaban con él se escondieron. 
+1CR021021 Cuando David llegó junto a Ornán, éste miró y, al verlo, salió de la era para postrarse ante él, rostro en tierra. 
+1CR021022 David dijo a Ornán: “Dame el sitio de esta era para erigir en él un altar a Yavé; dámelo por su justo valor en plata, para que la plaga se retire del pueblo.” 
+1CR021023 Ornán respondió a David: “Tómalo; que mi señor, el rey, haga lo que mejor le parezca; doy también los bueyes para los holocaustos, los trillos para la leña y el trigo para la ofrenda; todo lo doy.” 
+1CR021024 El rey David replicó a Ornán: “No, quiero comprártelo por su justo precio, pues no tomaré para Yavé lo que es tuyo, ni quiero ofrecerle sacrificios que no me cuesten.” 
+1CR021025 Y David dio a Ornán por el sitio la suma de seiscientos siclos de oro. 
+1CR021026 Allí erigió un altar a Yavé y ofreció víctimas quemadas y sacrificios de comunión e invocó a Yavé, el cual le respondió con fuego del cielo que cayó sobre el altar del holocausto. 
+1CR021027 Entonces Yavé ordenó al Angel que volviera la espada a la vaina. 
+1CR021028 Inmediatamente David, al ver que Yavé había escuchado su oración en la era de Ornán el jebuseo, ofreció allí sacrificios. 
+1CR021029 La Morada de Yavé, que Moisés había construido en el desierto, y el Altar de los holocaustos estaban en aquel entonces en el santuario de lomas de Gabaón; 
+1CR021030 pero David no se había atrevido a presentarse delante de Yavé para consultarle, porque estaba aterrado de miedo ante la espada del Angel. 
+1CR022001 Entonces dijo David: “Aquí estará la Casa de Yavé, Dios, y aquí el altar de los holocaustos para Israel.” Preparativos la construcción del templo 
+1CR022002 David, pues, mandó reunir a los forasteros residentes en la tierra de Israel, y designó canteros para que preparasen piedras talladas para la construcción de la Casa de Dios. 
+1CR022003 Preparó también hierro en abundancia para la clavazón de las hojas de las puertas y para las grapas; preparó también incalculable cantidad de bronce 
+1CR022004 y madera de cedro sin número, pues los sidonios y los tirios trajeron a David madera de cedro en abundancia. 
+1CR022005 David se decía: “Mi hijo Salomón es todavía un joven delicado y la casa que ha de edificar para Yavé debe ser extraordinariamente grandiosa, para que se hable de ella y sea famosa en todos los países. Así que yo le haré los preparativos.” Así, David hizo grandes preparativos antes de su muerte. 
+1CR022006 Después llamó a su hijo Salomón y le mandó que edificase una Casa para Yavé, el Dios de Israel. 
+1CR022007 Dijo David a Salomón: “Hijo mío, yo había deseado edificar una Casa al nombre de Yavé, mi Dios. 
+1CR022008 Pero me fue dirigida la palabra de Yavé que me dijo: Tú has derramado mucha sangre y has hecho grandes guerras; no podrás edificar la Casa a mi nombre porque has derramado mucha sangre delante de mí. 
+1CR022009 Mira que te nacerá un hijo que será hombre de paz; le concederé paz con todos sus enemigos en derredor, porque Salomón será su nombre, y durante su vida concederé paz y tranquilidad a Israel. 
+1CR022010 El edificará una Casa a mi nombre; él será para mí un hijo y yo para él un padre y afirmaré el trono de su reino sobre Israel para siempre. 
+1CR022011 Ahora, hijo mío, que Yavé sea contigo, para que logres edificar la Casa de Yavé, tu Dios, según lo que dijo referente a ti. 
+1CR022012 Quiera Yavé concederte prudencia y entendimiento en el momento que te establece sobre Israel, para que guardes la Ley de Yavé tu Dios. 
+1CR022013 Entonces prosperarás si cuidas de cumplir los preceptos y decretos que Yavé ha prescrito a Moisés para Israel. ¡Sé fuerte y ten buen ánimo! ¡No temas ni desmayes! 
+1CR022014 Mira lo que yo he preparado con mucha dificultad para la Casa de Yavé: cien mil talentos de oro, un millón de talentos de plata. En cuanto al bronce y al hierro, hay tanto que no se puede contar. He preparado también maderas y piedras que tú podrás aumentar. 
+1CR022015 Tienes también muchos obreros, canteros, artesanos en piedra y en madera y expertos en toda clase de obras. 
+1CR022016 El oro, la plata, el bronce y el hierro son incalculables. Levántate, pues, manos a la obra, y que Yavé sea contigo.” 
+1CR022017 David mandó a todos los jefes de Israel que ayudaran a su hijo Salomón. 
+1CR022018 “¿No está con ustedes Yavé, su Dios? ¿Y no les ha dado paz por todos lados? Pues él ha entregado en mis manos a los habitantes del país; y el país está sujeto ante Yavé y ante su pueblo. 
+1CR022019 Dedíquense, pues, de todo corazón y alma a buscar a Yavé, su Dios. Levántense y edifiquen el Santuario de Yavé, su Dios, y que se traslade el Arca de la Alianza y las cosas sagradas de Dios a la casa edificada al nombre de Yavé.” Organización culto: los levitas 
+1CR023001 Siendo ya David anciano y lleno de días proclamó a su hijo Salomón rey de Israel. 
+1CR023002 Reunió a todos los jefes de Israel, a los sacerdotes y a los levitas 
+1CR023003 y se hizo el censo de los levitas de treinta años para arriba; su número, contados uno a uno, fue de treinta y ocho mil varones. 
+1CR023004 David dijo: “De éstos, veinticuatro mil estarán al frente del servicio de la Casa de Yavé, seis mil serán escribas y jueces; 
+1CR023005 cuatro mil serán porteros y cuatro mil alabarán a Yavé con los instrumentos que hice para su alabanza.” 
+1CR023006 David los distribuyó por turnos según las familias de los hijos de Leví: Guersón, Quehat y Merarí. 
+1CR023007 De los guersonitas: Ladán y Semí. 
+1CR023008 Hijos de Ladán: Jejiel el primero, Zetam y Joel, tres. 
+1CR023009 Hijos de Semí: Selomit, Jaziel y Heran, tres. Estos son los jefes de las casas paternas de Ladán. 
+1CR023010 Hijos de Semí: Yajat, Zizá, Jeus y Bería. 
+1CR023011 Estos eran los cuatro hijos de Semí: Yajat era el jefe, Zizá, el segundo; Jeus y Bería no tuvieron muchos hijos, por lo cual representaron en el censo una sola casa paterna. 
+1CR023012 Hijos de Quehat: Amram, Jisear, Hebrón y Uziel, cuatro. Hijos de Amram: Aarón y Moisés. 
+1CR023013 Aarón fue separado juntamente con sus hijos para consagrar por siempre las cosas muy sagradas, para quemar incienso ante Yavé, para servirlo y para bendecir en su nombre por siempre. 
+1CR023014 En cuanto a Moisés, varón de Dios, sus hijos fueron contados en la tribu de Leví. 
+1CR023015 Hijos de Moisés: Guersom y Eliezer. 
+1CR023016 Hijos de Guersom: Sebuel, el primero. Hijos de Eliezer: Rejabías, el primero. 
+1CR023017 Eliezer no tuvo más hijos, pero los hijos de Rejabías fueron muy numerosos. 
+1CR023018 Hijos de Jisecar: Selomit, el primero. 
+1CR023019 Hijos de Hebrón: Yeria, el primero; Amarías, el segundo; Yajaziel, el tercero y Yecamam el cuarto. 
+1CR023020 Hijos de Uziel: Mika, el primero, y Jisías el segundo. 
+1CR023021 Hijos de Merarí: Majlí y Musi. 
+1CR023022 Hijos de Majlí: Eleazar y Quis. Eleazar murió sin tener hijos; sólo tuvo hijas, a las que los hijos de Quis, sus hermanos, tomaron por esposas. 
+1CR023023 Hijos de Musí: Majlí, Eder y Jerimot, tres. 
+1CR023024 Estos son los hijos de Leví, según sus familias paternas, los cabezas de familIa, según el censo de ellos, contados uno por uno. Estaban encargados del servicio de la Casa de Yavé desde la edad de veinte años en adelante, 
+1CR023025 pues David había dicho:”Yavé, el Dios de Israel, ha dado reposo a su pueblo y mora en Jerusalén para siempre, 
+1CR023026 de manera que los levitas ya no tendrán que transportar la Morada, con todos los utensilios de su servicio.” 
+1CR023027 Conforme a estas últimas disposiciones de David, se hizo el censo de los hijos de Leví de veinte años para arriba. 
+1CR023028 Ayudaban a los hijos de Aarón para el servicio de la Casa de Yavé, teniendo a su cargo los atrios y las cámaras, la limpieza de todas las cosas sagradas y la obra del servicio de la Casa de Yavé; 
+1CR023029 asimismo tenían a su cargo disponer en filas los panes, la flor de harina para la ofrenda, las tortas sin levadura fritas en la sartén, o cocinadas, y toda clase de medidas de capacidad y longitud. 
+1CR023030 Tenían que estar presentes todas las mañanas para celebrar y alabar a Yavé, y todas las tardes 
+1CR023031 para ofrecer todos los holocaustos a Yavé. Lo mismo en los sábados, lunas nuevas y solemnidades, según el número y el rito establecido delante de Yavé para siempre, 
+1CR023032 guardando en el servicio de la Casa de Yavé el ritual de la Tienda de Reunión, el ritual del santuario y el ritual de los hijos de Aarón, sus hermanos. Los 
+1CR024001 Estas son las clases de los hijos de Aarón. 
+1CR024002 Hijos de Aarón: Nadab, Abihú, Eleazar e Itamar. Nadab y Abihú murieron en presencia de su padre, sin tener hijos, de modo que Eleazar e Itamar ejercieron las funciones sacerdotales. 
+1CR024003 David, junto con Sadoq, de los hijos de Eleazar, y Ajimelec de los hijos de Itamar, los clasificó y los inscribió en el registro según sus funciones. 
+1CR024004 Se hallaron entre los hijos de Eleazar más varones que entre los hijos de Itamar, por lo que se dividió a los hijos de Eleazar en dieciséis jefes de casas paternas; y a los hijos de Itamar, en ocho jefes de casas paternas. 
+1CR024005 Los repartieron por suertes a unos y otros; porque había jefes sagrados y jefes divinos, tanto entre los hijos de Eleazar como entre los hijos de Itamar; 
+1CR024006 Semaías, hijo de Natanael, escriba, uno de los levitas, los inscribió en presencia del rey y de los jefes, y en presencia del sacerdote Sadoc, de Ajimelec, hijo de Abiatar, y de los jefes de familias sacerdotales y levíticas. Se sacaba a suertes: una vez para Itamar y dos veces para Eleazar. 
+1CR024007 Tocó la primera suerte a Yoyarib; la segunda a Jedaías; 
+1CR024008 la tercera a Jarim; la cuerta a Seorim; 
+1CR024009 la quinta a Malaquías; la sexta a Miyamim; la séptima a Hacos; 
+1CR024010 la octava a Abías; la novena a Jesúa; 
+1CR024011 la décima a Secanías; la once a Elyasib; 
+1CR024012 la doce a Yaquim; la trece a Jupá; la catorce a Yesebab; 
+1CR024013 la quince a Bilgá; la dieciséis a Inmer; 
+1CR024014 la diecisiete a Jezir; 
+1CR024015 la dieciocho a Apises; 
+1CR024016 la diecinueve a Petajías; 
+1CR024017 la veinte a Ezequiel; la veintiuno a Yaquim; la veintidós a Gamul; 
+1CR024018 la veintitrés a Delaías; la veinticuatro a Maazías. 
+1CR024019 Fueron inscritos en el registro según sus servicios para entrar en la Casa de Yavé conforme al reglamento que Yavé, el Dios de Israel, había prescrito por medio de Aarón, padre de ellos. 
+1CR024020 Respecto de los otros hijos de Leví: De los hijos de Amram: Subael. De los hijos de Subael: Jejdeías. 
+1CR024021 De Rejabías: de los hijos de Rejabías: Jisía era el primero. 
+1CR024022 De los Jisbaritas, Selemot; de los hijos de Selemot, Yajat. 
+1CR024023 Hijos de Hebrón: Jerías el primero; Amarías, el segundo; Yajaziel, el tercero; Yecaman, el cuarto. 
+1CR024024 Hijos de Uziel: Miká; 
+1CR024025 de los hijos de Miká, Samir; Jisías era hermano de Miká; 
+1CR024026 de los hijos de Jisías, Zacarías. Hijos de Merarí: Majlí y Musi, 
+1CR024027 hijos de Merarí por la línea de Uzías, su hijo: Soham, Zakur y Jibrí. 
+1CR024028 De Majli: Eleazar, que no tuvo hijos. 
+1CR024029 De Quis: Los hijos de Quis: Yerajmeel. 
+1CR024030 Hijos de Musí: Majlí, Eder y Jerimot. Estos los hijos de los levitas, según sus casas paternas. 
+1CR024031 También éstos entraron en suerte de la misma manera que sus hermanos, los hijos de Aarón, en presencia del rey David, en presencia de Sadoq, Ajimelec y los cabezas de familias de sacerdotes y de levitas, siendo tratadas las primeras familias igual que las últimas. Los 
+1CR025001 David y los jefes del ejército separaron para el servicio a los hijos de Asaf, Hemán y Jedutún, que profetizaban acompañándose con cítaras, salterios y címbalos. Este es el número de personas que se encargaban de este servicio: 
+1CR025002 De los hijos de Asaf: Zakur, José, Netanías, Asarelá. Los hijos de Asaf estaban bajo la dirección de Asaf, que profetizaba bajo la dirección del rey. 
+1CR025003 De Jedutún: Los hijos de Jedutún: Guedalías, Serí, Semeí, Isaías, Jasabías y Matatías, seis, bajo la dirección de su padre Jedutún, que profetizaba al son de la cítara para celebrar y alabar a Yavé. 
+1CR025004 De Hemán: Los hijos de Hemán: Buguías, Matanías, Uziel, Sebuel, Jerimot, Jamanías, Jamaní, Eliatá, Guidalti, Romamtí-Ezer, Yosbecasa, Malotí, Hotir, Majaziot. 
+1CR025005 Todos éstos eran hijos de Hemán, profeta del rey, que debía hacer sonar la trompa cuando llegaba la palabra de Yavé. Dios había dado a Hemán catorce hijos y tres hijas. 
+1CR025006 Todos ellos se hallaban bajo la dirección de su padre para el canto de la Casa de Yavé, con címbalos, salterios y cítaras al servicio de la Casa de Yavé, siguiendo las indicaciones del rey, de Asaf, Jedutún y Hemán. 
+1CR025007 Su número, contando a sus hermanos, los que estaban instruidos en el canto de Yavé, todos ellos maestros, era de doscientos ochenta y ocho. 
+1CR025008 Echaron a suertes el turno del servicio de todos, tanto del pequeño como del grande, del maestro como del discípulo. 
+1CR025009 La primera suerte recayó para Asaf sobre José; él y sus hijos y hermanos, doce. La segunda sobre Guedalías con sus hermanos e hijos, doce. 
+1CR025010 La tercera, sobre Zakur, sus hijos y hermanos, doce. 
+1CR025011 La cuarta, sobre Yisrí, sus hijos y hermanos, doce. 
+1CR025012 La quinta, sobre Netanías, sus hijos y hermanos, doce. 
+1CR025013 La sexta, sobre Buquías, sus hijos y hermanos, doce. 
+1CR025014 La séptima, sobre Yesarela, sus hijos y hermanos, doce. 
+1CR025015 La octava, sobre Isaías, sus hijos y hermanos, doce. La novena, sobre Matanías, sus hijos y hermanos, doce. 
+1CR025016 La décima, sobre Semí, sus hijos y hermanos, doce. 
+1CR025017 La undécima, sobre Azarael, sus hijos y hermanos, doce. 
+1CR025018 La duodécima, sobre Jasabías, sus hijos y hermanos, doce. 
+1CR025019 La decimotercera, sobre Subael, sus hijos y hermanos, doce. 
+1CR025020 La decimocuarta, sobre Matatías, sus hijos y hermanos, doce. 
+1CR025021 La decimoquinta, sobre Jeremot, sus hijos y hermanos, doce. 
+1CR025022 La decimosexta, sobre Jananías, sus hijos y hermanos, doce. 
+1CR025023 La decimoséptima, sobre Yosbecasa, sus hijos y hermanos, doce. 
+1CR025024 La decimoctava, sobre Jananí, sus hijos y hermanos, doce. 
+1CR025025 La decimonovena, sobre Malotí, sus hijos y hermanos, doce. 
+1CR025026 La vigésima, sobre Eliyatá, sus hijos y hermanos, doce. 
+1CR025027 La vigésimo primera, sobre Hotir, sus hijos y hermanos, doce. 
+1CR025028 La vigésimo segunda, sobre Guidaltí, sus hijos y hermanos, doce. 
+1CR025029 La vigésimo tercera, sobre Majaziot, sus hijos y hermanos, doce. 
+1CR025030 La vigésimo cuarta, sobre Romamtí-Ezer, sus hijos y hermanos, doce. Los 
+1CR026001 Estas son las clases de porteros: de los coreítas: Meselemías, hajo de Coré, de los hijos de Ebiasaf. 
+1CR026002 Meselemías tuvo hijos: el primogénito, Zacarías; el segundo, Jedaiel; el tercero, Zebadías; el cuarto, Yataniel; 
+1CR026003 el quinto, Elam; el sexto, Jehojanan; el séptimo Elyehoenay. 
+1CR026004 Hijos de Obededom: Semaías, el primogénito; Jehozabad, el segundo; Yoaj, el tercero; Sacar, el cuarto; Natanael, el quinto; 
+1CR026005 Amiel, el sexto; Isacar, el séptimo; Peualty, el octavo; pues Yavé le había bendecido. 
+1CR026006 A su hijo Semaías le nacieron hijos, que se impusieron en sus familias paternas, pues eran hombres valerosos. 
+1CR026007 Hijos de Semaías: Otní, Rafael, Obed, Elzabad y sus hermanos, hombres valerosos, Elihú y Semakías. 
+1CR026008 Todos éstos eran hijos de Obededom, ellos y sus hijos y sus hermanos eran hombres de gran valor para el servicio. Sesenta y dos de Obededom. 
+1CR026009 Mesalemías tuvo hijos y hermanos, dieciocho hombres valerosos. 
+1CR026010 Josías, de los hijos de Merarí, tuvo como hijos a Simrí, que hizo de primero porque, después de perder a su primogénito, su padre lo puso al frente, 
+1CR026011 Jilquías, el segundo; Tebalías, el tercero; Zacarías, el cuarto. El total de los hijos y hermanos de Josá fue de trece. 
+1CR026012 Estas secciones de los porteros, todo el personal masculino, igual que sus hermanos, tenían el cuidado del ministerio de la Casa de Yavé. 
+1CR026013 Echaron suertes para cada puerta, sobre pequeños y grandes según sus casas paternas. 
+1CR026014 Para la puerta oriental la suerte cayó sobre Selemías. Después echaron suertes para la puerta del norte, la cual le tocó a su hijo Zacarías, que era un prudente consejero. 
+1CR026015 A Obededom le tocó el sur, y a sus hijos los almacenes. 
+1CR026016 A Supim y a Josá, el occidente, junto a la puerta de la sala en el camino de la subida, correspondiéndose un puesto de guardia con el otro. 
+1CR026017 Al oriente se nombraban seis levitas por día, al norte cuatro por día, al mediodía, cuatro por día, y en los almacenes de dos en dos; 
+1CR026018 en el anexo del occidente había cuatro para la subida, dos para el anexo. 
+1CR026019 Estas son las clases de los porteros, tanto de los hijos de los coreítas como de los hijos de Medarí. 
+1CR026020 Los levitas sus hermanos, custodiaban los tesoros de la Casa de Yavé y los tesoros de las cosas consagradas. 
+1CR026021 Entre los hijos de Ladán, hijos de Guersón por la línea de Ladán y jefes de familia de Ladán el guersonita, se contaban los hijos de Jejiel. 
+1CR026022 Los hijos de Jejiel, de Zetan y de su hermano Joel, esban al frente de los tesoros de la Casa de Yavé. 
+1CR026023 Juntamente con los amramíes, los jisharitas, los hebronitas y los uzelitas. 
+1CR026024 Sabuel, hijo de Guersón, hijo de Moisés, era el tesorero mayor. 
+1CR026025 Sus hermanos por parte de Eliezer: Rejabías, hijo suyo; Isaías, hijo suyo; Joram, hijo suyo; Zikri, hijo suyo; Selomit, hijo suyo. 
+1CR026026 Este Selomit y sus hermanos estaban al cuidado de las cosas que el rey David, los cabezas de las casas paternas, los jefes de mil y de cien y los demás jefes del ejército habían consagrado a Yavé. 
+1CR026027 Aquí había una parte del botín de guerra y de los despojos que los jefes habían consagrado para el sostenimiento de la Casa de Yavé. 
+1CR026028 Además, todo lo que habían consagrado el profeta Samuel, Saúl, hijo de Quis, Abner, hijo de Ner y Joab, hijo de Sarvia; todo lo consagrado estaba al cuidado de Selomit y sus hermanos. 
+1CR026029 De los yeseritas: Kenanías y sus hijos administraban como secretarios y jueces los negocios exteriores de Israel. 
+1CR026030 De los hebronitas: Jesabías y sus hermanos, hombres muy valerosos en número de mil setecientos, gobernaban la parte de Israel que está al otro lado del Jordán hacia el poniente, en todos los negocios concernientes al servicio de Yavé y del rey. 
+1CR026031 El jefe de los hebronitas era Jería, según la genealogía paterna de los hebronitas. Se hicieron investigaciones al respecto en el año cuarenta del reinado de David y se hallaron entre ellos hombres valerosos que habían estado en Yaser de Galaad. 
+1CR026032 También los hermanos de Jería eran hombres valerosos, en número de dos mil setecientos jefes de familias. 
+1CR026033 El rey David les dio el mando sobre los rubenitas y gaditas, y la media tribu de Manasés, en todo lo tocante al servicio de Yavé y del rey. Censos nóminas 
+1CR027001 Censo de los hijos de Israel, jefes de familia, jefes de mil y de cien y escribas que estaban al servicio del rey para todo lo referente a las clases, la que entraba y la que partía cada mes durante todo el año. Cada clase contaba veinticuatro mil hombres. 
+1CR027002 Al frente de la primera sección de veinticuatro mil hombres para el primer mes, estaba Jesboam, hijo de Zabdiel, 
+1CR027003 de la familia de Fares, y era jefe de todos los oficiales del primer mes. 
+1CR027004 Al frente de la sección del segundo mes estaba Doday, el ajonita, y tenía por ayudante a uno llamado Miclot. Su sección era de veinticuatro mil hombres. 
+1CR027005 El tercer jefe para el tercer mes era Banaías, sacerdote hijo de Joyadá. Su sección era de veinticuatro mil hombres a su mando. 
+1CR027006 Este es aquel Banaías, uno de los Treinta valientes y sobre ellos. En su sección estaba su hijo Amizabad. 
+1CR027007 El cuarto jefe para el cuarto mes era Azael, hermano de Joab, y después de él Zabadías, su hijo. Su sección era de veinticuatro mil hombres. 
+1CR027008 El quinto jefe para el quinto mes era Samut, el zarjita, y su sección era de veinticuatro mil hombres. 
+1CR027009 El sexto jefe para el sexto mes era Hira, hijo de Iques de Tecoa; su sección era de veinticuatro mil hombres. 
+1CR027010 El séptimo jefe para el séptimo mes era Jeles de Pelet, de la tribu de Efraím; su sección era de veinticuatro mil hombres. 
+1CR027011 El octavo jefe, para el octavo mes, era Sobcaí de Husat, de la familia de Zarají. Su sección era de veinticuatro mil hombres. 
+1CR027012 El noveno, para el mes noveno, Abiezer de Anatot, de los hijos de Benjamín. Su sección era de veinticuatro mil hombres. 
+1CR027013 El jefe décimo para el décimo mes era Maraí de Netofat, de la familia de Zarjí. Su sección era de veinticuatro mil hombres. 
+1CR027014 El undécimo jefe para el mes undécimo era Banaías de Faratón, de la tribu de Efraím, y su sección era de veinticuatro mil hombres. 
+1CR027015 El duodécimo jefe para el mes duodécimo era Holdai de Netofat, de la familia de Otoniel. Su sección era de veinticuatro mil hombres. 
+1CR027016 Al frente de las tribus de Israel: De la tribu de Rubén era encargado Eliezer, hijo de Zecri. De la de Simeón, Safatías, hijo de Maacá. 
+1CR027017 De la de Leví, Jasabías, hijo de Camuel, pero Sadoq era jefe de los descendientes de Aarón. 
+1CR027018 De la tribu de Judá, Eliú, hermano de David. 
+1CR027019 De la de Isacar, Amrí, hijo de Micael. De la de Zabulón, Jesmaías, hijo de Abdías. De la de Neftalí, Jerimot Asriel. 
+1CR027020 De la de Efraím, Oseas, hijo de Azazía. De la media tribu de Manasés, Joel, hijo de Fodaya. 
+1CR027021 De la media tribu de Manasés, en Galaad, era el jefe Jidon, hijo de Zacarías. De la tribu de Benjamín, Jasiel, hijo de Abner. 
+1CR027022 De la de Dan, Ezrihel, hijo de Jeroyam; éstos eran los jefes de los hijos de Israel. 
+1CR027023 David no hizo el censo de los que tenían menos de veinte años, porque Yavé había dicho que multiplicaría a Israel como las estrellas del cielo. 
+1CR027024 Joab, hijo de Sarvia, comenzó a hacer el censo, pero no lo acabó porque esto hizo enojar a Yavé, quien descargó su cólera sobre Israel; por esta razón el número de los que fueron contados no fue incluido en el Libro de las Crónicas del rey David. 
+1CR027025 Azmavet, hijo de Adiel, tenía a su cargo los tesoros del rey. Jonatán, hijo de Uzías, tenía a su cargo los depósitos que estaban en el campo, en las ciudades, aldeas y torres. 
+1CR027026 Ezrí, hijo de Jelub, era el encargado de los labradores del campo que cultivaban las tierras; 
+1CR027027 Semí, de los que cultivaban las viñas; Sabdí, de Sefa, encargado de las provisiones de vino de las viñas. 
+1CR027028 De los olivares y sicomoros que había en la tierra baja, Baaljanan de Gueder era el encargado. 
+1CR027029 De los almacenes de aceite, Joas. De los rebaños de vacas que pacían en Sarón, Sitray el saronita; los que pacían en los valles estaban bajo cuidado de Safat, hijo de Adalay. 
+1CR027030 De los camellos, Obiel el ismaelita; de las burras, Jeideías, de Meronot; 
+1CR027031 de las ovejas, Yazis el hagrita. Todos eran intendentes administradores de los bienes y propiedades del rey. 
+1CR027032 Jonatán, tío de David, hombre prudente e instruido, era consejero del rey. Jilíel, hijo de Jakmení, cuidaba de los hijos del rey. 
+1CR027033 Ajitofel era consejero del rey, y Jusay el arquita era el amigo del rey. 
+1CR027034 Después de Ajitofel, lo fueron Jeoyadá, hijo de Benaías, y Abiatar. Joab era el jefe del ejército del rey. Instrucciones David referentes al templo 
+1CR028001 David reunió en Jerusalén a todos los jefes de Israel, los jefes de las tribus, los jefes de las secciones al servicio del rey, los jefes de mil y de cien, los administradores de las posesiones y ganados del rey, y de sus hijos, a los funcionarios, a los héroes y a los más valientes del ejército. 
+1CR028002 Poniéndose en pie el rey David dijo: “Escúchenme, y pueblo mío: Yo me preocupaba por edificar una Casa donde descansara el Arca de la Alianza de Yavé, que es la tarima de los pies de nuestro Dios. Ya había hecho yo preparativos para su construcción, 
+1CR028003 pero Dios me dijo: No edificarás la Casa para mi nombre, pues eres hombre de guerra y has derramado sangre. 
+1CR028004 Sin embargo, Yavé, el Dios de Israel, me ha elegido de entre toda la familia de mi padre, para que fuese rey de Israel para siempre. Pues escogió a la tribu de Judá para tener el mando y entre las familias de Judá a la de mi padre, y de entre los hijos de mi padre, me escogió a mí para hacerme rey de todo Israel. 
+1CR028005 Y de entre todos mis hijos, pues Yavé me ha dado muchos hijos, eligió a mi hijo Salomón para que se siente en el trono del reino de Yavé sobre Israel. 
+1CR028006 Y él me dijo: Tu hijo Salomón edificará mi Casa y mis patios; porque le he escogido a él por hijo mío, y yo seré para él padre. 
+1CR028007 Afirmaré su reino para siempre, con tal de que se mantenga firme en el cumplimiento de mis mandamientos y mis normas como lo hace hoy. 
+1CR028008 Ahora, pues, a los ojos de todo el pueblo de Israel, que es la asamblea de Yavé, y a oídos de nuestro Dios, guarden y mediten todos los mandamientos de Yavé su Dios, para que puedan poseer esta tierra espléndida y la dejen como heredad a sus hijos después de ustedes para siempre. 
+1CR028009 Y tú, Salomón, hijo mío, reconoce al Dios de tu padre, y sírvele con corazón entero y con ánimo cariñoso, porque Yavé sondea a todos los corazones y penetra los pensamientos en todas sus formas. Si lo buscas, se dejará encontrar, pero si lo dejas, él te arrojará para siempre. 
+1CR028010 Mira ahora que Yavé te ha elegido para edificar una Casa que sea su santuario. Sé fuerte y manos a la obra.” 
+1CR028011 Entonces David dio a su hijo Salomón el diseño del vestíbulo y de los demás edificios, de los almacenes, de las salas altas, de las salas interiores y de la pieza donde estaría el lugar del Perdón; 
+1CR028012 y también el diseño de todo lo que había pensado respecto de los patios de la Casa de Yavé, y de todas las cámaras de alrededor para los tesoros de la Casa de Dios, y los tesoros de la Casa de Dios y los tesoros de las cosas consagradas. 
+1CR028013 Asimismo respecto a las clases de los sacerdotes y de los levitas y del ejercicio del servicio de la Casa de Yavé, como también de todos los utensilios del servicio de la Casa de Yavé. 
+1CR028014 Referente al oro le señaló el peso en oro que tendría cada uno de los utensilios de cada servicio, y también la plata, según el peso que correspondía a cada uno de los utensilios de cada clase de servicio; 
+1CR028015 asimismo el peso de los candelabros de oro y sus lámparas y para los candelabros de plata según el peso de cada candelabro y sus lámparas, conforme al uso de cada candelabro; 
+1CR028016 y el peso de oro para cada una de las mesas de los panes de la ofrenda y el peso de plata para las mesas de plata; 
+1CR028017 oro puro para los tenedores, los acetres y los jarros; y asimismo lo correspondiente para las copas de oro, según el peso de cada copa y para las copas de plata, según el peso de cada copa; para el altar del incienso, oro acrisolado según el peso. 
+1CR028018 Asimismo el modelo del carro, con los querubines que extienden las alas y cubren el Arca de la Alianza de Yavé. 
+1CR028019 Todo esto está en un escrito de la mano de Yavé, que me dio a conocer todos los detalles del diseño. 
+1CR028020 David dijo además a su hijo Salomón: “¡Sé fuerte y ten buen ánimo; y manos a la obra! No temas ni desmayes, porque Yavé, Dios, el Dios mío, está contigo, no te dejará ni te desamparará, hasta que acabes toda la obra para el servicio de la Casa de Yavé. 
+1CR028021 Ahí tienes las clases de los sacerdotes y de los levitas para todo el servicio de la Casa de Yavé; estarán a tu lado, para cada tipo de obra, todos los hombres de buena voluntad y hábiles para cualquier clase de servicio; también los jefes y el pueblo entero están a tus órdenes.” 
+1CR029001 El rey David dijo a toda la asamblea: “Mi hijo Salomón, al que Dios eligió, es todavía muy joven, y la obra es grande; pues esta Casa no es para un hombre, sino para Yavé, Dios. 
+1CR029002 Con todas mis fuerzas he preparado para la Casa de Dios el oro para los objetos de oro, la plata para los objetos de plata, el bronce para los objetos de bronce, el hierro para los de hierro y la madera para los de madera; piedras de ónice y de engaste, piedras brillantes y de varios colores, toda clase de piedras preciosas y piedras de alabastro en abundancia. 
+1CR029003 Fuera de esto, en mi amor por la Casa de mi Dios, doy a la casa de mi Dios el oro y la plata que tengo, además de todo lo que tengo preparado para la Casa del Santuario: 
+1CR029004 tres mil talentos de oro, del oro de Ofir, y siete mil talentos de plata acrisolada para recubrir las paredes de los edificios. 
+1CR029005 El que quiera, pues, puede hacer una ofrenda a manos llenas a Yavé, oro para los objetos de oro, plata para los de plata y para todas las obras de los artesanos.” 
+1CR029006 Entonces los cabezas de familia, los jefes de las tribus de Israel, los jefes de mil y de cien, los encargados de las obras reales, 
+1CR029007 se comprometieron a dar, para el servicio de la Casa de Dios, cinco mil talentos de oro, diez mil monedas de oro y diez mil talentos de plata, dieciocho mil talentos de bronce y cien mil talentos de hierro. 
+1CR029008 Los que tenían piedras preciosas las entregaron para el tesoro de la Casa de Yavé, en manos de Jejiel el guersonita. 
+1CR029009 Y el pueblo se alegró por estas ofrendas voluntarias; porque de todo corazón lo habían ofrecido espontáneamente a Yavé. También el rey David tuvo una gran alegría. 
+1CR029010 Después David bendijo a Yavé en presencia de toda la asamblea. Dijo: 
+1CR029011 tú, oh Yavé, Dios de nuestro padre Israel, desde siempre hasta siempre. 
+1CR029012 Tuya, oh Yavé, es la grandeza, la fuerza, la magnificencia, la duración y la gloria; pues tuyo es cuanto hay en el cielo y en la tierra. 
+1CR029013 Tuya, oh Yavé, es la realeza; tú estás por encima de todo. Te acompañan la gloria y las riquezas. Tú eres dueño de todo; en tu mano están el poder y la fortaleza y es tu mano la que todo lo engrandece y a todo da consistencia. 
+1CR029014 Pues bien, oh Dios nuestro, te celebramos y alabamos tu nombre magnífico. 
+1CR029015 ¿Quién soy yo, y quién es mi pueblo para que tengamos con qué ofrecerte todo esto? Porque todo viene de ti, y de tu mano proviene lo que te damos. 
+1CR029016 Porque somos forasteros y huéspedes delante de ti como todos nuestros padres; nuestros días sobre la tierra pasan como sombras y no hay esperanza. 
+1CR029017 Yavé, Dios nuestro, todo lo que amontonamos para edificar una Casa para tu Santo Nombre viene de tu mano; todo es tuyo. 
+1CR029018 Bien sé, Dios mío, que tú pones a prueba los corazones y amas la rectitud de corazón. Tú sabes que todo te lo ofrecí espontáneamente y ahora veo con alegría que tu pueblo, que está aquí, te ofrece espontáneamente sus dones. 
+1CR029019 Oh, Yavé, Dios de nuestros padres Abraham, Isaac e Israel, conserva perpetuamente estos pensamientos en el corazón de tu pueblo, y dirige tú su corazón hacia ti. 
+1CR029020 Da a mi hijo Salomón un corazón perfecto, para que guarde tus mandamientos, tus instrucciones y tus preceptos, y lo ponga todo por obra y edifique la Casa que yo he preparado.” 
+1CR029021 Después dijo David a toda la asamblea: “Bendigan a Yavé su Dios”, y toda la asamblea bendijo a Yavé, el Dios de sus padres, y se arrodillaron para postrarse ante Yavé y ante el rey. 
+1CR029022 Al día siguiente sacrificaron víctimas a Yavé y le ofrecieron holocaustos: mil novillos, mil carneros y mil corderos, con sus libaciones, y muchos sacrificios por todo Israel. 
+1CR029023 Aquel día comieron y bebieron ante Yavé con gran gozo. Luego proclamaron segundo rey a Salomón hijo de David, lo ungieron en nombre de Yavé y del sacerdote Sadoq. 
+1CR029024 Salomón se sentó como rey sobre el trono de Yavé en el lugar de su padre David. Prosperó y todo Israel le obedeció. 
+1CR029025 Todos los jefes, los valientes y también todos los hijos del rey David, juraron obediencia al rey Salomón. 
+1CR029026 Yavé engrandeció en gran manera a Salomón a los ojos de todo el pueblo de Israel, y le dio un reinado glorioso como nunca había tenido ninguno de los que habían tenido el mando en Israel antes que él. 
+1CR029027 David, hijo de Jesé, había reinado sobre todo Israel. 
+1CR029028 El tiempo que duró su reinado sobre Israel fue de cuarenta años. En Hebrón reinó siete años y en Jerusalén treinta y tres. 
+1CR029029 Murió al fin de una vejez dichosa, lleno de días, de riquezas y gloria; y le sucedió en el trono su hijo Salomón. 
+1CR029030 Los hechos del rey David, desde los primeros a los últimos, están escritos en el libro de la historia del vidente Samuel, en el libro del profeta Natán y en el del vidente Gad, 
+1CR029031 con la historia de todo su reinado y sus hazañas y las cosas que le sobrevinieron a él, a Israel y a todos los reinos de los demás países. 

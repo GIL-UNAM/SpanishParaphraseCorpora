@@ -1,0 +1,658 @@
+JOS001001 Después de la muerte de Moisés, Yavé habló a Josué, hijo de Nun y ayudante de Moisés, y le dijo: 
+JOS001002 “Ha muerto mi servidor Moisés; así que llegó para ti la hora de atravesar el río Jordán, y todo el pueblo pasará contigo a la tierra que yo doy a los hijos de Israel. 
+JOS001003 Yo les doy todos los lugares donde pongan sus pies, como se lo prometí a Moisés. 
+JOS001004 El territorio de ustedes limitará al norte con el monte Líbano; al sur, con el desierto; se extenderá al oriente hasta el río grande, el Eufrates, y al occidente, hasta el Mar Grande. 
+JOS001005 Mientras vivas nadie te resistirá. Estaré contigo como lo estuve con Moisés; no te dejaré ni te abandonaré. 
+JOS001006 Sé valiente y ten ánimo, porque tú entregarás a este pueblo la tierra que juré dar a sus padres. Por eso, ten ánimo y cumple fielmente toda la Ley que te dio mi servidor Moisés. 
+JOS001007 No te apartes de ella de ninguna manera y tendrás éxito dondequiera que vayas. 
+JOS001008 Leerás continuamente el libro de esta Ley y lo meditarás para actuar en todo según lo que dice. Así se cumplirán tus planes y tendrás éxito en todo. Yo soy quien te manda; esfuérzate, pues, y sé valiente. 
+JOS001009 No temas ni te asustes, porque contigo está Yavé, tu Dios, adondequiera que vayas.” 
+JOS001010 Josué ordenó a los secretarios del pueblo: 
+JOS001011 “Recorran el campamento impartiendo esta orden: Junten bastante alimento, porque dentro de tres días pasarán el Jordán y entrarán en posesión de la tierra que les dará Yavé, nuestro Dios.” 
+JOS001012 A la gente de las tribus de Rubén y de Gad y a los de la media tribu de Manasés, Josué les dijo: 
+JOS001013 “Recuerden la orden de Moisés, servidor de Yavé: Yavé les ha concedido reposo y les ha dado toda esta provincia. 
+JOS001014 Las mujeres y los niños, así también como el ganado, se quedarán a este lado del Jordán, en la provincia que les dio Moisés, pero ustedes, los valientes, pasarán armados al frente de sus hermanos y los ayudarán 
+JOS001015 hasta que Yavé les dé su herencia, como se la ha dado a ustedes, y que conquisten también ellos el país que les da Yavé, nuestro Dios. Entonces ustedes regresarán a la provincia que les entregó Moisés y poseerán este país al este del Jordán.” 
+JOS001016 Ellos respondieron a Josué: “Haremos todo lo que nos has ordenado e iremos a donde quieras mandarnos; 
+JOS001017 así como hemos obedecido a Moisés, de igual forma te obedeceremos. Quiera tu Dios, estar contigo como estuvo con Moisés. 
+JOS001018 Muera el que contradiga tus palabras y desobedezca tus órdenes. Solamente sé valiente y actúa como hombre.” La de Rahab 
+JOS002001 Josué hizo salir secretamente desde Setim a dos exploradores con la siguiente orden: “Vayan y observen bien el terreno y la ciudad de Jericó.” Los fueron y tan pronto llegaron a Jericó se hospedaron en casa de una prostituta llamada Rahab. 
+JOS002002 Pero alguien le dijo al rey de Jericó: “Unos israelitas han entrado aquí esta noche para espiarnos.” 
+JOS002003 Entonces el rey de Jericó mandó a decir a Rahab: “Expulsa a esos hombres que están en tu casa, porque vinieron a observar el país.” 
+JOS002004 Pero la mujer los había escondido, y respondió: “Es verdad que llegaron a mi casa, pero yo no sabía de dónde eran. 
+JOS002005 Y al anochecer, poco antes de que se cerraran las puertas de la ciudad, se fueron. No sé a dónde se marcharon, pero dense prisa y seguramente los alcanzarán.” 
+JOS002006 La mujer los había escondido en la techumbre de la casa, tapándolos con paquetes de lino que allí guardaba. 
+JOS002007 Los perseguidores los buscaron por el camino que lleva al valle del Jordán y, en cuanto salieron, se cerraron las puertas de la ciudad. 
+JOS002008 La mujer subió entonces a donde tenía escondidos a los exploradores de Josué y les dijo: 
+JOS002009 “Sé que Yavé, el Dios de ustedes, les ha entregado este país; estamos asustados y los habitantes del país tiemblan ante ustedes. 
+JOS002010 Pues hemos sabido que Yavé secó las aguas del mar Rojo para que pudieran pasar al salir de Egipto. Sabemos cómo trataron a los dos reyes de los amorreos que vivían al otro lado del Jordán, a Sijón y a Og, a los que ustedes exterminaron por anatema. 
+JOS002011 Estas noticias nos han asustado, y todos se quedan sin ánimo ante ustedes porque Yavé es Dios arriba en los cielos como abajo en la tierra. 
+JOS002012 Por lo tanto, júrenme por Yavé que así como yo he sido leal con ustedes, también ustedes lo serán con mi familia 
+JOS002013 y respetarán la vida de mi padre, de mi madre, de mis hermanos y hermanas, con todo lo que les pertenece.” 
+JOS002014 Los hombres respondieron: “Siempre que ustedes no descubran nuestro propósito, te devolveremos vida por vida cuando Yavé nos entregue este país, y actuaremos contigo con generosidad y con lealtad.” 
+JOS002015 Después de esto, los bajó con una cuerda por la ventana, ya que su casa estaba pegada al muro de la ciudad. 
+JOS002016 Pero les dijo: “Diríjanse hacia los cerros para que no los sorprendan los que los andan persiguiendo. Permanezcan escondidos allí por tres días, hasta que regresen ellos, y luego prosigan su camino.” 
+JOS002017 Ellos respondieron: “Mira en qué forma cumpliremos nuestro juramento; 
+JOS002018 cuando entremos en este país, tú colgarás esta cinta roja como señal en la ventana por donde hemos huido. Reúne en tu casa a tu padre, madre, hermanos y a todos tus parientes. 
+JOS002019 Si alguno de ellos sale de la casa, él será el único responsable de su muerte y no podrá culpársenos a nosotros. Pero si matan a alguno de los que contigo estén en tu casa, que venga sobre nosotros el castigo por su muerte. 
+JOS002020 Cuídate de revelar nuestro plan; si no, quedaremos desligados del juramento que nos has exigido.” 
+JOS002021 Rahab les dijo: “Así sea.” Se despidió de ellos y colgó en la ventana la cinta roja. 
+JOS002022 Los hombres se dirigieron a los cerros y allí se escondieron por tres días, hasta que sus perseguidores regresaron. Estos los habían buscado por todas partes sin hallarlos. 
+JOS002023 Entonces los dos hombres volvieron y bajaron de los cerros y, cruzando el río Jordán, se presentaron a Josué, hijo de Nun, dándole cuenta de su misión y de todo lo que les había sucedido. Dijeron a Josué: 
+JOS002024 “Yavé ha puesto en nuestras manos todo este país; sus habitantes tiemblan ya ante nosotros.” Los pasan el Jordán 
+JOS003001 Josué se levantó de madrugada, partió de Setim con todo el pueblo de Israel y llegaron hasta el río Jordán. Allí acamparon, esperando atravesarlo. 
+JOS003002 Después de tres días, los oficiales recorrieron el campamento 
+JOS003003 y ordenaron a los israelitas lo siguiente: “Cuando vean pasar el Arca de la Alianza de Yavé, llevada por los sacerdotes de la tribu de Leví, ustedes saldrán de su campamento y la seguirán, porque ella les señala el camino. Pues ustedes nunca han pasado por ese camino. 
+JOS003004 Pero la seguirán a mil metros de distancia. No se acerquen a ella.” 
+JOS003005 Josué dijo a los israelitas: “Purifíquense, porque mañana Yavé estará en medio de ustedes para obrar milagros.” 
+JOS003006 Y Josué ordenó a los sacerdotes: “Tomen el Arca de la Alianza y atraviesen el río a la cabeza del pueblo.” 
+JOS003007 Entonces Yavé dijo a Josué: “Hoy comenzaré a hacerte famoso delante de Israel y sabrán que estoy contigo, como lo estuve con Moisés. 
+JOS003008 Da esta orden a los sacerdotes que llevan el Arca de la Alianza: Tan pronto lleguen ustedes a orillas del Jordán, deténganse en el río mismo.” 
+JOS003009 Y Josué dijo a los israelitas: “Acérquense y escuchen las palabras de Yavé, nuestro Dios. ¿Quieren una señal de que Yavé, el Dios vivo, está en medio de ustedes 
+JOS003010 y que desalojará frente a ustedes al cananeo, al heteo, al jeveo, al fereceo, y también al guergueseo, al jebuseo y al amorreo? 
+JOS003011 Miren que el Arca de la Alianza del Señor de toda la tierra va a atravesar el Jordán delante de ustedes. 
+JOS003012 Ahora escojan doce hombres de las doce tribus de Israel, uno por tribu. 
+JOS003013 En cuanto los sacerdotes que llevan el Arca del Señor de toda la tierra pongan su pie en las aguas del Jordán, las aguas que vienen de río arriba se cortarán y se detendrán en una sola masa.” 
+JOS003014 Cuando el pueblo salió de su campamento para atravesar el Jordán, los sacerdotes que llevaban el Arca de la Alianza iban delante. El Jordán corría con mucha agua, desbordando su cauce, por ser el tiempo de la cosecha de la cebada. 
+JOS003015 Sin embargo, cuando los que llevaban el Arca bajaron al río y sus pies se mojaron en las orillas, 
+JOS003016 las aguas que venían de arriba se cortaron. Se las aguas, formando como una represa, muy lejos de aquel lugar, junto a Adam, la ciudad vecina de Sartán. Las aguas que bajaban al mar Muerto fueron bajando hasta detenerse, y así el pueblo pudo atravesar frente a Jericó. 
+JOS003017 Los sacerdotes que llevaban el Arca de la Alianza permanecieron en medio del río que quedó seco, hasta que todos los israelitas atravesaron el Jordán. 
+JOS004001 Una vez que pasó toda la nación, Yavé dijo a Josué: 
+JOS004002 “Escoge doce hombres, uno por cada tribu, y dales la orden siguiente: 
+JOS004003 Saquen doce piedras del lecho del Jordán, del mismo lugar donde estuvieron parados los sacerdotes. Llévenselas y colóquenlas en el lugar donde acamparán esta noche.” 
+JOS004004 Josué entonces hizo llamar a los doce hombres que había escogido de las doce tribus de Israel y les ordenó: 
+JOS004005 “Caminen delante del Arca hasta el medio del Jordán y traigan de allí al hombro una piedra por cada tribu. 
+JOS004006 Ellas permanecerán entre ustedes como una señal de esta hazaña, pues cuando sus hijos les pregunten en el futuro qué significan para ustedes estas piedras, ustedes podrán responder: 
+JOS004007 Cuando el Arca de Yavé iba atravesando el Jordán, las aguas se dividieron ante ella. Así estas piedras servirán de memorial a los israelitas para siempre.” 
+JOS004008 Los israelitas cumplieron la orden de Josué y retiraron del lecho del Jordán doce piedras, tal como Yavé le había ordenado a Josué, una por cada tribu. Se las llevaron hacia el lugar donde acamparon y allí las depositaron. 
+JOS004009 Josué amontonó doce piedras en el lecho del Jordán, en el lugar donde permanecieron de pie los sacerdotes portadores del Arca de la Alianza. Allí quedaron hasta el día de hoy. 
+JOS004010 Los sacerdotes que llevaban el Arca se detuvieron en medio del Jordán hasta que Josué terminó de decir todo cuanto Yavé le había ordenado. 
+JOS004011 Luego que todo el pueblo acabó de cruzar el río, el Arca también pasó, y los sacerdotes volvieron a ponerse a la cabeza. 
+JOS004012 Adelante iban armados los hombres de las tribus de Rubén, de Gad y la media tribu de Manasés, según lo había ordenado Moisés. 
+JOS004013 Eran unos cuarenta mil hombres, bien armados, y marchaban delante de Yavé para combatir, dirigiéndose a las llanuras de Jericó. 
+JOS004014 Aquel día Yavé hizo a Josué famoso delante de todo Israel y, en adelante, durante toda su vida, lo respetaron como habían respetado a Moisés. 
+JOS004015 Yavé dijo a Josué: 
+JOS004016 “Ordena a los sacerdotes que llevan el Arca de las Palabras divinas, que salgan del Jordán.” 
+JOS004017 Así, pues, Josué les mandó que salieran del río. 
+JOS004018 Y en cuanto estos sacerdotes que llevaban el Arca de la Alianza de Yavé salieron del cauce del Jordán, en cuanto sus pies tocaron la orilla, las aguas del río Jordán volvieron tan abundantes como los días anteriores y desbordaron su cauce. 
+JOS004019 Fue el décimo día del mes primero cuando el pueblo subió del Jordán, y fijaron su campamento en Guilgal, a la extremidad este de Jericó. 
+JOS004020 Allí, en Guilgal, Josué colocó las doce piedras que habían tomado en el cauce del Jordán, cuando lo atravesaron. 
+JOS004021 Entonces Josué dijo a los israelitas: “Cuando en el futuro sus hijos les pregunten qué significan esas piedras, 
+JOS004022 ustedes les explicarán que el pueblo de Israel cruzó el Jordán sin mojarse los pies, 
+JOS004023 pues Yavé, nuestro Dios, secó las aguas del Jordán delante de nosotros, lo mismo que hizo en el mar Rojo, que dejó seco ante nosotros cuando tuvimos que atravesarlo. 
+JOS004024 Esto ha sucedido para que los pueblos de este país conozcan el poder de Yavé, nuestro Dios, y para que ustedes mismos lo teman siempre.” Los se circuncidan y celebran la Pascua 
+JOS005001 Los reyes de los amorreos radicados al occidente del Jordán y todos los reyes de los cananeos que habitaban las tierras vecinas al mar Mediterráneo supieron que Yavé había secado el lecho del Jordán para que los israelitas lo atravesaran. Entonces se desanimaron y perdieron el aliento ante los israelitas. 
+JOS005002 Por aquel tiempo Yavé dijo a Josué: “Fabrica unos cuchillos de pedernal y celebra de nuevo una circuncisión para los hijos de Israel.” 
+JOS005003 Obedeció Josué la orden de Yavé y circuncidó a los israelitas en el lugar llamado Collado de los Prepucios. 
+JOS005004 Esta fue la razón por la cual Josué practicó esta segunda circuncisión: 
+JOS005005 todos los hombres de Israel que salieron de Egipto estaban circuncidados, pero murieron durante su peregrinación en el desierto. Al contrario, los nacidos en el desierto no estaban circuncidados. 
+JOS005006 Pues los israelitas anduvieron cuarenta años por el desierto, hasta que murieron todos, toda esa generación que no obedeció a Yavé, y Yavé les juró que no los dejaría entrar a la tierra que mana leche y miel y que prometió a sus padres. 
+JOS005007 Pero en vez de ellos estaban sus hijos, y son ellos los que circuncidó Josué. 
+JOS005008 Después de circuncidarse todos, descansaron en el campamento hasta su curación. Entonces Yavé dijo a Josué: 
+JOS005009 “Hoy he quitado de encima de ustedes la vergüenza de Egipto.” Por eso aquel lugar se llama Guilgal hasta el día de hoy. 
+JOS005010 Los israelitas acamparon en Guilgal, donde celebraron la Pascua el día catorce del mes, al atardecer, en la llanura de Jericó. 
+JOS005011 A partir de este día comieron los productos del país: panes ázimos y espigas tostadas en ese mismo día. 
+JOS005012 Y desde ese día en que consumieron los productos del país, cesó el maná. No ya maná para los israelitas y ese año comieron lo que produce el país de Canaán. 
+JOS005013 Mientras Josué estaba cerca de Jericó, levantó los ojos y vio delante de sí a un hombre con una espada desenvainada en la mano. Se dirigió a él y le dijo: “¿Eres tú de los nuestros o de los enemigos?” 
+JOS005014 Y él respondió: “No, yo soy el jefe del ejército de Yavé, y acabo de llegar.” Josué se postró en tierra, lo adoró y dijo: “¿Qué ordena mi Señor a su servidor?” 
+JOS005015 El jefe del ejército de Yavé le dijo: “Quítate el calzado de tus pies; el lugar que pisas es santo.” Así lo hizo Josué. La de Jericó 
+JOS006001 Los habitantes de Jericó habían cerrado la ciudad y puesto sus cerrojos para que no entraran los israelitas: nadie entraba ni salía. 
+JOS006002 Pero Yavé dijo a Josué: “Te entregaré la ciudad, su rey y todos sus hombres de guerra. 
+JOS006003 Para esto, ustedes tendrán que dar una vuelta a la ciudad cada día durante seis días. 
+JOS006004 Siete sacerdotes irán delante del Arca tocando las siete trompetas que sirven en el Jubileo. El día séptimo darán siete vueltas y 
+JOS006005 cuando suenen las trompetas todo el pueblo subirá al ataque, dando su grito de guerra. En ese momento se derrumbarán los muros de la ciudad y cada uno entrará por lo más directo.” 
+JOS006006 Josué, hijo de Nun, llamó a los sacerdotes y les dijo: “Ustedes llevarán el Arca de la Alianza; siete sacerdotes irán delante tocando trompetas de las que se usan en el Jubileo.” Luego, Josué dijo al pueblo: 
+JOS006007 “Ustedes darán la vuelta a la ciudad y la vanguardia del ejército precederá el Arca de Yavé.” 
+JOS006008 Cuando Josué terminó de hablar, los sacerdotes comenzaron a tocar las siete trompetas que sirven para tocar la fiesta del Jubileo y avanzaron delante del Arca de Yavé. 
+JOS006009 La vanguardia del pueblo iba delante de los sacerdotes y el resto del pueblo detrás del Arca. Las trompetas resonaban por todas partes. Josué había dado esta orden: 
+JOS006010 “Ustedes no gritarán ni darán voces, ni se oirá siquiera una palabra, hasta que llegue el día en que les diga: Griten y den voces.” 
+JOS006011 El Arca de Yavé dio ese día una vuelta alrededor de la ciudad, volviéndose todos al campamento, donde pasaron la noche. 
+JOS006012 Al día siguiente, Josué se levantó de madrugada; los sacerdotes tomaron el Arca y los que tocaban las siete trompetas pasaron otra vez delante del Arca. 
+JOS006013 Delante iba la vanguardia y detrás del Arca los demás. Y otra vez resonaron las trompetas. 
+JOS006014 Lo mismo hicieron el día siguiente, y durante seis días dieron a diario una vuelta alrededor de la ciudad y volvieron al campamento. 
+JOS006015 Al séptimo día los israelitas se levantaron de madrugada y dieron la vuelta en torno a Jericó según el mismo rito que los días anteriores, pero, ese día, lo hicieron siete veces. 
+JOS006016 A la séptima vez, mientras los sacerdotes tocaban las trompetas, Josué ordenó al pueblo: “Den su grito de guerra, porque Yavé les ha entregado la ciudad. 
+JOS006017 Esta ciudad y todo lo que hay en ella será entregado en anatema a Yavé. Sólo Rahab la prostituta quedará viva con todos los que estén con ella en su casa, ya que ocultó a los exploradores que habíamos enviado. 
+JOS006018 En cuanto a ustedes, cuídense de tocar cualquier cosa, chica o grande; ya que fue todo consagrado en anatema, no tomen ninguna cosa, no sea que venga la maldición sobre el campamento de Israel y lo trastorne. 
+JOS006019 Todo el oro, plata, cobre y hierro están consagrados a Yavé y entrarán en el tesoro de Yavé.” 
+JOS006020 El pueblo gritó y se tocaron las trompetas. En ese preciso momento se derrumbaron los muros de la ciudad. Entonces cada uno avanzó sobre la parte de la ciudad que tenía a su frente. 
+JOS006021 Se apoderaron de Jericó. Y espada en mano mataron a todos los hombres y mujeres, jóvenes y viejos; incluso a los bueyes, ovejas y burros, y los entregaron como anatema, o sea, los sacrificaron a Dios. 
+JOS006022 (Dos hombres habían sido enviados por Josué para explorar Jericó y, al entrar en ella, una prostituta los había escondido.) Entonces Josué les dijo: “Entren en la casa de la prostituta y sáquenla fuera con toda su familia, como se lo habían jurado.” 
+JOS006023 Estos jóvenes hicieron salir a la mujer llamada Rahab, a su padre, a su madre y sus hermanos con sus familiares, y los colocaron a salvo fuera del campamento de Israel. 
+JOS006024 Después quemaron la ciudad y todo lo que había en ella, dejando la plata, el oro y los objetos de bronce y de hierro, que depositaron entre las cosas preciosas del Santuario de Yavé. 
+JOS006025 Josué perdonó la vida de la prostituta y la de su familia, y ella permaneció en Israel. 
+JOS006026 Josué pidió al pueblo que repitiera esta maldición: “Que Yavé maldiga al que reconstruya Jericó. Que los cimientos se levanten sobre el cuerpo de su hijo mayor, y las puertas sobre el de su hijo menor.” 
+JOS006027 Así estuvo Yavé con Josué y lo hizo famoso en todo el país. Acán el anatema 
+JOS007001 Los israelitas cometieron una infidelidad respecto al anatema. Sucedió que Acán, hijo de Carmí, hijo de Zabdí, hijo de Zaré, de la tribu de Judá, se apropió de algunas cosas consagradas por anatema y, debido a esto, el enojo de Yavé estalló contra Israel. 
+JOS007002 Josué había despachado a algunos hombres desde Jericó a Hay, vecino a Betaven, al este de la ciudad de Betel, y les dijo: “Vayan y reconozcan la tierra.” 
+JOS007003 Los exploradores le dijeron a su regreso: “No es necesario que se movilice todo el ejército; unos dos o tres mil hombres son suficientes para conquistar la ciudad. Es inútil cansar a todo el pueblo, pues esa gente es poco numerosa.” 
+JOS007004 Así, pues, unos tres mil combatientes atacaron Hay, pero fueron rechazados por los defensores de la ciudad. 
+JOS007005 La gente de Hay les mató treinta y seis hombres y los persiguió fuera de la Puerta hasta Sabarim, derrotándolos en la bajada. Al ver esto, todo el pueblo se desanimó. 
+JOS007006 Entonces Josué y todos los jefes de Israel rasgaron sus vestidos, se cubrieron de ceniza la cabeza y permanecieron postrados delante del Arca de Yavé hasta la tarde. 
+JOS007007 Josué se lamentó: “Ay, Yavé, ¿por qué hiciste pasar a este pueblo el río Jordán para entregarnos después en manos del amorreo y exterminarnos? Mejor sido para nosotros permanecer al otro lado del Jordán. 
+JOS007008 Yavé, Dios mío, ¿qué puedo decir cuando veo a Israel huir de sus enemigos? 
+JOS007009 Lo sabrán los cananeos y todos los habitantes de este país. Se unirán para cercarnos y nos echarán fuera. Tú, ¿qué vas a hacer por el honor de tu Nombre?” 
+JOS007010 Yavé respondió: “Levántate, ¿por qué estás postrado en tierra? 
+JOS007011 Israel pecó y aun violaron mi alianza; han tomado de lo destinado al anatema y lo han robado, colocándolo luego a escondidas entre su equipaje. 
+JOS007012 Israel ya no hará frente a sus enemigos, sino que huirá de ellos, pues ha llegado a ser anatema. Yo no estaré más con ellos hasta que hayan expulsado de entre ustedes esta maldición. 
+JOS007013 Levántate, pues, y santifica al pueblo. Diles: Purifíquense para mañana; Yavé, Dios de Israel, les dice: ¡Oh, Israel!, el anatema está en medio de ti y no harás frente a tus enemigos hasta que hayas apartado de ti el anatema. 
+JOS007014 Así que mañana ustedes se acercarán, agrupados por tribus. La tribu que Yavé designe por suerte se presentará por familias. La familia que designe Yavé se presentará por hogares y el hogar por individuos. 
+JOS007015 El que resulte responsable de este delito será quemado junto con todos sus enseres por haber violado la alianza de Yavé y cometido un crimen detestable en Israel.” 
+JOS007016 Josué se levantó de madrugada y ordenó que se presentaran las tribus de Israel. La suerte cayó sobre la tribu de Judá. 
+JOS007017 Sorteadas las familias de ésta, salió la familia de Zaré; 
+JOS007018 sorteados los hogares de ésta salió el hogar de Zabdí, y sorteados los miembros de este hogar, se descubrió que el culpable era Acán, hijo de Carmí, hijo de Zabdí, hijo de Zaré, de la tribu de Judá. 
+JOS007019 Josué, entonces, le dijo: “Hijo mío, confiesa la verdad ante Yavé, Dios de Israel, y hónralo. Dime lo que has hecho sin disimular nada.” 
+JOS007020 Acán respondió: “Es verdad que he pecado contra Yavé. 
+JOS007021 Esto es lo que hice: Encontré entre los despojos una rica capa, de Senaar, doscientos siclos de plata y una barra de oro de cincuenta siclos. Me dejé tentar y lo tomé. Ahora lo tengo escondido en un hoyo en medio de mi tienda y la plata está debajo.” 
+JOS007022 Josué entonces envió unos mensajeros, que corrieron a la tienda de Acán y encontraron el botín en la tienda, y la plata debajo. 
+JOS007023 Llevaron todo y lo presentaron a Josué y al pueblo; todo fue depositado ante Yavé. 
+JOS007024 Entonces Josué tomó a Acán, junto con la plata, la capa y el oro, con sus hijos y también sus hijas, sus bueyes, burros y ovejas, su tienda y todo cuanto tenía. Todo Israel lo acompañaba y los llevaron al valle de Acor. 
+JOS007025 Allí Josué le dijo: “Ya que tú nos trajiste la desgracia, que Yavé te traiga la desgracia en este día.” Todo el pueblo lo apedreó. De los suyos, unos fueron machacados, otros quemados. 
+JOS007026 Amontonaron sobre él una gran cantidad de piedras que permanecen hasta el día de hoy. Entonces Yavé calmó su ira. Por el lugar se llamó valle de Acor. Josué Hay 
+JOS008001 Luego Yavé dijo a Josué: “No temas ni te acobardes. Marcha con todos tus guerreros contra la ciudad de Hay. Entregaré en tus manos a su rey y a su pueblo, la ciudad y su territorio. 
+JOS008002 Los tratarás como trataste a Jericó y su rey, pero ustedes podrán adueñarse del botín y de todos los animales. Ahora bien, prepara una emboscada detrás de la ciudad.” 
+JOS008003 Josué, pues, salió con todos sus guerreros para asaltar Hay. Después, eligió treinta mil hombres, todos guerreros valientes, y los envió de noche. 
+JOS008004 Les había dado esta orden: “Ustedes se emboscarán detrás de la ciudad. No se alejen y estén listos. 
+JOS008005 Yo y toda la gente que está conmigo, nos acercaremos a la ciudad. Pero, cuando ellos nos salgan al encuentro, como sucedió recién, huiremos ante ellos. 
+JOS008006 Ellos entonces nos perseguirán y se alejarán de la ciudad, pensando que huimos como la vez anterior. 
+JOS008007 En ese momento ustedes se levantarán de donde están escondidos y ocuparán la ciudad. 
+JOS008008 Yavé, nuestro Dios, se la entregará. Después de tomar la ciudad, ustedes la quemarán, según lo mandó Yavé. Estas son mis órdenes.” 
+JOS008009 Así los envió Josué y ellos fueron al lugar de la emboscada, quedándose entre Betel y Hay, al oeste de la ciudad, mientras Josué dormía esa noche en medio de toda su gente. 
+JOS008010 Muy de mañana, Josué se levantó y pasó revista a su ejército y luego se marchó al frente del pueblo, acompañado de los jefes. 
+JOS008011 Todos los guerreros que estaban con él subieron y avanzaron hasta que llegaron frente a la ciudad. Entonces acamparon frente a ella al lado norte. El valle los separaba de la ciudad. 
+JOS008012 (Después tomó cinco mil hombres, que dispuso en emboscada entre Betel y Hay, al oeste de la ciudad.) 
+JOS008013 El pueblo entonces estableció su campamento al norte de la ciudad y su retaguardia estaba al oeste. Esa noche Josué fue al valle. La y matanza de Hay 
+JOS008014 En cuanto el rey de Hay vio la situación, se apresuró para atacar a Israel con toda su gente, en la pendiente frente al valle del Jordán, sin saber que le habían tendido una emboscada por detrás de la ciudad. 
+JOS008015 Josué y los israelitas se hicieron los derrotados y huyeron por el camino del desierto. 
+JOS008016 Entonces toda la gente de la ciudad se puso a gritar y salieron a perseguirlos. 
+JOS008017 No quedó ningún hombre para defender la ciudad, y hasta la dejaron abierta. 
+JOS008018 Entonces Yavé dijo a Josué: “Tiende hacia Hay la lanza que tienes en tu mano, porque yo te he entregado esta ciudad.” 
+JOS008019 Así lo hizo Josué y, a esta señal, los de la emboscada surgieron de sus puestos y corrieron hasta la ciudad, donde entraron. La tomaron y le prendieron fuego. 
+JOS008020 Los hombres de Hay miraron atrás y vieron el humo que de la ciudad subía hacia el cielo y, al mismo tiempo, los israelitas se detuvieron en su huida para volverse contra ellos. 
+JOS008021 Les faltó el ánimo y no supieron por dónde escaparse: por un lado estaba Josué con toda la gente de Israel, y por el otro, los que acababan de incendiar la ciudad. 
+JOS008022 Los israelitas pelearon hasta que no quedó sobreviviente ni fugitivo. 
+JOS008023 Solamente tomaron vivo al rey de Hay y lo llevaron a Josué. 
+JOS008024 Los israelitas acabaron con los habitantes de Hay que estaban en el campo o que habían huido al desierto; los mataron a todos. Después volvieron a la ciudad y la pasaron a cuchillo. 
+JOS008025 El total de los que cayeron ese día fue de doce mil. 
+JOS008026 Josué no dio la orden de cesar el combate antes de que todos los habitantes de Hay hubieran sido sacrificados conforme al anatema. 
+JOS008027 Sin embargo, los israelitas se repartieron el ganado según lo ordenado por Yavé. 
+JOS008028 Josué incendió la ciudad y no dejó sino ruinas; este lugar ha quedado así hasta el día de hoy. 
+JOS008029 En cuanto al rey de Hay, Josué lo hizo colgar de un árbol hasta que el sol se pusiera. Entonces lo hizo descolgar. Lo tiraron a la entrada de la ciudad y levantaron sobre él un montón de piedras que se ve todavía hoy. Josué la alianza en Siquén 
+JOS008030 Entonces Josué edificó un altar a Yavé, Dios de Israel, en el cerro Ebal. 
+JOS008031 Observó lo que Moisés había mandado a los hijos de Israel y, según está escrito en el libro de la Ley, de Moisés, este altar fue hecho de piedras sin labrar, que no había tocado ninguna herramienta. Sobre este altar ofreció a Yavé víctimas consumidas por el fuego y sacrificios de comunión. 
+JOS008032 Allí escribió sobre piedras una copia de la Ley que Moisés había escrito en presencia de los israelitas. 
+JOS008033 Todo el pueblo permanecía de pie por ambos lados del Arca, con sus jefes, secretarios y jueces. Al frente suyo estaban los sacerdotes y los levitas que portaban el Arca de Yavé; israelitas de raza y forasteros estaban juntos. La mitad del pueblo se extendía hacia el cerro Garizín y la otra mitad cerca del Ebal, según lo mandado por Moisés referente a la manera de bendecir a Israel. 
+JOS008034 Josué procedió a leer las palabras de bendición y de maldición y todo lo escrito en el libro de la Ley. 
+JOS008035 No olvidó ninguna palabra de cuantas escribió Moisés. Las leyó en voz alta delante de la asamblea de todo Israel, incluso las mujeres, niños y extranjeros que vivían entre ellos. Los se salvan por astucia 
+JOS009001 Estos acontecimientos llegaron al oído de los reyes que vivían al oeste del Jordán, en la montaña, en la llanura y la costa del mar. 
+JOS009002 Los heteos, los amorreos, los cananeos, los fereceos, los jeveos y los jebuseos hicieron un pacto y acordaron pelear juntos contra Josué e Israel. 
+JOS009003 Los habitantes de Gabaón supieron lo que Josué había hecho en Jericó y Hay y decidieron engañarlos. 
+JOS009004 Se aprovisionaron de alimentos, cargaron sobre sus burros unos sacos viejos y pellejos de vino, rotos y parchados, 
+JOS009005 se pusieron unas sandalias muy gastadas y remendadas y unas ropas también muy usadas. Para el camino llevaron unos panes duros y hechos migas. 
+JOS009006 Fueron hacia Josué, al campamento de Guilgal, y le dijeron: “Venimos de lejanas tierras para pactar con ustedes.” 
+JOS009007 Los israelitas respondieron: “¿Viven ustedes cerca de nosotros? 
+JOS009008 Pues en ese caso no podríamos hacer un pacto con ustedes.” Respondieron a Josué: “Servidores tuyos somos.” Josué les preguntó: “¿Quiénes son ustedes y de dónde vienen?” 
+JOS009009 Contestaron: “De un país muy lejano vienen tus servidores, por la fama de Yavé, tu Dios, pues sabemos de su poder y de todo lo que hizo en Egipto, 
+JOS009010 y con los dos reyes de los amorreos que reinaron en la parte oriental del Jordán, Sijón, rey de Jesbón, y Og, rey de Basán, que vivía en Astarot. 
+JOS009011 Los dirigentes y demás habitantes de nuestro pueblo nos dijeron: Provéanse de alimentos para un largo viaje, ubíquenlos y díganles: Servidores somos de ustedes; hagan alianza con nosotros. 
+JOS009012 Observen los panes que tomamos calientes en nuestras casas para venir a encontrarlos y vean cómo se han secado y despedazado. 
+JOS009013 Estos pellejos que llenamos de vino eran nuevos, ahora están rotos y descosidos. La ropa y el calzado que usamos se han gastado a causa del largo viaje.” 
+JOS009014 Los israelitas compartieron con ellos su comida sin haber preguntado a Yavé lo que debían hacer. 
+JOS009015 Josué hizo alianza con ellos sin esperar una respuesta, y tanto él como los jefes de la comunidad prometieron respetarles la vida. 
+JOS009016 Tres días más tarde, los israelitas supieron que esa gente habitaba en la vecindad en medio de su propio territorio. 
+JOS009017 Ese tercer día los israelitas partieron y entraron a sus ciudades: Gabaón, Carifá, Beriot y Cariatiarim. 
+JOS009018 Les perdonaron la vida en vista de que los jefes del pueblo les habían prestado juramento en nombre de Yavé, pero toda la gente criticó a los jefes. 
+JOS009019 Estos les respondieron: “Nosotros hemos jurado en nombre de Yavé y, por lo tanto, no podemos matarlos. 
+JOS009020 Sin embargo, haremos esto: les dejaremos vivir para no atraernos el enojo de Yavé, 
+JOS009021 pero servirán como leñadores y acarreadores de agua al servicio de la comunidad de Israel.” 
+JOS009022 Entonces Josué reunió a los gabaonitas y les dijo, según lo decidido por los jefes: “¿Por qué han mentido y nos han dicho que vienen de muy lejos cuando viven en medio de nosotros? 
+JOS009023 En adelante serán malditos y siempre permanecerán como cortadores de leña y acarreadores de agua para la Casa de mi Dios.” 
+JOS009024 Los gabaonitas respondieron: “Supimos que Yavé había mandado a Moisés destruir a todos los habitantes de la tierra que él les entregaba. Tuvimos miedo y optamos por esta medida. 
+JOS009025 Y ahora estamos en tus manos; haz con nosotros lo que te parezca bueno y justo.” 
+JOS009026 Josué cumplió su promesa y no dejó que los israelitas los mataran, 
+JOS009027 pero desde aquel día hasta hoy sirvieron como leñadores y acarreadores de agua para toda la comunidad y para el altar de Yavé en el lugar que él se iba a elegir. “El se detuvo sobre Gabaón” 
+JOS010001 Adonisedec, rey de Jerusalén, supo que Josué había conquistado y arrasado a Hay, tratándola junto con su rey del mismo modo que trató a Jericó y a su rey. Supo también que los gabaonitas habían hecho la paz con los israelitas para poder vivir en medio de ellos. 
+JOS010002 Temió mucho, porque Gabaón era una ciudad muy importante, una ciudad real mayor que Hay, y sus hombres eran muy valientes. 
+JOS010003 En vista de esto, Adonisedec envió a decir a Oham, rey de Hebrón; a Faram, rey de Jerimot; a Jafia, rey de Laquis, y a Dabir, rey de Eglón: 
+JOS010004 “Vengan a mí y ayúdenme a conquistar a Gabaón, porque ha hecho pacto con Josué y los israelitas.” 
+JOS010005 Se juntaron, pues, y subieron los cinco reyes de los amorreos, el de Jerusalén, el de Hebrón, el de Jerimot, el de Laquis y el de Eglón, cada uno con sus tropas. Acamparon frente a Gabaón y la sitiaron. 
+JOS010006 Los gabaonitas mandaron a decir a Josué al campamento de Guilgal: “No nos dejes solos, sino que ven hasta nosotros y ayúdanos, pues todos los reyes amorreos que habitan en la montaña se unieron en contra nuestra.” 
+JOS010007 Josué salió el mismo día de Guilgal con todos sus hombres y valientes guerreros. 
+JOS010008 Entonces Yavé dijo a Josué: “No los temas, porque los he puesto en tus manos y ninguno de ellos te podrá resistir.” 
+JOS010009 Josué subió de Guilgal, caminó toda la noche y cayó por sorpresa sobre los amorreos. 
+JOS010010 Yavé los derrotó. Los israelitas reportaron una gran victoria en Gabaón y los persiguieron por la subida de Betorón hasta llegar a Azecá y Maquedá. 
+JOS010011 Mientras huían, Yavé hizo caer piedras desde el cielo sobre ellos hasta Azecá, matándolos. Y fueron más los que perecieron por la granizada que los muertos por la espada de los israelitas. 
+JOS010012 Aquel día en que Yavé le entregó a los amorreos, Josué se dirigió a Yavé, y dijo a la vista de todo Israel: “Deténte, en Gabaón, y luna, en el valle de Ayalón.” 
+JOS010013 Y el sol se detuvo y la luna se paró hasta que el pueblo hubo tomado desquite de sus enemigos. Así está escrito en el Libro del Justo. El sol se detuvo en medio del cielo y no se apresuró a ponerse casi un día entero. 
+JOS010014 No hubo día igual, ni antes ni después, en que Yavé haya obedecido una orden de un hombre. Es que Yavé peleaba por Israel. 
+JOS010015 Después Josué, con todo Israel, volvió al campamento de Guilgal. 
+JOS010016 Pero los cinco reyes habían huido y se escondieron en la cueva de Maquedá. 
+JOS010017 Se lo dijeron a Josué: “Hallamos a los cinco reyes; están escondidos en la cueva de Maquedá.” 
+JOS010018 Josué, pues, ordenó: “Hagan rodar piedras grandes para tapar la entrada y dejen hombres de guardia. 
+JOS010019 Pero que los demás no se detengan. Sigan a sus enemigos y córtenles la retirada. No los dejen volver a sus ciudades, pues Yavé, nuestro Dios, los ha puesto en nuestras manos.” 
+JOS010020 Josué y los israelitas los derrotaron y acabaron con ellos. Sólo algunos sobrevivientes se refugiaron en ciudades fortificadas, 
+JOS010021 mientras que todo Israel volvió ileso al campamento junto a Josué. En adelante nadie se atrevió a provocarlos. 
+JOS010022 Luego Josué ordenó: “Abran la entrada de la caverna, saquen a los cinco reyes y tráiganmelos.” 
+JOS010023 Lo hicieron, llevando a los cinco reyes ante la presencia de Josué: el rey de Jerusalén, el de Hebrón, el de Laquis, el de Jerimot y el rey de Eglón. 
+JOS010024 Josué reunió a todo Israel y dijo a los capitanes de las tropas: “Acérquense y pongan sus pies sobre el cuello de esos reyes.” Se pues, y pusieron sus pies sobre el cuello de los reyes. 
+JOS010025 Entonces Josué les dijo: “No teman ni se acobarden, sean valientes y decididos, porque así tratará Yavé a todos los enemigos con los que nos enfrentaremos.” 
+JOS010026 En seguida, Josué les dio muerte y les hizo colgar de cinco árboles, quedando de esta manera hasta la tarde. 
+JOS010027 Al anochecer descolgaron los cuerpos de los reyes y los arrojaron en la misma cueva donde estaban escondidos y la cerraron con piedras grandes que todavía se ven hoy allí. Josué el sur del país 
+JOS010028 Ese mismo día, Josué se apoderó de Maquedá. Pasó a cuchillo a su rey y a sus habitantes. La consagró en anatema a Yavé con todos los que estaban en ella, sin perdonar a ninguno. El rey sufrió la misma suerte que el de Jericó. 
+JOS010029 Luego Josué con todo Israel fue a atacar a Libna. 
+JOS010030 Yavé la entregó con su rey a los israelitas, que la pasaron a cuchillo con todos sus habitantes sin perdonar a nadie. El rey experimentó la misma suerte que el de Jericó. 
+JOS010031 De Libna pasó a Laquis, la asedió y la atacó. 
+JOS010032 Yavé también le entregó esta ciudad con su rey y habitantes, que sufrieron la misma suerte de Libna. 
+JOS010033 Entonces Horam, rey de Gazer, subió para socorrer a Laquis, pero Josué lo derrotó junto con todo su pueblo y no dejó a nadie con vida. 
+JOS010034 De Laquis pasó a Eglón, la sitió y la conquistó el mismo día. 
+JOS010035 El rey y los habitantes de Eglón también fueron acuchillados; la consagraron en anatema como habían hecho con Laquis. 
+JOS010036 De Eglón pasaron a Hebrón; la conquistó junto con todos los pueblos que dependían de ella, 
+JOS010037 pasó a cuchillo a su rey y habitantes, sin dejar ningún sobreviviente. Lo hizo tal como trató a Eglón: la consagró en anatema. 
+JOS010038 Josué y todo Israel con él se volvió contra Dabir y la atacó. 
+JOS010039 La tomó, así como a todos los pueblos que dependían de ella. Pasó a cuchillo a su rey y habitantes, consagrándolos en anatema, sin perdonar a nadie. Dabir y su rey recibieron el mismo castigo que Hebrón y Libna. 
+JOS010040 De esta forma Josué conquistó toda la parte de los cerros, el desierto de Negueb, el llano y las pendientes con sus reyes. No ningún sobreviviente, sino que consagró en anatema a todo ser viviente, según Yavé lo había ordenado. 
+JOS010041 Josué los derrotó desde Cadés-Barné hasta Gaza y desde Gosén hasta Gabaón. 
+JOS010042 Josué venció a todos estos reyes y se apoderó de todas estas tierras de una sola vez, porque Yavé peleó por Israel. 
+JOS010043 Después regresó con todo Israel a su campamento en Guilgal. Josué la parte norte 
+JOS011001 Cuando Yabín, rey de Jasor, supo todo esto, envió embajadores a Jobal, rey de Madom, al rey de Simerón, al rey de Acsaf, 
+JOS011002 a los reyes que ocupaban las montañas del norte, las estepas al sur de Quineret, la llanura y las alturas de Dor al occidente, 
+JOS011003 a los cananeos del este y del oeste, a los amorreos, heteos, fereceos y jebuseos de las montañas, también a los jeveos que vivían en las faldas del monte Hermón, en la región de Mizpá. 
+JOS011004 Salieron con sus tropas, una muchedumbre tan numerosa como las arenas del mar, acompañados por gran cantidad de caballos y carros de combate. 
+JOS011005 Todos estos reyes se dieron cita y acamparon junto a la fuente de Merom, para atacar a Israel. 
+JOS011006 Entonces Yavé recomendó a Josué: “No los temas. Mañana a esta misma hora te los entregaré para que me los sacrifiques. Cortarás los jarretes de sus caballos y quemarás sus carros de guerra.” 
+JOS011007 Josué, entonces, y con él todos los hombres armados, se trasladaron hasta Merom y los atacaron por sorpresa. 
+JOS011008 Yavé se los entregó, de manera que los israelitas los derrotaron y los persiguieron hasta Sidón la Grande y Misrefot y, por el este, hasta Mizpá, sin dejar a nadie con vida. 
+JOS011009 Josué ejecutó también lo ordenado por Yavé de cortar los jarretes a los caballos y quemar los carros. 
+JOS011010 En seguida, Josué dio vuelta y conquistó a Jasor, matando a su rey. En aquel tiempo Jasor era la capital de todos esos reinos. 
+JOS011011 En esta ciudad pasó a cuchillo a todos sus habitantes, consagrándolos en anatema. 
+JOS011012 Nadie quedó con vida, y en seguida quemaron la ciudad. Josué todas las ciudades de estos reyes y a todos sus reyes y los consagró en anatema, según se lo había ordenado Moisés, servidor de Yavé. 
+JOS011013 Israel incendió todas las ciudades, menos aquellas ubicadas en las pendientes y alturas; de éstas, sólo Jasor fue incendiada por Josué. 
+JOS011014 Los israelitas se repartieron los despojos y el ganado de estas ciudades, pero pasaron a cuchillo a toda la población sin dejar a nadie con vida. 
+JOS011015 Así, pues, lo que Yavé ordenó a Moisés y que Moisés encargó a Josué se cumplió perfectamente. Josué no descuidó nada de lo que Yavé había mandado a Moisés. 
+JOS011016 Josué conquistó, pues, todo ese país: los cerros, el Negueb, el Gosén, la llanura, la estepa y los cerros de Israel con sus llanuras. 
+JOS011017 Desde la parte de la cordillera que sube hacia Seír, hasta Baal Gad en el valle del Líbano, a los pies del monte Hermón, derrotó a todos sus reyes, a quienes venció y dio muerte. 
+JOS011018 La guerra que hizo Josué contra todos estos reyes duró largo tiempo; 
+JOS011019 ninguna ciudad hizo las paces con los israelitas, fuera de los jeveos de Gabaón, de manera que todas fueron conquistadas. 
+JOS011020 Yavé les dio ánimo a todos ellos para que pelearan contra Israel, con el fin de que fueran consagrados en anatema y destruidos sin misericordia, como Yavé lo tenía ordenado a Moisés. 
+JOS011021 En aquel tiempo, Josué atacó y desbarató a los enaceos de los cerros, de Hebrón, Dabir, Anab, de todos los cerros de Judá y de Israel; ellos y sus ciudades fueron entregados en anatema. 
+JOS011022 No quedaron enaceos en el país de Israel, excepto en Gaza, Gat y Azoto. 
+JOS011023 Josué se apoderó de todo el país, como Yavé se lo había dicho a Moisés, y se lo entregó en herencia a los israelitas para que lo repartieran entre sus tribus. Con esto el país descansó de la guerra. 
+JOS012001 Viene a continuación la lista de los reyes que los israelitas vencieron y cuyo territorio conquistaron al otro lado del Jordán, desde el río Arnón hasta el cerro Hermón con toda la Arabá del este. 
+JOS012002 Sijón, rey de los amorreos, que habitaba en Jesbón. Reinaba desde Aroer, ciudad situada junto al torrente Arnón, y desde el medio del valle reinaba sobre la mitad de Galaad hasta el torrente Yaboc, que limita con el país de los hijos de Ammón; 
+JOS012003 también sobre la Arabá desde el mar de Quineret hasta el mar Salado o Muerto; sobre el camino que va a Bet Jesimot, y al sur, los lugares bajos en las vertientes del monte Pisga. 
+JOS012004 Después, el reino de Og, rey de Basán, sobreviviente de los refaím, que habitaba en Astarot y en Edreí. El dominaba desde el cerro Hermón, en Saleca, sobre el territorio de Basán, hasta la frontera con Gesuri y Macati; 
+JOS012005 también era dueño de la mitad de Galaad, hasta limitar con Sijón, rey de Jesbón. 
+JOS012006 Moisés y los hijos de Israel habían derrotado a los dos; Moisés entregó el dominio de sus tierras a las tribus de Rubén y de Gad y a la media tribu de Manasés. 
+JOS012007 Ahora, éstos son los reyes del país, a quienes derrotó Josué, con los hijos de Israel, de esta parte del Jordán, al oeste, desde Baal Gad en el valle del Líbano hasta los cerros que suben a Seír. 
+JOS012008 Es el país que Josué repartió a las tribus de Israel, a cada una su porción, tanto en los cerros como en los valles y campiñas, en el desierto y en el Negueb. Ahí vivían los heteos, los amorreos, los cananeos, los fereceos, los jeveos y los jebuseos. 
+JOS012009 Rey de Jericó; rey de Hay, vecina de Betel. 
+JOS012010 Rey de Jerusalén; rey de Hebrón. 
+JOS012011 Rey de Jerimot; rey de Laquis. 
+JOS012012 Rey de Eglón; rey de Gazer. 
+JOS012013 Rey de Dabir; rey de Gueder. 
+JOS012014 Rey de Jorma; rey de Arad. 
+JOS012015 Rey de Libna; rey de Odulam. 
+JOS012016 Rey de Maquedá; rey de Betel. 
+JOS012017 Rey de Tapuaj; rey de Ofer. 
+JOS012018 Rey de Afec; rey de Sarón. 
+JOS012019 Rey de Madom; rey de Jasor. 
+JOS012020 Rey de Simerón; rey de Acsaf. 
+JOS012021 Rey de Tanac; rey de Meguido. 
+JOS012022 Rey de Cadés; rey de Jocneam del Carmelo. 
+JOS012023 Rey de Dor y de la provincia de Dor; rey de los paganos de Guilgal. 
+JOS012024 Rey de Tirsa. En total treinta y un reyes. REPARTICION LA TIERRA ENTRE LAS DOCE TRIBUS Josué el país de Canaán 
+JOS013001 Josué estaba ya muy anciano cuando Yavé le dijo: 
+JOS013002 “Estás viejo y queda un extenso territorio por conquistar y repartir. A saber: toda Galilea, Filistea y Gesuri; 
+JOS013003 desde el río Sijor frente a Egipto, hasta la frontera con Acarón hacia el norte, que es considerado como cananeo, los cinco príncipes de los filisteos: Gaza, Azoto, Ascalón, Gat, Acarón, y luego los jeveos del sur, 
+JOS013004 Canaán desde Ara de los Sidonios hasta Afec y los límites con los amorreos. 
+JOS013005 Al oriente el territorio de los gueblitas y el del Líbano, desde Baal Gad al pie del monte Hermón hasta entrar en Jamat, 
+JOS013006 y todo el territorio de los habitantes de las montañas, desde el Líbano hasta Misrefat-Maím, los cuales son sidonios. Yo el que los derrotaré delante de los israelitas. Por lo tanto, procura que este país pase a ser parte de la herencia de Israel, tal como te lo he ordenado. 
+JOS013007 Ahora, procede a repartir la tierra que deben poseer las nueve tribus y la media tribu de Manasés. 
+JOS013008 La otra mitad y las de Rubén y Gad ocupan ya la tierra que les entregó Moisés al este del Jordán, 
+JOS013009 desde Aroer, situada a orillas del Arnón, incluyendo la ciudad en medio del valle, hasta la llanura de Madaba y Dibón. 
+JOS013010 Todas las ciudades de Sijón, rey de los amorreos, que vivió en Jesebón, hasta la frontera con Ammón. 
+JOS013011 Galaad, Gesuri y Macati, el monte Hermón y todo Basán hasta Saleca. 
+JOS013012 El reino de Og, en Basán, que vivió en Astarot y Edreí, y era descendiente de los refaím, pueblo derrotado y aniquilado por Moisés. 
+JOS013013 Los israelitas no exterminaron a los de Gesuri y Macati, los cuales siguen viviendo entre ellos hasta la fecha. 
+JOS013014 Moisés no le dio ninguna posesión a la tribu de Leví, porque estaban consagrados al servicio de Yavé. Territorio a Rubén, Gad y la mitad de Manasés 
+JOS013015 Moisés había otorgado a la tribu de los hijos de Rubén lo que llegó a ser su territorio. 
+JOS013016 Desde Aroer, a orillas del río Arnón, con el pueblo que está en medio del río y la meseta junto a Madaba; 
+JOS013017 Jesebón y todos sus pueblos que están sobre la meseta: Dibón, Bamot-Baal y la ciudad de Baalmon, 
+JOS013018 Jassá, Cedimot, Mefat, 
+JOS013019 Cariatiarim, Sabana, Saratasarar en el monte del valle. 
+JOS013020 Bet-Peor en las pendientes del Fasga, Betiesimot 
+JOS013021 y todas las ciudades del valle, los dominios de Sijón, rey de los amorreos, que vivió en Jesebón. Este rey había sido derrotado por Moisés igual que los príncipes de Madián, Heví y Recem, y los jefes Sur, Hur y Rebe, que habitaban esas tierras y pagaban impuestos a Sijón, 
+JOS013022 así como Balaam, hijo de Beor, que los israelitas mataron entre otras víctimas. 
+JOS013023 En resumen, el río Jordán fue la frontera de los rubenitas. Esta fue la herencia de los hijos de Rubén, según sus familias, con sus ciudades y aldeas. 
+JOS013024 Moisés había dado a la tribu de Gad, divididos en sus familias, lo que llegó a ser su territorio: 
+JOS013025 Yazer y todas las ciudades de Galaad, con la mitad del país de los amonitas hasta Aroer, ciudad fronteriza con Rabba; 
+JOS013026 desde Majanaím hasta Lodebar. 
+JOS013027 El valle de Betaram, Betnimra, Socot y Safón, restos del reino de Sijón, rey de Jesebón: la tierra se extiende entonces desde el Jordán hasta el mar de Quineret al este del Jordán. 
+JOS013028 Tal fue la herencia de los hijos de Gad según sus familias, con sus ciudades y aldeas. 
+JOS013029 La media tribu de Manasés también recibió de Moisés la parte que le correspondía. 
+JOS013030 Desde Majanaím, todo Basán, y los sesenta pueblos de la comarca de Jaír en Basán. 
+JOS013031 La mitad de Galaad, Astarot y Edreí, ciudades del reino de Og, fueron atribuidas a los hijos de Maquir, hijo de Manasés, es decir, la mitad de los hijos de Maquir, según el número de sus familias. 
+JOS013032 Esta es la herencia que repartió Moisés mientras estaba en las estepas de Moab al este del Jordán, frente a Jericó. 
+JOS013033 Pero a la tribu de Leví, Moisés no le dio ninguna posesión de tierra; porque Yavé, Dios de Israel, es su herencia, como se lo tiene dicho. 
+JOS014001 Esto es lo que recibieron en herencia los israelitas en el país de Canaán; se lo repartieron Eleazar, el sacerdote, y Josué, hijo de Nun, y los jefes de las familias paternas de las tribus de Israel. 
+JOS014002 Todo lo distribuyeron por suerte entre las nueve tribus y media, tal como Yavé había ordenado a Moisés. 
+JOS014003 A las otras dos tribus y media Moisés ya les había dado su parte, 
+JOS014004 al lado oriental del Jordán. Por otra parte los levitas no recibieron herencia, pero en lugar de ellos, los hijos de José formaban dos tribus: Manasés y Efraím. Los levitas no tuvieron tierras sino algunas ciudades para vivir y el campo alrededor para mantener a sus bestias y ganados. 
+JOS014005 Así los hijos de Israel repartieron la tierra de Canaán, tal como Yavé se lo había ordenado a Moisés. La que le tocó a Caleb 
+JOS014006 Los hijos de Judá se presentaron a Josué en Guilgal, y Caleb, hijo de Jefoné, el cananeo, le dijo: 
+JOS014007 “Tú sabes lo que Yavé le dijo a Moisés, hombre de Dios, a mi respecto en Cadés-Barné. Yo tenía cuarenta años cuando Moisés me envió desde Cadés-Barné a explorar la tierra, y yo le informé sinceramente. 
+JOS014008 Seguí fiel a Yavé, mi Dios, no obstante que los hermanos que me acompañaron desalentaban al pueblo. 
+JOS014009 Aquel día Moisés hizo este juramento: Por haber sido fiel a Yavé, mi Dios, la tierra que pisaron tus pies será tuya y de tus descendientes para siempre. 
+JOS014010 Ahora bien, Yavé, cumpliendo su palabra, me ha permitido vivir hasta hoy. Hace cuarenta y cinco años que Yavé dio esta orden a Moisés, cuando Israel peregrinaba en el desierto. 
+JOS014011 Hoy cuento ochenta y cinco años y tengo la misma buena salud que cuando fui enviado a explorar. El mismo vigor que entonces me dura hasta hoy, tanto para combatir como para caminar. 
+JOS014012 Dame, pues, esa montaña que me prometió Yavé. Como tú lo has oído, allí hay enaceos que viven en ciudades fortificadas. Pero con la ayuda de Yavé espero conquistarlas, según Yavé me prometió.” 
+JOS014013 Josué bendijo a Caleb, hijo de Jefoné, y le entregó Hebrón para herencia suya. 
+JOS014014 Y desde entonces hasta hoy, Hebrón perteneció a Caleb por haber sido fiel en todo a Yavé, Dios de Israel. 
+JOS014015 Antiguamente Hebrón se llamó Cariat-Arbe; Arbe era el hombre más grande entre los enaceos. Y el país después de estas guerras. Límites la tribu Judá 
+JOS015001 Los hijos de Judá, según sus familias, recibieron por suerte la siguiente parte: Desde la frontera de Edom hasta el desierto de Zin en dirección al sur. 
+JOS015002 La extremidad meridional era el mar Salado, 
+JOS015003 desde la lengua que miraba al sur; después seguía hacia la subida de Acrabina y pasaba por Zin, subía al sur de Cadés-Barné, pasaba por Esrom, subía a Adar y daba la vuelta hacia Carcaa. 
+JOS015004 Pasaba por Asmón y llegaba al torrente de Egipto, terminando en el mar Grande. Estos son los límites por el lado meridional. 
+JOS015005 La frontera oriental era el mar Salado hasta la desembocadura del Jordán. 
+JOS015006 Por el norte, la frontera empezaba desde la Lengua del Mar, a la desembocadura del Jordán, subía a Bet-Hagla, pasaba por el norte de Bet-Arabá y subía hasta la piedra de Boén, hijo de Rubén. 
+JOS015007 Después la frontera subía a Dabir en el valle de Acor, y al norte daba la vuelta hacia Guilgal, la cual está enfrente de la subida de Adomim, está al sur del Torrente; después que frontera pasaba por las aguas llamadas Fuente del Sol, llegando a la Fuente de Rogel. 
+JOS015008 De aquí subía por el valle del hijo de Hinom, al lado meridional del Hombro del Jebuseo, es decir, Jerusalén, subiendo de allí hasta la cumbre del cerro que está enfrente del Valle de Hinom, al occidente, en la extremidad del valle de Rafaím o de los gigantes, al norte. 
+JOS015009 Después bajaba de la cima del cerro hasta la fuente Neftoá, y llegaba hasta las aldeas del monte Efrón; y se dirigía hacia Bala, es decir, Cariatiarim. 
+JOS015010 Después de Bala, iba rodeando hacia el occidente en dirección del monte Seír, y por el norte se arrimaba al lado del monte Jarim hacia Queslón, de donde descendía a Betsames, y pasaba por Timna. 
+JOS015011 Después, la frontera llegaba a la vertiente de Acarón, al norte, inclinándose hacia Sicarón y pasaba por el monte Bala, llegando a Jebnel. Así terminaba por el occidente en el mar Grande. 
+JOS015012 La frontera occidental era el mar Grande. Estos por todos lados los términos de los hijos de Judá, según sus familias. 
+JOS015013 Mas a Caleb, hijo de Jefoné, dio Josué en posesión particular en medio de los hijos de Judá, como le había mandado Yavé, la ciudad de Cariat-Arbe (este Arbe era el padre de los enaceos). Hoy se llama Hebrón, 
+JOS015014 y Caleb expulsó de ella a tres hijos de Enac, Sesai, Ajimán y Tolma, que habían quedado de la raza de Enac. 
+JOS015015 Y avanzando desde allí, subió a los habitantes de Dabir, que antes se llamaba Cariat-Sefer. 
+JOS015016 Aquí dijo Caleb: “A quien asalte Cariat-Sefer, y se apodere de ella, yo le daré por esposa a mi hija Axa.” 
+JOS015017 Otoniel, hijo de Quenaz, hermano menor de Caleb, tomó la ciudad; éste le dio por esposa a su hija Axa. 
+JOS015018 En cuanto llegó ella, aconsejó a su marido que solicitara a su padre un campo. Axa se apeó de su burro y Caleb le preguntó: “¿Qué quieres?” 
+JOS015019 A lo que respondió ella: “Hazme un favor. Ya que me has dado una tierra árida en el Negueb agrégame otra de regadío.” Y Caleb le dio las Fuentes de Arriba y las Fuentes de Abajo. Lista las ciudades Judá 
+JOS015020 Esta fue la posesión de la tribu de Judá, según sus familias. 
+JOS015021 Las ciudades de los hijos de Judá en las extremidades meridionales por las fronteras de Edom, eran: Cabsel, Jagur, 
+JOS015022 Cina, Dimona, Adad, 
+JOS015023 Cadés, Asor, Jetnan, 
+JOS015024 Zuf, Telem, Balot, 
+JOS015025 Asor la nueva, Cariot, Hesrom, es la misma que Asor; 
+JOS015026 Amán, Sama y Molada, 
+JOS015027 Asergada, Hasemón, Betfelet, 
+JOS015028 Asarsual, Bersebá y sus aldeas, 
+JOS015029 Bala, Jim, Esem, 
+JOS015030 Estolad, Cesil, Harma, 
+JOS015031 Siquelag, Madmana, Sansana, 
+JOS015032 Lebaot, Selim, Aen y Remón; entre todas, veintinueve ciudades y sus aldeas. 
+JOS015033 En las llanuras: Estaol, Sarea, Asena, 
+JOS015034 Zanoe, Engannim, Tafuaj, Enaím, 
+JOS015035 Jerimot, Adulam, Socó, Azeca, 
+JOS015036 Seraím, Aditaím, Gadera y Gederotaím; catorce ciudades y sus aldeas. Senán, Magdalgad, 
+JOS015037 Deleam, Masefa, Jactel, 
+JOS015038 Laquis, Bascat, Eglón, 
+JOS015039 Cabot, Leheman, Cetlís, 
+JOS015040 Giderot, Betdagón, 
+JOS015041 Naama y Maquedá; dieciséis ciudades y sus aldeas. 
+JOS015042 Lebana, Eter, Asán, 
+JOS015043 Jefta, Esna, Nesib, 
+JOS015044 Queila, Ajzob y Maresa; nueve ciudades y sus aldeas. 
+JOS015045 Acarón con sus aldeas y lugarcitos. 
+JOS015046 Desde Acarón hasta el mar, todo el país que da a Azoto con sus dependencias. 
+JOS015047 Azoto con sus pueblos y sus aldeas. Gaza con sus pueblos y aldeas hasta el torrente de Egipto. El mar Grande o Mediterráneo era su término. Y montes: Samir, Jeter, Socot, 
+JOS015048 Dana, Cariatsedna, que es Dabir, 
+JOS015049 Anab, Istemo, Anim, 
+JOS015050 Gosem, Jalón y Gilo; 
+JOS015051 once ciudades y sus aldeas. 
+JOS015052 Arab, Duma, Esán, 
+JOS015053 Janum, Bettafua, Afeca, 
+JOS015054 Jumta, Cariat-Arbe, que es Hebrón, y Sior; nueve ciudades y sus aldeas. 
+JOS015055 Maón, Carmel, Isif, Judá, 
+JOS015056 Jezrael, Jucadam, Zanol, 
+JOS015057 Acaín, Guibea, Timna; diez ciudades y sus aldeas. 
+JOS015058 Halul, Bet-sur, Gedor, Marat, Betanot, Eltecón; seis ciudades y sus aldeas. 
+JOS015059 Tecoá, Efratá, es decir, Belén, Fegor, Etam, Culón, Tatam, Sores, Canení, Galim, Beter, Mana; once ciudades con sus aldeas. 
+JOS015060 Cariatbaal, que es Cariatiarim, o ciudad de las selvas, y Haraba; dos ciudades y sus aldeas. 
+JOS015061 En el desierto, Betarabá, Meddin y Sesaca, 
+JOS015062 Nebsán, Ciudad de la Sal y Engaddi; seis ciudades y sus aldeas. 
+JOS015063 Los hijos de Judá no pudieron expulsar a los jebuseos que vivían en Jerusalén, de manera que siguieron viviendo hasta hoy en Jerusalén con los hijos de Judá. Tribus Efraím y Manasés 
+JOS016001 La tierra que le correspondió por suerte a los hijos de José se extendía al oriente, desde el Jordán, frente a Jericó, por el desierto que desde Jericó sube al norte de Betel. 
+JOS016002 Después, la frontera se extendía de Betel a Luz, pasaba a lo largo del territorio de los arqueos por Atarot, 
+JOS016003 bajaba al occidente hacia los límites de los jefleteos, hasta Bet-Horón de Abajo, y Gazer, terminando en el mar Grande. 
+JOS016004 Los hijos de José, Manasés y Efraím, se repartieron esta herencia. 
+JOS016005 La frontera de los hijos de Efraím, según sus familias, la frontera de su herencia se extendía hacia el oriente, desde Atarot-Addar hasta Bet-Horón de Arriba; 
+JOS016006 y después iba al occidente, dejando Micmetat al norte, y daba vuelta por el oriente hasta Tanat Silo, que atravesaba al oriente de Janoka. 
+JOS016007 Desde Janoka bajaba hasta Astarot y Narata, pasaba por Jericó y terminaba en el Jordán. 
+JOS016008 Después, la frontera se dirigía desde Tafuaj hacia el oeste, hasta el Cana, y terminaba en el mar Grande. Tal la herencia de la tribu de los hijos de Efraím, distribuida en sus familias. 
+JOS016009 Los hijos de Efraím tuvieron también ciudades reservadas dentro de la posesión de los hijos de Manasés, cada ciudad con sus aldeas dependientes. 
+JOS016010 Sin embargo, los hijos de Efraím no expulsaron a los cananeos que vivían en Gazer, de manera que éstos siguieron viviendo en medio de ellos hasta el día de hoy, pero sometidos a tributo. 
+JOS017001 La porción que tocó por suerte a la tribu de Manasés (primogénito de José), fue atribuida a Maquir, primogénito de Manasés y padre de Galaad, pues era un valiente. 
+JOS017002 Obtuvo el país de Galaad y Basán. También fue atribuida una parte a los demás hijos de Manasés, en proporción a sus familias: los hijos de Abiezer, los hijos de Elec, los hijos de Esriel, los hijos de Siquén, los hijos de Jefer y los hijos de Semida: éstos son los hijos varones de Manasés, hijo de José, cabezas de familias. 
+JOS017003 Selofjad, hijo de Jefer, hijo de Galaad, hijo de Maquir, hijo de Manasés, no tenía hijos, sino solamente hijas, cuyos nombres son: Majlá, Noá, Joglá, Milcá y Tirsá. 
+JOS017004 Ellas se presentaron a Eleazar, el sacerdote, en presencia de Josué, hijo de Nun, y de los príncipes, diciendo: “Yavé ordenó por medio de Moisés que se nos diese posesión en medio de nuestros hermanos.” Se les dio entonces una herencia en medio de los hermanos de su padre, conforme a la orden de Yavé. 
+JOS017005 Así tocaron a Manasés diez porciones en la tierra de Canaán, sin contar la tierra de Galaad y de Basán, tras el Jordán. 
+JOS017006 Porque las cinco hijas de Selofjad poseyeron su herencia en medio de los hijos de esta tribu. Y la tierra de Galaad cupo en suerte a los otros hijos de Manasés. 
+JOS017007 Los límites de Manasés hacia Aser se extendían desde Micmetat, que mira a Siquén; se dirigían a mano derecha hacia los que habitan en la Fuente de Tafúaj. 
+JOS017008 La tierra de Tafúaj le había correspondido por sorteo a Manasés; pero la ciudad de Tafúaj, que está en los confines de Manasés, fue dada a los hijos de Efraím. 
+JOS017009 Dicha frontera descendía por el torrente de Cana al sur del torrente; eran éstas las ciudades de Efraím, en medio de las de Manasés, de suerte que la frontera pasaba al norte del torrente e iba a terminar en el mar. 
+JOS017010 Así, el sur pertenecía a Efraím y el norte a Manasés, terminando ambos en el mar. Limitaban al norte con la tribu de Aser, y con la tribu de Isacar por el este. 
+JOS017011 En efecto, Manasés tuvo por herencia, en Isacar y Aser, a Betsán con sus aldeas, a Jeblam con las suyas, a los habitantes de Dor con sus villas, y a los de Endor con sus aldeas; asimismo, a los habitantes de Tanac con sus aldeas, y a los de Meguido con las suyas, y la tercera parte de Nifet. 
+JOS017012 Pero los hijos de Manasés no pudieron conquistar estas ciudades y los cananeos se encapricharon en permanecer en el país junto con ellos. 
+JOS017013 Tan pronto los hijos de Israel se sintieron más fuertes, subyugaron a los cananeos, y los hicieron tributarios suyos; mas no los mataron. 
+JOS017014 Los hijos de José se dirigieron a Josué, y le dijeron: “¿Por qué nos has dado una sola parte y una sola provincia, siendo que somos un pueblo tan numeroso, por la gracia de Yavé?” 
+JOS017015 Josué les respondió: “Si son ustedes un pueblo numeroso, suban a los bosques; hagan desmontes en el país de los fereceos y de los rafaítas, ya que los cerros de Efraím son estrechos para ustedes.” 
+JOS017016 Los hijos de José replicaron: “El país montañoso no nos basta. Y en la llanura los cananeos usan carros armados de hierro, tanto los de Betsán y sus aldeas como los del llano de Jezrael.” 
+JOS017017 Entonces dijo Josué a la gente de José, a los hombres de Efraím y Manasés: “Ustedes son un pueblo numeroso y valiente; no tendrán esta sola parte sino que subirán a las montañas y las desmontarán y limpiarán. 
+JOS017018 Todo será de ustedes y exterminarán a los cananeos aunque tengan carros de hierro y sean fuertes.” Josué el resto del país 
+JOS018001 Cuando los hijos de Israel terminaron de conquistar el territorio, instalaron en Silo la Tienda de las Declaraciones divinas y celebraron ahí una asamblea. 
+JOS018002 Quedaban siete tribus que no habían recibido todavía su parte de la herencia. 
+JOS018003 Josué les dijo: “¿Hasta cuándo descuidarán la conquista del país que les ha dado Yavé, Dios de sus padres? 
+JOS018004 Elijan a tres hombres de cada tribu; yo los enviaré a recorrer el país para que los podamos repartir según la descripción que nos traigan de él. 
+JOS018005 Se dividirá el país en siete partes, pues Judá tiene su territorio al sur, y la gente de José, el suyo al norte. 
+JOS018006 Ustedes prepararán una repartición del país en siete partes y me la traerán. Después haré la repartición mediante sorteo aquí mismo, delante de Yavé. 
+JOS018007 Los levitas no tendrán parte al lado de sus hermanos, pues ya recibieron su herencia al ser sacerdotes de Yavé. En cuanto a los de Gad y de Rubén y de la media tribu de Manasés, ya recibieron de Moisés su parte al oriente del Jordán.” 
+JOS018008 Los exploradores estaban listos para salir cuando Josué les dijo: “Vayan y recorran la tierra y tomen nota de todo; luego vuelvan a mí a este lugar, y echaré suertes delante de Yavé en Silo.” 
+JOS018009 Los hombres fueron y anduvieron por el país y lo describieron, dividiéndolo con sus ciudades en siete partes. Cuando volvieron al campamento de Silo, 
+JOS018010 Josué sorteó y repartió el país entre los hijos de Israel. Territorio Benjamín 
+JOS018011 Los hijos de Benjamín, distribuidos por familias, fueron los primeros favorecidos por la suerte, con una parte del terreno situado entre los hijos de Judá y los hijos de José. 
+JOS018012 Se extendía por el norte desde el Jordán; la frontera seguía por Jericó y subía a los cerros hacia el occidente, llegando al desierto de Betaven. 
+JOS018013 Luego pasaba al sur de Luz, conocido como Betel, y bajaba a Atarot-Adar, cerca del cerro situado al sur de Bet-Horón de Abajo. 
+JOS018014 Desde aquí la frontera tuerce y vuelve en dirección del suroeste, desde el cerro frente a Bet-Horón hasta Cariat-Baal, llamada también Cariatiarim, ciudad de los hijos de Judá. Este era el lado occidental. 
+JOS018015 Por el sur, la frontera empieza desde Cariatiarim, y dirigiéndose al oeste llega hasta la fuente de las aguas de Neftoa, 
+JOS018016 después desciende hasta el cabo del monte, que mira al valle del hijo de Hinom, la cual está en la llanura de Rafaím al norte; de aquí baja al valle de Hinom, pasando por el Hombro del Jebuseo, al sur, hasta la Fuente de Rogel; 
+JOS018017 avanzando hacia el norte, sale a Ensemes, corre después hasta los cerros que están frente a la subida de Adommin, 
+JOS018018 de donde desciende a la piedra de Boén, hijo de Rubén; 
+JOS018019 pasa por Kafet delante de la Arabá, hacia el norte, y desciende a la Arabá. Hacia norte se extiende más allá de Bet-Hagla; y termina en la extremidad septentrional del mar Salado, en la desembocadura del Jordán que mira al sur. Esta es la frontera del sur, mientras 
+JOS018020 Jordán limita al país por oriente. Esta fue la parte de herencia de los hijos de Benjamín, según sus familias, definida por sus límites. 
+JOS018021 Las ciudades de los hijos de Benjamín fueron: Jericó y Bet-Hagla, y el Valle de Casis, 
+JOS018022 Bet-Arabá, Semareím, Betel, 
+JOS018023 Avim, Afara y Ofra, 
+JOS018024 la ciudad de Emona, Ofni y Geba; doce ciudades con sus aldeas. 
+JOS018025 Gabaón, Ramá, Berot, 
+JOS018026 Misfe, Cafira, Amosa, 
+JOS018027 Recem, Jirfel, Tarela, 
+JOS018028 Sela, Elef, Jebús, que es Jerusalén, Guibea, y Cariat; catorce ciudades con sus aldeas. Esta es la parte de la herencia de los hijos de Benjamín, según sus familias. Territorio las otras seis tribus 
+JOS019001 La segunda suerte tocó a los hijos de Simeón, según sus familias, y su herencia vino a caer en medio de los hijos de Judá, a saber: 
+JOS019002 Bersebá, Sabe, Molada, 
+JOS019003 Aser-Sual, Bala, Asem, 
+JOS019004 Eltolad, Betul, Jorma, 
+JOS019005 Siquelag, Betmarcabot, Jesersusa, 
+JOS019006 Betlebaot, Sarujén; trece ciudades con sus aldeas. 
+JOS019007 En, Rimón, Atar, Asán; cuatro ciudades con sus aldeas, 
+JOS019008 y todas las aldeas alrededor de estas ciudades hasta Balaar, Beer y Ramat del Negueb. Esta es la herencia de los hijos de Simeón, según sus familias. 
+JOS019009 Los hijos de Simeón recibieron su herencia dentro de la de los hijos de Judá debido a que el territorio ocupado por éstos era demasiado extenso. 
+JOS019010 La tercera suerte tocó a los hijos de Zabulón por sus familias: los límites de su posesión se extienden por el occidente hasta Sarid. 
+JOS019011 Suben hacia el oeste a Marala, y llegan a Debaset, hasta el torrente que está enfrente de Jocueam; 
+JOS019012 vuelven a Sarid por el oriente hasta los confines de Ceselot-Tabor, llegan a Daberet, y suben hacia Jafia; 
+JOS019013 de ahí corren hasta la región oriental de Guita Jefet e Itcanín, y prosiguen con dirección a Remón, dando la vuelta hacia Noa. 
+JOS019014 Después dan la vuelta por el norte de Hanatón y terminan en el valle de Jeftael 
+JOS019015 e incluyen también a Catat, Nalal, Simrón, Jedalá y Belén; doce ciudades con sus aldeas. 
+JOS019016 Esta es la herencia de la tribu de los hijos de Zabulón, distribuida entre sus familias, con las ciudades y aldeas. 
+JOS019017 La cuarta suerte salió a Isacar para sus familias. 
+JOS019018 Sus fronteras comprenden a Jezrael, Casalot, Sunen, 
+JOS019019 Hafaraím, Seón, Anajerat, 
+JOS019020 Harabit, Quisión, Ebés, 
+JOS019021 Romet, Enganim, Enjada y Betpases. De ahí la frontera pasa al Tabor, a Sajesima 
+JOS019022 y Bet Samés, terminando en el Jordán; dieciséis ciudades con sus aldeas. 
+JOS019023 Esta es la posesión de los hijos de Isacar, y las ciudades y aldeas para sus familias. 
+JOS019024 La quinta suerte salió a la tribu de los hijos de Aser, según sus familias; 
+JOS019025 y fueron sus fronteras Jelcat, Halí, Betén, Ajzaf, 
+JOS019026 Elmelec, Amad y Mesal; llegan hasta el Carmelo al oeste y a Sijor Lebanat; 
+JOS019027 de ahí vuelven por el oriente hacia Bet Dagón; colindan con Zabulón y el valle de Jeftael al norte, hasta Betemec y Nehiel; se extienden por la izquierda hacia Cabul, 
+JOS019028 Abdón, Rejob, Hamón y Caná, hasta Sidón la grande; 
+JOS019029 dan vuelta hacia Rama hasta la ciudad fortaleza de Tiro; de ahí vuelven a Hosa, terminando en el mar junto al Majleb y Acziba; 
+JOS019030 y después Acra, Afec y Rejob; veintidós ciudades con sus aldeas. 
+JOS019031 Esta es la posesión de los hijos de sus familias. 
+JOS019032 La sexta parte tocó a los hijos de Neftalí, divididos en sus familias. 
+JOS019033 Y comienzan sus límites desde Helef y Elón en Senanin y Adami-Neceb, y desde Jabnel hasta Lecum, terminando en el Jordán; 
+JOS019034 después los límites vuelven hacia Azanottabor, al occidente, y de allí salen a Hucosa, limitando con Zabulón por el lado del sur, y con Aser por el poniente. 
+JOS019035 Sus ciudades fuertes son: Asedim, Ser, Hamat, Recat, Cenrat, 
+JOS019036 Edema, Arama, Jasor, 
+JOS019037 Cadés, Edreí, En Jasor, 
+JOS019038 Jirón, Magdalel, Joren, Betanat y Betsamés, diecinueve ciudades con sus aldeas. 
+JOS019039 Esta es la parte de la herencia de la tribu de Neftalí, sus ciudades y aldeas para sus familias. 
+JOS019040 A la tribu de Dan salió la séptima suerte para sus familias. 
+JOS019041 Y los límites de su herencia fueron: Saraa, Estaol e Irsemes, 
+JOS019042 Selebín, Ayalón, Jetela, 
+JOS019043 Elon, Tinnata, Acarón, 
+JOS019044 Eltece, Guibetón, Balat, 
+JOS019045 Jud, Bene-Barac, Gatrimón, 
+JOS019046 Mejarcón y Racón con el territorio frente a Joppe; 
+JOS019047 sus límites fueron más allá del territorio que les correspondía, ya que los hijos de Dan avanzaron y atacaron a Lesem, y la tomaron; la pasaron después a cuchillo y la habitaron, llamándola Lesem-Dan, del nombre de Dan, su padre. 
+JOS019048 Esta es la parte de la herencia de la tribu de los hijos de Dan, las ciudades y aldeas para sus familias. 
+JOS019049 Luego que Josué, hijo de Nun, terminó de repartir la tierra por suerte a cada una de las tribus, los hijos de Israel le dieron su porción en medio de ellos. 
+JOS019050 Según la orden de Yavé, le dieron la ciudad de Tamnat Seraj, en los cerros de Efraím, que él había pedido. Reedificó esta ciudad y la habitó. 
+JOS019051 Estas son las posesiones que Eleazar, el sacerdote, Josué, hijo de Nun, y los jefes de las familias de las tribus de los hijos de Israel distribuyeron por suerte en Silo, delante de Yavé, a la entrada de la Tienda de las Declaraciones divinas. Así terminaron la distribución del país. Las de refugio 
+JOS020001 Yavé habló a Josué en esta forma: 
+JOS020002 “Di a los hijos de Israel que designen ciudades para los que tienen que refugiarse según les indiqué por medio de Moisés. 
+JOS020003 Estas ciudades servirán de asilo a todo el que mate a un hombre involuntariamente; ahí podrán refugiarse para escapar a la venganza del pariente del difunto. 
+JOS020004 El que haya dado muerte a un hombre escapará a una de estas ciudades y se presentará en la Puerta de la ciudad para exponer su caso a los ancianos. Estos le darán acogida y le designarán un lugar para vivir entre ellos. 
+JOS020005 Y si llega el que quiere vengar al muerto, no lo entregarán en sus manos, por cuanto mató a su prójimo sin quererlo ni tenerle odio. 
+JOS020006 Permanecerá en aquella ciudad hasta que comparezca ante la asamblea para ser juzgado y hasta que muera el Sumo Sacerdote que en esa fecha esté en funciones. Entonces podrá volver el que dio muerte a un hombre a su patria y a su casa desde donde huyó. 
+JOS020007 Señalaron, pues, a Cadés, en la Galilea sobre los cerros de Neftalí, a Siquén, en los cerros de Efraím, y a Cariat-Arbe, o sea Hebrón, en los cerros de Judá. 
+JOS020008 Más allá del Jordán, al oriente de Jericó, destinaron a Bosor, situada en el desierto de la meseta de la tribu de Rubén; a Ramot en Galaad, de la tribu de Gad, y a Golán en Basán, de la tribu de Manasés. 
+JOS020009 Estas ciudades fueron señaladas para todos los hijos de Israel y para los forasteros que habitaban entre ellos, a fin de que sirvieran de asilo al que sin querer hubiese muerto a un hombre. Ese no sería muerto por el pariente de la víctima antes de haber sido juzgado por la comunidad. Las de los levitas 
+JOS021001 Los jefes de las familias de Leví se presentaron a Eleazar, el sacerdote, a Josué, hijo de Nun, y a los jefes de las familias de cada tribu de los hijos de Israel. 
+JOS021002 En Silo, en el país de Canaán, les dijeron lo siguiente: “Yavé mandó por medio de Moisés que se nos dieran ciudades para habitar y campos para alimentar nuestro ganado.” 
+JOS021003 Los hijos de Israel, de acuerdo al mandato de Yavé, les dieron, de su propia parte de tierra, las siguientes ciudades con sus campos: 
+JOS021004 De la familia de Quehat, los hijos del sacerdote Aarón recibieron, por suerte, trece ciudades de las tribus de Judá, Simeón y Benjamín. 
+JOS021005 El resto de los hijos de Quehat obtuvo diez ciudades de la tribu de Efraín, de Dan y de la media tribu de Manasés. 
+JOS021006 Los hijos de Guersón recibieron trece ciudades de las tribus de Isacar, Aser y Neftalí, y de la otra media tribu de Manasés en Basán. 
+JOS021007 Los hijos de Merarí recibieron para sus familias doce ciudades de las tribus de Rubén, Gad y Zabulón. 
+JOS021008 Así, pues, los hijos de Israel dieron a los levitas estas ciudades con sus alrededores, como lo mandó Yavé por medio de Moisés, distribuyéndolas a cada uno por suerte. 
+JOS021009 Estos son los nombres de las ciudades de las tribus de Judá y de Simeón que dio Josué 
+JOS021010 a los hijos de Aarón de la familia de Quehat, descendiente de Leví, que lograron la primera suerte: 
+JOS021011 Cariat-Arbe, ciudad del padre de Enac, llamada Hebrón, en los cerros de Judá y sus alrededores. 
+JOS021012 Pero el territorio y las aldeas dependientes de la ciudad ya habían sido atribuidas a Caleb, hijo de Jefoné. 
+JOS021013 Dio, pues, Josué a los sacerdotes hijos de Aarón la ciudad de refugio Hebrón y sus alrededores, y Libna con los suyos, 
+JOS021014 Jeter, Estemo, 
+JOS021015 Jelón, Dabir, 
+JOS021016 Asan, Juta y Betsamés con sus contornos; nueve ciudades en las dos tribus, como queda dicho. 
+JOS021017 Y de la tribu de los hijos de Benjamín, a Gabaón y Geba, 
+JOS021018 Anatot y Amón con sus contornos: cuatro ciudades. 
+JOS021019 Todas las ciudades juntas de los sacerdotes, hijos de Aarón, vinieron a ser trece con sus alrededores. 
+JOS021020 A los demás hijos de Quehat, levitas de grado inferior repartidos en sus familias, se les dieron: de la tribu de Efraín, 
+JOS021021 la ciudad de refugio de Siquén con todos sus alrededores, en los cerros de Efraín, Gazer, 
+JOS021022 Cibsaím y Bet-Horón con sus alrededores: cuatro ciudades. 
+JOS021023 Y de la tribu de Dan: Elteco, Guibetón, 
+JOS021024 Ayalón y Gatrimón, con sus alrededores: cuatro ciudades. 
+JOS021025 Y de la media tribu de Manasés, a Tanac y Jeblam con sus contornos: dos ciudades. 
+JOS021026 En todo se dieron diez ciudades y sus alrededores a los demás hijos de Quehat. 
+JOS021027 También a los hijos de Guersón, levitas de inferior grado, Josué dio de la media tribu de Manasés dos ciudades con sus alrededores, a saber: Golán, en Basán, que era ciudad de refugio, y Astarot. 
+JOS021028 Y de la tribu de Isacar: Quisuón, Daberet, 
+JOS021029 Jaramut, Engannín con sus alrededores: cuatro ciudades. 
+JOS021030 De la tribu de Aser: Masal, Abdón, 
+JOS021031 Helcat y Rejob con sus alrededores: cuatro ciudades. 
+JOS021032 De la tribu de Neftalí, las ciudades de refugio de Cadés en Galilea, Hamot-Dor y Carten con sus alrededores: tres ciudades. 
+JOS021033 Todas las ciudades dadas a las familias de Guersón fueron trece con sus contornos. 
+JOS021034 Asimismo a los hijos de Merarí, levitas de inferior grado, se les dieron, según sus familias: Jecnán, Carta, 
+JOS021035 Remón y Nalol: cuatro ciudades de la tribu de Zabulón con sus alrededores. 
+JOS021036 De la tribu de Rubén, más allá del Jordán enfrente de Jericó, a Bosor, en el desierto, ciudad de refugio, y Jaseh, 
+JOS021037 Quedenal y Mefat: cuatro ciudades. 
+JOS021038 De la tribu de Gad, Ramot en Galaad, ciudad de refugio, Manaím, 
+JOS021039 Jesebón, Jaser, cuatro ciudades con sus alrededores. 
+JOS021040 El total de las ciudades de los hijos de Merarí para sus familias fueron doce. 
+JOS021041 Así las ciudades de los levitas en medio de la herencia de los hijos de Israel fueron cuarenta y ocho, 
+JOS021042 con sus alrededores. 
+JOS021043 De este modo, dio Yavé a los israelitas toda la tierra que habitaron. 
+JOS021044 Yavé les dio paz con todas las naciones vecinas y ninguno de sus enemigos fue capaz de resistirles. Yavé los entregó a todos ellos en manos de Israel. 
+JOS021045 Ninguna de las promesas de Yavé quedó sin efecto. Todo se realizó. El del otro lado del Jordán 
+JOS022001 Entonces Josué convocó a los rubenitas, gaditas, a la media tribu de Manasés, 
+JOS022002 y les dijo: “Todo lo que les ordenó Moisés, servidor de Yavé, lo han cumplido; también a mí me han obedecido en todo 
+JOS022003 y no han desamparado a sus hermanos pese al tiempo transcurrido, cumpliendo el mandamiento de Yavé. 
+JOS022004 Por lo tanto, ya que Yavé, según su promesa, les ha dado reposo y paz a sus hermanos, vuélvanse y regresen a sus casas, a la tierra que les entregó Moisés al este del Jordán. 
+JOS022005 Les encargo solamente que recuerden y practiquen el mandamiento de la Ley que les entregó Moisés y que es amar a Yavé, nuestro Dios, siguiendo sus caminos y observando sus mandamientos. Permanezcan fieles, sirviéndolo con todo el corazón y con toda el alma.” 
+JOS022006 En seguida Josué los bendijo y los despidió, regresando a sus tierras. 
+JOS022007 Moisés había dado a la media tribu de Manasés su posesión en Basán; por eso, a la otra mitad Josué le dio la herencia entre los demás hermanos suyos en este lado del Jordán, al occidente. Por eso, al despedirlos después de bendecirlos, 
+JOS022008 les dijo: “Regresen a sus casas con grandes riquezas, cargados de plata, oro, cobre, hierro y de toda clase de vestidos, y repartan con sus hermanos el botín de los enemigos.” 
+JOS022009 Con esto, los hijos de Rubén, los de Gad y la media tribu de Manasés se separaron de los hijos de Israel en Silo, en el país de Canaán, el país que habían recibido de Moisés, conforme a la orden de Yavé. 
+JOS022010 Cuando llegaron a las cercanías del Jordán, en tierra de Canaán, edificaron junto al Jordán un altar de grandes proporciones. 
+JOS022011 Entonces se dijo entre los hijos de Israel: “Los hijos de Rubén, Gad y la media tribu de Manasés han edificado el altar que está frente a Canaán, cerca del Jordán.” 
+JOS022012 Al saber esto, toda la asamblea de los israelitas se reunieron en Silo para combatirlos. 
+JOS022013 Los israelitas mandaron a Finjas, hijo de Eleazar, 
+JOS022014 junto con diez de los principales jefes, uno por cada tribu. 
+JOS022015 Estos se dirigieron a Galaad y dijeron a los hijos de Rubén, de Gad y a los de la media tribu de Manasés: 
+JOS022016 “La asamblea de Israel les manda a decir: ¿Qué infidelidad es ésta? ¿Por qué han abandonado a Yavé, Dios de Israel, y se han rebelado contra él, levantando este altar? 
+JOS022017 ¿Les parece poco el pecado que se cometió en Baal Fogor, del que todavía no estamos purificados aún, cuando Israel tuvo que padecer un terrible castigo? 
+JOS022018 Hoy se rebelan ustedes contra Yavé y mañana su ira se desatara contra todo Israel. 
+JOS022019 Si la tierra que ocupan les parece impura, pasen a la nuestra, donde está el Tabernáculo de Yavé; vengan a vivir con nosotros, pero no se alejen de Yavé y de nuestra comunidad, construyendo otro altar fuera del de Yavé. 
+JOS022020 Cuando Acán, hijo de Zaré, violó el anatema de Yavé, ¿no descargó él su ira sobre todo el pueblo de Israel? Ojalá él solo hubiera muerto por su pecado.” 
+JOS022021 La gente de Rubén, de Gad y los de la media tribu de Manasés respondieron a los enviados de Israel: 
+JOS022022 “El Dios de los dioses, Yavé, sabe nuestras intenciones: Israel también las conocerá. Castíguenos Yavé de inmediato si al edificar este altar nos ha animado la intención de rebelarnos. 
+JOS022023 Que Yavé nos condene si construimos este altar para ofrecer sobre él holocaustos, sacrificios y víctimas pacíficas. 
+JOS022024 Más bien hemos hecho esto pensando en el porvenir. Acaso algún día sus hijos pregunten a los nuestros: ¿Qué tienen ustedes de común con Yavé, Dios de Israel? 
+JOS022025 Yavé puso una frontera entre nosotros y ustedes, hijos de Rubén y de Gad: es el río Jordán; por lo tanto, ustedes no tienen parte con Yavé. Así nuestros hijos se alejarían de Yavé. 
+JOS022026 Por eso dijimos: Levantemos un altar, no para ofrecer holocaustos ni víctimas, 
+JOS022027 sino como una prueba entre nosotros y ustedes, entre nuestra descendencia y la de ustedes, de que somos también servidores de Yavé y tenemos derecho a ofrecer holocaustos y víctimas pacíficas; lo hicimos para que los hijos de ustedes no puedan decir a los nuestros: Ustedes no tienen parte con Yavé. 
+JOS022028 Y si lo dijeran, nuestros hijos podrían responder: Reconozcan por su forma el altar de Yavé que levantaron nuestros padres, no para ofrecer holocaustos o sacrificios, sino como señal de comunión entre nosotros. 
+JOS022029 No está en nuestro ánimo alejarnos de Yavé al construir un altar para ofrecerle holocaustos y sacrificios. Solamente lo haremos en el altar de Yavé, nuestro Dios, que se levanta frente a su Tabernáculo.” 
+JOS022030 El sacerdote Finjas y los jefes de las tribus se quedaron conformes con la respuesta de la gente de Rubén y de Gad y de la media tribu de Manasés. 
+JOS022031 Finjas les dijo: “Ahora comprobamos que Yavé está con nosotros, ya que ustedes no han cometido semejante traición, y ahora Israel no tiene que temer la venganza de Yavé.” 
+JOS022032 Regresó Finjas a Israel con los jefes principales informando de todo. 
+JOS022033 Todos quedaron satisfechos, y los israelitas dieron gracias a Yavé, olvidando su intención de combatirlos. 
+JOS022034 La gente de Rubén y de Gad llamaron al altar que habían edificado “Testigo”, pues dijeron: “Este altar es testigo de que Yavé es Dios.” Discurso Josué en Siquén 
+JOS023001 Mucho tiempo había transcurrido desde que Yavé dio paz a Israel en todas sus fronteras. 
+JOS023002 Josué, muy anciano y cargado de años, reunió a todo Israel, a sus ancianos, jefes, secretarios y jueces para decirles: Estoy ya muy viejo. 
+JOS023003 Ustedes han visto todo lo que Yavé ha hecho por ustedes con todas estas naciones y cómo él mismo ha peleado por nosotros. 
+JOS023004 Miren que les he repartido el territorio de todos los pueblos que destruí desde el Jordán hasta el mar Grande, como también el de esos pueblos que todavía permanecen. 
+JOS023005 Yavé, nuestro Dios, los seguirá rechazando ante ustedes y les quitará sus tierras para que las tengan ustedes, tal como Yavé se lo tiene prometido. 
+JOS023006 Por eso, sean muy valientes y tengan empeño en actuar en todo según está escrito en el libro de la Ley de Moisés, sin desviarse de ella por ningún lado. 
+JOS023007 No se mezclarán con esas naciones que subsisten entre ustedes. No invocarán a sus dioses ni jurarán por su nombre; no los servirán ni se agacharán ante ellos. 
+JOS023008 Manténgase más bien unidos a Yavé, nuestro Dios, como lo han hecho hasta el día de hoy. 
+JOS023009 Por eso Yavé ha desalojado ante ustedes a pueblos numerosos y poderosos; ninguno pudo resistirles hasta el presente. 
+JOS023010 Uno solo de ustedes perseguía a mil, pues Yavé, nuestro Dios, peleaba por ustedes, como se lo había prometido. 
+JOS023011 Así que tengan mucho cuidado: ustedes amarán a Yavé, su Dios. 
+JOS023012 Pero si se apartan de él y se unen al resto de estos pueblos que todavía quedan entre ustedes, si llegan a ser sus parientes y se mezclan con ellos, 
+JOS023013 sepan que Yavé no seguirá arrojando delante de ustedes a esos pueblos, sino que serán para ustedes un lazo y una trampa, un látigo en sus costados y espinas en sus ojos, hasta que hayan desaparecido de esta espléndida tierra que les ha dado Yavé, nuestro Dios. 
+JOS023014 Estando yo a punto de irme por el camino de toda criatura, les declaro: Reconozcan en su alma y conciencia que todas las promesas de Yavé, nuestro Dios, se cumplieron; ni una ha quedado sin efecto; ni una ha fallado. 
+JOS023015 Pero, de la misma manera que todas estas promesas de Yavé a favor nuestro se han cumplido, de igual modo mandará Yavé contra ustedes todos estos males con que los ha amenazado, hasta borrarlos de la magnífica tierra que les había dado. 
+JOS023016 Si ustedes rompen la alianza que Yavé, nuestro Dios, les ha prescrito; si siguen y sirven a dioses ajenos; si se inclinan ante ellos, el furor de Yavé se levantará contra ustedes y desaparecerán pronto de esta tierra fértil que les ha entregado.” Se la Alianza en Siquén 
+JOS024001 Josué convocó en Siquén a todas las tribus de Israel, y reunió a los ancianos, jefes, jueces y secretarios. Juntos se presentaron delante de Dios. 
+JOS024002 Dirigiéndose al pueblo, Josué le dijo: “Yavé, Dios de Israel, les manda decir: Más allá del río Eufrates vivían sus antepasados, Taré, padre de Abraham, y Najor, sirviendo a otros dioses. 
+JOS024003 Pero yo saqué a Abraham, padre de ustedes, de más allá del Eufrates y lo conduje por todo el país de Canaán; luego le di a Isaac para que tuviera numerosos descendientes. 
+JOS024004 A Isaac le di dos hijos, Esaú y Jacob. Esaú recibió los cerros de Seír como herencia suya, mientras que Jacob y sus hijos bajaron a Egipto. 
+JOS024005 Después envié a Moisés y Aarón para castigar a Egipto de la manera que saben, para que ustedes salieran. 
+JOS024006 Hice, pues, salir de Egipto a sus padres, y ustedes llegaron al mar. Los persiguieron los egipcios con carros y caballos hasta el mar Rojo. 
+JOS024007 Entonces clamaron a Yavé y él puso densas tinieblas entre ustedes y los egipcios; hizo retroceder el mar sobre ellos y los sumergió. Ustedes han presenciado todas estas cosas que hice en Egipto y, después, estuvieron mucho tiempo en el desierto. 
+JOS024008 Luego los llevé al país de los amorreos que viven al este del Jordán. Ellos pelearon, pero yo los entregué en manos de ustedes; los destruí, y ustedes se apoderaron de sus tierras. 
+JOS024009 Balac, hijo de Sipor, rey de Moab, declaró la guerra a Israel y mandó a buscar a Balaam, hijo de Beor, para que les maldijera, 
+JOS024010 pero ya no quise escucharlo sino que por el contrario, los bendije a ustedes y los libré de manos de Balac. 
+JOS024011 Después pasaron el Jordán y llegaron a Jericó. Entonces combatieron contra ustedes los dueños de Jericó; los amorreos, fereceos, cananeos, heteos, guergueseos, heveos y jebuseos les declararon la guerra, pero yo se los entregué. 
+JOS024012 Los dos reyes amorreos huyeron de sus tierras por el enjambre de avispas que lancé sobre ellos y no por la espada y arco de ustedes. 
+JOS024013 Les di tierras que ustedes no habían cultivado, ciudades que no habían edificado y en que viven ahora; les di viñas y olivares que no habían plantado y de las que comen ahora. 
+JOS024014 Tengan, pues, temor a Yavé, y sean cumplidores y fieles en servirlo. Dejen a un lado esos dioses que sus padres adoraron en Mesopotamia y en Egipto, y sirvan sólo a Yavé. 
+JOS024015 Que si no quieren servir a Yavé, digan hoy mismo a quiénes servirán, si a los dioses que sus padres sirvieron en Mesopotamia, o a los dioses de los amorreos que ocupaban el país en que ahora viven ustedes. Por mi parte, yo y los míos serviremos a Yavé.” 
+JOS024016 El pueblo respondió: “¡No quiera Dios que abandonemos a Yavé para servir a otros dioses! 
+JOS024017 Pues él nos hizo subir a nosotros y a nuestros padres de Egipto, de la Casa de esclavitud, e hizo estos grandes milagros que hemos visto; él nos protegió durante todo el camino y en todos los países por donde pasamos; 
+JOS024018 desalojó ante nosotros a todas la naciones y, en especial, a los amorreos que vivían en este país. Por eso, nosotros también serviremos a Yavé: él es nuestro Dios.” 
+JOS024019 Josué contestó al pueblo: “¿Serán ustedes capaces de servir a Yavé? Pues él es un Dios Santo, un Dios Celoso, que no soportará maldades ni faltas. 
+JOS024020 Si ustedes abandonan a Yavé y sirven a otros dioses, se volverá contra ustedes, y por mucho bien que les haya hecho, los castigará y los arruinará.” 
+JOS024021 Replicó el pueblo: “No, no será así como tú dices. Serviremos a Yavé.” 
+JOS024022 Dijo Josué: “Ustedes mismos son testigos de que han escogido a Yavé para servirlo.” Ellos respondieron: “Somos testigos.” 
+JOS024023 Josué prosiguió: “Arrojen ahora de entre ustedes los dioses ajenos y sirvan de corazón a Yavé, Dios de Israel.” 
+JOS024024 Respondió el pueblo: “Serviremos a Yavé, nuestro Dios, y obedeceremos sus órdenes.” 
+JOS024025 Aquel día, en Siquén, Josué pactó una Alianza con el pueblo y le fijó reglamentos y leyes. 
+JOS024026 También escribió todo lo expresado en el libro de la Ley de Dios; escogió una gran piedra y la colocó debajo de la Encina que estaba en el Lugar Sagrado de Yavé. 
+JOS024027 Luego Josué dijo al pueblo reunido: “Esta piedra quedará como testigo de todo lo que nos habló Yavé, ya que oyó todas estas palabras. Ella será testigo contra nosotros, no sea que ustedes vayan a defraudar a Yavé.” 
+JOS024028 En seguida Josué despidió al pueblo y cada uno volvió a su tierra. 
+JOS024029 Después de todos estos hechos, murió Josué, hijo de Nun, servidor de Yavé, a la edad de ciento diez años. 
+JOS024030 Lo sepultaron en su tierra, en Tamnat Seraj, en los cerros de Efraín, al norte del cerro Gaas. 
+JOS024031 Israel sirvió a Yavé durante toda la vida de Josué y de los ancianos que vivieron más tiempo que Josué, los cuales habían presenciado todas las maravillas que Yavé hizo en favor de Israel. 
+JOS024032 Los israelitas habían traído de Egipto los huesos de José. Los enterraron en Siquén, en un lugar del campo que Jacob compró a los hijos de Hemor, padre de Siquén, por cien monedas, y que quedó como herencia de los hijos de José. 
+JOS024033 Eleazar, hijo de Aarón, también murió y lo sepultaron en la loma asignada a su hijo Finjas, en los cerros de Efraín. 
