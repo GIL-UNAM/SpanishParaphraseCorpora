@@ -1,0 +1,147 @@
+﻿NOTAS TBS
+
+La mitad de la información de TBS001010 estaba en TBS001009 en LAT. Corté y reacomodé en TBS001010.
+
+Una parte de la información de TBS002005 estaba en TBS002006 en LAT. Corté y reacomodé en TBS002005.
+
+Las biblias JNM, JER y EMN tienen 17 versículos en cap. 003. LAT tenía 16 versículos. La información estaba en TBS003016. Corté y añadí TBS003017.
+
+Una parte de la información de TBS005018 estaba en TBS005019 en LAT. Corté y reacomodé en TBS005018.
+
+Una parte de la información de TBS005022 estaba en TBS006001 en JNM y JER. Corté y reacomodé en TBS005022.
+
+La información de TBS006001 estaba en TBS006002 en JER. Corté y reacomodé en TBS006001.
+
+TBS006001 TEXTO OMITIDO en JNM
+
+La información de TBS006002  (desde "caminaron los dos" hasta "río Tigris") estaba en TBS006001 en EMN. Corté y reacomodé en TBS006002.
+
+Igualmente en EMN:
+	-La información de TBS006003 estaba en TBS006002
+	-La información de TBS006004 estaba en TBS006003
+	-La información de TBS006005 estaba en TBS006004
+	-La información recolocada en TBS006006 (orginalmente TBS006005) más la información original de TBS006006 conforman ahora TBS006006
+	
+La información de TBS006015 estaba en TBS006014 en LAT. Corté y reacomodé en TBS006015.
+
+En LAT: 
+	-TBS006015 ahora es TBS006016	
+	-TBS006016 ahora es TBS006017
+	-La información recolocada en TBS006017 (orginalmente TBS006016) más la información original de TBS006017 conforman ahora TBS006017
+
+Una parte de la información de TBS006017 estaba en TBS006018 en JNM. Corté y reacomodé en TBS006017.
+
+La información de TBS006019 estaba en TBS006018 en JNM. Corté y reacomodé en TBS006019.
+
+En JNM la información que estaba en TBS007007 pertenece a TBS007006
+En EMN la información que estaba en TBS007007 pertenece a TBS007006
+
+En JNM y EMN:
+		-TBS007008 es ahora TBS007007
+
+Una parte de la información de TBS007008 estaba en TBS007009 en JNM. Corté y reacomodé en TBS007008.
+
+La información de TBS007008 estaba en TBS007009 en EMN. Corté y reacomodé en TBS007008.
+
+La información de TBS007011 estaba en TBS007010 en LAT. Corté y reacomodé en TBS007011.
+
+En LAT: 
+	-TBS006011 ahora es TBS006012
+	-TBS006012 ahora es TBS006013
+	-TBS006013 ahora es TBS006014
+	-TBS006014 ahora es TBS006015
+	-Añadí TBS006016. TBS006015 ahora es TBS006016.
+
+Parte de la información de TBS007011 estaba en TBS007012 en EMN. Corté y reacomodé en TBS007011.
+
+En EMN:
+	-TBS007013 ahora es TBS007012
+
+La información de TBS007013 estaba en TBS007014 en EMN. Corté y reacomodé en TBS007013.
+
+Parte de la información de TBS007016 estaba en TBS007015 en LAT. Corté y reacomodé en TBS007016.
+
+La información de TBS009003 estaba en TBS009002 en JNM. Corté y reacomodé en TBS009003.
+
+Parte de la información de TBS009004 estaba en TBS009003 en JNM. Corté y reacomodé en TBS009004.
+
+En JNM y EMN:
+
+		-La información de TBS010008 estaba en TBS010007. Corté y reacomodé en TBS010008.
+		-TBS010008 más TBS010009 ahora conforman TBS01009
+
+La información de TBS010013 estaba en TBS010012 en JNM. Corté y reacomodé en TBS010013.
+
+TBS01013 es ahora TBS010014.
+
+La información de TBS011001 estaba en TBS010014 en JNM. Corté y reacomodé en TBS011001.
+
+En JNM:
+	TBS011001 ahora es TBS011002 
+	TBS011002 ahora es TBS011003
+	TBS011003 ahora es TBS011004 
+	TBS011004 ahora es TBS011005
+	TBS011005 ahora es TBS011006 
+	TBS011006 ahora es TBS011007
+	TBS011007 ahora es TBS011008 
+	TBS011008 ahora es TBS011009
+	TBS011009 ahora es TBS011010 
+	TBS011010 ahora es TBS011011 
+	TBS011011 ahora es TBS011012
+	TBS011012 ahora es TBS011013
+	Parte de la información de TBS011012 estaba en TBS011013 (originalmente TBS011012). Corté y reacomodé en TBS011012.
+	TBS011013 ahora es TBS011014
+	TBS011014 ahora es TBS011015
+	TBS011015 ahora es TBS011016
+	TBS011016 ahora es TBS011017
+	TBS011017 ahora es TBS011018
+	Añadí TBS011019. TBS011018 ahora es TBS011019.
+	
+	
+En LAT, parte de la información de TBS011015 estaba en TBS011014. Corté y reacomodé en TBS011015.
+
+EN JNM, la información de TBS011018 estaba en TBS011017. Corté y reacomodé en TBS011018.
+
+En JNM, parte de la información de TBS011019 estaba en TBS011018. Corté y reacomodé en TBS011019.
+
+En EMN, la información de TBS011019 estaba en TBS011018. Añadí TBS011019, corté y reacomodé en TBS011019.
+
+En LAT, parte de la información de TBS012001 estaba en TBS012002. Corté y reacomodé en TBS012001.
+
+En JER, JNM y LAT la información de TBS012022 estaba en TBS012021. Añadí TBS012022, corté y reacomodé en TBS012022.
+	
+En LAT, parte de la información de TBS013001 estaba en TBS013002. Corté y reacomodé en TBS013001.
+
+En JER y JNM:
+	Texto omitido en TBS013009. Inserté versículo con leyenda de TEXTO OMITIDO y recorrí los versículos siguientes.
+	TBS013009 ahora es TBS013010
+	TBS013010 ahora es TBS013011
+
+En LAT, parte de la información de TBS013010 estaba en TBS013011. Corté y reacomodé en TBS013010.
+
+
+En JER y JNM:
+	La información de TBS013012 estaba en TBS013011. Corté y reacomodé en TBS013012.
+	TBS013011 ahora es TBS013013
+	TBS013012 ahora es TBS013014
+	TBS013013 ahora es TBS013015
+	TBS013014 ahora es TBS013016
+	
+	
+
+EN EMN parte de la información de TBS013016 estaba en TBS013015. Corté y reacomodé en TBS013016.
+
+En JNM y JER:
+	La información que se encontraba en TBS013015 de la secuencia original (ahora TBS013017) pertenece a TBS013016. Corté y reacomodé en TBS013016.
+	TBS013016 ahora es TBS013017
+
+En JNM, la información de TBS013017 (secuencia original) más la información de TBS013017 de la nueva secuencia (TBS013016 en la orginal) conforman la información de TBS013017.
+
+En JER, parte de la información de TBS013017 estaba en TBS013018 (secuencia nueva). Corté y reacomodé en TBS013017.
+
+En JNM, la información de TBS014008 corresponde a TBS014009 y viceversa, TBS014009 corresponde a TBS014008.}
+
+EN LAT:
+	Texto omitido en TBS014009. Inserté versículo con leyenda de TEXTO OMITIDO y recorrí el versículo siguiente.
+	TBS014009 es ahora TBS014010
+	La información de TBS014010 (secuencia original) más la información de TBS014010 de la nueva secuencia (TBS014009 en la original) conforman la información de TBS014010.

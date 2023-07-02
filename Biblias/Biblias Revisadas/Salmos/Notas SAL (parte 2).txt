@@ -1,0 +1,1377 @@
+﻿En JNM la información que corresponde al Capítulo 76, estaba numerada como Capítulo 75 (este error se encuentra desde el capítulo 9 hacia abajo). Corregí la numeración desde capítulo 76 hasta capítulo 114 (de la nueva numeración).
+
+En EMN y PET:
+
+	-Parte de la información de SAL076001 estaba en SAL076002. Corté y reacomodé en SAL076001. 
+	-Por lo anterior, se recorrió la numeración, quedando de la siguiente manera:
+
+		SAL076003 es ahora SAL076002
+		SAL076004 es ahora SAL076003
+		SAL076005 es ahora SAL076004
+		SAL076006 es ahora SAL076005
+		SAL076007 es ahora SAL076006
+		SAL076008 es ahora SAL076007
+		SAL076009 es ahora SAL076008
+		SAL076010 es ahora SAL076009
+		SAL076011 es ahora SAL076010
+		SAL076012 es ahora SAL076011
+		SAL076013 es ahora SAL076012
+En NAC y SER:
+
+	-Parte de la información de SAL076001 estaba en SAL076002. Corté y reacomodé en SAL076001. 
+	-Por lo anterior, se recorrió la numeración, quedando de la siguiente manera:
+
+		SAL076003 es ahora SAL076002
+		SAL076004 es ahora SAL076003
+		SAL076005 es ahora SAL076004
+		SAL076006 es ahora SAL076005
+		SAL076007 es ahora SAL076006
+		SAL076008 es ahora SAL076007
+		SAL076009 es ahora SAL076008
+		SAL076010 es ahora SAL076009
+		SAL076011 es ahora SAL076010
+		SAL076012 es ahora SAL076011
+	
+	-TEXTO OMITIDO en SAL076012
+
+En EMN, NAC, PET, SER:
+
+	-Parte de la información de SAL077001 estaba en SAL077002. Corté y reacomodé en SAL077001. 
+	-Por el punto anterior, la numeración se recorrió, quedando:
+
+		SAL077002 es ahora SAL077001
+		SAL077003 es ahora SAL077002
+		SAL077004 es ahora SAL077003
+		SAL077005 es ahora SAL077004
+		SAL077006 es ahora SAL077005
+		SAL077007 es ahora SAL077006
+		SAL077008 es ahora SAL077007
+		SAL077009 es ahora SAL077008
+		SAL077010 es ahora SAL077009
+		SAL077011 es ahora SAL077010
+		SAL077012 es ahora SAL077011
+		SAL077013 es ahora SAL077012
+		SAL077014 es ahora SAL077013
+		SAL077015 es ahora SAL077014
+		SAL077016 es ahora SAL077015
+		SAL077017 es ahora SAL077016
+		SAL077018 es ahora SAL077017
+		SAL077019 es ahora SAL077018
+		SAL077020 es ahora SAL077019
+		SAL077021 es ahora SAL077020 (EXCEPTO EN NAC y SER) 
+
+	-TEXTO OMITIDO en SAL077020 en NAC y SER
+
+
+En JNM: 
+	-Parte de la información de SAL078004 estaba en SAL078005. Corté y reacomodé en SAL078004.
+	-Por el punto anterior SAL078006 ahora es SAL078005.
+	-Parte de la información de SAL078005 (de la nueva numeración) estaba en SAL078007 (numeración original).
+	-Por el punto anterior:
+
+		SAL078008 (numeración original) ahora es SAL078006.
+		SAL078009 (numeración original) ahora es SAL078007.
+		SAL078010 (numeración original) ahora es SAL078008.
+
+	-Parte de la información de SAL078008 (de la nueva numeración)  estaba en SAL078011 (numeración original).
+	-Por el punto anterior, la numeración se recorrió quedando: 
+		
+
+		SAL078012 (numeración original) ahora es SAL078009.
+		SAL078013 (numeración original) ahora es SAL078010.
+		SAL078014 (numeración original) ahora es SAL078011.
+		SAL078015 (numeración original) ahora es SAL078012.
+		SAL078016 (numeración original) ahora es SAL078013.
+		SAL078017 (numeración original) ahora es SAL078014.
+		SAL078018 (numeración original) ahora es SAL078015.
+		SAL078019 (numeración original) ahora es SAL078016.
+		SAL078020 (numeración original) ahora es SAL078017.
+		SAL078021 (numeración original) ahora es SAL078018.
+		SAL078022 (numeración original) ahora es SAL078019.
+		SAL078023 (numeración original) ahora es SAL078020.
+
+	-Parte de la información de SAL078020 (de la nueva numeración) estaba en SAL078024 (numeración original). 
+	-Por el punto anterior, la numeración se recorrió quedando: 
+		
+
+		SAL078025 (numeración original) ahora es SAL078021.
+		SAL078026 (numeración original) ahora es SAL078022.
+		SAL078027 (numeración original) ahora es SAL078023.
+		SAL078028 (numeración original) ahora es SAL078024.
+		SAL078029 (numeración original) ahora es SAL078025.
+		SAL078030 (numeración original) ahora es SAL078026.
+		SAL078031 (numeración original) ahora es SAL078027.
+		SAL078032 (numeración original) ahora es SAL078028.
+		SAL078033 (numeración original) ahora es SAL078029.
+		SAL078034 (numeración original) ahora es SAL078030.
+		SAL078035 (numeración original) ahora es SAL078031.
+		SAL078036 (numeración original) ahora es SAL078032.
+		SAL078037 (numeración original) ahora es SAL078033.
+		SAL078038 (numeración original) ahora es SAL078034.
+		SAL078039 (numeración original) ahora es SAL078035.
+		SAL078040 (numeración original) ahora es SAL078036.
+		SAL078041 (numeración original) ahora es SAL078037.
+		SAL078042 (numeración original) ahora es SAL078038.
+
+	-Parte de la información de SAL078038 (de la nueva numeración) estaba en SAL078043 (numeración original). 
+	-Por el punto anterior, la numeración se recorrió quedando: 
+
+		SAL078044 (numeración original) ahora es SAL078039.
+		SAL078045 (numeración original) ahora es SAL078040.
+		SAL078046 (numeración original) ahora es SAL078041.
+		SAL078047 (numeración original) ahora es SAL078042.
+		SAL078048 (numeración original) ahora es SAL078043.
+		SAL078049 (numeración original) ahora es SAL078044.
+		SAL078050 (numeración original) ahora es SAL078045.
+		SAL078051 (numeración original) ahora es SAL078046.
+		SAL078052 (numeración original) ahora es SAL078047.
+		SAL078053 (numeración original) ahora es SAL078048.
+		SAL078054 (numeración original) ahora es SAL078049.
+		SAL078055 (numeración original) ahora es SAL078050.
+		SAL078056 (numeración original) ahora es SAL078051.
+		SAL078057 (numeración original) ahora es SAL078052.
+		SAL078058 (numeración original) ahora es SAL078053.
+		SAL078059 (numeración original) ahora es SAL078054.
+		SAL078060 (numeración original) ahora es SAL078055.
+
+
+	-Parte de la información de SAL078055 (de la nueva numeración) estaba en SAL078061 (numeración original). 
+	-Por el punto anterior, la numeración se recorrió quedando: 	
+
+		SAL078062 (numeración original) ahora es SAL078056.
+		SAL078063 (numeración original) ahora es SAL078057.
+		SAL078064 (numeración original) ahora es SAL078058.
+		SAL078065 (numeración original) ahora es SAL078059.
+		SAL078066 (numeración original) ahora es SAL078060.
+		SAL078067 (numeración original) ahora es SAL078061.
+		SAL078068 (numeración original) ahora es SAL078062.
+		SAL078069 (numeración original) ahora es SAL078063.
+		SAL078070 (numeración original) ahora es SAL078064.
+		SAL078071 (numeración original) ahora es SAL078065.
+		SAL078072 (numeración original) ahora es SAL078066.
+		SAL078073 (numeración original) ahora es SAL078067.
+		SAL078074 (numeración original) ahora es SAL078068.
+		SAL078075 (numeración original) ahora es SAL078069.
+		SAL078076 (numeración original) ahora es SAL078070.
+		SAL078077 (numeración original) ahora es SAL078071.
+		SAL078078 (numeración original) ahora es SAL078072.	
+
+En JNM: 
+
+	-Parte de la información de SAL079011 estaba en SAL079012. Corté y reacomodé en SAL079011.
+	-Por el punto anterior, la numeración se recorrió quedando:
+
+		SAL079013 ahora es SAL079012
+		SAl079014 ahora es SAL079013
+
+En EMN, NAC, PET y SER:
+
+	-Parte de la información de SAL080001 estaba en SAL080002. Corté y reacomodé en SAL080001.
+	-Por el punto anterior, la numeración se recorrió quedando:
+
+		SAL080003 ahora es SAL080002
+		SAL080004 ahora es SAL080003  
+		SAL080005 ahora es SAL080004
+		SAL080006 ahora es SAL080005  
+		SAL080007 ahora es SAL080006
+		SAL080008 ahora es SAL080007  
+		SAL080009 ahora es SAL080008
+		SAL080010 ahora es SAL080009  
+		SAL080011 ahora es SAL080010
+		SAL080012 ahora es SAL080011  
+		SAL080013 ahora es SAL080012
+		SAL080014 ahora es SAL080013  
+		SAL080015 ahora es SAL080014
+		SAL080016 ahora es SAL080015  
+		SAL080017 ahora es SAL080016
+		SAL080018 ahora es SAL080017  
+		SAL080019 ahora es SAL080018
+		SAL080020 ahora es SAL080019 (excepto en NAC y SER que es TEXTO OMITIDO)
+
+EN JNM: 
+
+	-Parte de la información de SAL080002 estaba en SAL080003. Corté  y reacomodé en SAL080002. 
+	-Por el punto anterior, la numeración se recorrió quedando:
+
+		SAL080004 ahora es SAL080003  
+		SAL080005 ahora es SAL080004
+		SAL080006 ahora es SAL080005  
+		SAL080007 ahora es SAL080006
+		SAL080008 ahora es SAL080007  
+		SAL080009 ahora es SAL080008
+		SAL080010 ahora es SAL080009  
+		SAL080011 ahora es SAL080010
+		SAL080012 ahora es SAL080011  
+		SAL080013 ahora es SAL080012
+		SAL080014 ahora es SAL080013  
+		SAL080015 ahora es SAL080014
+		SAL080016 ahora es SAL080015  
+		SAL080017 ahora es SAL080016
+		SAL080018 ahora es SAL080017  
+		SAL080019 ahora es SAL080018
+		SAL080020 ahora es SAL080019
+
+
+En SER, PET, NAC y EMN:
+
+	-Parte de la información de SAL081001 estaba en SAL081002. Corté y reacomodé en SAL081001. 
+	-Por esta razón, la numeración se recorrió quedando:
+
+		SAL081003 es ahora SAL081002
+		SAL081004 es ahora SAL081003
+		SAL081005 es ahora SAL081004
+		SAL081006 es ahora SAL081005
+		SAL081007 es ahora SAL081006
+		SAL081008 es ahora SAL081007
+		SAL081009 es ahora SAL081008
+		SAL081010 es ahora SAL081009
+		SAL081011 es ahora SAL081010
+		SAL081012 es ahora SAL081011
+		SAL081013 es ahora SAL081012
+		SAL081014 es ahora SAL081013
+		SAL081015 es ahora SAL081014
+		SAL081016 es ahora SAL081015
+		SAL081017 es ahora SAL081016 (excepto en SER y NAC que SAL081016 es TEXTO OMITIDO)
+
+En ESP:
+	-TEXTO OMITIDO en SAL081015 y SAL081016.
+
+En JNM:
+	-La información de SAL081009 estaba en SAL081008. Corté y reacomodé en SAL081009.
+	-La información de SAL081014 estaba en SAL081012. Corté y reacomodé en SAL081014.
+	-Por los puntos anteriores se recorrió la numeración:
+
+		SAL081009 ahora es SAL081010
+		SAL081010 ahora es SAL081011
+		SAL081011 ahora es SAL081012
+		SAL081012 ahora es SAL081013
+		SAL081013 ahora es SAL081015
+		SAL081014 ahora es SAL081016
+En EMN:
+
+	-Parte de la información de SAL083001 estaba en SAL083002. Corté y reacomodé en SAL083001.
+	-Por el punto anterior, la numeración se recorrió quedando:
+
+		SAL081003 ahora es SAL083002
+		SAL081004 ahora es SAL083003
+	
+	-La información de SAL083004 estaba en SAL083003 (nueva numeración). Corté y reacomodé en SAL083004.
+	-A partir de SAL083005 hasta SAL083011 la numeración se normaliza. 
+	-La información de SAL083012 estaba en SAL083011 (nueva numeración). Corté y reacomodé en SAL083012.
+	-Por el punto anterior, la numeración se recorrió:
+		
+		SAL083012 ahora es SAL083013
+		SAL083013 ahora es SAL083014
+		SAL083014 ahora es SAL083015
+		SAL083015 ahora es SAL083016
+		SAL083016 ahora es SAL083017
+		SAL083017 ahora es SAL083018
+		SAL081014 ahora es SAL081016
+			
+En NAC, SER y PET:
+
+	-Parte de la información de SAL083001 estaba en SAL083002. Corté y reacomodé en SAL083001.
+		
+		SAL083003 ahora es SAL083002
+		SAL083004 ahora es SAL083003
+		SAL083005 ahora es SAL083004
+		SAL083006 ahora es SAL083005
+		SAL083007 ahora es SAL083006
+		SAL083008 ahora es SAL083007
+		SAL081009 ahora es SAL081008
+		SAL083010 ahora es SAL083009
+		SAL083011 ahora es SAL083010
+		SAL083012 ahora es SAL083011
+		SAL083013 ahora es SAL083012
+		SAL083014 ahora es SAL083013
+		SAL083015 ahora es SAL083014
+		SAL081016 ahora es SAL081015
+		SAL083017 ahora es SAL083016
+		SAL083018 ahora es SAL083017
+	
+	-TEXTO OMITIDO en SAL083018 (excepto en PET)
+
+En JNM:
+
+	-La información de SAL083006 estaba en SAL083005. Corté y reacomodé en SAL083006.
+	-Por el punto anterior, se recorrió la numeración, quedando:
+		
+		SAL083006 ahora es SAL083007
+		SAL083007 ahora es SAL083008
+		SAL083008 ahora es SAL083009
+		SAL083009 ahora es SAL083010
+		SAL083010 ahora es SAL083011
+		SAL083011 ahora es SAL083012
+		SAL083012 ahora es SAL083013
+		SAL083013 ahora es SAL083014
+		SAL083014 ahora es SAL083015
+		SAL083015 ahora es SAL083016
+		SAL083016 ahora es SAL083017
+		SAL083017 ahora es SAL083018
+		
+En EMN:
+
+	-Parte de la información de SAL084001 estaba en SAL084002. Corté y reacomodé en SAL084001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL084003 ahora es SAL083002
+		SAL084004 ahora es SAL083003
+		SAL084005 ahora es SAL083004
+		SAL084006 ahora es SAL083005
+		SAL084007 ahora es SAL083006
+		SAL084008 ahora es SAL083007
+
+	-La información de SAL084008 estaba en SAL084007 (nueva numeración). Corté y reacomodé en SAL084008.
+	-A partir de aquí la numeración se normaliza hasta el último versículo.
+
+En NAC, PET y SER:
+
+	-Parte de la información de SAL084001 estaba en SAL084002. Corté y reacomodé en SAL084001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL084003 ahora es SAL083002
+		SAL084004 ahora es SAL083003
+		SAL084005 ahora es SAL083004
+		SAL084006 ahora es SAL083005
+		SAL084007 ahora es SAL083006
+		SAL084008 ahora es SAL083007
+		SAL084009 ahora es SAL083008
+		SAL084010 ahora es SAL083009
+		SAL084011 ahora es SAL083010
+		SAL084012 ahora es SAL083011
+		SAL084013 ahora es SAL083012 (Sólo en PET. SAL084012 es TEXTO OMITIDO en NAC y SER)
+En JNM:
+
+	-Parte de la información de SAL084003 estaba en SAL084004. Corté y reacomodé en SAL084003.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL084005 ahora es SAL083004
+		SAL084006 ahora es SAL083005
+		SAL084007 ahora es SAL083006
+		SAL084008 ahora es SAL083007
+		SAL084009 ahora es SAL083008
+		SAL084010 ahora es SAL083009
+		SAL084011 ahora es SAL083010
+		SAL084012 ahora es SAL083011
+		SAL084013 ahora es SAL083012
+
+En NAC, PET, SER Y EMN:
+
+	-Parte de la información de SAL085001 estaba en SAL085002. Corté y reacomodé en SAL085001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL085003 ahora es SAL085002
+		SAL085004 ahora es SAL085003
+		SAL085005 ahora es SAL085004
+		SAL085006 ahora es SAL085005
+		SAL085007 ahora es SAL085006
+		SAL085008 ahora es SAL085007
+		SAL085009 ahora es SAL085008
+		SAL085010 ahora es SAL085009
+		SAL085011 ahora es SAL085010
+		SAL085012 ahora es SAL085011
+		SAL085013 ahora es SAL085012 
+		SAL085014 ahora es SAL085013 (excepto en NAC y SER que SAL085013 es TEXTO OMITIDO)
+En JNM:
+
+	-Parte de la información de SAL085008 estaba en SAL085009. Corté y reacomodé en SAL085008.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL085010 ahora es SAL085009
+		SAL085011 ahora es SAL085010
+		SAL085012 ahora es SAL085011
+		SAL085013 ahora es SAL085012 
+		SAL085014 ahora es SAL085013
+
+En EMN:
+ 	-La información de SAL086016 estaba en SAL086015. Corté y reacomodé en SAL086016. SAL086016 (numeración original) ahora es SAL086017.
+
+En JNM:
+	-La información de SAL086004 estaba en SAL086003. Corté y reacomodé en SAL086004. 
+	-Por el punto anterior, se recorrió la numeración:
+	
+		SAL086004 ahora es SAL086005
+		SAL086005 ahora es SAL086006
+		SAL086006 ahora es SAL086007
+		SAL086007 ahora es SAL086008 
+		SAL086008 ahora es SAL086009
+		SAL086009 ahora es SAL086010
+		SAL086010 ahora es SAL086011
+		SAL086011 ahora es SAL086012
+		SAL086012 ahora es SAL086013 
+		SAL086013 ahora es SAL086014
+		SAL086014 ahora es SAL086015
+		SAL086015 ahora es SAL086016
+		SAL086016 ahora es SAL086017
+En LAT:
+
+	-TEXTO OMITIDO en SAL087001. Añadí SAL087001 y la numeración se recorrió:
+		
+		SAL087001 ahora es SAL087002
+		SAL087002 ahora es SAL087003
+		SAL087003 ahora es SAL087004
+		SAL087004 ahora es SAL087005
+		SAL087005 ahora es SAL087006
+		SAL087006 ahora es SAL087007
+
+En NAC, PET y SER:
+
+	-Parte de la información de SAL088001 estaba en SAL088002. Corté y reacomodé en SAL088001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL088003 ahora es SAL088002
+		SAL088004 ahora es SAL088003
+		SAL088005 ahora es SAL088004
+		SAL088006 ahora es SAL088005
+		SAL088007 ahora es SAL088006
+		SAL088008 ahora es SAL088007
+		SAL088009 ahora es SAL088008
+		SAL088010 ahora es SAL088009
+		SAL088011 ahora es SAL088010
+		SAL088012 ahora es SAL088011
+		SAL088013 ahora es SAL088012
+		SAL088014 ahora es SAL088013
+		SAL088015 ahora es SAL088014
+		SAL088016 ahora es SAL088015
+		SAL088017 ahora es SAL088016
+		SAL088018 ahora es SAL088017
+		SAL088019 ahora es SAL088018 (Sólo en PET. SAL088018 es TEXTO OMITIDO en NAC y SER)
+En EMN:
+
+	-Parte de la información de SAL088001 estaba en SAL088002. Corté y reacomodé en SAL088001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL088003 ahora es SAL088002
+		SAL088004 ahora es SAL088003
+		SAL088005 ahora es SAL088004
+		SAL088006 ahora es SAL088005
+		SAL088007 ahora es SAL088006
+		SAL088008 ahora es SAL088007
+		SAL088009 ahora es SAL088008
+		SAL088010 ahora es SAL088009
+		SAL088011 ahora es SAL088010
+		SAL088012 ahora es SAL088011
+
+	-Parte de la información de SAL088011 estaba en SAL088013. Corté y reacomodé en SAL088011.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+
+		SAL088014 ahora es SAL088012
+		SAL088015 ahora es SAL088013
+		SAL088016 ahora es SAL088014
+		SAL088017 ahora es SAL088015
+		SAL088018 ahora es SAL088016
+		SAL088019 ahora es SAL088017
+		SAL088020 ahora es SAL088018
+En JNM:
+
+	-Parte de la información de SAL088009 estaba en SAL088010. Corté y reacomodé en SAL088009.
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL088011 ahora es SAL088010
+		SAL088012 ahora es SAL088011
+		SAL088013 ahora es SAL088012
+		SAL088014 ahora es SAL088013
+		SAL088015 ahora es SAL088014
+		SAL088016 ahora es SAL088015
+		SAL088017 ahora es SAL088016
+		SAL088018 ahora es SAL088017
+		SAL088019 ahora es SAL088018
+
+En EMN y PET:
+
+	-Parte de la información de SAL089001 estaba en SAL089002. Corté y reacomodé en SAL089001. 
+	-Por el punto anterior, se recorrió la numeración, quedando:
+
+		SAL089003 ahora es SAL089002
+		(así continúa recorriéndose una posición hasta SAL089053 que ahora es SAL089052)
+En NAC y SER:
+
+	-Parte de la información de SAL089001 estaba en SAL089002. Corté y reacomodé en SAL089001. 
+	-Por el punto anterior, se recorrió la numeración, quedando:
+
+		SAL089003 ahora es SAL089002
+		(así continúa recorriéndose una posición hasta SAL089052 que ahora es SAL089051)
+	
+	-TEXTO OMITIDO en SAL089052
+
+En JNM: 
+
+	-Parte de la información de SAL089004 estaba en SAL089005. 
+	-Por el punto anterior la numeración se recorrió, quedando:
+		
+		SAL089006 ahora es SAL089005
+		SAL089007 ahora es SAL089006
+		SAL089008 ahora es SAL089007
+		SAL089009 ahora es SAL089008
+		SAL089010 ahora es SAL089009
+		SAL089011 ahora es SAL089010
+		SAL089012 ahora es SAL089011
+		SAL089013 ahora es SAL089012
+		SAL089014 ahora es SAL089013
+		SAL089015 ahora es SAL089014
+	
+	-La información de SAL089015 estaba en SAL089014 (nueva numeración). Corté y reacomodé en SAL089015.
+	-A partir de aquí se normaliza la numeración hasta SAL089036.
+	-La información de SAL089037 estaba en SAL08936 (nueva numeración). Corté y reacomodé en SAL089037.
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL089037 ahora es SAL089038
+		SAL089038 ahora es SAL089039
+		SAL089039 ahora es SAL089040
+		SAL089040 ahora es SAL089041
+		SAL089041 ahora es SAL089042		
+		SAL089042 ahora es SAL089043
+		SAL089043 ahora es SAL089044
+		SAL089044 ahora es SAL089045
+		SAL089045 ahora es SAL089046
+		SAL089046 ahora es SAL089047
+		SAL089047 ahora es SAL089048
+		SAL089048 ahora es SAL089049
+		SAL089049 ahora es SAL089050
+		SAL089050 ahora es SAL089051
+		SAL089051 ahora es SAL089052
+
+
+En JNM:
+
+	-Parte de la información de SAL090010 estaba en SAL090011 y SAL090012. Corté y reacomodé en SAL090010. 
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL090013 ahora es SAL090011
+		SAL090014 ahora es SAL090012
+		SAL090015 ahora es SAL090013
+		SAL090016 ahora es SAL090014
+		SAL090017 ahora es SAL090015		
+		SAL090018 ahora es SAL090016
+		SAL090019 ahora es SAL090017
+
+En EMN, NAC, PET, SER:
+
+	-Parte de la información de SAL092001 estaba en SAL092002. Corté y reacomodé en SAL092001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL092003 ahora es SAL092002
+		SAL092004 ahora es SAL092003
+		SAL092005 ahora es SAL092004
+		SAL092006 ahora es SAL092005
+		SAL092007 ahora es SAL092006		
+		SAL092008 ahora es SAL092007
+		SAL092009 ahora es SAL092008
+		SAL092010 ahora es SAL092009
+		SAL092011 ahora es SAL092010
+		SAL092012 ahora es SAL092011
+		SAL092013 ahora es SAL092012
+		SAL092014 ahora es SAL092013		
+		SAL092015 ahora es SAL092014
+		SAL092016 ahora es SAL092015 (excepto en NAC y SER en las que SAL092015 es TEXTO OMITIDO
+
+
+En JNM:
+	-Parte de la información de SAL093003 estaba en SAL093004. Corté y reacomodé en SAL093003.
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL093005 ahora es SAL093004
+		SAL093006 ahora es SAL093005
+
+En PET:	
+	-Parte de la información de SAL093001 estaba en SAL093002. Corté y reacomodé en SAL093001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL093003 ahora es SAL093002
+		SAL093004 ahora es SAL093003
+		SAL093005 ahora es SAL093004
+		SAL093006 ahora es SAL093005
+		
+
+En EMN:
+	-La información de SAL094014 estaba en SAL094013. Corté y reacomodé en SAL094014.
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL094014 ahora es SAL094015
+		SAL094015 ahora es SAL094016
+		SAL094016 ahora es SAL094017
+		SAL094017 ahora es SAL094018
+		SAL094018 ahora es SAL094019
+		SAL094019 ahora es SAL094020
+		SAL094020 ahora es SAL094021
+		SAL094021 ahora es SAL094022
+		SAL094022 ahora es SAL094023
+
+En EMN:
+	-La información de SAL096004 estaba en SAL096003. Corté y reacomodé en SAL096004.
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL094004 ahora es SAL094005
+		SAL094005 ahora es SAL094006
+		SAL094006 ahora es SAL094007
+		SAL094007 ahora es SAL094008
+		SAL094008 ahora es SAL094009
+		SAL094009 ahora es SAL094010
+		SAL094010 ahora es SAL094011
+		SAL094011 ahora es SAL094012
+		SAL094012 ahora es SAL094013
+
+En LAT:
+	-La información de SAL096013 estaba en SAL096014. Corté y reacomodé en SAL096013.
+En JNM:
+
+	-Parte de la información de SAL098001 estaba en SAL098002. Corté y reacomodé en SAL098001.
+	-Por el punto anterior la numeración se recorrió, quedando:
+
+		SAL098003 ahora es SAL098002
+		SAL098004 ahora es SAL098003
+		SAL098005 ahora es SAL098004
+		SAL098006 ahora es SAL098005
+		SAL098007 ahora es SAL098006		
+		SAL098008 ahora es SAL098007
+		SAL098009 ahora es SAL098008
+		SAL098010 ahora es SAL098009
+En LAT:
+
+ 	-La información de SAL099009 estaba en SAL099008. Corté y añadí SAL099009.
+
+En JNM:
+
+	-Parte de la información de SAL101002 estaba en SAL101003. Corté y reacomodé en SAL101002.
+	-Por el punto anterior, se recorrió la numeración, quedando:
+	
+		SAL101004 ahora es SAL101003
+		SAL101005 ahora es SAL101004
+		SAL101006 ahora es SAL101005
+	
+	-Parte de la información de SAL101005 estaba en SAL101007 (numeración original). Corté y reacomodé en SAL101005.
+	-Por el punto anterior, se recorrió la numeración, quedando:
+	
+		SAL101008 ahora es SAL101006
+		SAL101009 ahora es SAL101007
+		SAL101010 ahora es SAL101008
+
+En SER, PET, NAC y EMN:
+
+	-Parte de la información de SAL102001 estaba en SAL102002. Corté y reacomodé en SAL102001.
+	-Por el punto anterior, la numeración se recorrió, quedando:
+
+		SAL102003 es ahora SAL102002
+		SAL102004 es ahora SAL102003
+		SAL102005 es ahora SAL102004
+		SAL102006 es ahora SAL102005
+		SAL102007 es ahora SAL102006
+		SAL102008 es ahora SAL102007
+		SAL102009 es ahora SAL102008
+		SAL102010 es ahora SAL102009
+		SAL102011 es ahora SAL102010
+		SAL102012 es ahora SAL102011
+		SAL102013 es ahora SAL102012
+		SAL102014 es ahora SAL102013
+		SAL102015 es ahora SAL102014
+		SAL102016 es ahora SAL102015
+		SAL102017 es ahora SAL102016
+		SAL102018 es ahora SAL102017
+		SAL102019 es ahora SAL102018
+		SAL102020 es ahora SAL102019
+		SAL102021 es ahora SAL102020
+		SAL102022 es ahora SAL102021
+		SAL102023 es ahora SAL102022
+		SAL102024 es ahora SAL102023
+		SAL102025 es ahora SAL102024
+		SAL102026 es ahora SAL102025
+		SAL102027 es ahora SAL102026
+		SAL102028 es ahora SAL102027
+		SAL102029 es ahora SAL102028 (excepto en SER y NAC)
+
+
+	
+En SER y NAC, TEXTO OMITIDO en SAL102028 (nueva numeración).
+
+En JNM:
+
+	-Parte de la información de SAL102002 estaba en SAL102003. Corté y reacomodé en SAL102002.
+	-Por el punto anterior, la numeración se recorrió quedando:
+		
+		SAL102004 es ahora SAL102003
+		SAL102005 es ahora SAL102004
+		SAL102006 es ahora SAL102005
+		SAL102007 es ahora SAL102006
+		SAL102008 es ahora SAL102007
+		SAL102009 es ahora SAL102008
+		SAL102010 es ahora SAL102009
+		SAL102011 es ahora SAL102010
+		SAL102012 es ahora SAL102011
+		SAL102013 es ahora SAL102012
+		SAL102014 es ahora SAL102013
+		SAL102015 es ahora SAL102014
+		SAL102016 es ahora SAL102015
+		SAL102017 es ahora SAL102016
+		SAL102018 es ahora SAL102017
+		SAL102019 es ahora SAL102018
+		SAL102020 es ahora SAL102019
+		SAL102021 es ahora SAL102020
+		SAL102022 es ahora SAL102021
+		SAL102023 es ahora SAL102022
+		SAL102024 es ahora SAL102023
+		SAL102025 es ahora SAL102024
+		SAL102026 es ahora SAL102025
+		SAL102027 es ahora SAL102026
+		SAL102028 es ahora SAL102027
+		SAL102029 es ahora SAL102028
+
+
+En JNM:
+
+	-Parte de la información de SAL104003 estaba en SAL104004. Corté y reacomodé en SAL104003.
+	-Por el punto anterior, la numeración se recorrió quedando:
+
+ 		SAL104005 es ahora SAL104004
+		SAL104006 es ahora SAL102005
+ 		SAL104007 es ahora SAL104006
+		SAL104008 es ahora SAL102007
+ 		SAL104009 es ahora SAL104008
+		SAL104010 es ahora SAL102009
+ 		SAL104011 es ahora SAL104010
+		SAL104012 es ahora SAL102011
+ 		SAL104013 es ahora SAL104012
+		SAL104014 es ahora SAL102013
+ 		SAL104015 es ahora SAL104014
+		SAL104016 es ahora SAL102015
+ 		SAL104017 es ahora SAL104016
+		SAL104018 es ahora SAL102017
+ 		SAL104019 es ahora SAL104018
+		SAL104020 es ahora SAL102019
+ 		SAL104021 es ahora SAL104020
+		SAL104022 es ahora SAL102021
+ 		SAL104023 es ahora SAL104022
+		SAL104024 es ahora SAL102023
+ 		SAL104025 es ahora SAL104024
+		SAL104026 es ahora SAL102025
+ 		SAL104027 es ahora SAL104026
+		SAL104028 es ahora SAL102027
+		SAL104029 es ahora SAL102028
+ 		SAL104030 es ahora SAL104029
+		SAL104031 es ahora SAL102030
+ 		SAL104032 es ahora SAL104031
+		SAL104033 es ahora SAL102032
+ 		SAL104034 es ahora SAL104033
+		SAL104035 es ahora SAL102034
+ 		
+	-La información de SAL104035 estaba en SAL104034 (nueva numeración). Corté y añadí SAL104035.
+
+En EMN, la información de SAL105045 estaba en SAL105044. Corté y añadí SAL105045.
+
+En JNM:
+
+	-La información de SAL105019 estaba en SAL105018. Corté y reacomodé en SAL105019.
+	-Por el punto anterior, se recorrió la numeración:
+
+		SAL105019 es ahora SAL102020
+ 		SAL105020 es ahora SAL104021
+		SAL105021 es ahora SAL102022
+ 		SAL105022 es ahora SAL104023
+		SAL105023 es ahora SAL102024
+ 		SAL105024 es ahora SAL104025
+		SAL105025 es ahora SAL102026
+ 		SAL105026 es ahora SAL104027
+		SAL105027 es ahora SAL102028
+ 		SAL105028 es ahora SAL104029
+		SAL105029 es ahora SAL102030
+ 		SAL105030 es ahora SAL104031
+		SAL105031 es ahora SAL102032
+		SAL105032 es ahora SAL102033
+ 		SAL105033 es ahora SAL104034
+		SAL105034 es ahora SAL102035
+ 		SAL105035 es ahora SAL104036
+		SAL105036 es ahora SAL102037
+ 		SAL105037 es ahora SAL104038
+		SAL105038 es ahora SAL102039
+		SAL105039 es ahora SAL102040
+ 		SAL105040 es ahora SAL104041
+		SAL105041 es ahora SAL102042
+ 		SAL105042 es ahora SAL104043
+		SAL105043 es ahora SAL102044
+ 		SAL105044 es ahora SAL104045
+
+En JNM:
+
+	-La información de SAL106035 y SAL106036 estaba en SAL106034. Corté y reacomodé en SAL106035 y SAL106036 respectivamente.
+	-Por el punto anterior, se recorrió la numeración, quedando:
+
+		
+ 		SAL106035 es ahora SAL106037
+		SAL106036 es ahora SAL106038
+		SAL106037 es ahora SAL106039
+		SAL106038 es ahora SAL106040
+		SAL106039 es ahora SAL106041
+		SAL106040 es ahora SAL106042
+ 		SAL106041 es ahora SAL106043
+		SAL106042 es ahora SAL106044
+		SAL106043 es ahora SAL106045
+		SAL106044 es ahora SAL106046
+		SAL106045 es ahora SAL106047
+		SAL106046 es ahora SAL106048
+		SAL106047 es ahora SAL106049
+	
+	-Parte de la información de SAL106047 (nueva numeración) estaba en SAL106048 (nueva numeración). Corté y reacomodé en SAL106047.
+
+	-Por el punto anterior, se recorrió la numeración y se eliminó SAL106049, quedando ahora como SAL106048.
+
+En EMN:
+
+	-La información de SAL107014 estaba en SAL107013. Corté y reacomodé en SAL107014.
+	-Por el punto anterior, se recorrió la numeración, quedando:
+
+		SAL107014 ahora es SAL107015
+		SAL107015 ahora es SAL107016
+		SAL107016 ahora es SAL107017
+		SAL107017 ahora es SAL107018
+		SAL107018 ahora es SAL107019 
+
+	-La información de SAL107020 estaba en SAL107019 (nueva numeración). Corté y reacomodé en SAL107020.
+	-La numeración se recorre nuevamente, quedando:
+
+		SAL107019 ahora es SAL107021
+		SAL107020 ahora es SAL107022
+		SAL107021 ahora es SAL107023
+		SAL107022 ahora es SAL107024
+		SAL107023 ahora es SAL107025 
+		SAL107024 ahora es SAL107026
+		SAL107025 ahora es SAL107027
+		SAL107026 ahora es SAL107028
+	
+	-La información de SAL107029 estaba en SAL107028 (nueva numeración). Corté y reacomodé en SAL107029.
+	-La numeración se recorre nuevamente, quedando:	
+
+		SAL107027 ahora es SAL107030
+		SAL107028 ahora es SAL107031
+		SAL107029 ahora es SAL107032
+		SAL107030 ahora es SAL107033
+		SAL107031 ahora es SAL107034 
+		SAL107032 ahora es SAL107035
+		SAL107033 ahora es SAL107036
+		SAL107034 ahora es SAL107037
+		SAL107035 ahora es SAL107038
+		SAL107036 ahora es SAL107039 
+		SAL107037 ahora es SAL107040
+		SAL107038 ahora es SAL107041
+		SAL107039 ahora es SAL107042
+		SAL107040 ahora es SAL107043
+
+En PET y ENM:
+
+	-Parte de la información de SAL108001 estaba en SAL108002. Corté y reacomodé en SAL108001. 
+	-Por el punto anterior, la numeración se recorrió:
+
+		SAL108003 ahora es SAL108002
+		SAL108004 ahora es SAL108003
+		SAL108005 ahora es SAL108004
+		SAL108006 ahora es SAL108005
+		SAL108007 ahora es SAL108006
+		SAL108008 ahora es SAL108007
+		SAL108009 ahora es SAL108008
+		SAL108010 ahora es SAL108009
+		SAL108011 ahora es SAL108010
+		SAL108012 ahora es SAL108011
+		SAL108013 ahora es SAL108012
+		SAL108014 ahora es SAL108013
+
+En NAC y SER:
+
+	-Parte de la información de SAL108001 estaba en SAL108002. Corté y reacomodé en SAL108001. 
+	-Por el punto anterior, la numeración se recorrió:
+
+		SAL108003 ahora es SAL108002
+		SAL108004 ahora es SAL108003
+		SAL108005 ahora es SAL108004
+		SAL108006 ahora es SAL108005
+		SAL108007 ahora es SAL108006
+		SAL108008 ahora es SAL108007
+		SAL108009 ahora es SAL108008
+		SAL108010 ahora es SAL108009
+		SAL108011 ahora es SAL108010
+		SAL108012 ahora es SAL108011
+		SAL108013 ahora es SAL108012
+	
+	-TEXTO OMITIDO en SAL108013
+
+En JNM:
+
+	-Parte de la información de SAL108009 estaba en SAL108010. Corté y reacomodé en SAL108009. 
+	-Por el punto anterior, la numeración se recorrió:
+		
+		SAL108011 ahora es SAL108010
+		SAL108012 ahora es SAL108011
+		SAL108013 ahora es SAL108012
+		SAL108014 ahora es SAL108013
+En JNM:
+
+	-La información  de SAL109003 estaba en SAL109002. Corté y reacomodé en SAL109003.
+	-Por el punto anterior, la numeración se recorrió:
+		
+		SAL109003 ahora es SAL109004
+		SAL109004 ahora es SAL109005
+		SAL109005 ahora es SAL109006
+		SAL109006 ahora es SAL109007
+		SAL109007 ahora es SAL109008
+		SAL109008 ahora es SAL109009
+		SAL109009 ahora es SAL109010
+		SAL109010 ahora es SAL109011
+		SAL109011 ahora es SAL109012
+		SAL109012 ahora es SAL109013
+		SAL109013 ahora es SAL109014
+		SAL109014 ahora es SAL109015
+		SAL109015 ahora es SAL109016
+		SAL109016 ahora es SAL109017
+		SAL109017 ahora es SAL109018
+		SAL109018 ahora es SAL109019
+		SAL109019 ahora es SAL109020
+		SAL109020 ahora es SAL109021
+		SAL109021 ahora es SAL109022
+		SAL109022 ahora es SAL109023
+		SAL109023 ahora es SAL109024
+		SAL109024 ahora es SAL109025
+		SAL109025 ahora es SAL109026
+		SAL109026 ahora es SAL109027
+		SAL109027 ahora es SAL109028
+		SAL109028 ahora es SAL109029
+		SAL109029 ahora es SAL109030
+		SAL109030 ahora es SAL109031
+
+	-Parte de la información de SAL110001 estaba en SAL110002. Corté y reacomodé en SAL110001.
+	-Por el punto anterior, la información se recorrió, quedando:
+
+		SAL110003 ahora es SAL110002
+		SAL110004 ahora es SAL110003
+		SAL110005 ahora es SAL110004
+		SAL110006 ahora es SAL110005
+		SAL110007 ahora es SAL110006
+		SAL110008 ahora es SAL110007
+	
+	-El capítulo 115 se encuentra contenido en el 114 (de la nueva numeración, antes 113), por lo que nuevamente se recorre la numeración.  
+
+		SAL114009 (antes 113009) ahora es SAL115001
+		SAL114010 ahora es SAL115002
+		SAL114011 ahora es SAL115003
+		SAL114012 ahora es SAL115004
+		SAL114013 ahora es SAL115005
+		SAL114014 ahora es SAL115006
+		SAL114015 ahora es SAL115007
+		SAL114016 ahora es SAL115008
+		SAL114017 ahora es SAL115009
+		SAL114018 ahora es SAL115010
+		SAL114019 ahora es SAL115011
+		SAL114020 ahora es SAL115012
+	
+	-Parte de la información de SAL115012 estaba en SAL115013. Corté y reacomodé en SAL115012.
+	-Por esta razón, se recorre nuevamente la numeración, quedando:
+
+		SAL114022 ahora es SAL115013
+		SAL114023 ahora es SAL115014
+		SAL114024 ahora es SAL115015
+		SAL114025 ahora es SAL115016
+		SAL114026 ahora es SAL115017
+		SAL114027 ahora es SAL115018
+
+	-Por la misma razón, Capítulo 114 (original) ahora es 116.
+
+	-La información del Capítulo 115 (original, versículo único) pertenece al primer versículo del Capítulo 117. Corté y reacomodé en SAL117001. 
+
+	-La numeración se ajusta nuevamente y el Capítulo 116 (original) es el Capítulo 117.
+
+	-TEXTO OMITIDO en SAL116014. Añadí el versículo y la numeración se recorrió, quedando:
+		
+		SAL116014 ahora es SAL116015
+		SAL116015 ahora es SAL116016
+		SAL116016 ahora es SAL116017
+		SAL116017 ahora es SAL116018
+	
+	-La información de SAL116019 estaba en SAL116018 (nueva numeración). Corté y añadí SAL116019.
+
+	-Por la misma razón, los Capítulos sucesivos se recorren un número, es decir, Capítulo 117 ahora es 118, 118 ahora es 119, 119 es 120, 120 es 121, etc. Hasta 146 (nueva numeración).
+
+	-Parte de la información de SAL118020 estaba en SAL118019. Corté y reacomodé en SAL118020.
+
+
+En REV, TEXTO OMITIDO en SAL116019. 
+
+En LAT, la información de SAL118029 estaba en SAL118028. Corté y añadí SAL118029.
+
+En PET:
+ 
+	-La información de SAL118001 y SAL118002 estaban en SAL117002. Corté y reacomodé en sus respectivos versículos. 
+	-La información que corresponde al Capítulo 18, está numerada como parte del Capítulo 17.
+	-Considerando los dos puntos anteriores, la numeración corregida es la siguiente:
+
+		SAL117003 ahora es SAL118003
+		SAL117004 ahora es SAL118004
+		SAL117005 ahora es SAL118005
+		SAL117006 ahora es SAL118006
+		SAL117007 ahora es SAL118007
+		SAL117008 ahora es SAL118008
+		SAL117009 ahora es SAL118009
+		SAL117010 ahora es SAL118010
+		SAL117011 ahora es SAL118011
+		SAL117012 ahora es SAL118012
+		SAL117013 ahora es SAL118013
+		SAL117014 ahora es SAL118014
+		SAL117015 ahora es SAL118015
+		SAL117016 ahora es SAL118016
+		SAL117017 ahora es SAL118017
+		SAL117018 ahora es SAL118018
+		SAL117019 ahora es SAL118019
+		SAL117020 ahora es SAL118020
+		SAL117021 ahora es SAL118021
+		SAL117022 ahora es SAL118022
+		SAL117023 ahora es SAL118023
+		SAL117024 ahora es SAL118024
+		SAL117025 ahora es SAL118025
+		SAL117026 ahora es SAL118026
+		SAL117027 ahora es SAL118027
+		SAL117028 ahora es SAL118028
+		SAL117029 ahora es SAL118029
+	
+	-Por la misma razón, los Capítulos sucesivos se recorren un número, es decir, Capítulo 118 ahora es 119, 119 ahora es 120, etc. Hasta Capítulo 146 (nueva numeración)*
+
+En JNM:
+
+	-Parte de la información de SAL123002 estaba en SAL123003. Corté y reacomodé en SAL123002.
+	-Por esta razón, la numeración se recorrió, quedando:
+	
+		SAL123003 ahora es SAL123002
+		SAL123004 ahora es SAL123003
+		SAL123005 ahora es SAL123004
+	
+	-Parte de la información de SAL126002 estaba en SAL126003.Corté y reacomodé en SAL126002.
+	-Por esta razón, la numeración se recorrió, quedando:
+	
+		SAL126004 ahora es SAL126003
+		SAL126005 ahora es SAL126004
+		SAL126006 ahora es SAL126005
+	
+	-Parte de la información de SAL126006 (nueva numeración) estaba en SAL126008 (numeración original). Corté y reacomodé en SAL126006.
+
+	-Parte de la información de SAL127001 estaba en SAL127002. Corté y reacomodé en SAL126001.
+	-Por esta razón, la numeración se recorrió, quedando:
+	
+		SAL127003 ahora es SAL127002
+		SAL127004 ahora es SAL126003
+		SAL127005 ahora es SAL126004
+		SAL127006 ahora es SAL126005
+	
+	-Parte de la información de SAL128003 estaba en SAL128004. Corté y reacomodé en SAL128003.
+	-Por esta razón, la numeración se recorrió, quedando:
+	
+		SAL128005 ahora es SAL128004
+		SAL128006 ahora es SAL128005
+		SAL128007 ahora es SAL128006
+	
+	-La información de SAL129005 estaba en SAL129004. Corté y reacomodé en SAL129005.
+	-La información de SAL129007 estaba en SAL129005. Corté y reacomodé en SAL129007.
+	-Por esta razón, la numeración se recorrió, quedando:
+
+		SAL129005 ahora es SAL129006
+		SAL129006 ahora es SAL129008
+	
+	-Parte de la información de SAL133003 estaba en SAL133004. Corté y reacomodé en SAL133003.
+	
+	-Parte de la información de SAL134001 estaba en SAL134002. Corté y reacomodé en SAL134001.
+	-Por esta razón, la numeración se recorrió, quedando:
+	
+		SAL134003 ahora es SAL134002
+		SAL134004 ahora es SAL134003
+		
+	-Parte de la información de SAL137003 estaba en SAL137004. Corté y reacomodé en SAL137003.
+	-Parte de la información de SAL137005 estaba en SAL137008. Corté y reacomodé en SAL137005.
+	-Parte de la información de SAL137007 estaba en SAL137010. Corté y reacomodé en SAL137007.
+	-Por los puntos anteriores, la numeración se recorrió, quedando:
+	
+		SAL137005 ahora es SAL137004
+		SAL137006 ahora es SAL137005
+		SAL137007 ahora es SAL137006
+		SAL137009 ahora es SAL137007
+		SAL137011 ahora es SAL137008
+		SAL137012 ahora es SAL137009
+
+	-Parte de la información de SAL138002 estaba en SAL138003. Corté y reacomodé en SAL138002.
+		
+		SAL138004 ahora es SAL138003
+		SAL138005 ahora es SAL138004
+		SAL138006 ahora es SAL138005
+		SAL138007 ahora es SAL138006
+		SAL138008 ahora es SAL138007
+		SAL138009 ahora es SAL138008
+
+	-La información de SAL139002 estaba en SAL139001. Corté y reacomodé en SAL139002.
+	-Por esta razón, la numeración se recorrió, quedando:
+
+		SAL139002 ahora es SAL139003
+		SAL139003 ahora es SAL139004
+		SAL139004 ahora es SAL139005
+		SAL139005 ahora es SAL139006
+		SAL139006 ahora es SAL139007
+		SAL139007 ahora es SAL139008
+		SAL139008 ahora es SAL139009
+		SAL139009 ahora es SAL139010
+		SAL139010 ahora es SAL139011
+		SAL139011 ahora es SAL139012
+		SAL139012 ahora es SAL139013
+		SAL139013 ahora es SAL139014
+		SAL139014 ahora es SAL139015
+		SAL139015 ahora es SAL139016
+		SAL139016 ahora es SAL139017
+		SAL139017 ahora es SAL139018
+		SAL139018 ahora es SAL139019
+		SAL139019 ahora es SAL139020
+		SAL139020 ahora es SAL139021
+		SAL139021 ahora es SAL139022
+		SAL139022 ahora es SAL139023
+		SAL139023 ahora es SAL139024
+
+	-La información de SAL140005 estaba en SAL140006. Corté y reacomodé en SAL140005.
+	-Por esta razón, la numeración se recorrió, quedando:
+		
+		SAL140007 ahora es SAL140006
+		SAL140008 ahora es SAL140007
+		SAL140009 ahora es SAL140008
+		SAL140010 ahora es SAL140009
+		SAL140011 ahora es SAL140010
+		SAL140012 ahora es SAL140011
+		SAL140013 ahora es SAL140012
+		SAL140014 ahora es SAL140013
+
+	-Parte de la información de SAL141004 estaba en SAL141005. Corté y reacomodé en SAL141004.
+	-Por esta razón, la numeración se recorrió, quedando:
+		
+		SAL141006 ahora es SAL141005
+		SAL141007 ahora es SAL141006
+		SAL141008 ahora es SAL141007
+		SAL141009 ahora es SAL141008
+		SAL141010 ahora es SAL141009
+		SAL141011 ahora es SAL141010
+
+	-Parte de la información de SAL142003 estaba en SAL142004. Corté y reacomodé en SAL141003.
+	-Parte de la información de SAL142005 estaba en SAL142006. Corté y reacomodé en SAL141005.
+	-Parte de la información de SAL142008 estaba en SAL142009. Corté y reacomodé en SAL141008.
+	-Por los puntos anteriores, la numeración se recorrió, quedando:
+		
+		SAL142005 ahora es SAL142004
+		SAL142007 ahora es SAL142005
+		SAL142008 ahora es SAL142006
+		SAL142010 ahora es SAL142007
+	
+	-Parte de la información de SAL143003 estaba en SAL143004. Corté y reacomodé en SAL143003.
+	-Parte de la información de SAL143007 estaba en SAL143008. Corté y reacomodé en SAL143007.
+	-Parte de la información de SAL143008 estaba en SAL143010. Corté y reacomodé en SAL143008.
+	-Por los puntos anteriores, la numeración se recorrió quedando:
+
+		SAL143009 ahora es SAL143008		
+		SAL143011 ahora es SAL143010		
+		SAL143012 ahora es SAL143010
+		SAL143013 ahora es SAL143011
+		SAL143014 ahora es SAL143012
+	
+	-Parte de la información de SAL144002 estaba en SAL144003. Corté y reacomodé en SAL144002.
+	-Parte de la información de SAL144012 estaba en SAL144014. Corté y reacomodé en SAL144012.
+	-Parte de la información de SAL144013 estaba en SAL144016. Corté y reacomodé en SAL144013.
+	-Por los puntos anteriores, la numeración se recorrió quedando:
+
+		SAL144004 ahora es SAL144003		
+		SAL144005 ahora es SAL144004		
+		SAL144006 ahora es SAL144005
+		SAL144007 ahora es SAL144006
+		SAL144008 ahora es SAL144007
+		SAL144009 ahora es SAL144008		
+		SAL144010 ahora es SAL144009		
+		SAL144011 ahora es SAL144010
+		SAL144012 ahora es SAL144011
+		SAL144013 ahora es SAL144012
+		SAL144015 ahora es SAL144013
+		SAL144017 ahora es SAL144014
+		SAL144018 ahora es SAL144015
+	
+	-Parte de la información de SAL145014 estaba en SAL145015. Corté y reacomodé en SAL145014.
+	-Por esta razón, la numeración se recorrió quedando:
+
+		SAL145016 ahora es SAL145015
+		SAL145017 ahora es SAL145016
+		SAL145018 ahora es SAL145017
+		SAL145019 ahora es SAL145018
+		SAL145020 ahora es SAL145019
+		SAL145021 ahora es SAL145020
+		SAL145022 ahora es SAL145021
+
+	-La información de SAL146002 estaba en SAL146001. Corté y reacomodé en SAL146002. 
+	-Por esta razón, la numeración se recorrió quedando:
+
+		SAL146002 ahora es SAL146003
+		SAL146003 ahora es SAL146004
+		SAL146004 ahora es SAL146005
+		SAL146005 ahora es SAL146006
+		SAL146006 ahora es SAL146007
+		SAL146007 ahora es SAL146008
+		SAL146008 ahora es SAL146009
+		SAL146009 ahora es SAL146010
+
+	-Parte de la información de SAL147008 estaba en SAL147009. Corté y reacomodé en SAL147008.
+	-Por esta razón, la numeración se recorrió quedando:
+
+		SAL147010 ahora es SAL147009
+		SAL147011 ahora es SAL147010
+		SAL147012 ahora es SAL147011
+		SAL147013 ahora es SAL147012
+		SAL147014 ahora es SAL147013
+		SAL147015 ahora es SAL147014
+		SAL147016 ahora es SAL147015
+		SAL147017 ahora es SAL147016
+		SAL147018 ahora es SAL147017
+		SAL147019 ahora es SAL147018
+		SAL147020 ahora es SAL147019
+		SAL147021 ahora es SAL147020
+
+-La información de SAL150006 estaba en SAL150005. Corté y añadí SAL150006.
+
+En EMN:
+
+	-Parte de la información de SAL140001 estaba en SAL140002. Corté y reacomodé en SAL140001.
+	-Por el punto anterior se recorrió la numeración, quedando:
+
+		SAL140003 ahora es SAL140002
+		SAL140004 ahora es SAL140003
+		SAL140005 ahora es SAL140004
+		SAL140006 ahora es SAL140005
+		SAL140007 ahora es SAL140006
+		SAL140008 ahora es SAL140007
+		SAL140009 ahora es SAL140008
+		SAL140010 ahora es SAL140009
+		SAL140011 ahora es SAL140010
+		SAL140012 ahora es SAL140011
+		SAL140013 ahora es SAL140012
+		SAL140014 ahora es SAL140013
+	
+		
+En LAT y PET:
+
+	-Parte de la información de SAL140001 estaba en SAL140002. Corté y reacomodé en SAL140001.
+	-Por el punto anterior se recorrió la numeración, quedando:
+
+		SAL140003 ahora es SAL140002
+		SAL140004 ahora es SAL140003
+		SAL140005 ahora es SAL140004
+		SAL140006 ahora es SAL140005
+		SAL140007 ahora es SAL140006
+		SAL140008 ahora es SAL140007
+		SAL140009 ahora es SAL140008
+		SAL140010 ahora es SAL140009
+		SAL140011 ahora es SAL140010
+		SAL140012 ahora es SAL140011
+		SAL140013 ahora es SAL140012
+		SAL140014 ahora es SAL140013
+
+
+En NAC y SER:
+
+	-Parte de la información de SAL140001 estaba en SAL140002. Corté y reacomodé en SAL140001.
+	-Por el punto anterior se recorrió la numeración, quedando:
+
+		SAL140003 ahora es SAL140002
+		SAL140004 ahora es SAL140003
+		SAL140005 ahora es SAL140004
+		SAL140006 ahora es SAL140005
+		SAL140007 ahora es SAL140006
+		SAL140008 ahora es SAL140007
+		SAL140009 ahora es SAL140008
+		SAL140010 ahora es SAL140009
+		SAL140011 ahora es SAL140010
+		SAL140012 ahora es SAL140011
+		SAL140013 ahora es SAL140012
+		
+	-TEXTO OMITIDO en SAL140013 (nueva numeración)
+
+En EMN y PET:
+
+	-Parte de la información de SAL142001 estaba en SAL142002. Corté y reacomodé en SAL142001.
+	-Por el punto anterior se recorrió la numeración, quedando:
+
+		SAL142003 ahora es SAL142002
+		SAL142004 ahora es SAL142003
+		SAL142005 ahora es SAL142004
+		SAL142006 ahora es SAL142005
+		SAL142007 ahora es SAL142006
+		SAL142008 ahora es SAL142007
+
+En LAT:
+
+	-Parte de la información de SAL143008 estaba en SAL143009. Corté y reacomodé en SAL143008.
+	-Por el punto anterior se recorrió la numeración, quedando:
+
+		SAL143010 ahora es SAL143009
+		SAL143011 ahora es SAL143010
+		SAL143012 ahora es SAL143011
+		SAL143013 ahora es SAL143012
+En LAT y JNM:
+ 	
+	-Parte de la información de SAL145013 estaba en SAL145014. Corté y reacomodé en SAL145013.
+	-Por esta razón, la numeración se recorrió quedando:
+
+		SAL145015 ahora es SAL145014
+		SAL145016 ahora es SAL145015
+		SAL145017 ahora es SAL145016
+		SAL145018 ahora es SAL145017
+		SAL145019 ahora es SAL145018
+		SAL145020 ahora es SAL145019
+		SAL145021 ahora es SAL145020
+		SAL145022 ahora es SAL145021
+
+
+En PET, los Capítulos 146 y 147 (numeración original) conforman el Capítulo 147 (nueva numeración), por lo tanto:
+
+		SAL146001 ahora es SAL147001
+		SAL146002 ahora es SAL147002
+		SAL146003 ahora es SAL147003
+		SAL146004 ahora es SAL147004
+		SAL146005 ahora es SAL147005
+		SAL146006 ahora es SAL147006
+		SAL146007 ahora es SAL147007
+		SAL146008 ahora es SAL147008
+		SAL146009 ahora es SAL147009
+		SAL146010 ahora es SAL147010
+		SAL146011 ahora es SAL147011
+		SAL147001 ahora es SAL147012
+		SAL147002 ahora es SAL147013
+		SAL147003 ahora es SAL147014
+		SAL147004 ahora es SAL147015
+		SAL147005 ahora es SAL147016
+		SAL146006 ahora es SAL147017
+		SAL146007 ahora es SAL147018
+		SAL146008 ahora es SAL147019
+		SAL146009 ahora es SAL147020
+
+	-A partir de Capítulo 148 se normaliza la numeración (numeración orginal = nueva numeración)
+
+
+En JNM, los Capítulos 146 y 147 (numeración original) conforman el Capítulo 147 (nueva numeración), por lo tanto:
+
+		SAL146001 ahora es SAL147001
+		SAL146002 ahora es SAL147002
+		SAL146003 ahora es SAL147003
+		SAL146004 ahora es SAL147004
+		SAL146005 ahora es SAL147005
+		SAL146006 ahora es SAL147006
+		SAL146007 ahora es SAL147007
+		SAL146008 ahora es SAL147008
+		SAL146009 ahora es SAL147009
+		SAL146010 ahora es SAL147010
+		SAL146011 ahora es SAL147011
+		SAL146012 ahora es SAL147012
+		SAL147001 ahora es SAL147013
+		SAL147002 ahora es SAL147014
+		SAL147003 ahora es SAL147015
+		SAL147004 ahora es SAL147016
+		SAL147005 ahora es SAL147017
+		SAL146006 ahora es SAL147018
+		SAL146007 ahora es SAL147019
+		SAL146008 ahora es SAL147020
+		SAL146009 ahora es SAL147021
+
+	-A partir de Capítulo 148 se normaliza la numeración (numeración orginal = nueva numeración)
+
+En TODAS LAS BIBLIAS excepto JNM (es la única donde aparece este capítulo) TEXTIO OMITIDO CAPÍTULO 151.
+		
