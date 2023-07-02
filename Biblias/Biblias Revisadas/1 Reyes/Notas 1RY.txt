@@ -1,0 +1,260 @@
+NOTAS 1 REYES
+
+En LAT:
+	Parte de la información de 1RY001025 estaba en 1RY001026. Corté y reacomodé en 1RY001025.
+
+	La información de 1RY001026 estaba en 1RY001027. Corté y reacomodé en 1RY001026.
+
+En NAC:
+	Parte de la información de 1RY001043 estaba en 1RY001044. Corté y reacomodé en 1RY001043.
+	
+	Parte de la información de 1RY002037 estaba en 1RY002036. Corté y reacomodé en 1RY002037.
+En LAT:
+
+	La información de 1RY004010 estaba en 1RY004009. Corté y reacomodé en 1RY004010.
+	
+	Parte de la información de 1RY004011 estaba en 1RY004010. Corté y reacomodé en 1RY004011.
+
+En LAT:
+
+	La información estaba revuelta de 1RY004020 a 1RY004028. Recodomodé de la siguiente forma:
+	
+	1RY004020 ahora está en 1RY004027
+	1RY004027 ahora está en 1RY004021
+	1RY004021 ahora está en 1RY004028
+	1RY004028 ahora está en 1RY004026
+	1RY004026 ahora está en 1RY004020
+
+En EMN, JER y SER:
+
+	En el Capítulo 5, los versículos del 1 al 14, corresponden en realidad al Capítulo 4 de las otras biblias. 
+	Modifiqué numeración:
+	
+	1RY005001 es 1RY004021
+	1RY005002 es 1RY004022
+	1RY005003 es 1RY004023
+	1RY005004 es 1RY004024
+	1RY005005 es 1RY004025
+	1RY005006 es 1RY004026
+	1RY005007 es 1RY004027
+	1RY005008 es 1RY004028
+	1RY005009 es 1RY004029
+	1RY005010 es 1RY004030
+	1RY005011 es 1RY004031
+	1RY005012 es 1RY004032
+	1RY005013 es 1RY004033
+	1RY005014 es 1RY004034
+
+
+En EMN:
+
+	Por el punto anterior, se modificó también la numeración completa del capítulo 5, quedando de la siguiente manera:
+	
+	1RY005015 ahora es 1RY005001
+	1RY005016 ahora es 1RY005002
+	1RY005017 ahora es 1RY005003
+	1RY005018 ahora es 1RY005004
+	1RY005019 ahora es 1RY005005
+	1RY005020 ahora es 1RY005006
+	1RY005021 ahora es 1RY005007
+	1RY005022 ahora es 1RY005008
+	1RY005023 ahora es 1RY005009
+	1RY005024 ahora es 1RY005010
+	1RY005025 ahora es 1RY005011
+	1RY005026 ahora es 1RY005012
+	1RY005027 ahora es 1RY005013
+	1RY005028 ahora es 1RY005014
+	1RY005029 ahora es 1RY005015
+	1RY005030 ahora es 1RY005016
+	1RY005031 ahora es 1RY005017
+	1RY005032 ahora es 1RY005018
+
+En JER y SER:
+	Por el punto anterior, se modificó también la numeración completa del Capítulo 5.
+	
+	1RY005015 ahora es 1RY005001
+	1RY005016 ahora es 1RY005002
+	1RY005017 ahora es 1RY005003
+	1RY005018 ahora es 1RY005004
+	
+	De 1RY005005 a 1RY0050018 (de la nueva numeración) el TEXTO fue OMITIDO en ambas biblias.
+
+En EMN:
+	TEXTO OMITIDO en 1RY009016. Inserté versículo y la numeración se recorrió. 
+	
+	1RY009016 ahora es 1RY009017
+	1RY009017 ahora es 1RY009018
+	1RY009018 ahora es 1RY009019
+	1RY009019 ahora es 1RY009020
+	1RY009020 ahora es 1RY009021
+	1RY009021 ahora es 1RY009022
+	1RY009022 ahora es 1RY009023
+	1RY009023 ahora es 1RY009024
+	1RY009024 ahora es 1RY009025
+	1RY009025 ahora es 1RY009026
+	1RY009026 ahora es 1RY009027
+	1RY009027 ahora es 1RY009028
+	1RY009028 ahora es 1RY009029
+	1RY009029 ahora es 1RY009030
+
+La información de los versículos 1RY0090025 y 1RY009026 sólo aparece en EMN, por lo tanto es TEXTO OMITIDO en AME, ESP, JER, JNM, LAT, NAC, OSO, PET, REV, SER
+
+Por lo tanto, la numeración se recorré para todas las biblias anteriores de la siguiente manera:
+	
+	1RY009025 ahora es 1RY009027
+	1RY009026 ahora es 1RY009028
+	1RY009027 ahora es 1RY009029
+	1RY009028 ahora es 1RY009030
+
+En JNM, TEXTO OMITIDO en 1RY011023 y 1RY011024
+
+En SER, TEXTO OMITIDO en 1RY015001
+
+En JER, TEXTO OMITIDO en 1RY015006, 1RY015032
+
+En EMN:
+	TEXTO OMITIDO en 1RY015006
+
+	La numeración se recorrió y ahora:
+	
+	1RY015006 es 1RY015007
+	1RY015007 es 1RY015008
+	1RY015008 es 1RY015009
+	1RY015009 es 1RY015010
+	1RY015010 es 1RY015011
+	1RY015011 es 1RY015012
+	1RY015012 es 1RY015013
+	1RY015013 es 1RY015014
+	1RY015014 es 1RY015015
+	1RY015015 es 1RY015016
+	1RY015016 es 1RY015017
+	1RY015017 es 1RY015018
+	1RY015018 es 1RY015019
+	1RY015019 es 1RY015020
+	1RY015020 es 1RY015021
+	1RY015021 es 1RY015022
+	1RY015022 es 1RY015023
+	1RY015023 es 1RY015024
+	1RY015024 es 1RY015025
+	1RY015025 es 1RY015026
+	1RY015026 es 1RY015027
+	1RY015027 es 1RY015028
+	1RY015028 es 1RY015029
+	1RY015029 es 1RY015030
+	1RY015030 es 1RY015031
+	TEXTO OMITIDO en 1RY015032 (antes 1RY015031) inserté versículo y se convirtió en 1RY015032
+	1RY015031 es 1RY015033
+	1RY015032 es 1RY015034
+
+En LAT:
+	La información de 1RY015007 estaba en 1RY015005. Corté y reacomodé en 1RY015007.
+	La numeración se recorrió de la siguiente manera:
+	
+	1RY015007 ahora es 1RY015008
+	1RY015008 ahora es 1RY015009
+	1RY015009 ahora es 1RY015010
+	1RY015010 ahora es 1RY015011
+	1RY015011 ahora es 1RY015012
+	1RY015012 ahora es 1RY015013
+	1RY015013 ahora es 1RY015014
+	1RY015014 ahora es 1RY015015
+	1RY015015 ahora es 1RY015016
+	1RY015016 ahora es 1RY015017
+	1RY015017 ahora es 1RY015018
+	1RY015018 ahora es 1RY015019
+	1RY015019 ahora es 1RY015020
+	1RY015020 ahora es 1RY015021
+	1RY015021 ahora es 1RY015022
+	1RY015022 ahora es 1RY015023
+	1RY015023 ahora es 1RY015024
+	1RY015024 ahora es 1RY015025
+	1RY015025 ahora es 1RY015026
+	1RY015026 ahora es 1RY015027
+	1RY015027 ahora es 1RY015028
+	1RY015028 ahora es 1RY015029
+	1RY015029 ahora es 1RY015030
+	1RY015030 ahora es 1RY015031
+	1RY015031 ahora es 1RY015032
+	1RY015032 ahora es 1RY015033
+	1RY015033 ahora es 1RY015034
+
+En LAT, la información de 1RY020042 y 1RY020043 estaba en 1RY020041. Corté y añadí versículos 1RY020042 y 1RY020043.
+
+En LAT, parte de la información de 1RY021029 estaba en 1RY021028. Corté y reacomodé en 1RY021029.
+
+En JNM, la información de 1RY021029 estaba en 1RY021028. Corté y añadí versículo 1RY021029.
+
+La información de los últimos versículos (1RY022043 a 1RY022054 aprox) del CAPÍTULO 22 estaba muy diferente en todas las biblias;
+reacomodé de la siguiente manera:
+
+	En SER, NAC y JER hubo TEXTO OMITIDO en 1RY022054. Inserté versículo 1RY022054.
+	
+	En REV, AME, OSO y ESP la información de 1RY022044 estaba en 1RY022043. Corté y reacomodé en 1RY022044. 
+	
+	Por el punto anterior, la numeración se recorrió quedando:
+		
+		1RY022044 ahora es 1RY022045
+		1RY022045 ahora es 1RY022046
+		1RY022046 ahora es 1RY022047
+		1RY022047 ahora es 1RY022048
+		1RY022048 ahora es 1RY022049
+		1RY022049 ahora es 1RY022050
+		1RY022050 ahora es 1RY022051
+		1RY022051 ahora es 1RY022052
+		1RY022052 ahora es 1RY022053
+		1RY022053 ahora es 1RY022054
+
+	En LAT:
+	
+	La información de 1RY022009 pertence a 1RY022008. Corté y reacomodé en 1RY022008.
+	
+	Por el punto anterior, la numeración de LAT se recorrió quedando:
+		
+		1RY022010 ahora es 1RY022009
+		1RY022011 ahora es 1RY022010
+		1RY022012 ahora es 1RY022011
+		1RY022013 ahora es 1RY022012
+		1RY022014 ahora es 1RY022013
+		1RY022015 ahora es 1RY022014
+		1RY022016 ahora es 1RY022015
+		1RY022017 ahora es 1RY022016
+		1RY022018 ahora es 1RY022017
+		1RY022019 ahora es 1RY022018
+		1RY022020 ahora es 1RY022019
+		1RY022021 ahora es 1RY022020
+		1RY022022 ahora es 1RY022021
+		1RY022023 ahora es 1RY022022
+		1RY022024 ahora es 1RY022023
+		1RY022025 ahora es 1RY022024
+		1RY022026 ahora es 1RY022025
+		1RY022027 ahora es 1RY022026
+		1RY022028 ahora es 1RY022027
+		1RY022029 ahora es 1RY022028
+		1RY022030 ahora es 1RY022029
+		1RY022031 ahora es 1RY022030
+		1RY022032 ahora es 1RY022031
+		1RY022033 ahora es 1RY022032
+		1RY022034 ahora es 1RY022033
+		1RY022035 ahora es 1RY022034
+		1RY022036 ahora es 1RY022035
+		1RY022037 ahora es 1RY022036
+		1RY022038 ahora es 1RY022037
+		1RY022039 ahora es 1RY022038
+		1RY022040 ahora es 1RY022039
+		1RY022041 ahora es 1RY022040
+		1RY022042 ahora es 1RY022041
+		1RY022043 ahora es 1RY022042
+		1RY022044 ahora es 1RY022043
+		1RY022045 ahora es 1RY022044
+		1RY022046 ahora es 1RY022045
+		1RY022047 ahora es 1RY022046
+		1RY022048 ahora es 1RY022047
+		1RY022049 ahora es 1RY022048
+		1RY022050 ahora es 1RY022049
+		1RY022051 ahora es 1RY022050
+		1RY022052 ahora es 1RY022051
+		1RY022053 ahora es 1RY022052
+		1RY022054 ahora es 1RY022053
+		1RY022055 ahora es 1RY022054
+		
+		
