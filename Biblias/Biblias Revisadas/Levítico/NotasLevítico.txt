@@ -1,0 +1,12 @@
+En PET se omitieron los capítulos 2,3,4,5,6 y 7
+En EMN002 había 15 versículos porque el versículo 6 estaba en el 5
+En JER003 había 16 versículos porque el versículo 17 estaba en el 16
+En LAT005 había 25 versículos porque desde el versículo 20 forma parte del capítulo 6
+Ya con la modificación anterior, en LAT006 había 26 versículos porque el 2 estaba en el 1, el 12 estaba en el 11, (ya con cambios) el versículo 15 estaba en el 14 y el 16 en el 15
+En EMN005 había 26 versículos porque desde el versículo 20 forma parte del capítulo 6
+En SER006 había 23 versículos porque se omitieron del 1 al 7
+En NAC006 había 23 versículos porque se omitieron del 1 al 7
+En JER006 había 23 versículos porque se omitieron del 1 al 7
+En LAT010 había 19 versículos porque se omitió el 20
+En NAC011 había 40 versículos porque se omitieron del 13 al 19
+En LAT012 había 7 versículos porque el versículo 2 estaba en el 1
