@@ -1,0 +1,124 @@
+NOTAS EZEQUIEL 
+
+En PET, NAC y JNM:
+
+	La información de EZQ002010 estaba en EZQ002009. Corté y añadí EZQ002010. 
+
+
+En JNM la información de EZQ005017 estaba en EZQ005016. Corté y añadí EZQ005017.
+
+
+En LAT parte de la información de EZQ008018 estaba en EZQ008017. Corté y reacomodé en EZQ008018.
+
+
+En ENM, JER, LAT, NAC y SER:
+
+	En el Capítulo 21, los versículos del 1 al 5, corresponden en realidad a los versículos del 45 al 49 del Capítulo 20 de las otras biblias. 
+	Modifiqué numeración:
+
+		EZQ021001 ahora es EZQ020045
+		EZQ021002 ahora es EZQ020046
+		EZQ021003 ahora es EZQ020047
+		EZQ021004 ahora es EZQ020048
+		EZQ021005 ahora es EZQ020049
+
+	Por el punto anterior, en EMN y LAT, la numeración del Capítulo 21 se recorrió de la siguiente manera:
+
+		EZQ021006 ahora es EZQ021001
+		EZQ021007 ahora es EZQ021002
+		EZQ021008 ahora es EZQ021003
+		EZQ021009 ahora es EZQ021004
+		EZQ021010 ahora es EZQ021005
+		EZQ021011 ahora es EZQ021006
+		EZQ021012 ahora es EZQ021007
+		EZQ021013 ahora es EZQ021008
+		EZQ021014 ahora es EZQ021009
+		EZQ021015 ahora es EZQ021010
+		EZQ021016 ahora es EZQ021011
+		EZQ021017 ahora es EZQ021012
+		EZQ021018 ahora es EZQ021013
+		EZQ021019 ahora es EZQ021014
+		EZQ021020 ahora es EZQ021015
+		EZQ021021 ahora es EZQ021016
+		EZQ021022 ahora es EZQ021017
+		EZQ021023 ahora es EZQ021018
+		EZQ021024 ahora es EZQ021019
+		EZQ021025 ahora es EZQ021020
+		EZQ021026 ahora es EZQ021021
+		EZQ021027 ahora es EZQ021022
+		EZQ021028 ahora es EZQ021023
+		EZQ021029 ahora es EZQ021024
+		EZQ021030 ahora es EZQ021025
+		EZQ021031 ahora es EZQ021026
+		EZQ021032 ahora es EZQ021027
+		EZQ021033 ahora es EZQ021028
+		EZQ021034 ahora es EZQ021029
+		EZQ021035 ahora es EZQ021030
+		EZQ021036 ahora es EZQ021031
+		EZQ021037 ahora es EZQ021032
+	
+	En el caso de JER, NAC y SER, ocurre lo mismo con la numeración hasta EZQ021027 (antes EZQ021032),
+	el resto de los versículos de EZQ021028 a EZQ021032 son TEXTO OMITIDO.
+
+
+TEXTO OMITIDO en ESP de EZQ023043 a EZQ023049
+
+En JNM parte la información de EZQ029021 estaba en EZQ029022. Corté y eliminé EZQ029022. La información la pegué en EZQ029021.
+
+En LAT:
+
+	Parte de la información de EZQ040008 estaba en EZQ040007. Corté y reacomodé en EZQ040008. 
+
+	TEXTO OMITIDO en EZQ040009
+
+		Por el punto anterior, la numeración del Capítulo 40 se recorrió a partir de EZQ040009, 
+		quedando de la siguiente manera:
+
+		EZQ040009 ahora es EZQ040010
+		EZQ040010 ahora es EZQ040011
+		EZQ040011 ahora es EZQ040012
+		EZQ040012 ahora es EZQ040013
+		EZQ040013 ahora es EZQ040014
+		EZQ040014 ahora es EZQ040015
+		EZQ040015 ahora es EZQ040016
+		EZQ040016 ahora es EZQ040017
+		EZQ040017 ahora es EZQ040018
+		EZQ040018 ahora es EZQ040019
+		EZQ040019 ahora es EZQ040020
+		EZQ040020 ahora es EZQ040021
+		EZQ040021 ahora es EZQ040022
+		EZQ040022 ahora es EZQ040023
+		EZQ040023 ahora es EZQ040024
+		EZQ040024 ahora es EZQ040025
+		EZQ040025 ahora es EZQ040026
+		EZQ040026 ahora es EZQ040027
+		EZQ040027 ahora es EZQ040028
+		EZQ040028 ahora es EZQ040029
+		EZQ040029 ahora es EZQ040030
+		EZQ040030 ahora es EZQ040031
+		EZQ040031 ahora es EZQ040032
+		EZQ040032 ahora es EZQ040033
+		EZQ040033 ahora es EZQ040034
+		EZQ040034 ahora es EZQ040035
+		EZQ040035 ahora es EZQ040036
+		EZQ040036 ahora es EZQ040037
+		EZQ040037 ahora es EZQ040038
+		EZQ040038 ahora es EZQ040039
+		EZQ040039 ahora es EZQ040040
+		EZQ040040 ahora es EZQ040041
+		EZQ040041 ahora es EZQ040042
+		EZQ040042 ahora es EZQ040043
+		EZQ040043 ahora es EZQ040044
+		EZQ040044 ahora es EZQ040045
+		EZQ040045 ahora es EZQ040046
+		EZQ040046 ahora es EZQ040047
+		EZQ040047 ahora es EZQ040048
+		EZQ040048 ahora es EZQ040049
+
+En JNM:
+	La información de EZQ042020 estaba en EZQ042019. Corté y añadí EZQ042020.
+
+	La información de EZQ047023 estaba en EZQ047022. Corté y añadí EZQ047023.
+
+En ESP, parte de la información de EZQ048030 estaba en EZQ048029. Corté y reacomodé en EZQ048030.
+		

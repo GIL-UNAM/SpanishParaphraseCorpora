@@ -1,0 +1,8 @@
+Eclesiastés 
+
+*El texto 004017 en JNM, LAT, EMN y PET es el texto 005001 en AME, OSO, ESP, REV y el texto equivalente está omitido en JER, SER y NAC
+Pasé el 004017 al cap 005, dejándolo como el primer vérsiculo del último
+
+*El texto 007001 en JNM y PET es el texto 006012 en el resto de las Biblias así que modifiqué la numeración para que quedaran alineadas en 006012 y 007029
+
+*LAT era la única Biblia con 15 versículos en el capítulo 12. El texto que en el resto de las Biblias correspondía al 012006 estaba dividido en dos partes en LAT así que dividí el texto en el resto de las Biblias para que quedaran alineadas en 012015
