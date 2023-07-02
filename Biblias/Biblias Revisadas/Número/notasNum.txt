@@ -1,0 +1,14 @@
+las biblias EMN, JER, SER y LAT tienen versículos omitidos del versículo 016035 al 050
+en el cap 17
+todas las biblias tienen 13 versículos excepto EMN y LAT
+en la LAT los vers 017016 al 017028 son los versículos 001-013
+los versículos 001-015 corresponden a los 016035 al 016050
+LAT NUM019021 tenía el NUM019022
+en EMN y Lat NUM025019 es el NUM026001
+JNM, JER, LAT, EMN NUM030001 es el NUM029040,
+JER NUM030016 es TEXTO OMITIDO
+LAT NUM032023 estaba en NUM032022 
+LAT NUM033056 estaba en NUM033055   
+LATNUM034021 estaba en NUM034020 
+LATNUM035021 tená el NUM035022
+LATNUM035032 tenía el NUM035033

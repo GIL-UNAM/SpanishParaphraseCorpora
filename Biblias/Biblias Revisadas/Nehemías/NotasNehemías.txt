@@ -1,0 +1,24 @@
+En LAT001había 12 versículos porque el versículo 2 estaba en el 1,2 y 3
+En PET002 había 31 versículos porque el versículo 31 estaba en el 30 
+En LAT003 había 38 versículos porque desde el 33 comienza lo que es el capítulo 4 en otras ediciones. En el versículo 30 había parte del 29.
+En EMN003 había 38 versículos porque desde el 33 comienza lo que es el capítulo 4 en otras ediciones.
+En SER004 había 17 versículos porque se omitieron los versículos 1 al 6 de las otras ediciones
+En JER004 había 17 versículos porque se omitieron los versículos 1 al 6 de las otras ediciones
+En LAT005 había 20 versículos porque el versículo 14 estaba en el 14 y 15
+En LAT006 había 20 versículos porque parte del versículo 15 estaba en el 16 y el versículo 16 estaba en el 16 y 17
+En SER007 había 72 versículos porque parte del versículo 44 estaba en el 43 y el 45 en el 44
+En LAT007 había 79 versículos porque el versículo 67 estaba en el 68, el 68 estaba en el 68,69,70 y 71, el 73 estaba en el 73,74 y 75 el 79 estaba en el 78
+En JER007 había 72 versículos porque parte del 69 estaba en el 68 y el 70 estaba en el 69
+En ESP007 había 75 versículos porque el versículo 45 estaba en el 44 y porque se omitieron los versículos 47 al 73 de las otras ediciones
+En SER009 había 37 versículos porque el versículo 38 estaba en el capítulo 0010 versículo 1
+En JER009 había 37 versículos porque el versículo 38 estaba en el capítulo 0010 versículo 1
+En EMN009 había 37 versículos porque el versículo 38 estaba en el capítulo 0010 versículo 1
+En LAT009 el versículo 1 estaba en el 1 y 2 y el versículo 38 estaba en el capítulo 0010 versículo 1
+En SER010 había 38 versículos porque el versículo 39 se omitió
+En JER010 había 38 versículos porque el versículo 39 se omitió
+En JNM010 había 40 versículos porque el versículo 39 estaba en el 39 y 40
+En LAT011 había 41 versículos porque el versículo 8 estaba en el 8,9,10, el versículo 13 estaba en el 13 y 14, el 14 en el 14 y 15, el 19 en el 19 y 20
+En AME011, 012 Y 013 se omitieron estos tres capítulos
+En PET012 había 46 versículos porque el versículo 34 estaba en el 33
+En JNM010 había 46 versículos porque el versículo 34 estaba en el 33
+En LAT013 había 32 versículos porque el versículo 6 estaba en el 6 y 7

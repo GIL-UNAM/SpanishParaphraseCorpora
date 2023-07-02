@@ -1,0 +1,915 @@
+PRV001001 Proverbios de Salomón, hijo de David, rey de Israel,
+PRV001002 para aprender sabiduría e instrucción, para entender sensatos dichos,
+PRV001003 para alcanzar instrucción y discreción, justicia, f equidad y rectitud;'
+PRV001004 para dar prudencia a los inexpertos, perspicacia y circunspección a los jóvenes.
+PRV001005 Oyéndolos el sabio crecerá en doctrina y el entendido adquirirá destreza
+PRV001006 para entender las sentencias y los dichos agudos, las palabras de los sabios y sus enigmas.
+PRV001007 El principio de la sabiduría es el temor de Yahvé; son necios quienes desprecian la sabiduría y la disciplina.'
+PRV001008 Escucha, hijo mío, las amonestaciones de tu padre y no desdeñes las enseñanzas de tu madre,
+PRV001009 pues serán corona de gloria en tu cabeza y collar en tu cuello.
+PRV001010 Hijo mío, si los malos prentenden seducirte, no consientas.
+PRV001011 Si te dicen: “Ven con nosotros, pongamos asechanzas a la vida ajena, tendamos a placer lazos contra el justo,
+PRV001012 traguémoslos vivos, como el “seol”; enteros, como los que bajan al sepulcro;'
+PRV001013 tendremos toda suerte de riquezas, henchiremos nuestras casas de despojos;'
+PRV001014 tendrás tu parte como todos nosotros, no habrá más que una bolsa para todos.”
+PRV001015 No te vayas con ellos, hijo mío; ten tus pies muy lejos de sus sendas,'
+PRV001016 porque corren sus pies al mal y se apresuran a derramar sangre.
+PRV001017 Pues en vano se tiende la red a los ojos de las aves aladas.
+PRV001018 Con ello acechan a la propia vida y traman su propio daño.
+PRV001019 Ahí lleva siempre la rapacidad; es un vicio que acaba por matar al que lo tiene.'
+PRV001020 La sabiduría está clamando fuera, alza su voz en las plazas.
+PRV001021 Clama encima de los muros, en las entradas de las puertas, en la ciudad, y va diciendo:
+PRV001022 ¿Hasta cuándo, simples, amaréis la simpleza, y, petulantes, os complaceréis en la petulancia, y aborreceréis, necios, la disciplina?
+PRV001023 Volveos a mis requerimientos: Yo derramaré sobre vosotros mi espíritu y os daré a saber mis palabras.
+PRV001024 Pues os he llamado, y no habéis escuchado; tendí mis brazos, y nadie se dio por entendido;'
+PRV001025 antes desechasteis todos mis consejos y no accedisteis a mis requerimientos;'
+PRV001026 también yo me reiré de vuestra ruina y me burlaré cuando venga sobre vosotros el terror.
+PRV001027 Cuando sobrevenga como huracán el terror, y como torbellino os sorprenda la ruina; cuando sobrevenga la adversidad y la angustia,'
+PRV001028 entonces me llamarán, y yo no responderé; me buscarán, pero no me hallarán,'
+PRV001029 por haber despreciado la sabiduría y no haber seguido el temor de Yahvé,
+PRV001030 y no haberse agradado de mis consejos y haber menospreciado mis requerimientos.
+PRV001031 Comerán el fruto de sus obras y se hartarán de sus consejos.
+PRV001032 Porque ese desvío llevará a los simples a la muerte, y la prosperidad de los necios los perderá.
+PRV001033 Pero quien me escuche vivirá tranquilo, seguro y sin temor de mal.
+PRV002001 Hijo mío, si recibes mis palabras y guardas dentro de ti mis mandamientos,
+PRV002002 dando atento oído a la sabiduría e inclinando tu corazón a la prudencia;'
+PRV002003 si invocas a la inteligencia y a voces llamas a la prudencia;'
+PRV002004 si la buscas como se busca la plata, cual si excavaras un tesoro,
+PRV002005 entonces tendrás el temor de Yahvé y hallarás el conocimiento de Dios.
+PRV002006 Porque Yahvé da la sabiduría y de su boca derrama ciencia e inteligencia.
+PRV002007 Da salud a los justos y se hace escudo de los que proceden rectamente.
+PRV002008 Defiende el camino de la rectitud y protege las sendas de sus fieles.
+PRV002009 Entenderás entonces justicia y probidad, rectitud; en suma, buen camino.'
+PRV002010 Cuando entre en tu corazón la sabiduría y sea dulce a tu alma la ciencia,
+PRV002011 te guardará la reflexión y te preservará la inteligencia.
+PRV002012 Para librarte de los caminos de los malos, de los hombres de perversos razonamientos,
+PRV002013 que, dejado todo buen camino, van por sendas tenebrosas,
+PRV002014 se gozan en hacer el mal y se huelgan en la perversidad del vicio,
+PRV002015 siguen caminos tortuosos y se extravían en sus andanzas.
+PRV002016 Te preservará de la mujer ajena, de la extraña que halaga con sus palabras,
+PRV002017 que deja al compañero de su mocedad y se olvida de la alianza jurada por su Dios.
+PRV002018 Su casa lleva a la muerte, y sus caminos a la región de las sombras.
+PRV002019 Cuantos en ella entran no vuelven más, ni toman las veredas de la vida.
+PRV002020 Así seguirás la recta senda e irás por el camino de los justos;'
+PRV002021 pues los justos habitarán la tierra y los rectos permanecerán en ella;'
+PRV002022 mas los impíos serán arrancados de la tierra y los prevaricadores serán desarraigados.
+PRV003001 Hijo mío, no te olvides de mis enseñanzas, conserva mis preceptos en tu corazón,
+PRV003002 porque te darán vida larga, largos días de vida y prosperidad.
+PRV003003 Que no te abandonen jamás la bondad y la fidelidad; átatelas al cuello, escríbelas en tu corazón,'
+PRV003004 y hallarás favor y buena opinión ante Dios y ante los hombres.
+PRV003005 Confía en Yahvé de todo corazón y no te apoyes en tu prudencia.
+PRV003006 En todos tus caminos piensa en El, y El allanará todas tus sendas.
+PRV003007 No te tengas por sabio, teme a Dios y evita el mal;'
+PRV003008 que será sanidad para tu carne y refrigerio para tus huesos.
+PRV003009 Honra a Dios de tu hacienda, de las primicias de todos tus frutos,
+PRV003010 y estarán llenos tus graneros y rebosará de mosto tu lagar”
+PRV003011 No desdeñes, hijo mío, las lecciones de tu Dios; no te enoje que te corrija,'
+PRV003012 porque al que Dios ama le corrige, y aflige al hijo que le es más caro.
+PRV003013 Bienaventurado el que alcanza la sabiduría y aquel que alcanza inteligencia,
+PRV003014 porque es su adquisición mejor que la de la plata y de más provecho que el oro.
+PRV003015 Es más preciosa que las perlas y no hay tesoro que la iguale.
+PRV003016 Lleva en su diestra la longevidad y en su siniestra la riqueza y los honores, “De su boca brota la justicia y lleva en la lengua la ley y la misericordia” (LXX).
+PRV003017 Sus caminos son caminos deleitosos y son paz todas sus sendas.
+PRV003018 Es árbol de vida para quien la consigue; quien la abraza es bienaventurado.'
+PRV003019 Con la sabiduría fundó Yahvé la tierra, con la inteligencia consolidó los cielos.
+PRV003020 Con su ciencia hizo brotar las fuentes y por ella los cíelos destilan el rocío.
+PRV003021 Hijo mío, no la pierdas nunca de vista, guarda siempre la prudencia y el consejo,
+PRV003022 que serán vida para tu alma y gracia para tu cuello.
+PRV003023 Entonces irás confiado tu camino y no tropezará tu pie.
+PRV003024 Guando te acostares, no sentirás temor; te acostarás y dormirás dulce sueño.'
+PRV003025 No tendrás temor de repentinos pavores ni de la ruina de los impíos cuando venga.
+PRV003026 Porque Yahvé será tu confianza y preservará tu pie de quedar preso.
+PRV003027 No niegues un beneficio al que lo necesita, siempre que en tu poder esté el hacérselo.
+PRV003028 No le digas al prójimo: “Vete y vuelve, mañana te lo daré,” si lo tienes a mano.
+PRV003029 No trames mal alguno contra tu prójimo mientras él confía en ti,
+PRV003030 No pleitees con nadie sin Tazón si no te ha hecho agravio.
+PRV003031 No envidies al injusto ni sigas sus caminos,
+PRV003032 porque el perverso es abominado de Yahvé, que sólo tiene sus intimidades con el justo.
+PRV003033 En la casa del injusto está la maldición de Yahvé, que bendice la morada del justo.
+PRV003034 Escarnece a los escarnecedores y da su gracia a los humildes.
+PRV003035 Da honra a los sabios y reserva la infamia para los necios.
+PRV004001 Oíd, hijos míos, la doctrina de un padre, y atended bien para aprender prudencia,
+PRV004002 porque la doctrina que os enseño es buena; no desdeñéis, pues, mis enseñanzas.'
+PRV004003 También yo fui hijo para mi padre, unigénito bajo la mirada de mi madre.
+PRV004004 Y él me enseñaba diciéndome: Pon atención a mis palabras, pon por obra mis mandatos y vivirás.
+PRV004005 Sabiduría ante todo, adquiere la inteligencia; no la olvides, no te apartes de los dichos de mi boca.'
+PRV004006 No la abandones, y te guardará; ámala, y ella te custodiará.'
+PRV004007 Al precio de todas las riquezas adquiere la sabiduría, al precio de cuanto posees adquiere la inteligencia.
+PRV004008 Tenia en gran estima, y ella te ensalzará y te honrará si tú la abrazas.
+PRV004009 Pondrá en tu cabeza corona de gracia, te ceñirá espléndida diadema.
+PRV004010 Oye, hijo mío, y recibe mis palabras, y se multiplicarán los años de tu vida.
+PRV004011 Que te enseño el camino de la sabiduría y te encamino por el recto sendero.
+PRV004012 Así, cuando anduvieres, no se enredarán tus pasos, y aun corriendo no tropezarás.
+PRV004013 Retén firmemente la disciplina, no la dejes; guárdala, mira que es tu vida.'
+PRV004014 No te metas por las sendas del impío, no vayas por el camino de los malos.
+PRV004015 Esquívale, no pases por él, tente apartado de él, pasa de lejos.
+PRV004016 Esos no duermen tranquilos si no han hecho el mal; huye de ellos el sueño si no han hecho alguna ruina.'
+PRV004017 Comen el pan de la maldad y beben el vino de la violencia.
+PRV004018 Mas la senda de los justos es como luz de aurora, que va en aumento hasta ser pleno día.
+PRV004019 Al contrario, el camino del impío es la tiniebla y no ven dónde tropiezan.
+PRV004020 Hijo mío, atiende a mis palabras, inclina tu oído a mis razones.
+PRV004021 No se aparten nunca de tus ojos, guárdalas dentro de tu corazón;'
+PRV004022 que son vida para quien las acoge y sanidad para su carne,
+PRV004023 Guarda tu corazón con toda cautela, porque es manantial de vida.
+PRV004024 Lejos de ti toda falsía de la boca, y aparta de ti toda iniquidad de los labios.
+PRV004025 Mira siempre de frente con tus ojos, vayan tus párpados derechos ante ti.
+PRV004026 Mira bien dónde pones el pie y sean rectos todos tus caminos.
+PRV004027 No te desvíes a la derecha ni a la izquierda y aparta del mal todos tus pasos.
+PRV005001 Hijo mío, atiende a la sabiduría, da oídos a la inteligencia,
+PRV005002 para guardar el consejo y mantener en tus labios la ciencia”
+PRV005003 Miel destilan los labios de la mujer extraña, y es su boca más suave que el aceite.
+PRV005004 Pero su fin es más amargo que el ajenjo, punzante como espada de dos filos.
+PRV005005 Van sus pies derechos a la muerte, llevan sus pasos al sepulcro.
+PRV005006 No va por el camino de la vida, va errando por el camino sin saber adonde.
+PRV005007 Óyeme, pues, hijo mío, y no te apartes de las razones de mi boca.
+PRV005008 Tente siempre lejos de su camino y no te acerques a la puerta de su casa,
+PRV005009 para no dar tu honor a los extraños, y tus años a un cruel;'
+PRV005010 para que no disfruten extraños de tu hacienda y vayan tus trabajos a casa de otro,
+PRV005011 y al fin tengas que llorar cuando veas consumidos tu carne y tu cuerpo,
+PRV005012 y hayas de exclamar: Ay de mí, que odié la disciplina y no di oídos a los que me adoctrinaban!
+PRV005013 No escuché la voz de los que me educaban y no di oídos a los que me enseñaban.
+PRV005014 Por poco no he llegado al extremo de mis males en medio del consejo de la asamblea.
+PRV005015 Bebe el agua de tu cisterna, los raudales de tu pozo.
+PRV005016 ¿Quieres derramar fuera tus fuentes, por las plazas las aguas de tu río?
+PRV005017 Tenias para ti solo, no para que contigo las beban los extraños”
+PRV005018 Bendita tu fuente, y gózate en la compañera de tu mocedad,
+PRV005019 cierva carísima y graciosa gacela; embriáguente siempre sus amores y recréente siempre sus caricias.'
+PRV005020 ¿Para qué andar loco, hijo mío, tras la extraña y abrazar en tu seno a una extranjera?
+PRV005021 Los caminos del hombre están a los ojos de Yahvé, El ve todos sus pasos.
+PRV005022 El impío queda preso en su propia iniquidad y cogido en el lazo de su culpa.
+PRV005023 Morirá por falta de disciplina, y su gran necedad le perderá.
+PRV006001 Hijo mío, si saliste fiador por tu prójimo, si has estrechado la mano del extraño,
+PRV006002 si te has ligado con tu palabra y te has dejado coger por tu boca,
+PRV006003 haz esto, hijo mío, para librarte, ya que has caído en manos de tu prójimo: ve sin tardanza y asegúrate de tu amigo;'
+PRV006004 no des sueño a tus ojos, no des reposo a tus párpados.
+PRV006005 Ponte a salvo como de la mano del cazador el corzo, como el pájaro del lazo del pajarero.
+PRV006006 Ve, ¡oh perezoso! a la hormiga, mira sus caminos y hazte sabio.
+PRV006007 No tiene capitán, ni inspector, ni señor,
+PRV006008 y se prepara en el verano su alimento, reúne su comida al tiempo de la mies. “O ve a la abeja y aprende cómo trabaja y produce rica labor, que reyes y vasallos buscan para sí y todos apetecen. Y siendo como es pequeña y flaca, es por su sabiduría tenida en mucha estima” (LXX).
+PRV006009 ¿Hasta cuándo, perezoso, dormirás, cuándo despertarás de tu sueño?
+PRV006010 Un poco dormitar, un poco adormecerse, un poco mano sobre mano descansando,
+PRV006011 y sobreviene como correo la miseria y como ladrón la indigencia.
+PRV006012 El hombre malo, el hombre inútil, que camina con la mentira en su boca,
+PRV006013 hace guiños con los ojos, refriega los pies, habla con los dedos;'
+PRV006014 tiene el corazón lleno de maldad y siembra siempre la discordia.
+PRV006015 Por eso vendrá sobre él de improviso la ruina y será quebrantado súbitamente y sin remedio.
+PRV006016 Seis cosas aborrece Yahvé, y aun siete aborrece su alma:
+PRV006017 ojos altaneros, lengua mentirosa, manos que derraman sangre inocente,
+PRV006018 corazón que trama iniquidades, pies que corren presurosos al mal,
+PRV006019 testigo falso que difunde calumnias y enciende rencores entre hermanos.
+PRV006020 Guarda, hijo mío, los mandatos de tu padre y no des de lado las enseñanzas de tu madre.
+PRV006021 Ten siempre ligado a ellos tu corazón, enlázalos a tu cuello.
+PRV006022 Te seguirán de guía en tu camino, velarán por ti cuando durmieres, y cuando despiertes te hablarán;'
+PRV006023 porque antorcha es el mandato, y luz la disciplina, y camino de vida la corrección del que te enseña.
+PRV006024 para guardarte de la mala mujer, de los halagos de la mujer ajena.
+PRV006025 No codicies su hermosura en tu corazón, no te dejes seducir por sus miradas;'
+PRV006026 porque, si la prostituta busca un pedazo de pan, la casada va a la caza de una vida preciosa.
+PRV006027 ¿Puede alguno llevar fuego en su regazo sin quemarse los vestidos?
+PRV006028 ¿Quién andará sobre brasas sin que se le abrasen los pies?
+PRV006029 Así el que se acerca a la mujer ajena: no saldrá inmune quien la toca.
+PRV006030 ¿No es tenido en poco el ladrón cuando roba para saciar su hambre, si la tiene?
+PRV006031 Y si es cogido, tendrá que pagar el séptuplo de toda la hacienda de su casa.
+PRV006032 Pero el adúltero es un mentecato; sólo quien quiere arrumarse a sí mismo hace tal cosa.'
+PRV006033 Se hallará con palos e ignominia, y su afrenta no se borrará nunca;'
+PRV006034 porque los celos del marido le ponen furioso y no perdona el día de la venganza.
+PRV006035 No se contentará con una indemnización y no aceptará dones, por grandes que sean.
+PRV007001 Hijo mío, atiende a mis palabras y pon dentro de ti mis enseñanzas.
+PRV007002 Guarda mis preceptos y vivirás; sea mí ley como la niña de tus ojos.'
+PRV007003 Átatelos al dedo, escríbelos en la tabla de tu corazón.
+PRV007004 Di a la sabiduría: “Tú eres mi hermana,” y llama a la inteligencia tu pariente,
+PRV007005 para que te preserven de la mujer ajena, de la extraña de lúbricas palabras.
+PRV007006 Estaba yo un día en mi casa a la ventana, mirando a través de las celosías,
+PRV007007 y vi entre los simples un joven, entre los mancebos un falto de juicio,
+PRV007008 que pasaba por la calle junto a la esquina e iba camino de su casa.
+PRV007009 Era el atardecer, cuando ya oscurecía, al hacerse de noche, en la tiniebla.
+PRV007010 Y he aquí que le sale al encuentro una mujer con atavío de ramera y astuto corazón.
+PRV007011 Era parlanchína y procaz, y sus pies no sabían estarse en casa;'
+PRV007012 ahora en la calle, ahora en la plaza, acechando por todas las esquinas.
+PRV007013 Cogióle y le abrazó y le dijo con toda desvergüenza:
+PRV007014 ”Tenía que ofrecer un sacrificio y hoy he cumplido ya mis votos;'
+PRV007015 por eso te he salido al encuentro, iba en busca tuya y ahora te hallo.
+PRV007016 He ataviado mi lecho con tapices, con telas de hilo recamado de Egipto;'
+PRV007017 he perfumado mi cama con mirra, áloe y cinamomo.
+PRV007018 Ven, embriaguémonos de amores hasta la mañana, hartémonos de caricias;'
+PRV007019 pues mi marido no está en casa, ha salido para un largo viaje.
+PRV007020 Se ha llevado la bolsa y no volverá hasta el plenilunio.”
+PRV007021 Con la suavidad de sus palabras le rindió y con sus halagos le sedujo;'
+PRV007022 y se fue tras ella entontecido como buey que se lleva al matadero, como ciervo cogido en el lazo
+PRV007023 hasta que una flecha le atraviesa el flanco, o como el pájaro que se precipita en la red sin saber que le va en ella la vida.
+PRV007024 Óyeme, pues, hijo mío, y atiende a las palabras de mi boca.
+PRV007025 No dejes ir tu corazón por sus caminos, no yerres por sus sendas;'
+PRV007026 porque a muchos ha hecho caer traspasados y son muchos los muertos por ella.
+PRV007027 Su casa es el camino del sepulcro, que baja a las profundidades de la muerte.
+PRV008001 ¿No está ahí clamando la sabiduría y dando voces la inteligencia?
+PRV008002 En la cima de las alturas, junto a los caminos, en los cruces de las veredas se para;'
+PRV008003 en las puertas, en las entradas de la ciudad, en los umbrales de las casas da voces:
+PRV008004 A vosotros, mortales, clamo, y me dirijo a todos los hombres.
+PRV008005 Entended, ¡oh simples! la cordura, y vosotros, necios, entrad en la discreción.
+PRV008006 Escuchad, que voy a deciros nobles palabras, y abriré mi boca a sentencias de rectitud.
+PRV008007 Sí; mi boca dice la verdad, pues aborrezco los labios inicuos.'
+PRV008008 Todos mis dichos son conformes a la justicia; nada hay en ellos de tortuoso y perverso.'
+PRV008009 Todos son rectos para la persona inteligente y razonables para el que tiene la sabiduría.
+PRV008010 Recibid mi enseñanza mejor que la plata, y la ciencia mejor que el oro fino;'
+PRV008011 pues la sabiduría vale más que las piedras preciosas, y cuanto hay de codiciable no puede comparársele.
+PRV008012 Yo, la sabiduría, tengo conmigo la discreción, poseo la ciencia y la cordura.
+PRV008013 [Temer a Dios es aborrecer el mal.] La soberbia, la arrogancia, el mal camino, la boca perversa, la detesto.
+PRV008014 Mío es el consejo y la habilidad; mía la inteligencia, mía la fuerza.'
+PRV008015 Por mí reinan los reyes y los jueces administran la justicia.
+PRV008016 Por mí mandan los príncipes y gobiernan los soberanos de la tierra.
+PRV008017 Amo a los que me aman, y el que me busca me hallará.
+PRV008018 Llevo conmigo el bienestar y la honra, sólidas riquezas y justicia.
+PRV008019 Mi fruto es mejor que el oro puro; mi ganancia, mejor que la plata acrisolada.'
+PRV008020 Voy por las sendas de la justicia, por los senderos de la equidad,
+PRV008021 para procurar ricos bienes a los que me aman y henchir sus tesoros.
+PRV008022 Yahvé me engendró, primicias de sus actos, con anterioridad a sus obras, desde siempre.
+PRV008023 Desde la eternidad fui constituida; desde los orígenes, antes que la tierra fuese.'
+PRV008024 Antes que los abismos fui engendrada yo; antes que fuesen las fuentes de abundantes aguas.'
+PRV008025 Antes que los montes fuesen cimentados, antes que los collados fui yo concebida;'
+PRV008026 antes que hiciese la tierra, ni los campos, ni el polvo primero de la tierra.
+PRV008027 Cuando fundó los cielos, allí estaba yo; cuando puso una bóveda sobre la faz del abismo,'
+PRV008028 cuando daba consistencia al cielo en lo alto, cuando daba fuerza a las fuentes del abismo;'
+PRV008029 cuando fijó sus términos al mar para que las aguas no traspasasen sus linderos; cuando echó los cimientos de la tierra,'
+PRV008030 estaba yo con El como arquitecto, siendo siempre su delicia, solazándome ante El en todo tiempo,
+PRV008031 recreándome en el orbe de la tierra, siendo mis delicias los hijos de los hombres,
+PRV008032 Oídme, pues, hijos míos; bienaventurado el que sigue mis caminos.'
+PRV008033 Atended al consejo y sed sabios y no lo menospreciéis.
+PRV008034 Bienaventurado quien me escucha, y vela a mi puerta cada día, y es asiduo en el umbral de mis entradas.
+PRV008035 Porque el que me halla a mí halla la vida y alcanzará el favor de Yahvé.
+PRV008036 Y al contrario, el que me pierde, a sí mismo se daña, y el que me odia, ama la muerte.
+PRV009001 La sabiduría se ha edificado su casa, labró sus siete columnas.
+PRV009002 Mató sus víctimas, mezcló su vino y aderezó la mesa.
+PRV009003 Mandó sus doncellas a invitar desde lo alto de la ciudad:
+PRV009004 “El que es simple venga acá; al que no tiene sentido hablo.'
+PRV009005 Venid y comed mi pan y bebed el vino que he mezclado.
+PRV009006 Dejaos de simplezas y viviréis, y andad por la senda de la inteligencia.”
+PRV009007 El que corrige al petulante se acarrea afrenta, y el que te reprende al impío ultraje.
+PRV009008 No reprendas al petulante, que aborrecerá; reprende al sabio y te lo agradecerá.'
+PRV009009 Da consejos al sabio y se hará más sabio todavía; enseña al justo y crecerá su saber.'
+PRV009010 El principio de la sabiduría es el temor de Yahvé; conocer al santo, eso es inteligencia.'
+PRV009011 Pues por mí se aumentarán tus días y se te añadirán años de vida.
+PRV009012 Si eres sabio, para ti lo serás; si eres petulante, tú lo pagarás.'
+PRV009013 Señora necedad es alborotadora, es ignorante, no sabe nada”
+PRV009014 Se sienta a la puerta de su casa o en una silla, en lo más alto de la ciudad.
+PRV009015 Para invitar a los que pasan, a los que siguen recto su camino.
+PRV009016 “El que es simple venga acá,” y al que no tiene sentido dice:
+PRV009017 “Son dulces las aguas hurtadas, y el pan de tapadillo el más sabroso.”
+PRV009018 Y no se dan cuenta de que allí está la muerte y que sus invitados van al profundo del averno.
+PRV010001 El hijo sabio es la gloria de su padre; el hijo necio, la tristeza de su madre.'
+PRV010002 No aprovechan las riquezas mal adquiridas, mas la justicia salva de la muerte.
+PRV010003 Yahvé no dejará hambrear al justo, pero dejará insaciados los apetitos del malvado.
+PRV010004 La mano perezosa empobrece; la diligente enriquece.'
+PRV010005 El que en estío recoge es hombre inteligente; el que duerme al tiempo de la siega se deshonra,'
+PRV010006 Bendiciones sobre la cabeza del justo; pero la lengua del impío encubre violencias.'
+PRV010007 La memoria del justo será bendecida; el nombre del impío será maldito.'
+PRV010008 El hombre sensato acepta el mandamiento, pero el lenguaraz lo resiste.
+PRV010009 El que anda en rectitud va seguro; el que va por sendas tortuosas va a la ruina.'
+PRV010010 El que guiña los ojos acarrea malaventura; el que reprende con franqueza origina la paz.'
+PRV010011 Fuente de vida es la boca del justo, pero la boca del malvado encubre la violencia.
+PRV010012 El odio enciende las contiendas, mientras que el amor encubre las faltas.
+PRV010013 En los labios del prudente se halla la sabiduría; para las espaldas del insensato es la vara.'
+PRV010014 El sabio esconde su ciencia; la boca del necio anuncia la ruina,'
+PRV010015 La hacienda del rico es su fortaleza; la indigencia del pobre es su desaliento.'
+PRV010016 La ganancia del justo es para la vida; la del impío, en vicios se le va.'
+PRV010017 Va por senda de vida el que acepta la corrección; el que no la acepta va por camino falso.'
+PRV010018 El de ojos mendaces encubre el odio; el que esparce la difamación es un necio.'
+PRV010019 En el mucho charlar no falta el pecado; el que refrena sus labios es sabio.'
+PRV010020 Plata acrisolada es la boca del justo; el corazón del impío no vale nada.'
+PRV010021 Los labios del justo guían a muchos; el necio muere por falta de conocimiento.'
+PRV010022 La bendición de Dios es lo que enriquece; nuestro afán no le añade nada.'
+PRV010023 Hacer el mal es para el necio cosa de juego, y lo es para el sensato ser sabio.
+PRV010024 Sobre el impío vendrá lo que él se teme, mas el justo verá colmados sus deseos.
+PRV010025 Como pasa el huracán deja de ser el impío, mas el justo permanece para siempre.
+PRV010026 Como el vinagre a los dientes y el humo a los ojos, así es el haragán para quien le manda.
+PRV010027 El temor de Yahvé alarga la vida, mas los años del impío serán abreviados.
+PRV010028 Se cumplirá la esperanza del justo, pero se desvanecerá la del impío.
+PRV010029 El camino de Yahvé es la fortaleza del perfecto, pero es el terror de los malhechores.
+PRV010030 El justo no vacilará jamás, pero el impío no durará sobre la tierra.
+PRV010031 En la boca del justo florece la sabiduría, pero la lengua del impío será cortada.
+PRV010032 Los labios del justo están llenos de gracia; la boca del impío, de perversidad.'
+PRV011001 La balanza falsa es abominable a Dios, mas la pesa cabal le agrada.
+PRV011002 Detrás de la soberbia viene la deshonra, con la modestia va la sabiduría.
+PRV011003 La integridad guía al hombre recto; la propia malicia es la ruina del pérfido.'
+PRV011004 De nada sirven las riquezas el día de la ira, pero la justicia libra de la muerte.
+PRV011005 La justicia del justo le allana el camino; el malvado cae por su misma malicia.'
+PRV011006 La justicia del justo le salva; los fraudulentos son cogidos en sus propios pecados.'
+PRV011007 A la muerte del impío perece su esperanza, y la confianza del malvado queda burlada.
+PRV011008 El justo es librado de la tribulación, pero el impío entra en ella en lugar de él.
+PRV011009 El impío con su boca arruina al prójimo; los justos con su sabiduría se salvan.'
+PRV011010 La prosperidad del justo alegra la ciudad, y cuando perecen los impíos hace fiesta.
+PRV011011 La bendición del justo engrandece la ciudad; la boca del impío la abate.'
+PRV011012 El insensato desprecia al prójimo, pero el prudente se calla.
+PRV011013 El chismoso descubre los secretos; el hombre fiel lo encubre todo.'
+PRV011014 Donde no hay gobierno va el pueblo a la ruina; en la abundancia del consejo está la salvación.'
+PRV011015 Andará en ansiedad el que sale fiador de otro; el que rehuye la fianza vivirá tranquilo.'
+PRV011016 La mujer prudente es gloria de su marido; trono de deshonra es la mujer que aborrece la justicia. Los perezosos carecen de bienes, pero los laboriosos adquieren riquezas.'
+PRV011017 El misericordioso se hace bien a sí mismo; el de corazón duro a sí mismo se perjudica.'
+PRV011018 El impío hace ganancias vanas; el que siembra justicia de verdad gana,'
+PRV011019 El que sigue la justicia va a la vida; el que va tras el mal corre a la muerte.'
+PRV011020 Los de corazón malo son abominables a Yahvé; los de perfectos caminos le son gratos.'
+PRV011021 Más pronto o más tarde, no quedará impune el malvado, pero la prole del justo escapará.
+PRV011022 Anillo de oro en jeta de puerco es la mujer bella, pero sin seso.
+PRV011023 El deseo del justo es sólo el bien, pero el impío no puede esperar más que ira.
+PRV011024 Hay quien derrama y siempre tiene más; otro que ahorra más de lo justo y empobrece.'
+PRV011025 El benéfico se sacia, y quien largamente da, largamente tendrá.
+PRV011026 Al que acapara el trigo le maldice el pueblo, sobre la cabeza del que lo vende caen bendiciones.
+PRV011027 El que hace el bien, bienes se atrae; al que busca el mal le vendrá el mal.'
+PRV011028 El que en sus riquezas confía, caerá; los justos reverdecerán como follaje.'
+PRV011029 El que perturba su casa recogerá viento, y el necio será siervo del sensato.
+PRV011030 El fruto del justo es árbol de vida; las almas de los perversos son arrebatadas antes de tiempo.'
+PRV011031 Si el justo tiene en la tierra su paga, ¡cuánto más el impío y el pecador!
+PRV012001 El que ama la corrección ama la sabiduría, el que odia la corrección es un necio.
+PRV012002 El bueno alcanza el favor de Yahvé, que condena al de mala vida.
+PRV012003 No se afirma el hombre por la impiedad; la raíz del justo no será arrancada.'
+PRV012004 La mujer fuerte es la corona del marido, la mala es carcoma de sus huesos.
+PRV012005 Los pensamientos del justo son rectitud; los consejos del impío, fraude.'
+PRV012006 Las palabras del impío son para acechar la sangre; la boca del justo la salva.'
+PRV012007 Son trastornados los impíos y dejan de ser, pero la casa del justo queda en pie.
+PRV012008 Cada uno es alabado según su sabiduría, pero el de perverso corazón es menospreciado.
+PRV012009 Mejor está el hombre oscuro que tiene qué comer que el presuntuoso que carece de pan.
+PRV012010 El justo provee a las necesidades de sus bestias, pero el corazón del impío es despiadado.
+PRV012011 El que labra su campo tendrá pan a saciedad, pero el que se va tras los vagabundos es un insensato.
+PRV012012 El deseo del impío es una red de males, la raíz del justo es fructífera.
+PRV012013 El malvado se enreda en pecados de lengua, el justo se libra de ellos.
+PRV012014 De los frutos de su boca se sacia el hombre, y según él trata, así será tratado.
+PRV012015 Al necio le parece derecho su camino, mas el que escucha el consejo es sabio.
+PRV012016 El necio luego al punto descubre su cólera, el sensato sabe disimular su afrenta.
+PRV012017 El que habla verdad declara lo justo, pero el testigo falso lo disfraza.
+PRV012018 Hay quien al hablar da tantas estocadas como palabras, pero la lengua del sabio cura las heridas.
+PRV012019 El labio veraz mantiene siempre la palabra; la lengua mentirosa, sólo por un momento.'
+PRV012020 El corazón del que maquina el mal es fraudulento, alegre el corazón de los buenos consejos.
+PRV012021 Sobre el justo no vendrá la adversidad, mas para los impíos todo serán males.
+PRV012022 Los labios mentirosos los aborrece Yahvé; se agrada de los que proceden sinceramente.'
+PRV012023 El cuerdo encubre su sabiduría; el corazón del necio pregona su necedad.'
+PRV012024 La mano laboriosa señorea; la perezosa se hace tributaria.'
+PRV012025 La angustia del corazón deprime al hombre, y una palabra buena le conforta.
+PRV012026 El justo aventaja a su prójimo; el camino del impío le lleva a la ruina.'
+PRV012027 El indolente no asa su pieza, pero el diligente tiene copiosa abundancia.
+PRV012028 En el camino de la justicia está la vida; el camino tortuoso lleva a la muerte.'
+PRV013001 El hijo sabio ama la corrección, pero el petulante no escucha la reprensión.
+PRV013002 Del fruto de su rectitud gozará el hombre, pero las almas de los malvados perecerán prematuramente.
+PRV013003 El que guarda su boca guarda su vida; el que mucho abre los labios busca su ruina.'
+PRV013004 Desea el haragán, pero no logra nada, mas el alma del diligente se saciará.
+PRV013005 Odia el justo toda palabra mentirosa, pero el impío se deshonra y cubre de vergüenza.
+PRV013006 La justicia conserva íntegro al hombre; el pecado subvierte al pecador.'
+PRV013007 Hay quien se las da de rico y no tiene nada, y quien, teniendo mucho, se hace el pobre”
+PRV013008 El rico con sus riquezas puede rescatar la vida, pero el pobre no tiene con qué rescatarse.
+PRV013009 La luz del justo brilla espléndidamente, pero la luz del impío se extinguirá.
+PRV013010 La soberbia sólo ocasiona contiendas, pero es sabio quien toma consejo.
+PRV013011 Riqueza hecha de prisa, se va; el que poco a poco allega, crece.'
+PRV013012 Esperanza que se dilata aflige el corazón; deseo satisfecho es árbol de vida.'
+PRV013013 El que menosprecia el mandato perecerá por ello; el que lo respeta tendrá su recompensa.'
+PRV013014 La enseñanza del sabio es fuente de vida para huir los lazos de la muerte.
+PRV013015 La cortesía concilia la gracia; los modos de los soberbios son ásperos.'
+PRV013016 El cuerdo todo lo hace con conocimiento; el necio va derramando su necedad.'
+PRV013017 Un mal consejero precipita en la desgracia; el mensajero fiel es remedio saludable.'
+PRV013018 Miseria y vergüenza para el que desdeña la corrección, más el que la guarda será honrado.
+PRV013019 El deseo cumplido es deleite del alma, pero apartarse del mal es abominación para el necio.
+PRV013020 Ve con los sabios y te harás sabio; al que a necios se allega le alcanzará la desdicha.'
+PRV013021 Al pecador le persigue la desventura, pero el justo será bien retribuido.
+PRV013022 El hombre de bien será heredado por los hijos de sus hijos; la hacienda del pecador está reservada para el justo.'
+PRV013023 Lo que rotura el pobre da pan en abundancia, mas por la impiedad se disipa la hacienda.
+PRV013024 Odia a su hijo el que da paz a la vara; el que le ama se apresura a corregirle.'
+PRV013025 El justo tiene pan a saciedad, pero el vientre del impío hambreará.
+PRV014001 La mujer prudente edifica la casa; la necia, con sus manos la destruye.'
+PRV014002 El que anda en rectitud teme a Yahvé; el que va por sendas tortuosas le desprecia.'
+PRV014003 En la boca del necio está la vara de la soberbia, mas los labios del sabio son su guarda.
+PRV014004 Sin bueyes, el granero está vacío; por la fuerza del buey hay pan en abundancia.'
+PRV014005 El testigo fiel no miente; el testigo falso profiere mentiras.'
+PRV014006 Busca el petulante la sabiduría, pero nada; mas para el prudente es fácil alcanzarla,'
+PRV014007 Apártate del necio, pues no hallarás labios de ciencia.
+PRV014008 La ciencia del cuerdo está en conocer su camino; al necio le engaña su necedad.'
+PRV014009 El necio desprecia el pecado; entre los justos habita la benevolencia.'
+PRV014010 El corazón conoce sus amarguras, pero en sus alegrías no tiene parte el extraño.
+PRV014011 La casa del malvado será asolada; la tienda del justo florecerá.'
+PRV014012 Hay caminos que nos parecen derechos, pero acaban al fin en la muerte.
+PRV014013 Aun en la risa hay aflicción de corazón, y a la alegría sucede la congoja.
+PRV014014 El insensato tendrá el fruto de sus obras, y de él gozará también el hombre bueno.
+PRV014015 El simple todo lo cree; el prudente pone atención a sus respuestas.'
+PRV014016 El sabio es cauto y se aparta del mal; el necio se deja llevar de él fácilmente.'
+PRV014017 El que presto se enoja hará locuras, pero el hombre reflexivo no se impacienta.
+PRV014018 Los simples tienen por herencia la necedad, mientras que el sabio se corona de sabiduría.
+PRV014019 Los malos se inclinarán delante de los buenos, y los impíos ante la puerta del justo.
+PRV014020 Aun a los parientes es odioso el pobre, pero el rico tiene muchos amigos.
+PRV014021 El que desprecia a su prójimo peca; bienaventurado el que tiene misericordia de los pobres.'
+PRV014022 ¿No yerra el que maquina el mal? y el que obra el bien, (no tendrá) misericordia y fidelidad?
+PRV014023 En toda labor hay fruto, pero la charlatanería empobrece.
+PRV014024 La cordura del sabio es su corona; la necedad es el collar de los necios.'
+PRV014025 Salva las vidas el testigo veraz, pero el que profiere mentiras es un asesino.
+PRV014026 El temor de Yahvé es la confianza del fuerte, y sus hijos en él hallarán refugio.
+PRV014027 El temor de Yahvé es fuente de vida, que aleja de los lazos de la muerte.
+PRV014028 El pueblo numeroso es el orgullo del rey; en la falta del pueblo está la ruina del príncipe.'
+PRV014029 Es tardo a la ira el prudente; el pronto a la ira hará muchas locuras.'
+PRV014030 Corazón apacible es vida del cuerpo, y la envidia es la caries de los huesos.
+PRV014031 El que maltrata al pobre, injuria a su Hacedor; el que tiene piedad del pobre le honra,'
+PRV014032 El impío es arrastrado en su maldad; el justo hallará refugio en su inocencia.'
+PRV014033 En el corazón del cuerdo reposa la sabiduría, que se hace sentir aun entre necios.
+PRV014034 La justicia engrandece a las naciones; el pecado es la decadencia de los pueblos.'
+PRV014035 Al ministro inteligente da el rey su favor; al inepto, su desprecio.'
+PRV015001 Una respuesta blanda calma la ira; una palabra áspera enciende la cólera.'
+PRV015002 La lengua del sabio hace estimable la doctrina; la boca del necio no dice más que sandeces.'
+PRV015003 Los ojos de Yahvé están en todas partes, observando a los malos y a los buenos.
+PRV015004 La lengua blanda es árbol de vida; la áspera hiere el corazón.'
+PRV015005 El insensato desprecia la corrección paterna; obra prudentemente el que la atiende,'
+PRV015006 En la casa del justo reina la abundancia; en las rentas del impío, la turbación.'
+PRV015007 Los labios del sabio derraman sabiduría; no así el corazón del necio.'
+PRV015008 Yahvé abomina el sacrificio del impío y se agrada en la oración del justo.
+PRV015009 Aborrece Yahvé el camino del impío, pero ama al que sigue la justicia.
+PRV015010 Molesta la corrección al que va por mal camino, pero el que aborrece la corrección morirá.
+PRV015011 Están delante de Yahvé el “seol” y el averno, cuánto más los corazones de los hombres!
+PRV015012 El pe-Bulante no quiere que le corrijan; por eso no va con los sabios.'
+PRV015013 Corazón alegre hace buena cara, pero la pena del corazón abate el alma.
+PRV015014 El corazón prudente busca la sabiduría, pero la boca del necio se complace en la necedad.
+PRV015015 Los días del pobre todos son tristes, pero la alegría del corazón es un perenne banquete.
+PRV015016 Mejor es poco en el temor de Yahvé que muchos tesoros en la turbación.
+PRV015017 Mejor comer legumbres donde hay amor que comer buey cebado donde hay odio.
+PRV015018 El iracundo promueve contiendas; el que tarde se enoja aplaca las rencillas.'
+PRV015019 El camino del perezoso es seto de espinas; el sendero de los rectos es llano.'
+PRV015020 El hijo sabio es la gloria de su padre; el necio, la vergüenza de su madre.'
+PRV015021 Al falto de sentido le agrada la necedad, pero el hombre prudente endereza sus caminos.
+PRV015022 Frústranse los planes donde no hay consejo, pero se logran por el consejo de muchos.
+PRV015023 Gusta saber qué responder, y la palabra dicha a tiempo, ¡cuánto bien hace!
+PRV015024 El inteligente va hacia arriba por el camino de la vida, para apartarse del sepulcro abajo.
+PRV015025 Asóla Yahvé la casa del soberbio y afirma los linderos de la viuda.
+PRV015026 Son abominables a Yahvé los pensamientos del malo y le son gratas las palabras limpias.
+PRV015027 Perturba su casa el codicioso, pero el que aborrece las dádivas vivirá.
+PRV015028 El corazón del justo medita la respuesta, pero la boca del impío echa fuera su maldad.
+PRV015029 Lejos de los impíos está Yahvé, mas oye la oración del justo.
+PRV015030 Rostro radiante alegra corazones, y una buena nueva conforta los huesos.
+PRV015031 Oreja que escucha la corrección saludable tendrá su puesto entre los sabios.
+PRV015032 El que tiene en poco la corrección menosprecia su alma; el que la escucha adquiere entendimiento.'
+PRV015033 El temor de Yahvé es enseñanza de sabiduría, y a la honra precede la sumisión.
+PRV016001 Del hombre es preparar la mente, pero es Yahvé quien da la respuesta de la lengua.
+PRV016002 Al hombre le parecen buenos todos sus caminos, pero es Yahvé quien pesa las almas.
+PRV016003 Encomienda a Yahvé todos tus afanes, y se te lograrán tus pensamientos.
+PRV016004 Todo lo ha hecho Yahvé para sus fines, aun al impío para el día malo,
+PRV016005 Aborrece Yahvé al de altivo corazón; pronto o tarde, no quedará sin castigo.'
+PRV016006 Con misericordia y verdad se repara el pecado, con el temor de Yahvé se aparta el hombre del mal.
+PRV016007 Cuando los caminos del hombre son gratos a Yahvé, aun a los enemigos se concilia.
+PRV016008 Mejor es poco en justicia que muchas rentas en injusticia.
+PRV016009 Traza el corazón del hombre sus caminos, pero es Yahvé quien dirige sus pasos.
+PRV016010 Un oráculo son los labios del rey; en el juicio no se equivoca su boca.'
+PRV016011 Peso justo y balanza justa son de Yahvé, y obra suya son las pesas de la bolsa
+PRV016012 Abominable es que los reyes hagan impiedad, pues por la justicia se afirman los tronos.
+PRV016013 Agradan al rey los labios veraces, y ama al que habla rectamente.
+PRV016014 La cólera del rey es heraldo de la muerte; el hombre sabio lo apacigua.'
+PRV016015 En la alegría del rostro del rey está la vida; su favor es como nube preñada de lluvia primaveral.'
+PRV016016 Mejor adquirir sabiduría que adquirir oro; tener inteligencia vale más que tener plata.'
+PRV016017 El camino derecho es apartarse del mal; guarda su alma el que guarda su camino.'
+PRV016018 La soberbia es heraldo de la ruina, y la altivez de corazón, de la caída.
+PRV016019 Mejor es humillar el corazón con los humildes que partir con los soberbios los despojos.
+PRV016020 El que pone atención a la palabra hallará el bien, y quien confía en Yahvé es bienaventurado.
+PRV016021 El sabio de corazón es tenido por sensato, y la blandura de los labios hace eficaz la doctrina.
+PRV016022 Fuente de vida es la sabiduría para quien la tiene, y es castigo del necio la necedad.
+PRV016023 El corazón del sabio hace disertar su boca y con sus labios avalora su doctrina.
+PRV016024 Panal de miel son sus suaves sentencias; dulzura del alma y medicina de los huesos.'
+PRV016025 Hay caminos que al hombre le parecen derechos, pero a su fin son caminos de muerte.
+PRV016026 El que trabaja, para sí trabaja, pues su boca le estimula.
+PRV016027 El impío se cava la fosa, y hay en sus labios como llama de fuego.
+PRV016028 El perverso excita contiendas, y el chismoso aparta a los amigos.
+PRV016029 El hombre malo lisonjea a su prójimo y le lleva por caminos no buenos.
+PRV016030 El que hace guiños con los ojos, maquina engaños, y el que aprieta los labios ha hecho ya el mal.
+PRV016031 Gloriosa corona es la canicie; es por el camino de la justicia como se obtiene.'
+PRV016032 Mejor que el fuerte es el paciente, y el que sabe dominarse vale más que el que expugna una ciudad.
+PRV016033 En el seno se echan las suertes, pero es Yahvé quien da la decisión.
+PRV017001 Mejor es un pedazo de pan seco en paz que la casa llena de carne de víctimas y de contiendas.
+PRV017002 El siervo inteligente se impondrá al hijo deshonroso y heredará con sus hermanos.
+PRV017003 El crisol para la plata, la hornaza para el oro, mas los corazones los prueba Yahvé.
+PRV017004 El malo escucha al maledicente, y el mentiroso da oídos a la lengua mordaz.
+PRV017005 El que insulta al pobre insulta a su Hacedor, y el que se goza del mal ajeno no quedará impune.
+PRV017006 Corona del anciano son los hijos y los nietos, y los hijos honra de los padres.
+PRV017007 No está bien al necio la grandilocuencia; cuánto menos al príncipe la mentira.'
+PRV017008 Piedra de encanto es el presente a los ojos de quien lo posee; adondequiera que se vuelva, cree tener buen éxito.'
+PRV017009 El que quiere amistad encubre las faltas; el que las descubre se enajena el amigo.'
+PRV017010 Más efecto le hace al sensato un reproche que cien azotes al necio.
+PRV017011 El malvado no busca más que la rebeldía, mas recibirá un cruel mensaje.
+PRV017012 Mejor es dar con una osa a quien han arrebatado la cría, que con un necio en el frenesí de su necedad.
+PRV017013 El que devuelve mal por bien no verá alejarse la desventura de su casa.
+PRV017014 Comenzar la pendencia es dar suelta a las aguas; deja la porfía antes que se encrespe.'
+PRV017015 Quien absuelve al reo y quien condena al inocente, ambos son abominables a Yahvé.
+PRV017016 ¿De qué sirve el oro en manos del necio? Pudiera comprar la sabiduría, pero no tiene juicio”
+PRV017017 El amigo ama en todo tiempo; es un hermano en el día de la desventura”
+PRV017018 Es necio el que estrecha la mano empeñándose por otro.
+PRV017019 Ama el delito quien ama las riñas; el de boca arrogante busca su ruina.'
+PRV017020 El de perverso corazón no hallará bien, y la lengua mendaz incurrirá en el mal.
+PRV017021 El que engendra a un necio, para su mal le engendra; el padre del necio no gozará de alegría.'
+PRV017022 Corazón alegre hace buen cuerpo; la tristeza seca los huesos.'
+PRV017023 El inicuo acepta dádivas para torcer el derecho.
+PRV017024 El cuerdo tiene ante los ojos la sabiduría; los ojos del necio se van hasta los confines de la tierra.'
+PRV017025 El hijo necio es el tormento de su padre y la amargura de la que le engendró.
+PRV017026 No está bien multar al que tiene la razón, pero menos aún castigar a gente honrada contra justicia.
+PRV017027 Es parco en palabras quien tiene la sabiduría, y el hombre sensato es de sangre fría.
+PRV017028 Aun el necio, si calla, pasará por sabio, y por prudente si cierra los labios.
+PRV018001 Busca pretextos el que quiere separarse, por todos los medios busca la ruptura.
+PRV018002 Al necio no le agrada la prudencia, sino sólo propalar sus necedades.
+PRV018003 Con la impiedad viene la deshonra; con la deshonra, la vergüenza.'
+PRV018004 Aguas profundas son las palabras del hombre; arroyo surtidor la fuente de la sabiduría.'
+PRV018005 No está bien tener acepción del rostro del impío para perjudicar al justo en la sentencia.
+PRV018006 Los labios del necio mueven contiendas, y su boca llama los azotes.
+PRV018007 La boca del sabio es su ruina, y sus labios lazo para su vida.
+PRV018008 Las palabras del chismoso parecen dulces, y llegan hasta lo más hondo de las entrañas.
+PRV018009 El que es negligente en su labor es hermano del derrochador.
+PRV018010 Torre fuerte es el nombre de Yahvé; a ella se acogerá el justo y estará seguro.'
+PRV018011 La riqueza es para el rico fuerte ciudadela; le parece una alta muralla.'
+PRV018012 Antes de la caída se exalta el corazón del hombre, y a la gloria precede la humillación.
+PRV018013 El que antes de haber escuchado responde, es tenido por fatuo para•oprobio suyo.
+PRV018014 El ánimo del hombre le sostiene en su aflicción; pero ¿quién sostendrá el ánimo abatido?'
+PRV018015 El corazón del sensato adquiere sabiduría, y la oreja del sabio busca la enseñanza.
+PRV018016 Las dádivas abren camino al hombre y le dan entrada a los grandes.
+PRV018017 Parece tener razón el que primero expone su causa, pero viene su adversario y le descubre.
+PRV018018 La suerte pone fin a los pleitos y decide entre los grandes.
+PRV018019 Hermano ofendido es como una ciudad fuerte, y sus litigios son cerrojos de fortaleza.
+PRV018020 Cada uno llena el vientre de los frutos de su boca, y se saca del fruto de sus labios.
+PRV018021 La muerte y la vida están en poder de la lengua; cual sea el uso que de ella hagas, tal será el fruto.'
+PRV018022 El que halla una buena mujer, halla un tesoro, ha recibido un gran favor de Yahvé.
+PRV018023 El pobre habla suplicante; el rico responde duramente.'
+PRV018024 Hay amigos que sólo son para hacer compañía, pero los hay más afectos que un hermano.
+PRV019001 Mejor es el pobre que anda en sencillez de corazón que el de labios perversos y fatuo.
+PRV019002 Ya el carecer de reflexión no es cosa buena, pero el que además es precipitado en el obrar la yerra.
+PRV019003 La necedad del hombre tuerce sus caminos, y luego le echa la culpa a Yahvé.
+PRV019004 La riqueza allega muchos amigos, pero al pobre sus amigos lo abandonan.
+PRV019005 Testigo falso no quedará sin castigo, y el que esparce la mentira no escapará.
+PRV019006 Al dadivoso le hacen muchos la rueda; todos son amigos del que da.'
+PRV019007 Al pobre aun sus hermanos le aborrecen, ¡cuánto más le dejarán los amigos! El que cultiva demasiadas amistades, lo pagará, como el que corre tras lo que no está a su alcance.
+PRV019008 El que adquiere inteligencia se hace bien a sí mismo; el que guarda el entendimiento hablará bien.'
+PRV019009 El que en falso atestigua no quedará impune, y el que esparce la mentira perecerá.
+PRV019010 No están bien al necio los deleites; cuánto menos a un esclavo mandar a príncipes!'
+PRV019011 La cordura del hombre detiene su cólera, y es honroso disimular una ofensa.
+PRV019012 Rugido de león es la ira del rey; su favor, como rocío sobre la hierba.'
+PRV019013 El hijo necio es el tormento de su padre, y gotera continua la mujer quisquillosa.
+PRV019014 Casa y hacienda herencia son de los padres, pero una mujer prudente es don de Yahvé.
+PRV019015 La pereza trae el sueño, y el haragán hambreará.
+PRV019016 El que guarda el precepto, a sí mismo se guarda; el que menosprecia sus caminos morirá.'
+PRV019017 A Yahvé presta el que da al pobre; El le dará su recompensa.'
+PRV019018 Castiga a tu hijo, porque siempre hay esperanza; pero no te excites hasta destruirle.'
+PRV019019 El que mucho se aira pagará la pena, y más aún si muestra desprecio.
+PRV019020 Escucha el consejo y acoge la corrección, para hacerte así sabio en lo futuro.
+PRV019021 Muchos proyectos hay en la mente del hombre, pero es el consejo de Yahvé el que permanece.
+PRV019022 La misericordia es al hombre provechosa, y mejor es ser pobre que mentiroso.
+PRV019023 El temor de Yahvé lleva a la vida; el que de El está lleno no será visitado por la desventura.'
+PRV019024 Mete el perezoso su mano en el plato, ni para llevársela a la boca la sacará.
+PRV019025 Castiga al petulante, y se hará cuerdo el inexperto; reprende al sensato, y ganará en saber.'
+PRV019026 El que maltrata a su padre y ahuyenta a su madre es un hijo infame y deshonroso.
+PRV019027 Deja de escuchar la corrección, y te desviarás de los dictámenes de la prudencia.
+PRV019028 El testigo falso se burla de la justicia; la boca del impío se traga la iniquidad.'
+PRV019029 Los castigos son para los petulantes, y los azotes para las espaldas de los necios.
+PRV020001 El vino es petulante, y los licores, alborotadores; el que por ellos va haciendo eses no hará cosa buena,'
+PRV020002 Rugido de cachorro de león es la ira del rey; el que la provoca peca contra su vida,'
+PRV020003 Es honor para el hombre esquivar las contiendas, el insensato se mete en ellas.
+PRV020004 El perezoso no ara en invierno; va luego en busca de la cosecha, y nada halla.'
+PRV020005 Aguas profundas son los pensamientos del hombre, pero el cuerdo sabe sacarlas fuera.
+PRV020006 Muchos son los que a porfía se dan por amigos, pero ¿quién hallará el amigo fiel?
+PRV020007 El justo anda por caminos derechos; bienaventurados sus hijos después de él.'
+PRV020008 El rey sentado en su tribunal, con su mirar disipa el mal.
+PRV020009 ¿Quién puede decir: He limpiado mi corazón, estoy limpio de pecado?
+PRV020010 Peso falso y falsa medida son abominables a Yahvé.
+PRV020011 Aun el niño da a conocer por sus acciones si su obra será luego recta y justa.
+PRV020012 El oído que oye y el ojo que ve, son ambos obra de Yahvé.
+PRV020013 No ames el sueño, por que no te empobrezcas; abre el ojo y tendrás pan en abundancia.'
+PRV020014 “Malo, malo,” dice el que compra; mas en apartándose se alaba.'
+PRV020015 Hay oro, hay piedras preciosas; los labios del sabio son vaso precioso.'
+PRV020016 Quítale la ropa al que salió fiador por un extraño; retén la prenda del que a extraños fió.'
+PRV020017 Es sabroso al hombre el pan mal adquirido, pero después se halla la boca llena de cascajo.
+PRV020018 Asegura tus designios con el consejo, y haz la guerra con mucha reflexión.
+PRV020019 El chismoso no guarda los secretos; no te entremetas con el suelto de lengua.'
+PRV020020 El que maldice a su padre o a su madre verá extinguirse su lámpara en oscuridad tenebrosa.
+PRV020021 Lo pronto y aprisa adquirido no será bendecido.
+PRV020022 No digas: “Devolveré mal por mal”; confía en Yahvé, que El te salvará.'
+PRV020023 Peso falso es abominable a Yahvé, y falsa balanza no está bien.
+PRV020024 De Yahvé son los pasos del hombre. ¿Qué puede saber el hombre de sus propios destinos?
+PRV020025 Lazo es al hombre decir luego: “Consagrado,” para andar después pesquisando sobre el voto.
+PRV020026 El rey sabio disipa a los impíos y hace tornar sobre ellos la rueda”
+PRV020027 Candela de Yahvé es el espíritu del hombre que escudriña los escondrijos de las entrañas.
+PRV020028 Bondad y fidelidad guardan al rey, y la justicia sostiene los tronos.
+PRV020029 La fortaleza es la gloria de los jóvenes; el ornamento de los ancianos, la canicie.'
+PRV020030 Las señales del azote son medicina contra el mal, y sus llagas llegan a lo más íntimo del corazón.
+PRV021001 Arroyo de agua es el corazón del rey en mano de Yahvé, que El dirige a donde le place.
+PRV021002 Al hombre siempre le parecen buenos sus caminos, pero es Yahvé quien pesa los corazones.
+PRV021003 Haz justicia y juicio; que eso es más grato a Yahvé que el sacrificio.'
+PRV021004 Ojos altivos, corazón soberbio, la lámpara de los impíos, son pecado.
+PRV021005 Los designios del diligente prosperan, más para el precipitado todo son pérdidas.
+PRV021006 Allegar tesoros con lengua mentirosa es una desatentada vanidad y lazo mortal,
+PRV021007 La rapiña del impío será su destrucción por no haber querido hacer justicia.
+PRV021008 El camino del perverso es tortuoso y desviado, pero el del justo es derecho.
+PRV021009 Mejor es vivir en un rincón del desván que en cómoda casa con mujer quisquillosa.
+PRV021010 El alma del impío desea hacer el mal, no perdona ni a su amigo.
+PRV021011 Por el castigo del petulante aprende el inexperto; el sabio de la corrección saca ciencia.'
+PRV021012 El justo ve la caída del impío y cómo son trastornados por la desventura.
+PRV021013 El que cierra sus oídos al clamor del pobre, tampoco cuando él clame hallará respuesta.
+PRV021014 El presente en secreto aplaca el furor, y el don en el seno la fuerza.
+PRV021015 Alegra al justo que se haga justicia, pero al malhechor le aterra.
+PRV021016 El que se aparta del camino de la sabiduría vendrá a parar en la compañía de los muertos.
+PRV021017 Vendrá a parar en la miseria el que ama los deleites, y el que ama el vino y los perfumes no se enriquecerá.
+PRV021018 El rescate del justo es el impío; el de los rectos, el prevaricador.'
+PRV021019 Mejor es vivir en un desierto que con mujer rencillosa e iracunda.
+PRV021020 Codiciable y pingüe tesoro hay en la casa del justo, pero el necio lo disipa.
+PRV021021 El que hace justicia y misericordia hallará vida y honor.
+PRV021022 El sabio expugna la ciudad fuerte y destruye la fuerza en que se apoya.
+PRV021023 El que guarda su boca y su lengua se preserva de la angustia.
+PRV021024 Insolente es el nombre del soberbio y presuntuoso, que obra con orgullo excesivo.
+PRV021025 Los deseos matan al haragán, porque sus manos no quieren trabajar.
+PRV021026 Hay quien está siempre codiciando, pero el justo da con largueza.
+PRV021027 Abominable es el sacrificio del impío, sobre todo si lo ofrece con mala intención.
+PRV021028 El testigo falso perecerá; el hombre que dice verdad mantiene su palabra.'
+PRV021029 El impío hace cara dura, pero el justo conoce su camino.
+PRV021030 No hay sabiduría, no hay cordura, no hay consejo contra Yahvé.
+PRV021031 Apréstese el caballo para el día del combate, pero la victoria es de Yahvé.
+PRV022001 Más que las riquezas vale el buen nombre; más que la plata y el oro, la buena estima.'
+PRV022002 El rico y el pobre se encuentran, pero al uno y al otro los hizo Yahvé.
+PRV022003 El cuerdo ve el peligro y se esconde, pero el necio sigue adelante y la paga.
+PRV022004 Riquezas, honra y vida son premio de la humildad y del temor de Yahvé.
+PRV022005 Espinas y lazos hay en el camino del impío; el que guarda su alma se aleja de él.'
+PRV022006 Instruye al niño en su camino, que aun de viejo no se apartará de él.
+PRV022007 El rico señorea sobre el pobre, y el que toma prestado es siervo del que le presta.
+PRV022008 El que siembra iniquidad cosecha desventura, y todos sus afanes son vanos.
+PRV022009 El hombre generoso es bendecido, porque da al pobre, de su pan.
+PRV022010 Arroja al petulante y se acabará la contienda, y cesará el pleito y la afrenta.
+PRV022011 Ama Yahvé a los de puro corazón, y agrada al rey la gracia en el decir.
+PRV022012 Los ojos de Yahvé protegen al justo y trastornan los planes del perverso.
+PRV022013 Dice el perezoso: “Fuera hay un león que me mataría en medio del camino.”
+PRV022014 Sima profunda es la boca de la extraña; aquel que es odioso a Yahvé cae en ella.'
+PRV022015 La necedad se esconde en el corazón del niño; la vara de la corrección le hace salir de él.'
+PRV022016 Oprimir al pobre es para provecho suyo; dar al rico es tirarlo.'
+PRV022017 Da oído y escucha las palabras del sabio y aplica tu corazón a la enseñanza.
+PRV022018 Pues te será dulce conservarla en tu pecho y tenerla pronta en tus labios.
+PRV022019 Para que pongas en Yahvé tu confianza te señalo hoy tus caminos.
+PRV022020 ¿No te he escrito treinta (sentencias), en que se encuentran consejos inteligentes,
+PRV022021 palabras sinceras para enseñarte verdad, para que sepas responder a quien te pregunte?
+PRV022022 No robes al pobre porque es pobre, ni quebrantes en las puertas al desvalido,
+PRV022023 porque Yahvé defenderá su causa y despojará a los que le despojan.
+PRV022024 No te acompañes del iracundo ni te vayas con el colérico,
+PRV022025 para que no aprendas sus maneras y no pongas lazos a tu vida.
+PRV022026 No seas de los que dan la mano y salen fiadores de un deudor;'
+PRV022027 pues, si no tienes con qué pagar, te quitarán de debajo de ti la cama.
+PRV022028 No traslades los linderos antiguos que pusieron tus padres.
+PRV022029 ¿Has visto a uno solícito en sus cosas? Pues ante los reyes estará, no quedará entre gente oscura.
+PRV023001 Cuando te sientes a la mesa de un señor, mira bien a quién tienes delante;'
+PRV023002 y pon un cuchillo a tu garganta si sientes mucho apetito.
+PRV023003 No codicies sus manjares delicados, porque es pan engañoso.
+PRV023004 No te empeñes en hacerte rico; pon coto a tu ambición.'
+PRV023005 Pones en ello tus ojos y desaparece luego, pues toma luego el vuelo y, como águila, se remonta al cielo.
+PRV023006 No comas con el avaro ni codicies sus manjares.
+PRV023007 Porque él no piensa más que en sí. “Come, bebe,” te dirá, pero su corazón no está contigo.
+PRV023008 Y vomitarás el bocado que comiste, y habrás perdido tus blandas palabras.
+PRV023009 No hables a oídos del necio, que despreciará tus sensatas razones.
+PRV023010 No traslades los antiguos linderos ni te metas en la heredad de los huérfanos,
+PRV023011 porque su defensor es fuerte, que sentenciará por ellos contra ti.
+PRV023012 Aplica tu corazón a la enseñanza, y tus oídos a las palabras de los sabios.
+PRV023013 No ahorres a tu hijo la corrección, que porque le castigues con la vara no morirá;'
+PRV023014 hiriéndole con la vara, librarás su alma del sepulcro.
+PRV023015 Hijo mío, si eres sabio, se alegrará mi corazón;'
+PRV023016 y se alegrarán mis entrañas si tus labios hablan cosas rectas.
+PRV023017 No envidies a los pecadores, antes persevera siempre en el temor de Yahvé;'
+PRV023018 porque ciertamente tendrás un porvenir, no verás defraudada tu esperanza.
+PRV023019 Óyeme, hijo mío, y sé sabio, y endereza tu corazón por buen camino.
+PRV023020 No te vayas con los bebedores de vino ni con los comedores de carne.
+PRV023021 Porque el bebedor y el comilón empobrecerán, y el sueño hará vestir andrajos.
+PRV023022 Escucha a tu padre, al que te engendró, y cuando envejeciere tu madre no la desprecies.
+PRV023023 Compra verdad y no la vendas, sabiduría, instrucción e inteligencia.
+PRV023024 Mucho se alegrará el padre del justo, y el que engendró a un sabio se gozará en él.
+PRV023025 Alégrense, pues, tu padre y tu madre y gócese la que te engendró.
+PRV023026 Dame, hijo mío, tu corazón y pon tus ojos en mis caminos.
+PRV023027 Sima profunda es la ramera, y pozo estrecho la extraña.
+PRV023028 También ella, como el ladrón, está al acecho. y multiplica entre los hombres los prevaricadores.
+PRV023029 ¿A quién los ayes, a quién los lamentos? ¿A quién las contiendas, a quién las quejas? ¿A quién los palos por nada? ¿A quién los ojos hinchados?
+PRV023030 A quien se para mucho ante el vino, a los que se van en busca de la mixtura.
+PRV023031 No mires mucho al vino cuando rojea y cuando espuma en el vaso; éntrase suavemente,'
+PRV023032 pero al fin muerde como sierpe y pica como áspid.
+PRV023033 Y tus ojos verán cosas extrañas y hablarás sin concierto.
+PRV023034 Te parecerá estar acostado en medio del mar y estar durmiendo en la copa de un árbol.
+PRV023035 (Dirás:) “Me han pegado, y no me ha dolido; me han pisoteado, y no lo he sentido. Cuando me despierte, volveré a buscarlo.”
+PRV024001 No tengas envidia del malvado ni desees ponerte en su lugar,
+PRV024002 porque su corazón maquina la ruina, y sus labios no hablan más que para dañar.
+PRV024003 Con la sabiduría se edifica la casa y con la prudencia se afirma;'
+PRV024004 con la ciencia se hinchan sus cámaras de todo lo más preciado y deleitoso.
+PRV024005 Hace más el sabio que el valiente, el hombre de ciencia más que el fuerte;'
+PRV024006 porque con estratagemas se hace la guerra, y la victoria está en la muchedumbre de los consejeros.
+PRV024007 Demasiado sublime es para el necio la sabiduría; no abrirá su boca en las puertas.'
+PRV024008 El que maquina el mal será llamado hombre de malos pensamientos.
+PRV024009 El pensamiento del necio es el pecado, y es abominable a los hombres el petulante.
+PRV024010 Si eres flojo en el tiempo bueno, ¿qué fuerza tendrás en el día de la desventura?
+PRV024011 Libra al que es llevado a la muerte; al que está en peligro de muerte sálvale.'
+PRV024012 Que si luego dijeres: “No lo sabía,” ¿no lo sabrá el que pesa los corazones? Bien lo sabe el que vela por tu vida, y dará a cada uno según su merecido.
+PRV024013 Come miel, hijo mío, que es buena, y el panal es muy dulce al paladar.
+PRV024014 Así es, sábelo, la sabiduría para tu alma; si la adquieres, tendrás buen porvenir, y tu esperanza no quedará incumplida.'
+PRV024015 No aceches, ¡oh impío! la morada del justo, no saquees su casa;'
+PRV024016 pues el justo, si siete veces cae, siete se levanta; pero el impío sucumbirá en la desventura.'
+PRV024017 No te goces en la ruina de tu enemigo, no se alegre tu corazón al verle sucumbir;'
+PRV024018 no lo vea Dios y le desagrade y aparte de sobre él su ira.
+PRV024019 No te entrometas con los perversos, no tengas envidia del impío;'
+PRV024020 porque el impío no tendrá buen fin, y la lámpara del malvado será apagada.
+PRV024021 Teme, hijo mío, a Yahvé y al rey y no te unas a los veleidosos,
+PRV024022 porque de improviso viene sobre ellos la perdición, y el disfavor de entrambos, ¿quién lo conoce?
+PRV024023 También éstas son sentencias de los sabios. No está bien tener acepción de personas en el juicio.
+PRV024024 Al que dice al culpable: “Tú tienes la razón,” le detesta el pueblo y le maldicen las gentes;'
+PRV024025 pero al que rectamente juzga, todo le va bien, y sobre él desciende fausta bendición.
+PRV024026 Da un beso en los labios quien da una buena respuesta.
+PRV024027 Dispon tu obra de fuera y prepáratela en el campo; luego la meterás en casa.'
+PRV024028 No testifiques de ligero contra el prójimo; ¿quieres, acaso, engañar con tus labios?'
+PRV024029 No digas: “Como me ha tratado a mí, le trataré yo a él y le daré lo que se merece.”
+PRV024030 Pasé junto al campo del perezoso y junto a la viña del insensato,
+PRV024031 y todo eran cardos y ortigas, que habían cubierto su superficie; y su cerca de piedra estaba destruida.'
+PRV024032 A su vista me puse a reflexionar; aquello fue para mí una lección.'
+PRV024033 Un poco dormir, un poco cabecear; otro poco mano sobre mano descansando.'
+PRV024034 Y sobreviene como correo la miseria, y como ladrón la indigencia.
+PRV025001 También éstas son sentencias de Salomón el rey, coleccionadas por los varones de Ezequías, rey de Judá.
+PRV025002 Gloria de Dios es encubrir las cosas, y honra del rey escudriñarlas.
+PRV025003 Como la altura del cielo y la profundidad de la tierra, así es insondable el corazón del rey.
+PRV025004 Despoja de escorias a la plata, y el platero podrá hacer su obra.
+PRV025005 Aparta al inicuo del lado del rey, y con la justicia se afirmará su trono.
+PRV025006 No te alabes en la presencia del rey y no te sientes en la silla de los grandes.
+PRV025007 Pues mejor es que te digan “Sube acá” que tener que ceder tu puesto a otro más grande. Lo que han visto tus ojos,
+PRV025008 no lo hagas en seguida objeto de litigio; pues ¿qué harás luego, cuando venga tu adversario y te ponga en evidencia?'
+PRV025009 Defiende tu pleito contra tu adversario, pero no descubras el secreto de otro,
+PRV025010 a fin de que no pueda infamarte quien te escucha, sin que tenga remedio tu deshonra.
+PRV025011 Fruto de oro en plato de plata es la palabra dicha a tiempo.
+PRV025012 Zarcillo de oro y collar de plata es un sabio amonestador para el oído dócil.
+PRV025013 Frío de nieve en el calor de la siega es el mensajero fiel para quien le manda, I que refresca el ánimo de su señor.
+PRV025014 Nube y viento sin lluvia es el hombre que se jacta de vana liberalidad.
+PRV025015 Con longanimidad se aplaca el príncipe, y la lengua suave ablanda los huesos.
+PRV025016 Si encuentras miel, come lo suficiente; no te hartes y tengas que vomitarla.'
+PRV025017 Pon rara vez tu pie en la casa del vecino, no se harte de ti y te aborrezca.
+PRV025018 Maza, espada y aguda saeta es el hombre que testifica en falso contra su prójimo.
+PRV025019 Como diente quebrado y pie que resbala es la confianza en el impío en el tiempo de la angustia (y como el que se quita la ropa en día de frío).
+PRV025020 Echar vinagre sobre el natrón es cantar canciones al corazón afligido. (Como la polilla en el vestido o la carcoma en la madera, así la tristeza hace daño al corazón.)
+PRV025021 Si tu enemigo tiene hambre, dale de comer; si tiene sed, dale de beber;'
+PRV025022 pues así echas ascuas sobre su cabeza, y Yahvé te lo pagará.
+PRV025023 El viento norte ahuyenta la lluvia; rostro airado, la lengua detractora.'
+PRV025024 Mejor es estar en un rincón del desván que con mujer rencillosa en casa espaciosa.
+PRV025025 Agua fresca en la boca del sediento es la buena nueva que viene de lejanas tierras.
+PRV025026 Fuente turbia y manantial infecto es el justo que cede ante el impío.
+PRV025027 No hace bien comer demasiada miel y no es honroso buscar la propia gloria.
+PRV025028 Ciudad desmantelada y sin murallas es el que no tiene dominio de sí mismo.
+PRV026001 Como nieve en el verano y lluvia en la siega, así conviene al necio la honra.
+PRV026002 Como pájaro vago y como golondrina que vuela es la imprecación sin motivo, no se cumple.
+PRV026003 Para el caballo el látigo, la cabezada para el asno” la vara para las espaldas del necio.
+PRV026004 No respondas al necio según su necedad, para no hacerte como él.
+PRV026005 Responde al necio como merece su necedad, para que no se tenga por sabio.
+PRV026006 Sus pies se corta y daños sufre el que envía un mensaje por mano de un necio.
+PRV026007 Como cojean las piernas del cojo, así el proverbio en la boca del necio.
+PRV026008 Como quien liga la piedra en la honda, así es el que hace honor al necio.
+PRV026009 Como rama de espino en mano de un borracho, así es el proverbio en la boca del necio.
+PRV026010 Como saeta que hiere a cualquiera que pasa, así al que asalaria al necio y al borracho.
+PRV026011 Como perro que vuelve a su vómito es el necio que repite sus necedades.
+PRV026012 ¿Has visto a uno que se cree sabio? Más puedes esperar del necio que de él.
+PRV026013 Dice el perezoso: “En el camino hay una fiera, un león en la plaza.”
+PRV026014 Las puertas giran en sus quicios, y el perezoso en su lecho.
+PRV026015 El perezoso mete la mano en el seno y se cansa aun para llevársela a la boca.
+PRV026016 El perezoso se cree sabio más que siete que sepan responder.
+PRV026017 Coger a un perro por las orejas es entrometerte en un pleito que no te importa.
+PRV026018 Como el loco que lanza llamas y saetas mortíferas,
+PRV026019 tal es el hombre que daña a su amigo y dice después: “Lo hice por broma.”
+PRV026020 Por falta de leña se apaga el fuego, y donde no hay chismoso cesa la contienda.
+PRV026021 Como el carbón a las brasas y la leña al fuego, así es el chismoso para encender contiendas.
+PRV026022 Las palabras del chismoso son bocado suave, que baja hasta el fondo de las entrañas.
+PRV026023 Baño de plata sobre vasija de barro son los labios lisonjeros y corazón malvado.
+PRV026024 El que aborrece se enmascara con los labios, pero dentro lleva la traición.
+PRV026025 Cuando te habla amigablemente, no le creas, porque lleva siete abominaciones dentro del corazón.
+PRV026026 Con doblez esconde su rencor, pero su malicia será descubierta en la asamblea.
+PRV026027 El que cava la fosa cae dentro de ella, y al que rueda vina piedra se le viene encima.
+PRV026028 La lengua mentirosa produce muchos males y la boca lisonjera hace resbalar.
+PRV027001 No te jactes del día de mañana, pues no sabes lo que dará de sí.
+PRV027002 Que te alabe el extraño, no tu boca; el ajeno, no tus labios.'
+PRV027003 Pesada es la piedra, pesada la arena, pero la ira del necio es más pesada que ambas cosas.
+PRV027004 Cruel es la ira, furiosa la cólera, pero ¿quién podrá parar ante la envidia?
+PRV027005 Mejor es una abierta reprensión que un amor encubierto.
+PRV027006 Leales son las heridas hechas por quien ama, pero los besos del que aborrece son engañosos.
+PRV027007 El harto pisotea la miel, pero al hambriento le es dulce lo amargo.
+PRV027008 Como pajarillo fuera de su nido es el hombre fuera de su patria.
+PRV027009 El perfume y el incienso alegran el corazón, y el consejo y la ciencia son la delicia del alma.
+PRV027010 No dejes al amigo, ni al amigo de tu padre, y no tendrás que ir a casa de tu hermano en el día de la desventura. Mejor es vecino cercano que hermano lejano.
+PRV027011 Sé sabio, hijo mío, y compláceme, para que pueda yo responder a quien me moteja.
+PRV027012 El prudente ve el peligro y se esconde, el simple sigue adelante y la paga.
+PRV027013 Cógele el vestido por haber salido fiador de otro y retén la prenda a quien fió a un extraño.
+PRV027014 Al que saluda a voces al vecino de madrugada, por maldición se le cuenta.
+PRV027015 Gotera incesante en día de lluvia y mujer rencillosa, allá se van;'
+PRV027016 quien quiere contenerla pretende parar el viento o coger aceite con su diestra.
+PRV027017 El hierro, con el hierro se aguza, y el hombre aguza a su prójimo.
+PRV027018 El que guarda la higuera comerá su fruto y el que atiende a su señor recibirá de él honores.
+PRV027019 Como se parece un agua a otra agua, así el corazón de un hombre al de otro.
+PRV027020 El “seol” y el averno no se llenan nunca; así el ojo del hombre no se sacia jamás.'
+PRV027021 Como el cristal para la plata y la hornaza para el oro, así es para el hombre la boca del que le alaba.
+PRV027022 Aunque majes al necio en el mortero con el pilón de machacar el trigo, no le sacarás de su necedad.
+PRV027023 Cuida bien de tu grey y pon atención a tus rebaños,
+PRV027024 pues no dura siempre la riqueza, ni la corona va de generación en generación.
+PRV027025 Sale el heno, aparece la verdura, siéganse las hierbas de los montes;'
+PRV027026 y los corderos te proporcionan vestidos, y los cabritos el precio de un campo,
+PRV027027 las cabras leche abundante para tu comida, para el mantenimiento de tu casa y para el sustento de tus criados.
+PRV028001 Huye el malvado sin que nadie le persiga, mas el justo va seguro como cachorro de león.
+PRV028002 Por los delitos de una tierra son muchos sus gobernantes, pero con uno inteligente y prudente dura largo tiempo.
+PRV028003 El perverso que oprime a los pobres es un torbellino huracanado, que no da pan.
+PRV028004 Los que abandonan la ley alaban al impío; los que la guardan le hacen la guerra.'
+PRV028005 Los malvados no conocen la justicia, pero el que busca a Yahvé lo sabe todo.
+PRV028006 Mejor es el pobre que anda en integridad que el rico de perversos caminos.
+PRV028007 El que guarda la ley es hijo prudente; el que se acompaña de glotones es vergüenza de su padre.'
+PRV028008 El que con usura y crecido interés aumenta sus caudales, para el que se apiada de los pobres lo allega.
+PRV028009 Es abominable la oración de aquel que se aparta de la ley.
+PRV028010 El que extravía a los rectos de la buena senda caerá en su propia sima, pero los perfectos heredarán el bien.
+PRV028011 El rico es sabio a sus propios ojos, pero el pobre inteligente sabe sondearle.
+PRV028012 Cuando prevalecen los justos, hay gran gloria; pero cuando se alzan los impíos se esconden los hombres.'
+PRV028013 El que oculta sus pecados no prosperará; el que los confiesa y se enmienda alcanzará misericordia.'
+PRV028014 Bienaventurado el hombre que persevera en el temor, pero el de duro corazón caerá en la desventura.
+PRV028015 León rugiente y oso hambriento es un mal príncipe a la cabeza de su pueblo.
+PRV028016 Un príncipe insensato multiplica las extorsiones, pero el que aborrece la rapiña alarga la vida.
+PRV028017 El hombre que derrama sangre corre al sepulcro sin que nadie le socorra.
+PRV028018 El que anda en integridad será salvo; el que va por senderos tortuosos, en alguno caerá.'
+PRV028019 El que labra la tierra tendrá pan abundante; el que se va con los ociosos se hartará de pobreza.'
+PRV028020 El hombre fiel será muy bendecido; el que de prisa se enriquece no lo hará sin culpa.'
+PRV028021 No es bueno tener acepción de personas, y por un pedazo de pan se peca.
+PRV028022 El malo se apresurará a hacerse rico, y no ve que le vendrá la pobreza.
+PRV028023 El que reprende hallará después mayor gracia que aquel que lisonjea con la lengua.
+PRV028024 El que roba a su padre o a su madre y dice que no es falta, es digno compañero de bandidos.
+PRV028025 El hombre codicioso suscita litigios, el que en Dios confía se sacia.
+PRV028026 El que en sí mismo confía es un necio, el queanda en sabiduría será salvo.
+PRV028027 El que da al pobre no tendrá pobreza, el que aparta de él sus ojos tendrá muchas maldiciones.
+PRV028028 Cuando están en auge los impíos, se esconde el hombre; mas, cuando son destruidos, se multiplican los justos.'
+PRV029001 El que reprendido endurece su cerviz, de repente será quebrantado sin remedio.
+PRV029002 Bajo el gobierno de los justos está contento el pueblo; cuando mandan los impíos, el pueblo suspira.'
+PRV029003 El que ama la sabiduría alegra a su padre; el que frecuenta rameras pierde su hacienda.'
+PRV029004 El rey con la justicia mantiene el Estado, pero el venal lo lleva a la ruina.
+PRV029005 El que adula a su prójimo tiende un lazo a los pies de éste.
+PRV029006 Bajo los pies del malvado hay una trampa, pero el justo canta alegremente.
+PRV029007 El justo reconoce el derecho de los humildes, pero al impío no se le da nada de él.
+PRV029008 Los petulantes sublevan la ciudad; los sabios calman la ira.'
+PRV029009 Si un sabio disputa con un necio, que se enoje, que se ría, no tendrá reposo.
+PRV029010 Los hombres sanguinarios odian al justo, pero a los justos no les da cuidado.
+PRV029011 El necio desfoga toda su ira, pero el sabio acaba por calmarla.
+PRV029012 El príncipe que da oídos a la mentira, tendrá ministros todos malos.
+PRV029013 El pobre y el usurero se encuentran; es Yahvé quien hace brillar los ojos de entrambos.'
+PRV029014 El rey que hace justicia a los humildes hace firme su trono para siempre.
+PRV029015 La vara y el castigo dan sabiduría; el muchacho consentido es la vergüenza de su madre.'
+PRV029016 Con el crecer de los malos crece la iniquidad, pero los justos verán su caída.
+PRV029017 Corrige a tu hijo y te dará contento, y hará las delicias de tu alma.
+PRV029018 Sin profecía el pueblo va desenfrenado; pero el que guarda la ley, dichoso él.'
+PRV029019 No con solas palabras se corrige el esclavo, porque entiende bien, pero de obedecer, nada.
+PRV029020 ¿Has visto un hombre precipitado en el hablar? Más esperanza que en él hay en el necio.
+PRV029021 El que acaricia a su siervo desde su infancia, al fin tendrá que arrepentirse.
+PRV029022 JE1 iracundo levanta contiendas, y el furioso muchas veces peca.
+PRV029023 La soberbia trae al hombre la humillación, pero el de humilde corazón es ensalzado.
+PRV029024 El encubridor del ladrón a sí mismo se odia, oye el conjuro y no lo denuncia.
+PRV029025 El temor del hombre es un lazo, pero el que teme a Yahvé está seguro.
+PRV029026 Muchos son los que buscan el favor del príncipe, pero el juicio de cada cual viene de Yahvé.
+PRV029027 El inicuo es horror para el justo, y horror para el malvado es el que obra rectamente.
+PRV030001 Dichos de Agur, hijo de Jaqué, de Masa, Dijo aquel varón: Mucho me he fatigado, ¡oh Dios! mucho me he fatigado, ¡oh Dios! y he perdido la esperanza.
+PRV030002 Porque soy un ignorante y menos que hombre, y no tengo inteligencia de hombre.
+PRV030003 Pero Dios me enseñó, y conocí la ciencia del Santo.
+PRV030004 ¿Quién subió a los cielos y bajó? ¿Quién encerró los vientos en su puño? ¿Quién ató las aguas en su manto? ¿Quién fijó los confines a la tierra? ¿Cómo se llama? ¿Y cómo se llama su hijo? ¿Lo sabes tú?
+PRV030005 Toda palabra de Dios es acrisolada, es el escudo de quien en El confía.
+PRV030006 No añadas nada a sus eloquios, por que no te reprenda y seas hallado mentiroso.
+PRV030007 Dos cosas te pido, no me las niegues antes de que muera.
+PRV030008 Tenme lejos de la mentira y del engaño y no me des ni pobreza ni riquezas. Dame aquello de que he menester.
+PRV030009 No sea que, harto, te desprecie y diga: “¿Quién es Yahvé?” O que, necesitado, robe y blasfeme del nombre de mi Dios.
+PRV030010 No calumnies al siervo ante su amo, no sea que te maldiga y hayas de sufrir el castigo.
+PRV030011 Hay quien maldice a su padre y no bendice a su madre.
+PRV030012 Hay quien se cree limpio y no ha limpiado su inmundicia.
+PRV030013 Hay quien mira con altanería y cuyos párpados son altivos.
+PRV030014 Hay gentes cuyos dientes son espadas, y cuchillos sus molares, para devorar a los pobres de la tierra y raer de entre los hombres a los menesterosos.
+PRV030015 Dos hijos tiene la sanguijuela: Dame, dame. Tres cosas hay que no se hartan y cuatro que nunca dicen: “Basta.”
+PRV030016 El “seol,” la matriz estéril, la tierra que no se harta de agua, y el fuego que nunca dice: “Basta.”
+PRV030017 Al que escarnece a su padre y pisotea el respeto de su madre, cuervos del valle le saquen los ojos y devórenle aguiluchos.
+PRV030018 Tres cosas me resultan maravillosas, y una cuarta que no llego a entender:
+PRV030019 el camino del águila en los aires, el rastro de la serpiente sobre la roca, el camino de la nave en medio del mar, y el rastro del hombre en la doncella.
+PRV030020 Este es el obrar de la mujer adúltera: después de haber comido se limpia la boca y dice: “Nada de mal he hecho.”
+PRV030021 Tres cosas hay que sublevan a la tierra y una cuarta que no puede sufrirse:
+PRV030022 siervo que llegue a dominar, necio que se ve harto de pan,
+PRV030023 desdeñada que llegue a encontrar marido y esclava que hereda a su señora.
+PRV030024 Cuatro cosas hay pequeñas en la tierra que son, sin embargo, más sabias que los sabios:
+PRV030025 la hormiga, pueblo nada fuerte, pero que se prepara su provisión en el verano;'
+PRV030026 el damán, pueblo nada esforzado, que se hace su cubil en las rocas;'
+PRV030027 la langosta, que no tiene rey, y, sin embargo, avanza en escuadrones;'
+PRV030028 el lagarto, que se toma con la mano, y, sin embargo, habita en los palacios de los reyes.
+PRV030029 Tres cosas hay de buen andar y aun cuatro que muy bien se pasean:
+PRV030030 el león, el más fuerte de todos los , que no retrocede ante nadie;'
+PRV030031 el gallo, que marcha arrogante entre sus gallinas; el macho cabrío, que va delante de su manada, y el rey, que va a la cabeza de su ejército.'
+PRV030032 Si te alabaste sin darte cuenta o a sabiendas, mano a la boca;'
+PRV030033 que batiendo la leche se hace la manteca, y oprimiendo la nariz se saca sangre, y oprimiendo la ira se excita la riña.
+PRV031001 Sentencias de Lemuel, rey de Masa; sentencias que le enseñó su madre:'
+PRV031002 ¿Qué, hijo mío, qué te diré, Lemuel, mi primogénito? ¿Qué, hijo de mis entrañas? ¿Qué, hijo de mis votos?
+PRV031003 No des a las mujeres tu vigor, ni tus caminos a las que destruyen a los reyes.
+PRV031004 No está bien, ¡oh Lemuel! a los reyes, no está bien a los reyes beber vino, ni a quienes gobiernan el deseo de los licores.
+PRV031005 Si no, bebe y se olvida de las leyes y pervierte el derecho de los afligidos.
+PRV031006 El licor dadlo a los miserables, y el vino a los afligidos;'
+PRV031007 que bebiendo olviden su miseria y no se acuerden más de sus trabajos.
+PRV031008 Abre tu boca por el mudo y defiende al desvalido;'
+PRV031009 abre tu boca a la sentencia justa y haz justicia al pobre y al miserable.
+PRV031010 Alef. La mujer fuerte, ¿quién la hallará? Vale mucho más que las perlas.
+PRV031011 Beth. En ella confía el corazón de su marido y no tiene nunca falta de nada.
+PRV031012 Guímel. Le proporciona siempre el bien, nunca el mal, todo el tiempo de su vida.
+PRV031013 Dalet. Ella se procura lana y lino y hace las labores con sus manos.
+PRV031014 He. Es como nave de mercader, que desde lejos trae su pan.
+PRV031015 Vau. Se levanta cuando aún es de noche, y prepara a su familia la comida y la tarea de sus criados,
+PRV031016 Zain. Ve un campo y lo compra, y con el fruto de sus manos planta una viña.
+PRV031017 Jet. Se ciñe de fortaleza y esfuerza sus brazos.
+PRV031018 Tet. Ve alegre que su negocio va bien, y ni de noche apaga su lámpara.
+PRV031019 Yod. Coge la rueca en sus manos y hace bailar el huso.
+PRV031020 Caf. Tiende su mano al miserable y alarga la mano al menesteroso.
+PRV031021 Lamed. No teme su familia el frío de la nieve, porque todos en casa tienen vestidos dobles.
+PRV031022 Mem. Ella se hace cobertores, y sus vestidos son de lana y púrpura.
+PRV031023 Nun. Celebrado es en las puertas su marido cuando se sienta entre los ancianos del lugar.
+PRV031024 Sámec. Hace una hermosa tela y la vende, y vende al mercader un ceñidor.
+PRV031025 Ayin. Se reviste de fortaleza y gracia, y sonríe al porvenir.
+PRV031026 Pe. La sabiduría abre su boca y en su lengua está la ley de bondad.
+PRV031027 Tsade. Vigila a toda su familia, y no come su pan de balde.
+PRV031028 Qof. Alzanse sus hijos y la aclaman bienaventurada, y su marido la ensalza.
+PRV031029 Res. “Muchas hijas han hecho proezas, pero tú a todas sobrepasas.”
+PRV031030 Sin. Engañosa es la gracia, fugaz la belleza; la mujer que teme a Dios, ésa es de alabar.'
+PRV031031 Tau. Dadle los frutos del trabajo de sus manos, y alábenla sus hechos en las puertas.
