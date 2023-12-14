@@ -18,7 +18,7 @@ JOL001017 La simiente se pudre debajo de los terrones; los graneros están devas
 JOL001018 ¡Cómo mugen las bestias! Los hatos de reses vacunas andan errantes por no tener pastos, perecen los rebaños.
 JOL001019 ¡Oh Yahvé! a ti clamo, porque el fuego ha devorado los pastizales del desierto y las llamas han abrasado todos los árboles del campo.
 JOL001020 Las fieras del campo se vuelven a ti también ávidas, porque se han secado las corrientes de aguas, y el fuego ha devorado los prados del desierto.
-JOL002001 ¡Tocad la trompeta en Sión! ¡Dad en mi monte santo la voz de alarma! Tiemblen los habitantes todos de la tierra, que viene el día de Yahvé. 1 Ya está cerca.
+JOL002001 ¡Tocad la trompeta en Sión! ¡Dad en mi monte santo la voz de alarma! Tiemblen los habitantes todos de la tierra, que viene el día de Yahvé. Ya está cerca.
 JOL002002 Día de tinieblas y de oscuridad, día de nublados y de densa niebla. Se extiende sobre los montes como la aurora ! un pueblo numeroso y robusto; i semejante a él no ha existido desde los siglos, ni después de él volverá a existir por generaciones de generaciones.'
 JOL002003 Delante de él va el fuego consumiendo, y detrás la llama abrasa. Delante de él es la tierra como el paraíso de Edén, detrás queda convertida en desolado desierto; ante él no hay quien escape.'
 JOL002004 Parecen caballos, y corren cual jinetes.

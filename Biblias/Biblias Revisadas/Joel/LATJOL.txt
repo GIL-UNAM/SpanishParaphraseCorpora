@@ -1,4 +1,4 @@
-﻿JOL001001 Palabra de Yavé que fue dirigida a Joel, hijo de Petuel. La de las langostas 
+﻿JOL001001 Palabra de Yavé que fue dirigida a Joel, hijo de Petuel.
 JOL001002 ¡Oigan esto, ancianos!, escuchen todos los habitantes del país: ¿Ha sucedido algo semejante en sus tiempos, en tiempos de sus padres? 
 JOL001003 Cuéntenselo a sus hijos y a sus nietos y a las generaciones venideras. Lo que dejó el gusano, lo devoró la langosta; 
 JOL001004 lo que dejó la langosta, lo devoró el pulgón; lo que dejó el pulgón, lo devoró el grillo. 
@@ -49,7 +49,7 @@ JOL002028 “Después de esto yo derramaré mi Espíritu sobre todos los mortale
 JOL002029 En aquellos días, hasta sobre los siervos y las sirvientas derramaré mi Espíritu. 
 JOL002030 Daré a ver señales en el cielo, y en la tierra habrá sangre, fuego y nubes de humo. 
 JOL002031 El sol será cambiado en tinieblas y la luna en sangre cuando se acerque el día de Yavé, día grande y terrible. 
-JOL002032 Y serán salvados todos los que invoquen el Nombre de Yavé, pues se dará una liberación en el cerro Sión, en Jerusalén, como lo ha dicho Yavé; allí estarán los que llame Yavé. El combate y la salvación. 
+JOL002032 Y serán salvados todos los que invoquen el Nombre de Yavé, pues se dará una liberación en el cerro Sión, en Jerusalén, como lo ha dicho Yavé; allí estarán los que llame Yavé. 
 JOL003001 En aquellos días cambiaré la suerte de Judá y de Jerusalén. 
 JOL003002 Reuniré todas las naciones y las haré descender al valle de Josafat. Allí discutiré con ellas la causa de mi pueblo y de mi heredad, Israel, a quien ellas han dispersado entre las naciones, mientras se repartían mi tierra. 
 JOL003003 Se jugaron a los dados a mi pueblo; cambiaron al niño por la prostituta y a la niña la vendieron por vino para emborracharse. 
