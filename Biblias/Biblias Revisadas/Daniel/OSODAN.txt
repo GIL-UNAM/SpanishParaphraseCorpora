@@ -104,8 +104,7 @@ DAN003033 ¡Cuán grandes son sus señales, y cuán potentes sus maravillas! Su 
 DAN004001 Yo Nabucodonosor estaba quieto en mi casa, y floreciente en mi palacio. 
 DAN004002 Vi un sueño que me espantó, y las imaginaciones y visiones de mi cabeza me turbaron en mi cama. 
 DAN004003 Por lo cual yo puse mandamiento para hacer venir delante de mí todos los sabios de Babilonia, que me mostrasen la declaración del sueño. 
-DAN004004 Y vinieron magos, astrólogos, caldeos, y adivinos; y dije el sueño delante de ellos, mas nunca me 
-mostraron su declaración; 
+DAN004004 Y vinieron magos, astrólogos, caldeos, y adivinos; y dije el sueño delante de ellos, mas nunca me mostraron su declaración; 
 DAN004005 hasta tanto que entró delante de mí Daniel, cuyo nombre es Beltasar, que cuando lo nombro me parece que nombro a mi dios, y en el cual hay espíritu de los ángeles santos de Dios, y dije el sueño delante de él, diciendo: 
 DAN004006 Beltasar, príncipe de los sabios, ya que he entendido que hay en ti espíritu de los ángeles santos de Dios, y que ningún misterio se te esconde, dime las visiones de mi sueño que he visto, y su declaración. 
 DAN004007 Las visiones de mi cabeza en mi cama eran: Me parecía que veía un árbol en medio de la tierra, cuya altura era grande. 
@@ -136,7 +135,7 @@ DAN004031 Mas al fin del tiempo yo Nabucodonosor alcé mis ojos al cielo, y mi s
 DAN004032 Y todos los moradores de la tierra por nada son contados; y en el ejército del cielo, y en los moradores de la tierra, hace según su voluntad: ni hay quien estorbe con su mano, y le diga: ¿Qué haces? 
 DAN004033 En el mismo tiempo mi sentido me fue vuelto, y torné a la majestad de mi reino; mi dignidad y mi grandeza volvieron a mí, y mis gobernadores y mis grandes me buscaron; y fui restituido en mi reino, y mayor grandeza me fue añadida. 
 DAN004034 Ahora yo, Nabucodonosor, alabo, engrandezco y glorifico al Rey del cielo, porque todas sus obras son verdad, y sus caminos juicio; y a los que andan con soberbia, puede humillar. 
-DAN005001 El rey Belsasar hizo un gran banquete a mil de sus príncipes, y contra todos mil bebía vino. 
+DAN005001 El rey Belsasar hizo un gran banquete a mil de sus príncipes, y contra todos bebía vino. 
 DAN005002 Belsasar, con el gusto del vino, mandó que trajesen los vasos de oro y de plata que Nabucodonosor su padre había traído del Templo de Jerusalén; para que bebiesen con ellos el rey y sus príncipes, sus mujeres y sus concubinas. 
 DAN005003 Entonces fueron traídos los vasos de oro que habían traído del Templo de la Casa de Dios que estaba en Jerusalén, y bebieron con ellos el rey y sus príncipes, sus mujeres y sus concubinas. 
 DAN005004 Bebieron vino, y alabaron a los dioses de oro y de plata, de bronce, de hierro, de madera, y de piedra. 

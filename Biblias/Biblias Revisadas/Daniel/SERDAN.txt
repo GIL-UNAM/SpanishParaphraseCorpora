@@ -165,62 +165,63 @@ DAN005027 Téquel: has sido pesado en la balanza y hallado falto de peso.
 DAN005028 Perés: tu reino ha sido dividido y dado a los medos y a los persas'. 
 DAN005029 Entonces Baltasar mandó que vistieran de púrpura a Daniel, le pusieran el collar de oro al cuello y proclamaran que sería el tercero en el gobierno del reino. 
 DAN005030 Aquella misma noche fue asesinado Baltasar, rey de los caldeos. 
-DAN006001 Le sucedió en el trono Darío el medo, cuando tenía ya sesenta y dos años de edad. 
-DAN006002 Resolvió Darío establecer en el reino ciento veinte sátrapas que estuvieran distribuidos por todo el reino. 
-DAN006003 Sobre ellos había tres inspectores -uno de los cuales era Daniel-, a quienes los sátrapas debían rendir cuentas para evitar que el rey sufriera menoscabo. 
-DAN006004 Pues bien, como Daniel sobresalía entre los inspectores y los sátrapas, porque poseía un espíritu extraordinario, el rey pensó ponerlo al frente de todo el reino. 
-DAN006005 Los inspectores y los sátrapas buscaron algún asunto de que poder acusar a Daniel en lo relativo a la administración del reino, pero no pudieron encontrar motivos ni faltas, porque era fiel, y por eso no hallaron negligencia alguna ni falta que reprocharle. 
-DAN006006 Dijéronse entonces aquellos hombres: 'No encontraremos nada de que acusar a este Daniel, salvo en cuestiones religiosas'. 
-DAN006007 Así, pues, aquellos inspectores y sátrapas fueron precipitadamente al rey y le dijeron: '¡Viva el rey Darío eternamente! 
-DAN006008 Todos los inspectores del reino, los prefectos, los sátrapas, los consejeros y los gobernadores aconsejan que se promulgue un edicto real, por el cual se ponga en vigor esta prohibición: 'Quien, por espacio de treinta días, haga una oración a quienquiera que sea, Dios u hombre, fuera de a ti, ¡oh rey!, sea arrojado al foso de los leones'. 
-DAN006009 Promulga, ¡oh rey!, el edicto y firma el documento, para que, según la ley irrevocable de los medos y de los persas, no sea modificado'. 
-DAN006010 Así, pues, el rey Darío firmó el documento con la prohibición. 
-DAN006011 Cuando supo Daniel que el documento había sido firmado, entró en su casa. Las ventanas de su aposento superior estaban abiertas en dirección a Jerusalén; y tres veces al día, puesto de rodillas, oraba y alababa a su Dios, como tenía por costumbre hacer. 
-DAN006012 Entonces aquellos hombres irrumpieron de improviso y hallaron a Daniel orando y suplicando a su Dios. 
-DAN006013 Fueron de inmediato al palacio del rey y le recordaron el edicto real: '¿No has firmado un edicto, según el cual, quien, por el espacio de treinta días, hiciera alguna oración a quienquiera que sea, Dios u hombre, fuera de a ti, ¡oh rey!, sería arrojado al foso de los leones?'. 
-DAN006014 Respondió el monarca: 'Eso es lo decidido, según la ley de los medos y de los persas, que es irrevocable'. Entonces ellos contestaron al rey en estos términos: 'Daniel, uno de los deportados de Judá, no hizo caso de ti, ¡oh rey!, ni de la prohibición que promulgaste, porque tres veces al día hace su oración'. 
-DAN006015 Al oír el rey estas palabras, recibió un gran disgusto y trató de salvar a Daniel. Hasta la puesta del sol estuvo tratando de librarlo. 
-DAN006016 Pero aquellos hombres urgieron al rey y le dijeron: 'Recuerda, rey, que, según la ley de los medos y de los persas, toda prohibición o edicto promulgado por el rey es irrevocable'. 
-DAN006017 Ordenó entonces el rey que trajeran a Daniel y lo arrojaran al foso de los leones. El rey dijo a Daniel: 'Tu Dios, a quien sirves con perseverancia, te salvará'. 
-DAN006018 Trajeron después una piedra y la pusieron a la entrada del foso. El rey la selló con su anillo y con el anillo de sus magnates para que no se cambiara lo establecido con respecto a Daniel. 
-DAN006019 Después el rey se fue a su palacio y pasó la noche sin probar alimento. No quiso que le prepararan distracciones ni pudo conciliar el sueño. 
-DAN006020 Al amanecer, cuando clareaba el día, se levantó y fue a toda prisa al foso de los leones. 
-DAN006021 Y, acercándose al foso, gritó a Daniel con voz angustiada: 'Daniel, siervo del Dios vivo, ¿ha podido librarte de los leones tu Dios, a quien sirves con perseverancia?'. 
-DAN006022 Daniel contestó al rey: '¡Viva el rey eternamente! 
-DAN006023 Mi Dios envió a su ángel y éste cerró la boca de los leones, que no me han hecho daño alguno, porque he sido hallado inocente ante él. Ni tampoco ante ti, ¡oh rey!, he cometido falta'. 
-DAN006024 El rey se sintió invadido de una gran alegría por lo sucedido y mandó que sacaran a Daniel del foso. Cuando lo sacaron, no se le encontró lesión alguna, porque había confiado en su Dios. 
-DAN006025 El rey mandó que trajeran a aquellos hombres que habían denunciado a Daniel y que los arrojaran al foso de los leones, a ellos, a sus hijos y a sus mujeres. Aún no habían llegado al fondo del foso, cuando ya se habían lanzado sobre ellos los leones y los habían despedazado. 
-DAN006026 Después el rey Darío escribió a todos los pueblos, naciones y lenguas que moran en toda la tierra: '¡Que vuestra paz sea grande! 
-DAN006027 Por mí mismo promulgo este decreto: en todos los dominios de mi reino teman todos y tiemblen ante el Dios de Daniel, porque él es el Dios vivo que subsiste eternamente; su reino no será destruido, y su imperio durará hasta el fin. 
-DAN006028 Él libra y salva y obra señales y prodigios en el cielo y en la tierra. Él es quien libró a Daniel de las garras de los leones'. 
-DAN007001 En el año primero de Baltasar, rey de Babilonia, Daniel tuvo un sueño y visiones en su mente mientras estaba en el lecho. Después escribió el sueño. Comienzo del relato. 
-DAN007002 Estaba yo observando durante mi visión nocturna, y de pronto vi que los cuatro vientos del cielo agitaban el gran mar, 
-DAN007003 y que cuatro bestias enormes, distintas una de otra, salían del mar. 
-DAN007004 La primera era semejante a un león y tenía alas de águila. Seguí observando, y de pronto vi que le arrancaron las alas, la levantaron de la tierra, se puso de pie sobre sus patas como un hombre y le dieron un corazón humano. 
-DAN007005 Luego vi otra bestia, la segunda, semejante a un oso medio erguido. Tenía tres costillas en sus fauces, entre sus dientes; y le decían: 'Levántate y devora carne en abundancia'. 
-DAN007006 Seguí observando, y de pronto vi otra bestia, semejante a una pantera, con cuatro alas de ave en el dorso. Esta bestia tenía cuatro cabezas, y le fue dado el poder. 
-DAN007007 Seguí observando en la visión nocturna, y de pronto vi una cuarta bestia, terrible, espantosa, extraordinariamente fuerte. Tenía enormes dientes de hierro, comía y trituraba y aplastaba las sobras con sus patas. Era muy distinta de todas las bestias anteriores y tenía diez cuernos. 
-DAN007008 Estaba fijándome en los cuernos, y de pronto vi que otro cuerno pequeño despuntó entre ellos y que para hacerle sitio arrancaban tres de los cuernos primeros. Noté, además, que este cuerno tenía unos ojos como los de un hombre, y una boca que pronunciaba palabras grandilocuentes. 
-DAN007009 Seguí mirando y vi que colocaron unos tronos y un anciano se sentó. Su vestido era blanco como la nieve; los cabellos de su cabeza puros como la lana; su trono eran llamas de fuego; sus ruedas eran ascua encendida. 
-DAN007010 Un río de fuego corría, fluía delante de él. Miles de millares le servían, miríadas de miríadas le obedecían. Se sentó el tribunal y se abrieron los libros. 
-DAN007011 Seguía yo observando, atraído por el estruendo de las palabras grandilocuentes que el cuerno decía; y, mientras yo miraba, vi que daban muerte a la bestia y que su cuerpo era despedazado y arrojado a las llamas. 
-DAN007012 Las otras bestias fueron privadas del poder, pero se les prolongó la vida hasta un tiempo y un momento determinados. 
-DAN007013 Continué observando en la visión nocturna, y de pronto vi que, con las nubes del cielo, venía como un hijo de hombre; avanzó hacia el anciano, le fue llevado a su presencia. 
-DAN007014 Le fueron concedidos dominio, gloria e imperio; y todos los pueblos, naciones y lenguas le sirvieron. Su dominio es un dominio eterno que no pasará, y su reino es un reino que no perecerá. 
-DAN007015 Yo, Daniel, quedé turbado en mi espíritu por todas estas cosas y las visiones de mi mente me aterraron. 
-DAN007016 Me acerqué a uno de los que estaban allí de pie y le rogué que me dijera la verdad acerca de todo aquello. Él me respondió y me interpretó aquellas cosas: 
-DAN007017 'Esas cuatro bestias enormes son cuatro reyes que surgirán en la tierra. 
-DAN007018 Mas los santos del Altísimo recibirán el reino y lo poseerán eternamente y por los siglos de los siglos'. 
-DAN007019 Después quise saber la significación de la cuarta bestia, la que era distinta de todas las demás, extraordinariamente terrible, que tenía dientes de hierro y uñas de bronce, que comía y trituraba y luego aplastaba las sobras con sus patas; 
-DAN007020 y el sentido de los diez cuernos de su cabeza y del otro que despuntaba y ante el cual habían caído los tres primeros, el que tenía ojos y una boca que pronunciaba palabras grandilocuentes y cuya apariencia era mayor que la de los restantes. 
-DAN007021 Seguía yo mirando cuando de pronto vi que este cuerno hacia la guerra a los santos y los vencía, 
-DAN007022 hasta que vino el anciano, se hizo justicia a los santos del Altísimo y llegó el momento en que los santos tomaron posesión del reino. 
-DAN007023 Dijo así: 'La cuarta bestia será un cuarto reino que habrá en la tierra, distinto de todos los reinos. Devorará toda la tierra, la aplastará y la triturará. 
-DAN007024 Y los diez cuernos serán diez reyes que surgirán de este reino. Tras ellos se alzará otro que será distinto de los anteriores y derribará a los tres reyes. 
-DAN007025 Proferirá palabras contra el Altísimo, hará perecer a los santos del Altísimo e intentará cambiar los tiempos y la ley. Entregarán a su poder los santos por un tiempo, dos tiempos y medio tiempo. 
-DAN007026 Pero se celebrará el juicio y se le será quitado el dominio, para que sea del todo aniquilado y destruido. 
-DAN007027 El reino y el dominio y la grandeza de los reinos bajo el cielo les serán dados al pueblo de los santos del Altísimo. Su reino es un reino eterno, y todos los imperios le servirán y le obedecerán'. 
-DAN007028 Hasta aquí el relato. Yo, Daniel, quedé asustado de mis pensamientos, palidecí y lo guardé todo en mi corazón. 
+DAN005031 Le sucedió en el trono Darío el medo, cuando tenía ya sesenta y dos años de edad. 
+DAN006001 Resolvió Darío establecer en el reino ciento veinte sátrapas que estuvieran distribuidos por todo el reino. 
+DAN006002 Sobre ellos había tres inspectores -uno de los cuales era Daniel-, a quienes los sátrapas debían rendir cuentas para evitar que el rey sufriera menoscabo. 
+DAN006003 Pues bien, como Daniel sobresalía entre los inspectores y los sátrapas, porque poseía un espíritu extraordinario, el rey pensó ponerlo al frente de todo el reino. 
+DAN006004 Los inspectores y los sátrapas buscaron algún asunto de que poder acusar a Daniel en lo relativo a la administración del reino, pero no pudieron encontrar motivos ni faltas, porque era fiel, y por eso no hallaron negligencia alguna ni falta que reprocharle. 
+DAN006005 Dijéronse entonces aquellos hombres: 'No encontraremos nada de que acusar a este Daniel, salvo en cuestiones religiosas'. 
+DAN006006 Así, pues, aquellos inspectores y sátrapas fueron precipitadamente al rey y le dijeron: '¡Viva el rey Darío eternamente! 
+DAN006007 Todos los inspectores del reino, los prefectos, los sátrapas, los consejeros y los gobernadores aconsejan que se promulgue un edicto real, por el cual se ponga en vigor esta prohibición: 'Quien, por espacio de treinta días, haga una oración a quienquiera que sea, Dios u hombre, fuera de a ti, ¡oh rey!, sea arrojado al foso de los leones'. 
+DAN006008 Promulga, ¡oh rey!, el edicto y firma el documento, para que, según la ley irrevocable de los medos y de los persas, no sea modificado'. 
+DAN006009 Así, pues, el rey Darío firmó el documento con la prohibición. 
+DAN006010 Cuando supo Daniel que el documento había sido firmado, entró en su casa. Las ventanas de su aposento superior estaban abiertas en dirección a Jerusalén; y tres veces al día, puesto de rodillas, oraba y alababa a su Dios, como tenía por costumbre hacer. 
+DAN006011 Entonces aquellos hombres irrumpieron de improviso y hallaron a Daniel orando y suplicando a su Dios. 
+DAN006012 Fueron de inmediato al palacio del rey y le recordaron el edicto real: '¿No has firmado un edicto, según el cual, quien, por el espacio de treinta días, hiciera alguna oración a quienquiera que sea, Dios u hombre, fuera de a ti, ¡oh rey!, sería arrojado al foso de los leones?'. 
+DAN006013 Respondió el monarca: 'Eso es lo decidido, según la ley de los medos y de los persas, que es irrevocable'. Entonces ellos contestaron al rey en estos términos: 'Daniel, uno de los deportados de Judá, no hizo caso de ti, ¡oh rey!, ni de la prohibición que promulgaste, porque tres veces al día hace su oración'. 
+DAN006014 Al oír el rey estas palabras, recibió un gran disgusto y trató de salvar a Daniel. Hasta la puesta del sol estuvo tratando de librarlo. 
+DAN006015 Pero aquellos hombres urgieron al rey y le dijeron: 'Recuerda, rey, que, según la ley de los medos y de los persas, toda prohibición o edicto promulgado por el rey es irrevocable'. 
+DAN006016 Ordenó entonces el rey que trajeran a Daniel y lo arrojaran al foso de los leones. El rey dijo a Daniel: 'Tu Dios, a quien sirves con perseverancia, te salvará'. 
+DAN006017 Trajeron después una piedra y la pusieron a la entrada del foso. El rey la selló con su anillo y con el anillo de sus magnates para que no se cambiara lo establecido con respecto a Daniel. 
+DAN006018 Después el rey se fue a su palacio y pasó la noche sin probar alimento. No quiso que le prepararan distracciones ni pudo conciliar el sueño. 
+DAN006019 Al amanecer, cuando clareaba el día, se levantó y fue a toda prisa al foso de los leones. 
+DAN006020 Y, acercándose al foso, gritó a Daniel con voz angustiada: 'Daniel, siervo del Dios vivo, ¿ha podido librarte de los leones tu Dios, a quien sirves con perseverancia?'. 
+DAN006021 Daniel contestó al rey: '¡Viva el rey eternamente! 
+DAN006022 Mi Dios envió a su ángel y éste cerró la boca de los leones, que no me han hecho daño alguno, porque he sido hallado inocente ante él. Ni tampoco ante ti, ¡oh rey!, he cometido falta'. 
+DAN006023 El rey se sintió invadido de una gran alegría por lo sucedido y mandó que sacaran a Daniel del foso. Cuando lo sacaron, no se le encontró lesión alguna, porque había confiado en su Dios. 
+DAN006024 El rey mandó que trajeran a aquellos hombres que habían denunciado a Daniel y que los arrojaran al foso de los leones, a ellos, a sus hijos y a sus mujeres. Aún no habían llegado al fondo del foso, cuando ya se habían lanzado sobre ellos los leones y los habían despedazado. 
+DAN006025 Después el rey Darío escribió a todos los pueblos, naciones y lenguas que moran en toda la tierra: '¡Que vuestra paz sea grande! 
+DAN006026 Por mí mismo promulgo este decreto: en todos los dominios de mi reino teman todos y tiemblen ante el Dios de Daniel, porque él es el Dios vivo que subsiste eternamente; su reino no será destruido, y su imperio durará hasta el fin. 
+DAN006027 Él libra y salva y obra señales y prodigios en el cielo y en la tierra. Él es quien libró a Daniel de las garras de los leones'. 
+DAN007001 (TEXTO OMITIDO)
+DAN007002 En el año primero de Baltasar, rey de Babilonia, Daniel tuvo un sueño y visiones en su mente mientras estaba en el lecho. Después escribió el sueño. Comienzo del relato. 
+DAN007003 Estaba yo observando durante mi visión nocturna, y de pronto vi que los cuatro vientos del cielo agitaban el gran mar, 
+DAN007004 y que cuatro bestias enormes, distintas una de otra, salían del mar. 
+DAN007005 La primera era semejante a un león y tenía alas de águila. Seguí observando, y de pronto vi que le arrancaron las alas, la levantaron de la tierra, se puso de pie sobre sus patas como un hombre y le dieron un corazón humano. 
+DAN007006 Luego vi otra bestia, la segunda, semejante a un oso medio erguido. Tenía tres costillas en sus fauces, entre sus dientes; y le decían: 'Levántate y devora carne en abundancia'. 
+DAN007007 Seguí observando, y de pronto vi otra bestia, semejante a una pantera, con cuatro alas de ave en el dorso. Esta bestia tenía cuatro cabezas, y le fue dado el poder. 
+DAN007008 Seguí observando en la visión nocturna, y de pronto vi una cuarta bestia, terrible, espantosa, extraordinariamente fuerte. Tenía enormes dientes de hierro, comía y trituraba y aplastaba las sobras con sus patas. Era muy distinta de todas las bestias anteriores y tenía diez cuernos. 
+DAN007009 Estaba fijándome en los cuernos, y de pronto vi que otro cuerno pequeño despuntó entre ellos y que para hacerle sitio arrancaban tres de los cuernos primeros. Noté, además, que este cuerno tenía unos ojos como los de un hombre, y una boca que pronunciaba palabras grandilocuentes. 
+DAN007010 Seguí mirando y vi que colocaron unos tronos y un anciano se sentó. Su vestido era blanco como la nieve; los cabellos de su cabeza puros como la lana; su trono eran llamas de fuego; sus ruedas eran ascua encendida. 
+DAN007011 Un río de fuego corría, fluía delante de él. Miles de millares le servían, miríadas de miríadas le obedecían. Se sentó el tribunal y se abrieron los libros. 
+DAN007012 Seguía yo observando, atraído por el estruendo de las palabras grandilocuentes que el cuerno decía; y, mientras yo miraba, vi que daban muerte a la bestia y que su cuerpo era despedazado y arrojado a las llamas. 
+DAN007013 Las otras bestias fueron privadas del poder, pero se les prolongó la vida hasta un tiempo y un momento determinados. 
+DAN007014 Continué observando en la visión nocturna, y de pronto vi que, con las nubes del cielo, venía como un hijo de hombre; avanzó hacia el anciano, le fue llevado a su presencia. 
+DAN007015 Le fueron concedidos dominio, gloria e imperio; y todos los pueblos, naciones y lenguas le sirvieron. Su dominio es un dominio eterno que no pasará, y su reino es un reino que no perecerá. 
+DAN007016 Yo, Daniel, quedé turbado en mi espíritu por todas estas cosas y las visiones de mi mente me aterraron. 
+DAN007017 Me acerqué a uno de los que estaban allí de pie y le rogué que me dijera la verdad acerca de todo aquello. Él me respondió y me interpretó aquellas cosas: 
+DAN007018 'Esas cuatro bestias enormes son cuatro reyes que surgirán en la tierra. 
+DAN007019 Mas los santos del Altísimo recibirán el reino y lo poseerán eternamente y por los siglos de los siglos'. 
+DAN007020 Después quise saber la significación de la cuarta bestia, la que era distinta de todas las demás, extraordinariamente terrible, que tenía dientes de hierro y uñas de bronce, que comía y trituraba y luego aplastaba las sobras con sus patas; 
+DAN007021 y el sentido de los diez cuernos de su cabeza y del otro que despuntaba y ante el cual habían caído los tres primeros, el que tenía ojos y una boca que pronunciaba palabras grandilocuentes y cuya apariencia era mayor que la de los restantes. 
+DAN007022 Seguía yo mirando cuando de pronto vi que este cuerno hacia la guerra a los santos y los vencía, 
+DAN007023 hasta que vino el anciano, se hizo justicia a los santos del Altísimo y llegó el momento en que los santos tomaron posesión del reino. 
+DAN007024 Dijo así: 'La cuarta bestia será un cuarto reino que habrá en la tierra, distinto de todos los reinos. Devorará toda la tierra, la aplastará y la triturará. 
+DAN007025 Y los diez cuernos serán diez reyes que surgirán de este reino. Tras ellos se alzará otro que será distinto de los anteriores y derribará a los tres reyes. 
+DAN007026 Proferirá palabras contra el Altísimo, hará perecer a los santos del Altísimo e intentará cambiar los tiempos y la ley. Entregarán a su poder los santos por un tiempo, dos tiempos y medio tiempo. 
+DAN007027 Pero se celebrará el juicio y se le será quitado el dominio, para que sea del todo aniquilado y destruido. 
+DAN007028 El reino y el dominio y la grandeza de los reinos bajo el cielo les serán dados al pueblo de los santos del Altísimo. Su reino es un reino eterno, y todos los imperios le servirán y le obedecerán'. 
+DAN007029 Hasta aquí el relato. Yo, Daniel, quedé asustado de mis pensamientos, palidecí y lo guardé todo en mi corazón. 
 DAN008001 En el año tercero del reinado de Baltasar, yo, Daniel, tuve una visión, después de aquella que ya había tenido. 
 DAN008002 Estaba yo mirando durante la visión, y me pareció hallarme en Susa, la fortaleza, situada en la provincia de Elam. Advertí en la visión que me encontraba a orillas del Ulay. 
 DAN008003 Alcé los ojos, miré, y he aquí que había un carnero delante del río. Tenía dos cuernos. Los dos eran altos; pero uno más que el otro; el más alto había despuntado el último. 

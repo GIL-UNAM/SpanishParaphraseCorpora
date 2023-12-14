@@ -45,7 +45,7 @@ DAN002023 A ti, Dios de mis padres, te confieso y te alabo, que me has dado sabi
 DAN002024 Después de esto fue Daniel a Arioj, a quien había mandado el rey matar a los sabios de Babilonia, y le dijo así: No extermines a los sabios de Babilonia; llévame a la presencia del rey, que yo le daré la explicación.'
 DAN002025 Llevó entonces Arioj prestamente a Daniel a la presencia del rey, y díjole así: He hallado a uno de los deportados de Judá que dará al rey la explicación.
 DAN002026 Respondió el rey, diciendo a Daniel, a quien llamaban Baltasar: ¿Podrás tú declarar el sueño que vi y su interpretación?
-DAN002027 Daniel respondió delante del rey diciendo: Lo que pide el rey es un misterio que ni sabios, ni astrólogos, ni magos, ni adivinos son capaces de descubrir al rey; pero hay en los cielos un Dios que revela lo secreto y que ha dado a conocer al rey Nabucodono-sor lo que sucederá en el correr de los tiempos.'
+DAN002027 Daniel respondió delante del rey diciendo: Lo que pide el rey es un misterio que ni sabios, ni astrólogos, ni magos, ni adivinos son capaces de descubrir al rey; pero hay en los cielos un Dios que revela lo secreto y que ha dado a conocer al rey Nabucodonosor lo que sucederá en el correr de los tiempos.'
 DAN002028 He aquí tu sueño y la visión que has tenido en el lecho.
 DAN002029 En tu lecho, ¡oh rey! te vinieron pensamientos de lo que vendrá después de este tiempo, y el que revela los secretos te dio a conocer lo que sucederá.
 DAN002030 Si este misterio me ha sido revelado, no es porque haya en mí una sabiduría superior a la de todos los vivientes, sino para que yo dé a conocer al rey la explicación y llegues a conocer los pensamientos de tu corazón.
@@ -97,7 +97,7 @@ DAN003026 (TEXTO OMITIDO)
 DAN003027 (TEXTO OMITIDO)
 DAN003028 (TEXTO OMITIDO)
 DAN003029 (TEXTO OMITIDO)
-DAN003039 (TEXTO OMITIDO)
+DAN003030 (TEXTO OMITIDO)
 DAN003031 Nabucodonosor, rey, a todos los pueblos, naciones y hombres de toda lengua, que habitan en toda la tierra: Paz abundante.
 DAN003032 Me ha parecido bien daros a conocer las señales y prodigios que el Dios supremo ha hecho conmigo.
 DAN003033 ¡Cuán grandes han sido sus prodigios! Su reino es reino eterno y su dominación perdura de generaciones en generaciones.
@@ -105,7 +105,7 @@ DAN004001 Yo, Nabucodonosor, vivía tranquilo en mi casa, feliz en mi palacio,
 DAN004002 y tuve un sueño que me espantó, y los pensamientos que me perseguían en mi lecho y las visiones de mi espíritu me llenaron de turbación.
 DAN004003 Hice que vinieran ante mí todos los sabios de Babilonia para que me diesen la interpretación del sueño.
 DAN004004 Vinieron, pues, los magos, los astrólogos, los caldeos y los adivinos, y les expuse el sueño; pero nunca pudieron darme la interpretación,'
-DAN004005 hasta que vino ante mí Daniel, cuyo nombre es Baltasar, del nombre de mi dios, y en el cual reside el espíritu de los dioses santos. Expliquéle mi sueño, dicíéndo-dole:
+DAN004005 hasta que vino ante mí Daniel, cuyo nombre es Baltasar, del nombre de mi dios, y en el cual reside el espíritu de los dioses santos. Expliquéle mi sueño, diciendole:
 DAN004006 Baltasar, tú, jefe de los magos, que tienes en ti, yo lo sé, el espíritu de los dioses santos y a quien ningún misterio se oculta, dame la explicación de las visiones que en sueño he tenido.
 DAN004007 He aquí las visiones de mi espíritu mientras estaba en mi lecho. Miraba yo y vi en medio de la tierra un árbol alto sobremanera.
 DAN004008 El árbol había crecido y se había hecho muy fuerte, y su cima tocaba en los cielos, y se le veía desde los confines de toda la tierra.
@@ -203,7 +203,7 @@ DAN007006 Seguí mirando después de esto, y he aquí otra tercera, semejante a 
 DAN007007 Seguía yo mirando en la visión nocturna, y vi la cuarta bestia, terrible, espantosa, sobremanera fuerte, con grandes dientes de hierro. Devoraba y trituraba, y las sobras las machacaba con los pies. Era muy diferente de todas las bestias anteriores y tenía diez cuernos.
 DAN007008 Estando yo contemplando los cuernos, vi que salía de entre ellos otro cuerno pequeño, y le fueron arrancados tres de los primeros, y este otro tenía ojos como de hombre y una boca que hablaba con gran arrogancia.
 DAN007009 Estuve mirando hasta que fueron puestos tronos, y se sentó un anciano de muchos días, cuyas vestiduras eran blancas como la nieve, y los cabellos de su cabeza como lana blanca. Su trono llameaba como llamas de fuego, y las ruedas eran fuego ardiente.
-DAN007010 Un río de fuego procedíay salía de delante de él, y le servían millares de millares y le asistían millones de millones; el tribunal tomó asiento, y fueron abiertos los libros.'
+DAN007010 Un río de fuego procedía y salía de delante de él, y le servían millares de millares y le asistían millones de millones; el tribunal tomó asiento, y fueron abiertos los libros.'
 DAN007011 Yo seguía mirando a la bestia a causa de las grandes arrogancias que hablaba su cuerno, y la estuve mirando hasta que la mataron, y su cuerpo fue destrozado y arrojado al fuego para que se quemase.
 DAN007012 A las otras bestias se les había quitado el dominio, pero les había sido prolongada la vida por cierto tiempo.
 DAN007013 Seguía yo mirando en la visión nocturna, y vi venir sobre las nubes del cielo a un como Hijo de Hombre, que se llegó al anciano de muchos días y fue presentado ante éste,
@@ -234,7 +234,7 @@ DAN008009 Del uno de ellos salió un cuerno pequeño, que creció mucho hacia el
 DAN008010 engrandecióse hasta llegar al ejército de los cielos, y echó a tierra estrellas y las holló.
 DAN008011 Aun contra el príncipe del ejército se irguió, y le quitó el sacrificio perpetuo y destruyó su santuario.
 DAN008012 Convocó impíamente ejércitos contra el sacrificio perpetuo, echó por tierra la verdad, hizo con buen éxito lo que quiso.
-DAN008013 Entonces oí hablar a uno de los santos, respondiendo a otro santo que le preguntaba: ¿Hasta cuándo va a durar esta visión de la supresión del sacrificio perpetuo de la asoladora prevaricación y déla profanación del santuario?
+DAN008013 Entonces oí hablar a uno de los santos, respondiendo a otro santo que le preguntaba: ¿Hasta cuándo va a durar esta visión de la supresión del sacrificio perpetuo de la asoladora prevaricación y de la profanación del santuario?
 DAN008014 Entonces dijo: Hasta dos mil trescientas tardes y mañanas. Luego será purificado el gran santuario.
 DAN008015 Mientras yo, Daniel, contemplaba la visión y buscaba la inteligencia, púsose ante mí un como hombre,
 DAN008016 y oí una voz de hombre que de en medio del Ulai gritaba y decía: Gabriel, explícale a éste la visión.
@@ -261,7 +261,7 @@ DAN009009 Pero es de Yahvé, nuestro Dios, el tener misericordia y el perdonar, 
 DAN009010 No obedecimos a la voz de Yahvé, nuestro Dios, andando en sus leyes, que por mano de sus profetas puso delante de nosotros,
 DAN009011 y todo Israel traspasó tu Ley, alejándose para no oír tu voz. Por eso vino sobre nosotros la maldición y el juramento escrito en la Ley de Moisés, siervo de Dios, por haber pecado contra El.
 DAN009012 El ha cumplido su palabra, la que dijo de nosotros y de los jefes que nos gobiernan, trayendo sobre nosotros males tan grandes como no los hubo nunca debajo del cielo, cual fue el hecho en Jerusalén.
-DAN009013 Vino todo este mal sobre nosotros como está escrito en la Ley de Moisés, y no hemos implorado a Yahvé, nuestro Dios, con virtiéndonos de nuestras iniquidades y reconociendo tu verdad.
+DAN009013 Vino todo este mal sobre nosotros como está escrito en la Ley de Moisés, y no hemos implorado a Yahvé, nuestro Dios, convirtiéndonos de nuestras iniquidades y reconociendo tu verdad.
 DAN009014 Por eso veló Yahvé sobre este mal y lo trajo sobre nosotros, porque justo es Yahvé, nuestro Dios, en todas cuantas obras hace, pues no obedecimos a su voz.
 DAN009015 Ahora, pues, Señor Dios nuestro, que sacaste a tu pueblo de la tierra de Egipto con mano poderosa y te hiciste nombre cual lo tienes hoy, hemos pecado santo, 
 DAN009016 pues por nuestros pecados y las iniquidades de nuestros padres, Jerusalén y tu pueblo son el oprobio de cuantos nos rodean.

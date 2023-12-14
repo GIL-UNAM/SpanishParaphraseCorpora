@@ -2,7 +2,7 @@ DAN001001 En el año tercero del reinado de Joaquín, rey de Judá, vino Nabucod
 DAN001002 Y diola el Señor en mano de él, a Joaquín, rey de Judá, y cierta parte de los sacros vasos de casa del Señor; y condújolo a tierra de Senaar de casa de su dios; y los vasos, y los afianzó en templo de ídolos. 
 DAN001003 Y dijo el rey a Asfenez, arquieunuco suyo, que le introdujese de los hijos de los magnates de Israel y del real linaje y de los escogidos, 
 DAN001004 jovencillos intachables y esbeltos y entendidos en toda sabiduría y letrados y prudentes y sabios y capaces de estar en la casa del rey, y de enseñarles letras, lengua de caldeos; 
-DAN001005 y darles apartación de la casa del rey cada día y de la real mesa y del vino que bebe el rey y enseñarlos, años tres, y después de ellos, estar delante del rey. 
+DAN001005 y darles apartación de la casa del rey cada día y de la real mesa y del vino que bebe el rey y enseñarlos, tres años, y después de ellos, estar delante del rey. 
 DAN001006 Y fueron del linaje de los hijos de Israel, de los de la Judea, Daniel, Ananías, Azarías, Misael. 
 DAN001007 Y sobrenombróles el arquieunuco: a Daniel, Baltasar; y a Ananías, Sidrac; y a Misael, Misac; y a Azarías, Abdenagó. 
 DAN001008 Y puso Daniel en su corazón no mancillarse en la comida del rey y en el vino que bebe; y rogó al arquieunuco no mancillarse. 
@@ -355,109 +355,3 @@ DAN012010 y pequen los pecadores, y no entenderán, no, todos los pecadores, y l
 DAN012011 Desde que fuere quitado el sacrificio perpetuo y fuere dispuesto que se dé la abominación de la desolación: días mil doscientos noventa. 
 DAN012012 Bienaventurado, el que perseverare; él llegará a días mil trescientos treinta y cinco. 
 DAN012013 Y tú, ve, reposa; pues aún hay días y horas hasta el cumplimiento de la consumación; y reposarás y resucitarás a tu gloria al fin de los días.» 
-DAN013001 Y había un varón, habitante de Babel; y su nombre Joaquín. 
-DAN013002 Y tomó mujer, cuyo nombre, Susana, hija de Helcías, hermosa sobremanera y temerosa del Señor. 
-DAN013003 Y sus padres, justos; y enseñaron a su hija, según la ley de Moisés. 
-DAN013004 Y era Joaquín rico sobremodo, y tenía un huerto contiguo a su casa; y afluían a él los judíos, por ser él el más honorable de todos. 
-DAN013005 Y fueron constituidos dos ancianos del pueblo jueces en aquel año; acerca de quienes habló el Soberano que «salió iniquidad de Babel, de ancianos jueces, que parecían gobernar al pueblo.». 
-DAN013006 Y venían juicios de otras ciudades a ellos. 
-DAN013007 Estos, viendo mujer graciosa de forma, mujer de hermano de ellos, de los hijos de Israel, por nombre Susana, hija de Helcías, mujer de Joaquín, paseando en el huerto de su marido al atardecer 
-DAN013008 y codiciosos de ella, 
-DAN013009 pervirtieron el entendimiento de ellos, y bajaron sus ojos para no mirar al cielo, ni acordarse de juicios justos. 
-DAN013010 Y ambos estaban heridos por ella; y uno al otro no confiaba el mal, el que les cogía por ella 
-DAN013011 ni la mujer sabía este particular. 
-DAN013012 Y, al amanecer, viniendo ocultábase el uno del otro, apresurándose a quien la divisaba primero y la hablaba. 
-DAN013013 Y he aquí ella, según su costumbre, paseábase; y el uno de los ancianos había venido; y he aquí el otro llegaba; y uno al otro preguntaba, diciendo. «¿Qué tú tan temprano has salido, no llevándome contigo?» 
-DAN013014 Y confesáronse el uno al otro su dolencia. 
-DAN013015 Y dijo el uno al otro: «Vamos a ella»; y convencidos, acercáronse a ella y forzábanla.
-DAN013016 (TEXTO OMITIDO)
-DAN013017 (TEXTO OMITIDO)
-DAN013018 (TEXTO OMITIDO)
-DAN013019 (TEXTO OMITIDO)
-DAN013020 (TEXTO OMITIDO)
-DAN013021 (TEXTO OMITIDO)
-DAN013022 Y díjoles la judía: «Sé que, si hiciere esto, muerte hay para mí; y, si no hiciere, no huiré de vuestras manos; 
-DAN013023 pero más bello, no haciendo, caer en vuestras manos que pecar a faz del Señor.
-DAN013024 (TEXTO OMITIDO)
-DAN013025 (TEXTO OMITIDO) 
-DAN013026 (TEXTO OMITIDO)
-DAN013027 (TEXTO OMITIDO)
-DAN013028 Pero los inicuos varones volviéronse, amenazando entre sí y maquinando para matarla; y, viniendo a la sinagoga de la ciudad donde habitaban, congregáronse los que había allí todos los hijos de Israel; 
-DAN013029 y levantándose los dos ancianos y jueces, dijeron: «Enviad por Susana, hija de Helcías; la que es mujer de Joaquín.» Y ellos al punto la llamaron. 
-DAN013030 Y cuando se presentó la mujer, con su padre y su madre, también los niños y las niñas de ella, siendo en número de quinientos, se presentaron; y los niñitos de Susana cuatro. 
-DAN013031 Y era la mujer mórbida sobremodo. 
-DAN013032 Y ordenaron los inicuos descubrirla, para saciar de belleza la codicia de ella. 
-DAN013033 Y lloraron los de ella todos, y cuantos la conocían todos. 
-DAN013034 Y, levantándose los ancianos y jueces, pusieron sus manos sobre la cabeza de ella; 
-DAN013035 pero el corazón de ella confiaba en el Señor, e inclinada, lloraba dentro de sí, diciendo: «Señor, Dios el eterno, que sabes todo antes de que suceda: tú sabes que no he hecho lo que malean estos inicuos contra mí.» Y escuchó el Señor su plegaria. 
-DAN013036 Y los dos ancianos dijeron: «Nosotros paseábamos en el huerto de su marido; 
-DAN013027 y, rondando el estadio, vimos a ésta reposando con varón; y, deteniéndonos, los mirábamos tratando consigo; 
-DAN013038 y ellos no sabían que estábamos. Entonces nos dijimos, diciendo: «Veamos quiénes son esos.» 
-DAN013039 Y, acercándonos la conocimos; y el jovencillo huyó cubierto. 
-DAN013040 Y a ésta cogiendo, la preguntamos: «¿Quién era el hombre?» 
-DAN013041 Y no nos anunció quién era. Esto atestiguamos.» Y creyéronles la congregación toda, como ancianos que eran y jueces del pueblo. 
-DAN013042 (TEXTO OMITIDO)
-DAN013043 (TEXTO OMITIDO)
-DAN013044 (TEXTO OMITIDO)
-DAN013045 Y he aquí a un ángel del Señor, cuando ella era llevada a perecer; y dio el ángel, según se le ordenó, espíritu de prudencia a un jovencillo que había: Daniel. 
-DAN013046 (TEXTO OMITIDO)
-DAN013047 (TEXTO OMITIDO)
-DAN013048 Y abriendo Daniel la turba y poniéndose en medio de ellos, dijo: «¿A tal punto necios, hijos de Israel? No examinando, ni la verdad conociendo ¿vais a matar a una hija de Israel?. Y ahora separádmelos entre sí, lejos, para interrogarlos.» Y, cuando fueron separados, dijo Daniel a la congregación: «Ahora no miréis que ellos son ancianos, diciendo: «No mentirán, no»; sino que los interrogaré, según lo que me ocurriere.» 
-DAN013049 (TEXTO OMITIDO)
-DAN013050 (TEXTO OMITIDO)
-DAN013051 (TEXTO OMITIDO)
-DAN013052 Y llamó al uno de ellos; y trajeron al anciano al jovencillo. Y díjole Daniel: «Oye, oye, envejecido en días malos: Ahora se te han llegado los pecados que hacías anteriormente 
-DAN013053 confiado en oír, y juzgar juicios de muerte causadores; y al inocente condenabas y a los reos absolvías, diciendo el Señor: «A inocente y justo no matarás.» 
-DAN013054 Ahora, pues, ¿bajo qué árbol y en qué paraje del huerto los has visto estar juntos?» Y dijo el impío: «Bajo lentisco.» 
-DAN013055 Y dijo el jovencillo: «Bien has mentido contra tu vida; que un ángel del Señor partirá tu alma hoy.» 
-DAN013056 Y a éste apartando, dijo le trajeran el otro; y también a éste dijo: «¿Por qué perversa, tu simiente, como de Sidón, y no como de Judá? La hermosura te engañó: la pequeña concupiscencia. 
-DAN013057 Y así hacíais a hijas de Israel; y aquellas, temerosas, juntábanseos; empero una hija de Judá no soportó vuestra corrupción, en iniquidad, sobrellevar. 
-DAN013058 Ahora, pues, dime ¿bajo qué árbol y en qué paraje del huerto los sorprendiste juntándose?» Y él dijo: «Bajo encina.» 
-DAN013059 Y dijo Daniel: «Pecador, ahora el ángel del Señor la espada está ahí teniendo, hasta que el pueblo os extermine para que te destroce.». 
-DAN013060 Y toda la congregación voceó sobre el jovencillo como que, de la propia boca, había constituido confesos a entrambos falsos testigos; y, como la ley dice les hicieron, según que prevaricaron contra la hermana.
-DAN013061 (TEXTO OMITIDO)
-DAN013062 Y obturándoles la boca y sacándoles fuera, despeñaron en una hondonada; entonces el ángel del Señor lanzó fuego en medio de ellos. Y salvada fue sangre inocente en aquel día. 
-DAN013063 Por esto, los jovencillos, amados de Jacob, en la sencillez de ellos. Y nosotros guardemos, para hijos potentes, a los jovencillos; que felices serán los jovencillos; y habrá en ellos espíritu de prudencia y entendimiento, por siglo de siglo. 
-DAN013064 (TEXTO OMITIDO)
-DAN014001 (TEXTO OMITIDO)
-DAN014002 De la profecía de Habacuc, hijo de Jesús, de la tribu de Leví. Un hombre había sacerdote, por nombre Daniel, hijo de Habal, comensal del rey de Babel. 
-DAN014003 Y había un ídolo: Bel, que veneraban los babilonios; y consumidos eran por él, cada día, de harina flor celemines doce y ovejas cuatro y de aceite medidas seis. 
-DAN014004 También el rey lo veneraba e iba todos los días y lo adoraba; pero Daniel oraba al Señor.
-DAN014005 Y dijo el rey a Daniel: «¿Por qué no adoras a Bel?» Y dijo Daniel al rey: «A nadie venero yo sino al Señor, al Dios que ha hecho el cielo y la tierra y tiene de toda carne señorío.» 
-DAN014006 Y díjole el rey: «¿Este, pues, no es dios? ¿No ves cuánto se gasta en él todos los días?» 
-DAN014007 Y díjole Daniel: (TEXTO OMITIDO)
-DAN014008 (TEXTO OMITIDO)
-DAN014009 (TEXTO OMITIDO)
-DAN014010 (TEXTO OMITIDO)
-DAN014011 (TEXTO OMITIDO)
-DAN014012 (TEXTO OMITIDO)
-DAN014013 (TEXTO OMITIDO)
-DAN014014 (TEXTO OMITIDO)
-DAN014015 Y aconteció al otro día vinieron al lugar; y los sacerdotes de Bel, por una puertecilla falsa entrando, habían comido todo lo puesto ante Bel y bebídose el vino.
-DAN014016 (TEXTO OMITIDO)
-DAN014017 Y dijo Daniel: «Mirad vuestros sellos, si han quedado, varones sacerdotes; y también tú, rey, examina si no te ha acontecido algo desacorde.» Y hallaron, como estaba, el sello y lanzaron el sello.
-DAN014018 Y, abriendo las puertas, vieron consumido todo lo puesto delante, y las mesas, vacías; y alegróse el rey, y dijo a Daniel: «Grande es Bel, y no hay en él fraude.» 
-DAN014019 Y rió Daniel muy mucho, y dijo al rey: «Ven, ve el fraude de los sacerdotes.» Y dijo Daniel: «Rey, estas huellas ¿de quién son? 
-DAN014020 Y dijo el rey: «De hombres, y mujeres y niñitos.» 
-DAN014021 Y entró en la casa en que moraban los sacerdotes; y halló la vitualla de Bel y el vino; y mostró Daniel al rey las ocultas puertecillas, por las que, entrando los sacerdotes, gastaban de lo puesto ante Bel. 
-DAN014022 Y los sacó el rey, del belión, y entrególos a Daniel; y el gasto, el para él, dio a Daniel; y a Bel derribó. 
-DAN014023 Y había un dragón en el mismo lugar, y lo veneraban los babilonios. 
-DAN014024 Y dijo el rey a Daniel: «¿Acaso también este dirás que es broncíneo? He aquí vive, y come y bebe: adóralo. 
-DAN014025 Y dijo Daniel: «Rey, dame licencia, y mataré al dragón sin hierro y palo.»
-DAN014026 Y permitióle el rey y díjole: «Dada te está.» 
-DAN014027 Y tomó Daniel de pez minas treinta y grosura y pelo y coció juntos e hizo una masa y arrojó en la boca del dragón; y, habiendo comido, reventó. Y mostróle al rey diciendo: «¿No esto veneráis, rey?» 
-DAN014028 Y juntáronse los de la región todos contra Daniel y dijeron: «Judío se ha hecho el rey: a Bel ha derribado y al dragón ha matado.» 
-DAN014029 (TEXTO OOMITIDO) 
-DAN014030 Y, viendo el rey que se ha apiñado la turba de la región contra él, llamó a sus convivientes y dijo: «Doy a Daniel en perdición.»   
-DAN014031 Y estuvo en el lago Daniel días seis.
-DAN014032 Y había un lago en que mantenían leones siete, a los cuales eran entregados los conspiradores contra el rey; y suministrábaseles cada día, de los condenados a muerte, cuerpos dos. Y arrojaron a Daniel las turbas en aquel lago, para que fuese devorado, y ni tumba tocara. 
-DAN014033  Y aconteció: al día sexto estaba Habacuc teniendo panes ensopados en escudilla, en cocimiento y un ánfora de vino mezclado; e iba por el campo a los segadores.
-DAN014034 Y habló un ángel del Señor a Habacuc, diciendo. «Esto te dice el Señor Dios: la comida que tienes, lleva a Daniel al lago de los leones, en Babel.» 
-DAN014035 Y dijo Habacuc: «Señor Dios, no he visto Babel, y el lago no sé dónde está.» 
-DAN014036 Y, cogiéndole el ángel del Señor a Habacuc del cabello de su cabeza, púsole sobre el lago, el de Babel. 
-DAN014037 Y dijo Habacuc a Daniel: «Levantándote, come la comida que te ha enviado el Señor Dios.» 
-DAN014038 Y dijo Daniel: «Se ha acordado, pues, de mí el Señor Dios; que no abandona a los que le aman.» 
-DAN014039 Y comió Daniel; y el ángel del Señor restituyó a Habacuc, de donde le cogió el mismo día. Y el Señor Dios acordóse de Daniel. 
-DAN014040 Y salió el rey, después de esto, llorando a Daniel, e inclinándose sobre el lago, viole sentado. 
-DAN014041 Y, voceando, dijo el rey: «Grande es el Señor Dios; y no hay, fuera de él, otro.» 
-DAN014042 Y sacó el rey a Daniel del lago; y a los culpables de su perdición, arrojó en el lago, delante de Daniel, y fueron devorados. 

@@ -46,16 +46,16 @@ DAN002024 Después Daniel acudió a Arioc, a quien el rey había mandado ejecuta
 DAN002025 Arioc lo condujo a toda prisa hasta el rey y le dijo: Hay un hombre de los deportados de Judá que está dispuesto a explicar el sueño a su majestad. 
 DAN002026 El rey preguntó a Daniel: ¿De modo que eres capaz de contarme el sueño y de explicarme su sentido? 
 DAN002027 Daniel repuso: El secreto de que habla su majestad no lo pueden explicar ni sabios, ni astrólogos, ni magos, ni adivinos; 
-DAN002028 pero hay un Dios en el cielo que revela los secretos y que ha anunciado al rey Nabucodonosor lo que sucederá al final de los tiempos. 
-DAN002029 Este es el sueño que viste estando acostado. 
-DAN002030 Te pusiste a pensar en lo que iba a suceder, y el que revela los secretos te comunicó lo que va a suceder. 
-DAN002031 En cuanto a mí, no es que yo tenga una sabiduría superior a la de todos los vivientes; si me han revelado el secreto es para que le explique el sentido al rey y así puedas entender lo que pensabas. 
-DAN002032 Tú, rey, viste una visión: una estatua majestuosa, una estatua gigantesca y de un brillo extraordinario; su aspecto era impresionante. 
-DAN002033 Tenía la cabeza de oro fino, el pecho y los brazos de plata, el vientre y los muslos de bronce, 
-DAN002034 las piernas de hierro y los pies de hierro mezclado con barro. 
-DAN002035 En tu visión una piedra se desprendió sin intervención humana, chocó con los pies de hierro y barro de la estatua y la hizo pedazos. 
-DAN002036 Del golpe se hicieron pedazos el hierro y el barro, el bronce, la plata y el oro, triturados como tamo de una era en verano, que el viento arrebata y desaparece sin dejar rastro. Y la piedra que deshizo la estatua creció hasta convertirse en una montaña enorme que ocupaba toda la tierra. 
-DAN002037 Este era el sueño; ahora explicaremos al rey su sentido: ' Tú, majestad, rey de reyes, a quien el Dios del cielo ha concedido el reino y el poder, el dominio y la gloria, 
+DAN002028 pero hay un Dios en el cielo que revela los secretos y que ha anunciado al rey Nabucodonosor lo que sucederá al final de los tiempos. Este es el sueño que viste estando acostado. 
+DAN002029 Te pusiste a pensar en lo que iba a suceder, y el que revela los secretos te comunicó lo que va a suceder. 
+DAN002030 En cuanto a mí, no es que yo tenga una sabiduría superior a la de todos los vivientes; si me han revelado el secreto es para que le explique el sentido al rey y así puedas entender lo que pensabas. 
+DAN002031 Tú, rey, viste una visión: una estatua majestuosa, una estatua gigantesca y de un brillo extraordinario; su aspecto era impresionante. 
+DAN002032 Tenía la cabeza de oro fino, el pecho y los brazos de plata, el vientre y los muslos de bronce, 
+DAN002033 las piernas de hierro y los pies de hierro mezclado con barro. 
+DAN002034 En tu visión una piedra se desprendió sin intervención humana, chocó con los pies de hierro y barro de la estatua y la hizo pedazos. 
+DAN002035 Del golpe se hicieron pedazos el hierro y el barro, el bronce, la plata y el oro, triturados como tamo de una era en verano, que el viento arrebata y desaparece sin dejar rastro. Y la piedra que deshizo la estatua creció hasta convertirse en una montaña enorme que ocupaba toda la tierra. 
+DAN002036 Este era el sueño; ahora explicaremos al rey su sentido: 
+DAN002037 Tú, majestad, rey de reyes, a quien el Dios del cielo ha concedido el reino y el poder, el dominio y la gloria, 
 DAN002038 a quien ha dado poder sobre los hombres dondequiera que vivan, sobre las fieras agrestes y las aves del cielo, para que reines sobre ellos, tú eres la cabeza de oro. 
 DAN002039 Te sucederá un reino de plata, menos poderoso. Después un tercer reino, de bronce, que dominará todo el orbe. 
 DAN002040 Vendrá después un cuarto reino, fuerte como el hierro. Como el hierro destroza y machaca todo, así destrozará y triturará a todos. 
@@ -110,7 +110,7 @@ DAN004006 Belsazar, jefe de los magos, sé que posees espíritu profético y que
 DAN004007 Estando yo acostado tuve una visión: vi. un árbol gigantesco en medio del orbe: 
 DAN004008 el árbol se hacía corpulento, su copa tocaba el cielo, se le veía desde los cabos de la tierra. 
 DAN004009 Su follaje era hermoso, de sus frutos copiosos se alimentaban todos, bajo él se guarecían las fieras agrestes y en su ramaje anidaban las aves del cielo; sustentaba a todos los visitantes. 
-DAN004010 Estando yo acostado tuve esta visión: vi. bajar del cielo un Guardián Sagrado 
+DAN004010 Estando yo acostado tuve esta visión: vi bajar del cielo un Guardián Sagrado 
 DAN004011 que gritó con voz fuerte: 'Derriben el árbol, tronchen su ramaje, arránquenle el follaje, esparzan sus frutos; que huyan de su sombra las fieras y las aves de su ramaje. 
 DAN004012 Dejen en tierra sólo el tocón con las raíces. Encadenado con hierro y bronce pacerá la hierba, mojado de relente, compartirá con las fieras los pastos del suelo. 
 DAN004013 Perderá el instinto de hombre y adquirirá instintos de fiera, y pasará en ese estado siete años. 
@@ -201,7 +201,7 @@ DAN007004 La primera era como un león con alas de águila; mientras yo miraba, 
 DAN007005 La segunda era como un oso medio erguido, con tres costillas en la boca, entre los dientes. Le dijeron: '¡Arriba! Come carne en abundancia'. 
 DAN007006 Después vi. otra fiera como un leopardo, con cuatro alas de ave en el lomo y cuatro cabezas. Y le dieron el poder. 
 DAN007007 Después tuve otra visión nocturna: una cuarta fiera, terrible, espantosa, fortísima; tenía grandes dientes de hierro, con los que comía y descuartizaba, y las sobras las pateaba con las pezuñas. Era diversa de las fieras anteriores, porque tenía diez cuernos. 
-DAN007008 Miré atentamente los cuernos y vi. que entre ellos salía otro cuerno pequeño; para hacerle sitio, arrancaron tres de los cuernos precedentes. Aquel cuerno tenía ojos humanos y una boca que profería insolencias. 
+DAN007008 Miré atentamente los cuernos y vi que entre ellos salía otro cuerno pequeño; para hacerle sitio, arrancaron tres de los cuernos precedentes. Aquel cuerno tenía ojos humanos y una boca que profería insolencias. 
 DAN007009 Durante la visión vi. que colocaban unos tronos, y un anciano se sentó: Su vestido era blanco como nieve, su cabellera como lana limpísima; su trono, llamas de fuego; sus ruedas, llamaradas. 
 DAN007010 Un río impetuoso de fuego brotaba delante de él. Miles y miles le servían, millones estaban a sus órdenes. Comenzó la sesión y se abrieron los libros. 
 DAN007011 Yo seguía mirando, atraído por las insolencias que profería aquel cuerno; hasta que mataron a la fiera, la descuartizaron y la echaron al fuego. 
@@ -280,7 +280,7 @@ DAN010001 El año tercero de Ciro, rey de Persia, le revelaron a Daniel una cosa
 DAN010002 Por entonces yo, Daniel, estaba cumpliendo un luto de tres semanas: 
 DAN010003 no comía manjares exquisitos, no probaba vino ni carne, ni me ungía durante las tres semanas. 
 DAN010004 El día veinticuatro del mes primero estaba yo junto al Río Grande. 
-DAN010005 Alcé la vista y vi. aparecer un hombre vestido de lino con un cinturón de oro; 
+DAN010005 Alcé la vista y vi aparecer un hombre vestido de lino con un cinturón de oro; 
 DAN010006 su cuerpo era como crisólito, su rostro como un relámpago, sus ojos como antorchas, sus brazos y piernas como destellos de bronce bruñido, sus palabras resonaban como una multitud. 
 DAN010007 Yo sólo veía la visión; la gente que estaba conmigo, aunque no veía la visión, quedó sobrecogida de terror y corrió a esconderse. 
 DAN010008 Así quedé solo; al ver aquella magnífica visión, me sentí desfallecer, mi semblante quedó desfigurado y no lograba dominarme. 
@@ -346,7 +346,7 @@ DAN012001 Entonces se levantará Miguel, el arcángel que se ocupa de tu pueblo:
 DAN012002 Muchos de los que duermen en el polvo despertarán: unos para vida eterna, otros para ignominia perpetua. 
 DAN012003 Los maestros, brillarán como brilla el firmamento, y los que convierten a los demás, como estrellas, perpetuamente. 
 DAN012004 Tú, Daniel, guarda estas palabras y sella el libro hasta el momento final. Muchos lo repasarán y aumentarán su saber. 
-DAN012005 Yo, Daniel, vi. a otros dos hombres de pie a ambos lados del río. 
+DAN012005 Yo, Daniel, vi a otros dos hombres de pie a ambos lados del río. 
 DAN012006 Y pregunté al hombre vestido de lino, que se cernía sobre el agua del río: ¿Cuándo acabarán estos prodigios? 
 DAN012007 El hombre vestido de lino, que se cernía sobre el agua del río, alzó ambas manos al cielo y le oí jurar por el que vive eternamente. Un año y dos años y medio. Cuando acabe la opresión del pueblo santo, se cumplirá todo esto. 
 DAN012008 Yo oí sin entender y pregunté: Señor, ¿cuál será el desenlace?' 

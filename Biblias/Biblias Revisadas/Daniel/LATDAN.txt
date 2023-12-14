@@ -1,11 +1,10 @@
-
 DAN001001 En el tercer año del reinado de Joaquín, rey de Judá, vino Nabucodonosor, rey de Babilonia, subió contra Jerusalén y la sitió. 
 DAN001002 El Señor entregó en sus manos a Joaquín y gran parte de los vasos del templo de Dios y los trasladó a tierra de Senaar a la casa de sus dioses y los puso en el tesoro de sus dioses. 
 DAN001003 El rey dijo a Asfenaz, jefe de su personal, que trajera algunos israelitas de la descendencia de los reyes y de los nobles. 
 DAN001004 Estos debían ser sin ningún defecto; debían tener buena presencia y ser de buen juicio, bien instruidos y bien educados. Permanecerían en el palacio del rey, donde se les enseñaría la lengua y la escritura de los caldeos. 
 DAN001005 El rey dispuso que todos los días se les diera comida de la preparada para la gente del palacio y vino del que ellos bebían. Después que fueran mantenidos por espacio de tres años, servirían en la presencia del rey. 
 DAN001006 Entre ellos estaban estos judíos: Daniel, Ananías, Misael y Azarías. 
-DAN001007 El jefe de los funcionarios les puso los nombres siguientes: a Daniel el de Beltsasar; a Ananías el de Sidrac; a Misael el de Sisac y a Azarías el de Abdénago. Cómo se negó a comer alimentos impuros 
+DAN001007 El jefe de los funcionarios les puso los nombres siguientes: a Daniel el de Beltsasar; a Ananías el de Sidrac; a Misael el de Sisac y a Azarías el de Abdénago.
 DAN001008 A los del palacio se les servían alimentos y bebidas que Daniel no quería tomar, por estar prohibidos por su ley. Pidió entonces permiso al jefe de los funcionarios del palacio para no comer estas cosas, que lo habrían manchado. 
 DAN001009 Dios hizo que Daniel lograra la simpatía de su jefe. 
 DAN001010 Sin embargo, éste respondió: “Ya que el rey, mi señor, fijó personalmente lo que deben comer y beber, temo que me eche la culpa y me castigue, si al llegar los encuentra más delgados que los jóvenes de su edad.” 
@@ -19,7 +18,7 @@ DAN001017 A estos cuatro jóvenes, Dios les concedió sabiduría e inteligencia,
 DAN001018 Cumplido el plazo fijado por el rey para que le presentaran los jóvenes, el mayordomo los llevó ante Nabucodonosor. 
 DAN001019 El rey conversó con ellos, y entre ellos no se encontró ningún otro como Daniel, Ananías, Misael y Azarías. Por eso, quedaron al servicio del rey. 
 DAN001020 En cuantas cosas de sabiduría o de inteligencia les consultó el rey, los encontró diez veces superiores a todos los magos y adivinos que había en todo su reino. 
-DAN001021 Daniel se quedó allí hasta el año primero del rey Ciro. El de Nabucodonosor 
+DAN001021 Daniel se quedó allí hasta el año primero del rey Ciro.
 DAN002001 El año doce de su reinado, Nabucodonosor tuvo un sueño que lo inquietó hasta el punto de no dejarlo dormir. 
 DAN002002 El rey mandó llamar brujos y magos, astrólogos y adivinos, para que explicaran su sueño. Vinieron y se presentaron al rey. 
 DAN002003 Este les dijo: “Tuve un sueño y no estaré tranquilo mientras no sepa lo que significa.” 
@@ -54,10 +53,10 @@ DAN002031 Tú veías una estatua enorme, de extraordinario brillo y aspecto terr
 DAN002032 La cabeza de esta estatua era de oro puro, el pecho y los brazos de plata, las caderas y el vientre de bronce, 
 DAN002033 las piernas de hierro, los pies parte de hierro y parte de loza. 
 DAN002034 Tú estabas mirando la estatua cuando de repente una piedra se desprendió, sin haber sido lanzada por ninguna mano, y vino a chocar contra los pies de hierro y loza de la estatua, haciéndola pedazos. 
-DAN002035 Entonces todo a la vez quedó como polvo, el hierro, la loza, el bronce, la plata y el oro, como capotillo de la cosecha, y el viento se lo llevó sin que quedara rastro. 
-DAN002036 En cuanto a la piedra que chocó con la estatua, se convirtió en un cerro muy grande que llenó toda la tierra. 
-DAN002037 Tal fue tu sueño. Ahora te lo voy a explicar: 
-DAN002038 A ti, ¡oh, rey!, el más poderoso entre todos los reyes, Dios te ha dado el reino, el imperio, el poder y la gloria. Los hombres, los animales y los pájaros, dondequiera que habiten, los ha puesto Dios bajo tu mano. Dios te ha hecho su soberano y, por eso, la cabeza de oro eres tú. 
+DAN002035 Entonces todo a la vez quedó como polvo, el hierro, la loza, el bronce, la plata y el oro, como capotillo de la cosecha, y el viento se lo llevó sin que quedara rastro. En cuanto a la piedra que chocó con la estatua, se convirtió en un cerro muy grande que llenó toda la tierra. 
+DAN002036 Tal fue tu sueño. Ahora te lo voy a explicar: 
+DAN002037 A ti, ¡oh, rey!, el más poderoso entre todos los reyes, Dios te ha dado el reino, el imperio, el poder y la gloria. 
+DAN002038 Los hombres, los animales y los pájaros, dondequiera que habiten, los ha puesto Dios bajo tu mano. Dios te ha hecho su soberano y, por eso, la cabeza de oro eres tú. 
 DAN002039 Después de ti seguirá otro reino inferior al tuyo, y luego un tercer reino como el bronce que dominará la tierra entera. 
 DAN002040 Habrá un cuarto reino, duro como el hierro. El romperá todo, igual que el hierro, que todo lo hace pedazos. 
 DAN002041 Lo que viste de los pies y los dedos, parte de loza y parte de hierro, 
@@ -75,7 +74,7 @@ DAN003003 Se reunieron, pues, los funcionarios, prefectos, gobernadores, conseje
 DAN003004 Un mensajero proclamó con voz fuerte: “Hombres de toda raza, nación y lengua, 
 DAN003005 en el momento en que oigan la trompeta, la flauta, la cítara, la sambuca, el salterio, la zampoña y cualquier música, ustedes tendrán que postrarse y adorar la estatua de oro erigida por el rey Nabucodonosor. 
 DAN003006 Los que no se postren y la adoren, serán echados inmediatamente a un horno de fuego ardiente.” 
-DAN003007 Por eso, en cuanto se oyó la trompeta, la flauta, la cítara, la sambuca, el salterio, la zampoña y toda clase de música, los hombres de todos los pueblos, naciones y lenguas se postraron y adoraron la estatua de oro erigida por el rey Nabucodonosor. Denuncia condena de judíos 
+DAN003007 Por eso, en cuanto se oyó la trompeta, la flauta, la cítara, la sambuca, el salterio, la zampoña y toda clase de música, los hombres de todos los pueblos, naciones y lenguas se postraron y adoraron la estatua de oro erigida por el rey Nabucodonosor.
 DAN003008 Algunos magos, sin embargo, fueron a denunciar a los judíos. 
 DAN003009 Dijeron al rey Nabucodonosor: “¡Viva el rey eternamente! 
 DAN003010 Tú, ¡oh rey!, has ordenado que al oír las trompetas, todos se postren y adoren la estatua de oro, 
@@ -91,8 +90,7 @@ DAN003019 Entonces el rey cambió de actitud con respecto a ellos y se enfureci�
 DAN003020 Mandó hombres fuertes de su ejército a que los ataran y arrojaran al horno ardiente. 
 DAN003021 Y así fueron arrojados con sus ropas, mantos, pantalones y sombreros. 
 DAN003022 Como la orden del rey era terminante y el horno estaba excesivamente encendido, la llamarada mató a los hombres que habían llevado a Sidrac, Misac y Abdénago, 
-DAN003023 y los tres cayeron, atados, en medio del horno de fuego ardiente. Sin embargo, iban por entre las llamas alabando a Dios y bendiciendo al Señor. 
-DAN003025 Y Azarías, de pie en medio del fuego, tomó la palabra y oró así: Bendito seas, Señor, Dios de nuestros padres, que Nombre sea alabado y glorificado eternamente. Porque eres justo en todo lo que has hecho, todas obras son verdaderas, rectos tus caminos, y todos tus juicios. Has llevado a efecto una sentencia justa al traer el mal sobre nosotros y sobre Jerusalén, la Ciudad Santa de nuestros padres. Has obrado conforme a la verdad y la justicia, para castigo de nuestros pecados. Porque hemos pecado y obrado perversamente alejándonos de ti. Pecamos mucho en todo y no dimos oído a tus mandamientos. No los observamos y no cumplimos lo que nos mandabas para nuestro bien. Todos los males que has traído sobre nosotros, todo lo que nos has hecho, lo has hecho conforme a tu justa sentencia. Nos entregaste en manos de nuestros enemigos, gente sin ley, pésimos impíos, en manos de un rey injusto, el más perverso de toda la tierra. Y hoy no podemos abrir la boca, la vergüenza y la humillación han alcanzado a los que te sirven y te adoran. No nos abandones para siempre, por amor de tu Nombre no rechaces tu alianza. No nos retires tu misericordia, por Abraham, tu amigo, por Isaac, tu siervo, por Israel, tu santo, a quienes tú prometiste multiplicar su raza como las estrellas del cielo y como la arena de la orilla del mar. Porque, Señor, hemos pasado a ser la nación más pequeña de toda la tierra y somos humillados a causa de nuestros pecados. En esta hora ya no tenemos rey, ni profeta, ni jefe; no podemos ofrecerte víctimas, sacrificios, ofrendas ni incienso. No tenemos un lugar en que presentarte las primicias de nuestras cosechas y así conseguir tu favor. Pero, a lo menos, que al presentarnos con alma contrita y espíritu humillado te seamos agradables, más que cuando íbamos con carneros y becerros consumidos por el fuego y con miles de gordos corderos. Que hoy este sacrificio nuestro nos consiga tu favor, pues sabemos que los que confían en ti jamás serán defraudados. Y ahora te seguimos de todo corazón, te tememos y buscamos tu rostro. No nos dejes en la humillación, sino trátanos de acuerdo a tu bondad y según la abundancia de tu misericordia. Líbranos de acuerdo a tus maravillas, y da, Señor, gloria a tu Nombre. Queden confundidos los que maltratan a tus siervos, sean cubiertos de vergüenza, privados de todo su poder; aplasta tú su fuerza, y sepan que tú eres el único Dios y Señor, glorioso por toda la tierra. Los siervos del rey, que los habían arrojado al horno, no cesaban de atizar el fuego con petróleo, alquitrán, estopa y sarmientos, tanto que las llamas se elevaban por encima del horno unos veinticinco metros, y al extenderse abrasó a los caldeos que se encontraban alrededor del horno. Pero el ángel del Señor bajó al horno junto a Azarías y sus compañeros; empujó fuera del horno la llama de fuego, y les sopló, en medio del horno, como una frescura de brisa y de rocío, de modo que el fuego no los tocó ni les causó dolor ni molestia. Entonces los tres, a coro, se pusieron a cantar, glorificando y bendiciendo a Dios dentro del horno, y diciendo: Bendito seas, Señor, Dios de nuestros padres, alabado y exaltado eternamente. Bendito tu santo y glorioso Nombre, cantado y exaltado eternamente. Bendito seas en el templo de tu santa gloria, cantado y alabado eternamente. Bendito seas en el trono de tu reino, cantado y glorificado eternamente. Bendito seas tú, que sondeas los abismos, que te sientas sobre querubines, alabado y ensalzado enternamente. Bendito seas en el firmamento del cielo, alabado y glorificado eternamente. Obras todas del Señor, bendíganlo, alábenlo, ensálcenlo eternamente. Angeles del Señor, bendíganlo, alábenlo y glorifíquenlo eternamente. Cielos, bendigan al Señor, alábenlo y ensálcenlo eternamente. Aguas todas del cielo, bendigan al Señor, alábenlo y exáltenlo eternamente. Potencias todas del Señor, bendigan al Señor, alábenlo y ensálcenlo eternamente. Sol y luna, y ensálcenlo eternamente. Astros del cielo, alábenlo ensálcenlo eternamente. Lluvia y rocío, alábenlo ensálcenlo eternamente. Vientos todos, alábenlo ensálcenlo eternamente. Fuego y calor, alábenlo ensálcenlo eternamente. Frío y ardor, alábenlo ensálcenlo eternamente. Rocíos y escarchas, alábenlo ensálcenlo eternamente. Hielos y frío, alábenlo ensálcenlo enternamente. Heladas y nieves, alábenlo ensálcenlo eternamente. Noches y días, alábenlo ensálcenlo eternamente. Luz y tinieblas, alábenlo ensálcenlo eternamente. Rayos y nubes, alábenlo ensálcenlo eternamente. Tierra, alábalo ensálzalo eternamente. Montes y cerros, alábenlo ensálcenlo eternamente. Todo lo que brota en la tierra, alábelo ensálcelo eternamente. Vertientes, alábenlo ensálcenlo eternamente. Mares y ríos, alábenlo ensálcenlo eternamente. Ballenas y peces, alábenlo ensálcenlo eternamente. Aves todas del cielo, alábenlo ensálcenlo eternamente. Fieras y animales, alábenlo ensálcenlo eternamente. Hijos de los hombres, alábenlo ensálcenlo eternamente. Israel, alábalo y ensálzalo eternamente. Sacerdotes del Señor, alábenlo ensálcenlo eternamente. Servidores del Señor, alábenlo ensálcenlo eternamente. Espíritus y almas de los justos, alábenlo ensálcenlo eternamente. Santos y humildes de corazón, alábenlo ensálcenlo eternamente. Ananías, Azarías, Misael, bendigan Señor, alábenlo ensálcenlo eternamente. Porque él nos ha arrancado del infierno, nos ha salvado de manos de la muerte, nos ha librado del horno de ardientes llamas y nos ha sacado de en medio de ellas. Den gracias al Señor, porque es bueno, porque su misericordia es eterna. Todos que adoran al Señor, bendigan al Dios de dioses, alábenlo y reconózcanlo porque su misericordia es eterna. 
+DAN003023 y los tres cayeron, atados, en medio del horno de fuego ardiente. 
 DAN003024 Entonces el rey Nabucodonosor, muy asombrado, se levantó de repente y preguntó a sus consejeros: “¿No echamos al fuego a estos tres hombres atados?” Ellos respondieron: “Indudablemente.” 
 DAN003025 Dijo el rey: “Pero yo estoy viendo a cuatro hombres que se pasean libremente en medio del fuego, sin sufrir ningún daño, y el cuarto tiene el aspecto de un hijo de los dioses.” 
 DAN003026 Y Nabucodonosor se acercó a la boca del horno ardiente y dijo: “Sidrac, Misac y Abdénago, servidores del Dios Altísimo, salgan y vengan acá.” Entonces ellos salieron de en medio del fuego. 
@@ -102,7 +100,7 @@ DAN003029 Yo ordeno, pues: De toda raza, nación y lenguaje, todo aquel que habl
 DAN003030 Y el rey hizo progresar a Sidrac, Misac y Abdénago en la provincia de Babilonia. El y la locura de Nabucodonosor 
 DAN003031 Nabucodonosor, rey, a todos los pueblos, a todas las naciones y a todos los hombres de la tierra, sea cual fuere su idioma: Paz. 
 DAN003032 Me ha parecido bien darles a conocer las señales y milagros que ha hecho en mí el Dios Altísimo. 
-DAN0031033 ¡Qué grandes son sus prodigios, qué sus milagros! Su es un eterno, su abarca a todas las generaciones. 
+DAN003033 ¡Qué grandes son sus prodigios, qué sus milagros! Su es un eterno, su abarca a todas las generaciones. 
 DAN004001 Yo, Nabucodonosor, estaba tranquilo en mi casa y vivía contento en mi palacio, cuando tuve un sueño que me aterrorizó. 
 DAN004002 Las pesadillas que tuve en mi cama y las visiones que me pasaron por la mente me aterraron. 
 DAN004003 Entonces di orden que trajeran a mi presencia a todos los sabios de Babilonia para que me explicaran el sueño. 
@@ -357,109 +355,3 @@ DAN012010 Muchos serán purificados, blanqueados y probados; los impíos seguir�
 DAN012011 Contando desde el momento en que sea suprimido el sacrificio perpetuo e instalado el abominable ídolo del devastador, serán mil doscientos noventa días. 
 DAN012012 Dichoso el que sepa esperar y alcance mil treinta y cinco días. 
 DAN012013 Y tú, ve hasta tu fin. Descansarás y después te levantarás para recibir tu premio al final de los tiempos.” Historia Susana 
-DAN013001 Vivía en Babilonia un hombre llamado Joaquín. 
-DAN013002 Se había casado con una mujer llamada Susana, hija de Jilquías, muy bella y temerosa de Dios; 
-DAN013003 sus padres eran justos y habían educado a su hija según la Ley de Moisés.
-DAN013004 Joaquín era muy rico. Tenía un jardín junto a su casa, y los judíos acudían donde él porque gozaba de gran estima entre todos. 
-DAN013005 Aquel año habían sido nombrados jueces dos ancianos escogidos entre el pueblo. En ellos se verificó lo que dijo el Señor: “La corrupción ha salido de Babilonia, de los ancianos que hacían de jueces y que parecían guiar al pueblo”. 
-DAN013006 Estos dos ancianos venían a menudo a casa de Joaquín, y todos los que tenían algún pleito se dirigían a ellos. 
-DAN013007 Cuando a mediodía ya todo el mundo se había retirado, Susana iba a pasear por el jardín de su marido. 
-DAN013008 Los dos ancianos, que la veían ir a pasear todos los días, empezaron a desearla. 
-DAN013009 Perdieron la cabeza, dejando de mirar al Cielo y olvidando sus justos juicios. 
-DAN013010 Los dos estaban apasionados de ella, pero sin manifestarse el uno al otro su pasión 
-DAN013011 porque tenían vergüenza de descubrir el deseo que tenían de pecar con ella 
-DAN013012 y trataban afanosamente de verla todos los días. 
-DAN013013 Un día, después de decirse mutuamente: “Vamos a casa, porque es hora de comer”, salieron y se fueron cada uno por su lado. 
-DAN013014 Pero ambos volvieron sobre sus pasos y se encontraron de nuevo en el mismo sitio. Entonces se preguntaron el uno al otro el motivo, se confesaron su pasión y decidieron buscar el momento en que pudieran sorprender a Susana a solas. 
-DAN013015 Mientras estaban esperando la ocasión favorable, Susana entró un día en el jardín, como los días anteriores, acompañada solamente de las sirvientas jóvenes, y como hacía calor, quiso bañarse en el jardín. 
-DAN013016 Allí no había nadie excepto los dos ancianos que estaban espiando escondidos. 
-DAN013017 Susana dijo a sus criadas: “Tráiganme jabón y perfume y cierren las puertas del jardín para poder bañarme.” 
-DAN013018 Ellas obedecieron, cerraron las puertas del jardín y salieron por la puerta lateral para traer lo que Susana había pedido. No sabían que los ancianos estaban escondidos. 
-DAN013019 En cuanto salieron las sirvientas, los dos ancianos se levantaron y fueron corriendo donde ella. 
-DAN013020 Y le dijeron: “Las puertas del jardín están cerradas y nadie nos ve. Nosotros estamos llenos de pasión por ti; consiente y entrégate a nosotros. 
-DAN013021 Si no lo haces, juraremos que un joven estaba contigo y que por eso habías despedido a tus criadas.” 
-DAN013022 Susana exclamó gimiendo: “Me encuentro sitiada por todos lados. Si consiento, es como morir; si no consiento, no me libraré de las manos de ustedes. 
-DAN013023 Pero prefiero caer en manos de ustedes sin pecar, antes que pecar delante del Señor.” 
-DAN013024 Y Susana se puso a gritar muy fuertemente. Los dos ancianos gritaron también contra ella, 
-DAN013025 y uno de ellos corrió a abrir las puertas del jardín. 
-DAN013026 Al oír estos gritos en el jardín, las gentes de la casa se precipitaron por la puerta lateral para ver qué pasaba. 
-DAN013027 Y cuando los ancianos contaron su historia, los sirvientes se sintieron muy avergonzados, porque jamás se había dicho de Susana cosa semejante. 
-DAN013028 A la mañana siguiente, cuando el pueblo se reunió en casa de Joaquín, su marido, llegaron allá los dos ancianos, llenos de pensamientos perversos contra Susana, para hacerla condenar a muerte. 
-DAN013029 Y dijeron en presencia del pueblo: “Manden a buscar a Susana, hija de Jilquías, la esposa de Joaquín.” 
-DAN013030 La mandaron a buscar. Y ella compareció acompañada de sus padres, de sus hijos y de todos sus parientes. 
-DAN013031 Susana era muy fina y de gran belleza. 
-DAN013032 Tenía puesto el velo, pero aquellos miserables ordenaron quitárselo para saciarse de su hermosura. 
-DAN013033 Todos los suyos lloraban, y también todos los que la veían. 
-DAN013034 Los dos ancianos, levantándose en medio del pueblo, pusieron las manos sobre la cabeza de Susana. 
-DAN013035 Ella levantó llorando los ojos al cielo, porque su corazón tenía puesta su confianza en el Señor. 
-DAN013036 Los ancianos dijeron: “Mientras nosotros paseábamos solos por el jardín, entró ésta con dos criadas. Cerró las puertas y despidió a las criadas. 
-DAN013037 Entonces se le acercó un joven que estaba escondido y pecó con ella. 
-DAN013038 Nosotros, que estábamos en un rincón del jardín, al ver esta maldad, fuimos corriendo hacia ellos. 
-DAN013039 Los pillamos juntos, pero a él no lo pudimos atrapar porque era más forzudo que nosotros y, abriendo la puerta, se escapó. 
-DAN013040 Entonces la apresamos y le preguntamos quién era ese joven 
-DAN013041 y no quiso decirlo. Somos testigos de todo esto.” La los creyó, ya que eran ancianos y jueces del pueblo, y la condenaron a muerte. 
-DAN013042 Entonces Susana exclamó con voz fuerte: “Oh Dios eterno, que conoces los secretos, que todo lo sabes antes que suceda, 
-DAN013043 tú sabes que éstos me han levantado un falso testimonio. Mira que voy a morir sin haber hecho nada de lo que su maldad ha planeado contra mí.” 
-DAN013044 El Señor escuchó su voz y cuando la llevaban a la muerte, 
-DAN013045 Dios despertó el santo espíritu de un jovencito llamado Daniel, 
-DAN013046 que se puso a gritar: “Yo soy inocente de la muerte de ésta.” 
-DAN013047 Todo el pueblo se volvió a él y le dijo: “¿Qué significa todo eso que has dicho?” 
-DAN013048 El, de pie en medio de ellos, respondió: “¿Tan torpes son, hijos de Israel, que condenan sin averiguación y sin evidencia a una hija de nuestro pueblo? 
-DAN013049 Vuelvan al tribunal, porque el testimonio que éstos han levantado contra ella es falso.” 
-DAN013050 Todo el pueblo se apuró en volver allá y los ancianos dijeron a Daniel: “Ven a sentarte con nosotros y dinos lo que piensas, ya que Dios te ha dado la sabiduría de los ancianos.” 
-DAN013051 Daniel les dijo entonces: “Sepárenlos lejos a uno del otro y yo los interrogaré.” 
-DAN013052 Una vez que los separaron, Daniel llamó a uno de ellos y le dijo: “Envejecido en la maldad, ahora vas a pagar los crímenes de tu vida pasada. 
-DAN013053 Tú dictabas sentencias injustas, condenabas a los inocentes y absolvías a los culpables, cuando el Señor ha dicho: “No harás morir al inocente justo”. 
-DAN013054 Así, pues, si tú lo has visto, dinos debajo de qué árbol los viste entretenerse juntos.” Respondió él: “Bajo una acacia.” 
-DAN013055 Y Daniel contestó: “Verdaderamente te has condenado con esta mentira, pues ya el ángel de Dios ha recibido de él la sentencia y viene a partirte por medio.” 
-DAN013056 Después que despidió a éste, Daniel mandó traer al otro y le dijo: “Raza de Canaán, no de Judá; la hermosura te ha hechizado y la pasión corrompió tu corazón. 
-DAN013057 Así trataban a las mujeres de Israel, y ellas por miedo condescendían con ustedes. Pero una hija de Judá no soportó la maldad de ustedes. 
-DAN013058 Dime ahora debajo de qué árbol los sorprendiste juntos” El respondió: “Bajo una encina.” 
-DAN013059 Dijo Daniel: “Tú también has mentido, para mal tuyo: el ángel del Señor ya está esperando, espada en mano, para partirte por el medio y acabar con ustedes.” 
-DAN013060 Entonces toda la asamblea exclamó en alta voz bendiciendo a Dios, que salva a los que esperan en él. 
-DAN013061 Luego se levantaron contra los dos ancianos que Daniel convenció de falso testimonio por sus propias declaraciones, 
-DAN013062 les dieron muerte para cumplir la ley de Moisés y ese día se salvó una vida inocente. 
-DAN013063 Jilquías y su esposa dieron gracias a Dios por su hija Susana, lo mismo que su marido y todos sus parientes, por el hecho de que nada indigno se había hallado en ella. 
-DAN013064 Y desde aquel día en adelante, Daniel fue grande a los ojos del pueblo. 
-DAN014001 El rey Astiages fue a reunirse con sus padres y le sucedió Ciro, el Persa. 
-DAN014002 Daniel era comensal del rey y más estimado que ningún otro de sus amigos. Daniel los sacerdotes de Bel 
-DAN014003 Tenían los babilonios un ídolo llamado Bel, en el que se gastaban diariamente más de seiscientos kilos de flor de harina, cuarenta ovejas y más de doscientos litros de vino. 
-DAN014004 El rey también lo adoraba y todos los días iba a venerar al ídolo. En cambio, Daniel adoraba a su Dios. 
-DAN014005 Le dijo el rey: “¿Por qué no adoras a Bel?” El respondió: “Porque yo no venero a ídolos hechos por mano del hombre, sino sólo al Dios vivo que hizo el cielo y la tierra y que tiene poder sobre todo viviente.” 
-DAN014006 El rey le dijo: “¿Crees que Bel no es un Dios vivo?, ¿no ves todo lo que come y bebe a diario?” 
-DAN014007 Daniel se echó a reír y dijo: “No te engañes, rey; ese ídolo por dentro es de barro, y por fuera, de cobre, y no ha comido jamás.” 
-DAN014008 Al escucharlo el rey se enojó, mandó llamar a sus sacerdotes y les dijo: “Si no me dicen quién es el que come por todo este dinero, morirán; pero si demuestran que el que lo come es Bel, morirá Daniel, por haber blasfemado contra Bel.” 
-DAN014009 Daniel dijo al rey: “Que se haga como has dicho.” Los sacerdotes de Bel eran setenta, sin contar las mujeres y los niños. 
-DAN014010 El rey se dirigió, pues, con Daniel al templo de Bel 
-DAN014011 y los sacerdotes de Bel le dijeron: “Nosotros vamos a salir de aquí; tú, rey, manda poner la comida y el vino preparado; luego cierra la puerta y séllala con tu anillo; si mañana por la mañana, cuando vuelvas, encuentras que Bel no se lo ha comido todo, moriremos; en caso contrario, morirá Daniel, que nos ha calumniado.” 
-DAN014012 Ellos estaban tranquilos, porque se habían hecho una entrada secreta debajo de la mesa y por ahí penetraban siempre y venían a comerse las ofrendas. 
-DAN014013 En cuanto salieron y el rey mandó poner la comida ante Bel, 
-DAN014014 Daniel mandó a sus criados que trajeran ceniza y la desparramaran por todo el suelo del templo, sin más testigos que el rey. Luego salieron, cerraron la puerta, la sellaron con el anillo real y se fueron. 
-DAN014015 Los sacerdotes vinieron por la noche, como de costumbre, con sus mujeres y sus hijos, y se lo comieron y bebieron todo. 
-DAN014016 El rey se levantó muy temprano y Daniel también. 
-DAN014017 El rey preguntó a Daniel: “¿Están intactos los sellos?” “Intactos”, respondió él. 
-DAN014018 En cuanto abrieron la puerta, el rey echó una mirada a la mesa y gritó en alta voz: “¡Grande eres, Bel, y en ti no hay engaño!” 
-DAN014019 Daniel se puso a reír y, deteniendo al rey para que no pasara más adentro, le dijo: “Mira, mira el pavimento y observa de quién son esas pisadas.” 
-DAN014020 Veo huellas de hombres, de mujeres y de niños”, dijo el rey. 
-DAN014021 Se enojó muchísimo y mandó detener a los sacerdotes con sus mujeres y sus hijos. Ellos le mostraron entonces las puertas secretas por las que entraban a apoderarse de lo que había en la mesa. 
-DAN014022 Entonces el rey mandó matarlos a todos y entregó Bel a Daniel, que lo destruyó juntamente con su templo. Daniel el dragón 
-DAN014023 Había también un gran dragón que los habitantes veneraban. 
-DAN014024 Y dijo el rey a Daniel: “Al menos de éste no dirás que es de bronce; mira, está vivo y come y bebe; no negarás que es un dios viviente. 
-DAN014025 Adóralo, pues.” Respondió Daniel: “Yo adoro al Señor, mi Dios, porque él es un Dios vivo. Dame autorización y yo mataré a este dragón sin espada ni palo.” 
-DAN014026 El rey le dijo: “Puedes hacerlo.” 
-DAN014027 Entonces Daniel tomó resina, grasa y pelos y lo coció junto, hizo unas bolas y las metió en el hocico de la serpiente, que reventó en cuanto las tragó. Y Daniel dijo: “Esto es lo que ustedes adoraban.” 
-DAN014028 Al enterarse los babilonios de esto, se indignaron y se amotinaron contra el rey, diciendo: “El rey se ha hecho judío, destruyó a Bel, mató a la serpiente, y suprimió a los sacerdotes.” 
-DAN014029 Se presentaron luego al rey y le dijeron: “Entréganos a Daniel; si no, te mataremos a ti y a todos los tuyos.” 
-DAN014030 Entonces el rey, al verse en peligro por su violencia, se vio obligado a entregarles a Daniel. 
-DAN014031 Ellos lo echaron en el foso de los leones, donde estuvo seis días. 
-DAN014032 En ese foso había siete leones a los que daban diariamente dos cuerpos humanos y dos ovejas; pero entonces no les dieron nada con el fin de que devoraran a Daniel. 
-DAN014033 Vivía en ese tiempo en Judea el profeta Habacuq; éste acababa de preparar un guiso y de picar pan en un plato, y se dirigía al campo para llevárselo a los segadores. 
-DAN014034 Pero el ángel del Señor dijo a Habacuq: “Lleva la comida que preparaste a Babilonia, para Daniel, que está en el foso de los leones.” 
-DAN014035 Habacuq dijo: “Señor, jamás he visto Babilonia y no sé dónde está el foso.” 
-DAN014036 Pero el ángel del Señor lo tomó por la cabeza y llevándolo de los cabellos lo puso en Babilonia, junto al foso, con la rapidez de un espíritu. 
-DAN014037 Habacuq gritó: “Daniel, Daniel, toma la comida que te manda Dios.” 
-DAN014038 Daniel exclamó: “Oh Dios, te acordaste de mí y no has desamparado a los que te aman.” 
-DAN014039 Luego se levantó y se puso a comer, mientras el ángel del Señor llevaba a Habacuq al lugar en que estaba primero. 
-DAN014040 El séptimo día vino el rey a llorar a Daniel; se acercó al foso, miró y vio a Daniel sentado allí. 
-DAN014041 Entonces gritó con entusiasmo: “Grande eres tú, Señor, Dios de Daniel, y no hay otro Dios fuera de ti.” 
-DAN014042 Y mandó sacar del foso a Daniel, y arrojar allí a los que buscaban su muerte, que en su presencia fueron devorados al instante. 
