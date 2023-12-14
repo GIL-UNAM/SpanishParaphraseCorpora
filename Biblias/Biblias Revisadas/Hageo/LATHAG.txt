@@ -14,7 +14,7 @@ HAG001013 En seguida Ageo, el mensajero de Yavé, usando de las facultades que e
 HAG001014 Entonces Yavé tocó el corazón de Zorobabel, de Josué y de todo el pueblo, que empezaron la reconstrucción de la Casa de Yavé de los Ejércitos, su Dios. 
 HAG001015 El veinticuatro del sexto mes... 
 HAG002001 El día veintiuno del séptimo mes del segundo año de Darío, Yavé le encargó al profeta Ageo 
-HAG002002 que transmitiera el siguiente recado a Zorobabel, gobernador de Judá, y a Josué, sumo sacerdote, y a todo el pueblo en general: La del Templo nuevo 
+HAG002002 que transmitiera el siguiente recado a Zorobabel, gobernador de Judá, y a Josué, sumo sacerdote, y a todo el pueblo en general:
 HAG002003 “¿Vive todavía entre ustedes alguien que haya visto esta Casa con el esplendor que tenía? ¿Qué es lo que ven ahora? ¿No les parece una cosa insignificante? 
 HAG002004 Sin embargo, a ustedes les digo, Zorobabel, Josué y gente de mi pueblo, que no se desanimen. 
 HAG002005 Pónganse a trabajar y yo los acompañaré, les asegura Yavé de los Ejércitos, para cumplir el compromiso que contraje con ustedes cuando salieron de Egipto. 
@@ -31,7 +31,7 @@ HAG002015 Mediten en su corazón, y a paritr de hoy háganlo siempre:
 HAG002016 ¿Qué les pasaba antes de que se empezara a edificar el Templo de Yavé? Calculaban juntar veinte sacos de trigo, pero sólo salían diez. Pensaban sacar cincuenta arrobas de vino y sólo cosechaban veinte. 
 HAG002017 Yo eché a perder todo el trabajo de ustedes con el tizón, el pulgón y el granizo. Pero ninguno de ustedes se volvió a mí, dice el Señor. 
 HAG002018 Pongan, pues, atención desde hoy en adelante, desde este día de diciembre, en que se ha puesto la primera piedra del Santuario de Yavé. 
-HAG002019 ¿No notan ustedes que todavía no se llena el granero con trigo, y que todavía no dan frutos la viña, la higuera, el granado y el olivo? Sin embargo, desde hoy tendrán ustedes de todo.” Promesas Zorobabel 
+HAG002019 ¿No notan ustedes que todavía no se llena el granero con trigo, y que todavía no dan frutos la viña, la higuera, el granado y el olivo? Sin embargo, desde hoy tendrán ustedes de todo.”
 HAG002020 Volvió Yavé a hablarle a Ageo en la misma fecha anterior,
 HAG002021 para que le dijera a Zorobabel, gobernador de Judá: “Voy a remecer los cielos y la tierra. 
 HAG002022 Derribaré los tronos de los reyes y destruiré el poderío de los jefes de las naciones. Volcaré al carro con su conductor; rodarán por el suelo los caballos y sus jinetes. Se matarán unos a otros. 
