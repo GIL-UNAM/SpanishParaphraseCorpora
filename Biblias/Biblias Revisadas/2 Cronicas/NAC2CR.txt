@@ -119,7 +119,7 @@
 2CR006031 para que te teman y anden por tus caminos todos los días de su vida en la tierra que diste a nuestros padres.
 2CR006032 Cuando el extranjero, que no es de tu pueblo Israel, venido de lejanas tierras por la fama de tu nombre y de tu fuerte mano y tu tendido brazo, viniere a orar en esa casa,
 2CR006033 óyele tú desde los cielos, desde el lugar de tu morada, y haz lo que con clamores te pida el extranjero, para que todos los pueblos de la tierra conozcan tu nombre y te teman, como tu pueblo Israel, y sepan que tu nombre es invocado sobre esta casa que yo te he edificado.
-2CR006034 Si saliere tu pueblo a la guerra contra sus enemigos por el camino que les señales, y oraren a ti, hacia esta ciudad que tú has elegido, hacia la casa que a tu nombre he edi-ficado,
+2CR006034 Si saliere tu pueblo a la guerra contra sus enemigos por el camino que les señales, y oraren a ti, hacia esta ciudad que tú has elegido, hacia la casa que a tu nombre he edificado,
 2CR006035 oye tú desde los cielos su oración, su ruego, y ampara su derecho.
 2CR006036 Si pecaren contra ti — pues no hay hombre que no peque—, y, airado contra ellos, los entregares a sus enemigos, que los lleven cautivos a tierra enemiga, lejana o cercana
 2CR006037 y ellos, volviendo en sí en la tierra adonde fueren llevados cautivos, se convirtieren y oraren a ti en la tierra de su cautividad y dijeren: Hemos pecado, hemos obrado inicua e impíamente;'
@@ -151,8 +151,8 @@
 2CR007021 y por ilustre que haya sido, será el espanto de cuantos cerca de ella pasen, que dirán: ¿Por qué ha hecho Yahvé así con esta tierra y esta casa?
 2CR007022 Y se responderá: Porque dejaron a Yahvé, Dios de sus padres, que los había sacado de la tierra de Egipto, y se adhirieron a dioses ajenos y los adoraron y los sirvieron; por eso ha traído El sobre ellos todos estos males.”
 2CR008001 Al cabo de veinte años, en los que edificó Salomón la casa de Yahvé y su propia casa,
-2CR008002 reconstruyó las ciudades que le había dado Hiram, y estableció en ellas a los hijos de Israel. Después marchó Salomón contra Jamat de Soba y la tomó.
-2CR008003 (TEXTO OMITIDO)
+2CR008002 reconstruyó las ciudades que le había dado Hiram, y estableció en ellas a los hijos de Israel. 
+2CR008003 Después marchó Salomón contra Jamat de Soba y la tomó.
 2CR008004 Edificó a Tadmor, en el desierto, y todas las ciudades de municiones en Jamat.
 2CR008005 Edificó Bethorón, el alto y el bajo, ciudades fuertes, amuralladas, con puertas y barras;'
 2CR008006 Balat y todas las ciudades de munición que le pertenecían, y las ciudades de los carros y de la caballería, y todo lo que quiso edificar en Jerusalén, en el Líbano y en toda la tierra de su dominio.
@@ -168,7 +168,7 @@
 2CR008016 Así fue dirigida toda la obra de Salomón desde el día en que se pusieron los cimientos de la casa de Yahvé hasta el día en que fue terminada. Acabóse, pues, la casa de Yahvé.
 2CR008017 Entonces partió Salomón para Asión-Gueber y Elat, a orillas del mar, en tierra de Edom,
 2CR008018 pues Hiram, por medio de sus siervos, le había enviado navios y marineros diestros, conocedores del mar. Fueron éstos con los siervos de Salomón a Ofir, y trajeron de allí cuatrocientos cincuenta talentos de oro, que entregaron a Salomón.
-2CR009001 Llegó a la reina de Saba la fama de Salomón, y vino a Jeru-salén para probarle con enigmas, acompañada de muy gran séquito de camellos, cargados de aromas y oro en abundancia y piedras preciosas. Vino a Salomón y le dijo cuanto se le ocurrió,
+2CR009001 Llegó a la reina de Saba la fama de Salomón, y vino a Jerusalén para probarle con enigmas, acompañada de muy gran séquito de camellos, cargados de aromas y oro en abundancia y piedras preciosas. Vino a Salomón y le dijo cuanto se le ocurrió,
 2CR009002 y Salomón respondió a todas sus preguntas, sin que hubiera nada que él no pudiera explicarle.
 2CR009003 La reina de Saba, viendo la sabiduría de Salomón, la casa que había construido,
 2CR009004 los manjares de su mesa, el asiento de sus servidores, el porte y los vestidos de la servidumbre y la subida a la casa de Yahvé,
@@ -333,7 +333,7 @@
 2CR017004 sino que se acogió al Dios de sus padres y siguió sus mandatos, sin imitar lo que hacía Israel.
 2CR017005 Yahvé afirmó el reino en las manos de Josafat, a quien traía presentes todo Judá, y tuvo gran abundancia de riquezas y mucha gloria.
 2CR017006 Su corazón se fortaleció en los caminos de Yahvé, e hizo también desaparecer de Judá los excelsos y las “aseras.”
-2CR017007 El año tercero de su reinado mandó a sus príncipes Benjail, Abdías, Zacarías, Nata-niel y Miqueas por las ciudades de Judá para que enseñasen,
+2CR017007 El año tercero de su reinado mandó a sus príncipes Benjail, Abdías, Zacarías, Nataniel y Miqueas por las ciudades de Judá para que enseñasen,
 2CR017008 y con ellos a los levitas Semeyas, Netanías, Zebadías, Asael, Semiramot, Jonatán, Adonías, Tobías y Tobadonías, levitas, y con ellos a los sacerdotes Elisama y Joram,
 2CR017009 que enseñaron por las ciudades de Judá, teniendo consigo el libro de la Ley de Yahvé y recorriendo las ciudades de Judá enseñando al pueblo.
 2CR017010 Cayó el terror de Yahvé sobre todos los reinos de las tierras que había en torno de Judá y no osaron hacer la guerra contra Josafat.
@@ -427,7 +427,7 @@
 2CR020034 El resto de los hechos de Josafat, los primeros y los postreros, están escritos en la historia de Jehú, hijo de Jananí, que fue inserta en el libro de los reyes de Israel.
 2CR020035 Josafat, rey de Judá, se alió con el rey de Israel, Ocozías, que fue un impío,
 2CR020036 y se asoció con él para construir naves que fueran a Tarsis, haciéndose las naves en Asiongaber.
-2CR020037 Entonces Eliecer, hijo de Doda va, de Maresa, profetizó contra Josafat, diciendo: “Por haberte asociado con Ocozías, Yahvé destruirá tu obra.” Las naves se destrozaron y no pudieron ir a Tarsis.
+2CR020037 Entonces Eliecer, hijo de Dodava, de Maresa, profetizó contra Josafat, diciendo: “Por haberte asociado con Ocozías, Yahvé destruirá tu obra.” Las naves se destrozaron y no pudieron ir a Tarsis.
 2CR021001 Josafat se durmió con sus padres y fue sepultado en la ciudad de David. Le sucedió Joram, su hijo.
 2CR021002 Joram, hijo de Josafat, tuvo por hermanos a Azarías, Jejiel, Zacarías, Azarías, Micael y Sefatías, todos hijos de Josafat, rey de Judá.
 2CR021003 Habíales hecho su padre grandes donaciones de plata, oro y objetos preciosos, con ciudades fuertes en Judá; pero dejó el reino a Joram, por ser el primogénito.'
@@ -456,7 +456,7 @@
 2CR022006 Volvióse éste a Jezrael para curar las heridas que los sirios le habían hecho en Ramot cuando luchaba contra Jaziel, rey de Siria. Bajó Ocozías a ver a Joram, hijo de Ajab, a Jezrael, donde estaba herido;'
 2CR022007 y por voluntad de Dios, para su ruina, bajó Ocozías a ver a Joram; pues, llegado allí, salió con Joram al encuentro de Jehú, hijo de Nimsí, a quien Yahvé había ungido para exterminar a la casa de Ajab;'
 2CR022008 y mientras Jehú hacía justicia con la casa de Ajab, dio con los jefes de Judá y con los hijos de los hermanos de Ocozías que estaban al servicio de Ocozías, y los mató:
-2CR022009 buscó a Ocozías, que fue hallado en Samaría, donde se había escondido; y le tomaron y llevaron a Jehú, que le dio muerte; sepultáronle, porque dijeron: “Es hijo de Josafat, que buscó a Yahvé de todo corazón.” 9 No quedaba de la casa de Ocozías persona en edad de reinar,'
+2CR022009 buscó a Ocozías, que fue hallado en Samaría, donde se había escondido; y le tomaron y llevaron a Jehú, que le dio muerte; sepultáronle, porque dijeron: “Es hijo de Josafat, que buscó a Yahvé de todo corazón.” No quedaba de la casa de Ocozías persona en edad de reinar,'
 2CR022010 y Atalía, madre de Ocozías, viendo que era muerto su hijo, se alzó y exterminó a toda la estirpe real de la casa de Judá;'
 2CR022011 pero Josabat, hija del rey, cogió a Joás, hijo de Ocozías, y le arrebató de en medio de los hijos del rey cuando los mataban, escondiéndole a él y a su nodriza en el dormitorio. Así, Josabat, hija del rey Joram, mujer del sacerdote Joyada y hermana de OcozJas, le escondió de Atalía, que no pudo matarle.
 2CR022012 Seis años estuvo escondido con ellos en la casa de Dios, y era en tanto Atalía la que reinaba en la tierra.
@@ -481,7 +481,7 @@
 2CR023019 Puso también los porteros a las puertas de la casa de Yahvé para que por ninguna entrase ningún inmundo.
 2CR023020 Y tomando luego a los jefes de centena, a los jefes del pueblo y al pueblo todo de la tierra, llevaron al rey de la casa de Yahvé, y, llegados al medio de la puerta principal de la casa del rey, sentaron al rey sobre el trono del reino.
 2CR023021 Todo el pueblo de la tierra estaba lleno de júbilo, y la ciudad se estuvo tranquila. Atalía había sido muerta a espada.
-2CR024001 Siete años tenía Joás cuando comenzó a reinar, y reinó cuarenta años en Jerusalén. Su madre se llamaba Sibyá, de Ber-seba.
+2CR024001 Siete años tenía Joás cuando comenzó a reinar, y reinó cuarenta años en Jerusalén. Su madre se llamaba Sibyá, de Berseba.
 2CR024002 Hizo Joás lo que es recto a los ojos de Yahvé todo el tiempo de vida del sacerdote Joyada.
 2CR024003 Joyada tomó para Joás dos mujeres, y Joás engendró hijos e hijas.
 2CR024004 Después de esto vino a Joás el pensamiento de reparar la casa de Yahvé,
@@ -637,7 +637,7 @@
 2CR030004 Agradó esto al rey y a toda la asamblea,
 2CR030005 y determinaron hacer publicar por todo Israel, desde Berseba hasta Dan, que viniesen a Jerusalén a celebrar la pascua de Yahvé, porque en mucho tiempo no lo habían celebrado al modo prescrito.
 2CR030006 Fueron, pues, emisarios con letras de mano del rey y de los príncipes por todo Israel y Judá, corno el rey lo había mandado, en que se decía: “¡Hijos de Israel.” volveos a Yahvé, Dios de Abraham, de Isaac y de Israel, y El se volverá a las reliquias que os han quedado de la mano de los reyes de Asiría.
-2CR030007 No seáis como vuestros padres y corno vuestros hermanos, que se rebelaron contra Yahvé, Dios de sus padres, por lo que los entregó El a la desolación, como estái viendo.
+2CR030007 No seáis como vuestros padres y corno vuestros hermanos, que se rebelaron contra Yahvé, Dios de sus padres, por lo que los entregó El a la desolación, como estáis viendo.
 2CR030008 No endurezcáis, pues, ahora vuestra cerviz, como vuestros padres. Dad vuestras manos a Yahvé y venid a su santuario, que El ha santificado para siempre, y servid a Yahvé, vuestro Dios, y la ira de su furor se apartará de vosotros.
 2CR030009 Porque, si os volvéis a Yahvé, vuestros hermanos y vuestros hijos hallarán misericordia ante los que los tienen cautivos y volverán a esta tierra; pues Yahvé, vuestro Dios, es clemente y misericordioso y no apartará de vosotros su rostro si vosotros os volvéis a El.”
 2CR030010 Fueron, pues, los emisarios de ciudad en ciudad por tierra de Efraím y de Manases, hasta Zabulón; pero las gentes se reían y se burlaban de ellos.'
@@ -684,7 +684,7 @@
 2CR032003 tuvo consejo con los príncipes y los más valerosos de los oficiales, proponiendo si se cegarían las fuentes de aguas que había fuera de la ciudad, y ellos le apoyaron.
 2CR032004 Una gran muchedumbre se reunió, y cegaron todas las fuentes y el arroyo que corría por el medio del territorio, diciendo: “¿Por qué habrán de hallar los reyes de Asiría, cuando vengan, provisión de agua?”
 2CR032005 Ezequías cobró ánimo y reparó también con gran cuidado todas las murallas que habían sido derribadas, alzó en ellas torres y una antemuralla; reparó el terraplén de la ciudad de David e hizo armas de toda suerte y escudos.'
-2CR032006 Nombró jefes para mandar el ejército y, reuniendo luego a todo el mundo en la plaza de la puerta de la ciudad, les habló al corazón, di-ciendo:
+2CR032006 Nombró jefes para mandar el ejército y, reuniendo luego a todo el mundo en la plaza de la puerta de la ciudad, les habló al corazón, diciendo:
 2CR032007 “Esforzaos y confortaos; no temáis; no os dé miedo el rey de Asiría y toda esa muchedumbre que trae, porque más son los que con nosotros están que los que están con él'
 2CR032008 El tiene el brazo de carne; pero con nosotros está Yahvé, nuestro Dios, para ayudarnos y combatir nuestros combates.” El pueblo cobró valor con las palabras de Ezequías, rey de Judá.'
 2CR032009 Después de esto, Senaquerib, rey de Asiría, que combatía a Laquis con todo su poder, mandó emisarios a Jerusalén para decir a Ezequías, rey de Judá, y a todos los de Judá que estaban en Jerusalén:
@@ -787,7 +787,7 @@
 2CR035015 Los cantores, hijos de Asaf estaban en sus puestos, según las órdenes de David, de Asaf de Hernán y de Jedutún, vidente del rey; y los porteros, cada uno en su puerta; no tuvieron que abandonar sus oficios, porque sus hermanos los levitas prepararon lo que era para ellos.'
 2CR035016 Así se organizó aquel día todo el servicio de Yahvé para celebrar la pascua y para ofrecer holocaustos en el altar de Yahvé, según las órdenes del rey Josías.
 2CR035017 Los hijos de Israel que se hallaban allí celebraron entonces la pascua y la fiesta de los ácimos durante siete días.
-2CR035018 Ninguna pascua semejante a ésta se había celebrado en Israel desde los días de Samuel, profeta, y ningún rey de Israel había celebrado una pascua semejante a esta que celebraron Josías, los sacerdotes y los levitas, todo Judá e Israel que allí se hallaba y los habitantes de Jerusaléii.
+2CR035018 Ninguna pascua semejante a ésta se había celebrado en Israel desde los días de Samuel, profeta, y ningún rey de Israel había celebrado una pascua semejante a esta que celebraron Josías, los sacerdotes y los levitas, todo Judá e Israel que allí se hallaba y los habitantes de Jerusalén.
 2CR035019 Fue el año dieciocho del reinado de Josías cuando se celebró esta pascua.
 2CR035020 Después de esto, después de haber reparado Josías la casa de Yahvé, Necao, rey de Egipto, subió para combatir en Carquernis, a orillas del Eufrates. Josías le salió al paso,
 2CR035021 y Necao le mandó emisarios que le dijeran: “¿Qué hay entre ti y mí, rey de Judá? No es contra ti contra quien voy yo ahora; es contra una casa con la que estoy en guerra, y Dios me ha dicho que me apresure. No te opongas, pues, a Dios, que está conmigo, no te destruya.”

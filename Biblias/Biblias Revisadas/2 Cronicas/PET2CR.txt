@@ -64,8 +64,8 @@
 2CR004012 es a saber, las dos columnas con sus frisos y capiteles, y unas como mallas, con tal arte, que abrazaban los capiteles de sobre los frisos. 
 2CR004013 Igualmente cuatrocientas granadas, y dos mallas, en tal disposición, que se juntaban dos órdenes de granadas a cada una de las mallas que abrazaban los capiteles y frisos de las columnas. 
 2CR004014 Hizo también las basas y conchas, las cuales asentó sobre las basas; 
-2CR004015 el mar y los doce tridentes o garfios, y las jarras. Todos los utensilios hizo de bronce finísimo a Salomón, Hiram su padre, para la casa del Señor.
-2CR004016 
+2CR004015 el mar y los doce tridentes o garfios, y las jarras. 
+2CR004016 Todos los utensilios hizo de bronce finísimo a Salomón, Hiram su padre, para la casa del Señor.
 2CR004017 Mandólos fundir en la ribera del Jordán, en una tierra gredosa, entre Socot y Saredata. 
 2CR004018 La multitud de vasos era innumerable, de suerte que no se sabía la cantidad de bronce empleada. 
 2CR004019 E hizo Salomón todos estos vasos de la casa de Dios, y el altar de oro, y las mesas, sobre las cuales se ponían los panes de la proposición; 
@@ -467,7 +467,7 @@
 2CR023005 La tercera parte de vosotros, así sacerdotes y levitas como porteros que entráis de semana, estará en las puertas; otra tercera parte en la habitación del rey; y la otra tercera en la puerta llamada del fundamento; el resto de la gente esté en los patios del templo del Señor. 
 2CR023006 Nadie entre en la casa del Señor sino los sacerdotes y levitas que están de servicio; éstos sólo entren, por estar consagrados, y todo el resto de la gente esté de centinela ante la casa del Señor. 
 2CR023007 Los levitas estarán alrededor del rey, todos armados (a cualquier otro que entre en el templo, quítesele la vida), y acompañen al rey cuando entre y salga. 
-2CR023008 Los levitas, pues, y todo Judá ejecutaron puntualmente las órdenes del pontífice Joyada. tomó cada uno los hombres que tenía a su mando, así que los que venían según el turno para hacer la semana, como los que, cumplida su semana, debían salir; porque el pontífice Joyada no había permitido que se marchasen 11 2 R. 11, 12. las compañías de levitas, que al fin de la semana se sucedían unas a otras. 
+2CR023008 Los levitas, pues, y todo Judá ejecutaron puntualmente las órdenes del pontífice Joyada. tomó cada uno los hombres que tenía a su mando, así que los que venían según el turno para hacer la semana, como los que, cumplida su semana, debían salir; porque el pontífice Joyada no había permitido que se marchasen las compañías de levitas, que al fin de la semana se sucedían unas a otras. 
 2CR023009 Y dio luego el Sumo Sacerdote Joyada a los centuriones las lanzas, y escudos, y rodelas, consagradas al templo del Señor por el rey David; 
 2CR023010 y apostó toda la gente, armada de dagas, desde la parte derecha del templo, hasta la izquierda delante del altar y del templo, alrededor del rey. 
 2CR023011 En seguida sacaron al hijo del rey, y le ciñeron la corona, y el testimonio, y le pusieron en la mano el libro de la Ley, y le proclamaron rey. Y el pontífice Joyada, asistido de sus hijos, le ungió; y aclamáronle, diciendo: Viva el rey. 
@@ -561,7 +561,7 @@
 2CR026023 Al fin fue Ocias a descansar con sus padres, y le sepultaron en el campo dejos reales sepulcros; fuera de ellos, porque era leproso. Sucedióle en el reino su hijo Joatán. 
 2CR027001 Veinticinco años tenía Joatán cuando comenzó a reinar, y diez y seis años reinó en Jerusalén; llamábase su madre Jerusa, hija de Sadoc. 
 2CR027002 Y procedió con rectitud en la presencia del Señor, conforme a todo lo que había hecho su padre Ocias, salvo que no se entremetió en el templo del Señor; pero el pueblo seguía todavía en los desórdenes. 
-2CR027003 Joatán fue el que fabricó la puerta altísima del templo del Señor, e hizo muchas obras en los muros de. la torre Ofel. 
+2CR027003 Joatán fue el que fabricó la puerta altísima del templo del Señor, e hizo muchas obras en los muros de la torre Ofel. 
 2CR027004 También edificó ciudades en las montañas de Judá, y castillos y torres en los bosques. 
 2CR027005 Éste hizo guerra al rey de los amonitas, a los cuales sujetó; por lo que le dieron por entonces los amonitas cien talentos de plata, y diez mil coros, o cargas, de trigo, y otros tantos de cebada; esto mismo le dieron los amonitas el segundo y tercer año. 
 2CR027006 Joatán, pues, se hizo poderoso, por haber procedido rectamente en los ojos del Señor suyo. 

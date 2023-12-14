@@ -127,7 +127,7 @@
 2CR006039 escucha tú desde los cielos, lugar de tu morada, su oración y su plegaria; hazles justicia y perdona a tu pueblo los pecados que cometieron contra ti. 
 2CR006040 Que tus ojos, Dios mío, estén abiertos, y tus oídos atentos a la oración que se haga en este lugar. 
 2CR006041 Y ahora: ¡levántate, Yavé Dios, hacia tu reposo, tú y el Arca de tu fuerza! ¡Que tus sacerdotes, Yavé Dios, se revistan de tu fuerza salvadora y tus fieles gocen de la felicidad! 
-2CR006042 Yavé, Dios mío, no rechaces el rostro de tu Ungido; acuérdate de tus favores a David tu siervo.” Dedicación Templo 
+2CR006042 Yavé, Dios mío, no rechaces el rostro de tu Ungido; acuérdate de tus favores a David tu siervo.”
 2CR007001 Cuando Salomón acabó de rezar, bajó fuego del cielo que devoró el holocausto y los sacrificios mientras la Gloria de Yavé llenó la Casa. 
 2CR007002 Los sacerdotes no podían entrar en la Casa de Yavé, porque su Gloria la llenaba. 
 2CR007003 Entonces todos los hijos de Israel, viendo descender el fuego y la Gloria de Yavé sobre la Casa, se postraron sobre el pavimento, adoraron y alabaron a Yavé: “Porque es bueno, porque es eterno su amor.” 
@@ -167,7 +167,7 @@
 2CR008015 No se apartaron en nada de la orden del rey en lo tocante a los sacerdotes y los levitas, ni tampoco en lo relativo a los tesoros. 
 2CR008016 Así fue dirigida toda la obra de Salomón, desde el día en que se echaron los cimientos de la Casa de Yavé hasta su terminación. Así fue acabada la Casa de Yavé. 
 2CR008017 Entonces Salomón fue a Asiongaber y a Elat a orillas del mar, en el país de Edom. 
-2CR008018 Hiram le envió, por medio de sus siervos, barcos y marinos conocedores del mar, que fueron con los siervos de Salomón a Ofir, de donde tomaron cuatrocientos cincuenta talentos de oro, que trajeron al rey Salomón. La de Saba 
+2CR008018 Hiram le envió, por medio de sus siervos, barcos y marinos conocedores del mar, que fueron con los siervos de Salomón a Ofir, de donde tomaron cuatrocientos cincuenta talentos de oro, que trajeron al rey Salomón. 
 2CR009001 La reina de Saba había oído la fama de Salomón, y vino a Jerusalén a probarlo por enigmas. Vino con muchos servidores y con camellos que traían aromas, gran cantidad de oro y piedras preciosas. Fue donde Salomón y conversó con él sobre todas sus inquietudes. 
 2CR009002 Salomón contestó todas sus preguntas sin que hubiera nada que él no pudiera explicarle. 
 2CR009003 Cuando la reina de Saba vio la sabiduría de Salomón y la Casa que había edificado, 
@@ -198,7 +198,7 @@
 2CR009028 Traían también caballos para Salomón de Musur y de todos los países. 
 2CR009029 El resto de los hechos de Salomón, del comienzo al fin, ¿no están escritos en la historia del profeta Natán, en la profecía de Ajías el silonita, y en las visiones de Idó, el profeta, sobre Jeroboam, hijo de Nabat? 
 2CR009030 Salomón reinó en Jerusalén sobre todo Israel cuarenta años.
-2CR009031 Luego se acostó con sus padres y fue sepultado en la ciudad de David, su padre. En su lugar reinó su hijo Roboam. La del reino 
+2CR009031 Luego se acostó con sus padres y fue sepultado en la ciudad de David, su padre. En su lugar reinó su hijo Roboam.
 2CR010001 Fue Roboam a Siquem, porque todo Israel había ido a Siquem para proclamarlo rey. 
 2CR010002 Apenas lo supo Jeroboam, hijo de Nabat, estando todavía en Egipto, adonde había ido huyendo del rey Salomón, volvió de Egipto, pues habían enviado a llamarlo. 
 2CR010003 Vino entonces Jeroboam con toda la asamblea, y hablaron a Roboam diciendo: 
@@ -326,7 +326,7 @@
 2CR016011 Los hechos de Asá, del comienzo al fin, están escritos en el Libro de los Reyes de Judá y de Israel. 
 2CR016012 El año treinta y nueve de su reinado, Asá enfermó de los pies, de una enfermedad muy grave. En enfermedad no consultó a Yavé, sino a los médicos. 
 2CR016013 Murió Asá el año cuarenta y uno de reinado 
-2CR016014 y lo sepultaron en el sepulcro que se había hecho en la ciudad de David. Lo pusieron sobre un lecho que habían llenado de aromas preparados según el arte de perfumería y, por él, se quemaron perfumes en enorme cantidad.Josafat. 
+2CR016014 y lo sepultaron en el sepulcro que se había hecho en la ciudad de David. Lo pusieron sobre un lecho que habían llenado de aromas preparados según el arte de perfumería y, por él, se quemaron perfumes en enorme cantidad.
 2CR017001 En su lugar reinó su hijo Josafat, el cual se fortificó contra Israel. 
 2CR017002 Puso guarniciones en todas las ciudades amuralladas de Judá, gobernadores en todo el país de Judá y en las ciudades de Efraím que Asá, su padre, había conquistado. 
 2CR017003 Yavé estuvo con Josafat porque anduvo por los caminos que había seguido su padre David y no buscó a los Baales, 
@@ -630,7 +630,7 @@
 2CR029033 Se sacrificaron también seiscientos bueyes y tres mil ovejas. 
 2CR029034 Pero como los sacerdotes eran pocos y no daban abasto para desollar todas estas víctimas, los ayudaron sus hermanos los levitas hasta terminar la labor, y hasta que los sacerdotes se purificaron. Pues los levitas estaban más instruidos que los sacerdotes sobre los ritos de purificación. 
 2CR029035 Hubo muchos holocaustos además de las grasas de los sacrificios de comunión y de las libaciones para los holocaustos. Así quedó restablecido el culto de la Casa de Yavé. 
-2CR029036 Ezequías y el pueblo entero se pusieron alegres por lo que Dios acababa de hacer en medio de ellos; pues todo se hizo rápidamente. La Pascua 
+2CR029036 Ezequías y el pueblo entero se pusieron alegres por lo que Dios acababa de hacer en medio de ellos; pues todo se hizo rápidamente.
 2CR030001 Ezequías mandó mensajeros a todo Israel y Judá, y escribió también cartas a Efraím y Manasés para que vinieran a la Casa de Yavé a Jerusalén, a fin de celebrar la Pascua en honor de Yavé, el Dios de Israel. 
 2CR030002 El rey y sus jefes y toda la asamblea de Jerusalén acordaron celebrar la Pascua en el mes segundo, 
 2CR030003 ya que no podían celebrarla a su debido tiempo porque los sacerdotes no se habían santificado en número suficiente y el pueblo no se había reunido en Jerusalén. 
@@ -678,7 +678,7 @@
 2CR031018 Hubo que inscribir a todos sus niños, sus mujeres, sus hijos e hijas, junto con toda la asamblea, mientras ellos permanecían atareados en las cosas sagradas. 
 2CR031019 Para los sacerdotes, hijos de Aarón, que vivían en el campo en las aldeas de sus ciudades, había en cada ciudad hombres designados nominalmente, para dar las porciones a todos los varones de familia sacerdotal y a todos los levitas inscritos en las genealogías. 
 2CR031020 Así procedió Ezequías en todo Judá haciendo lo que era bueno y recto y verdadero, ante Yavé su Dios. 
-2CR031021 Todas las obras que realizó en servicio de la Casa de Yavé, de la Ley y los mandamientos, las hizo buscando a su Dios con todo su corazón y tuvo éxito. Invasión Senaquerib 
+2CR031021 Todas las obras que realizó en servicio de la Casa de Yavé, de la Ley y los mandamientos, las hizo buscando a su Dios con todo su corazón y tuvo éxito.
 2CR032001 Después de todas estas pruebas de fidelidad de Ezequías vino Senaquerib, rey de Asur, invadió Judá, sitió dos ciudades fortificadas y mandó derribar las murallas. 
 2CR032002 Cuando Ezequías vio que Senaquerib venía con intención de atacar a Jerusalén 
 2CR032003 se reunió con todos los jefes y hombres valerosos y llegaron al acuerdo de cortar las fuentes de agua que había fuera de la ciudad. 
@@ -749,7 +749,7 @@
 2CR034010 Lo pusieron en manos de los que hacían el trabajo, los encargados de la Casa de Yavé, y éstos se lo dieron a los obreros para restaurar y reparar la Casa. 
 2CR034011 Lo dieron a los carpinteros y obreros de la construcción para comprar piedras de cantera y madera para las vigas y la armazón de los edificios destruidos por los reyes de Judá. 
 2CR034012 Estos trabajaban permanentemente en la obra. Estaban bajo la vigilancia de Yajat y Abdías, levitas de los hijos de Merarí, y de Zacarías y Mesulam, de los hijos de los quehatitas, que los dirigían, y de otros levitas, todos ellos maestros en tocar instrumentos de música. 
-2CR034013 También dirigían a los peones de carga y a todos los que trabajaban en la obra en los distintos servicios. Entre los levitas había además escribas, notarios y porteros. Descubrimiento la Ley 
+2CR034013 También dirigían a los peones de carga y a todos los que trabajaban en la obra en los distintos servicios. Entre los levitas había además escribas, notarios y porteros. 
 2CR034014 Cuando estaban sacando el dinero traído de la Casa de Yavé, el sacerdote Helquías encontró el libro de la Ley de Yavé dada a Moisés. 
 2CR034015 Tomó la palabra y dijo al secretario Safán: “He encontrado el libro de la Ley en la Casa de Yavé”; y Helquías entregó el libro a Safán. 
 2CR034016 Safán llevó el libro al rey, y le rindió cuentas diciendo: “Tus servidores están haciendo todo lo que les ha sido encargado. 
@@ -769,7 +769,7 @@
 2CR034030 Subió el rey a la Casa de Yavé con todos los hombres de Judá y los habitantes de Jerusalén, los sacerdotes y los levitas, y todo el pueblo desde el mayor hasta el menor, y leyó a sus oídos todas las palabras del Libro de la Alianza que había sido encontrado en la Casa de Yavé. 
 2CR034031 El rey se mantuvo de pie sobre su estrado y celebró la Alianza en presencia de Yavé, tomando el compromiso de caminar tras Yavé y guardar sus mandamientos, sus testimonios y sus preceptos con todo su corazón y con toda su alma, cumpliendo las palabras de la Alianza escritas en aquel libro. 
 2CR034032 Hizo que se adhirieran a la Alianza cuantos se hallaban en Jerusalén y en Benjamín, y los habitantes de Jerusalén tuvieron que actuar de acuerdo con la Alianza de Dios, el Dios de sus padres. 
-2CR034033 Josías hizo desaparecer todas las abominaciones de las provincias en que vivían los hijos de Israel y obligó a todos los que se encontraban en Jerusalén a servir a Yavé, su Dios. Y mientras él vivió no se apartaron más de Yavé, el Dios de sus padres. La de Josías 
+2CR034033 Josías hizo desaparecer todas las abominaciones de las provincias en que vivían los hijos de Israel y obligó a todos los que se encontraban en Jerusalén a servir a Yavé, su Dios. Y mientras él vivió no se apartaron más de Yavé, el Dios de sus padres.
 2CR035001 Josías celebró una Pascua en honor de Yavé en Jerusalén; inmolaron la Pascua el día catorce del primer mes. 
 2CR035002 Estableció a los sacerdotes en sus funciones y los dio ánimo para servir en la Casa de Yavé. 
 2CR035003 Dijo a los levitas que enseñan a todo Israel y están consagrados a Yavé: “Pongan el Arca Santa en la Casa que construyó Salomón, hijo de David, rey de Israel, porque ya no habrán de llevarla en los hombros. Ahora sirvan a Yavé nuestro Dios y a Israel, su pueblo. 
@@ -796,7 +796,7 @@
 2CR035024 Sus servidores lo sacaron del carro y, pasándolo a otro carro que tenía, lo llevaron a Jerusalén, donde murió. Fue sepultado en los sepulcros de sus padres y todo Judá y Jerusalén hicieron duelo por Josías. 
 2CR035025 Jeremías compuso un canto fúnebre sobre Josías, y todos los cantores y cantoras hablan todavía hoy de Josías en sus cantos fúnebres, lo cual se ha hecho costumbre en Israel. Están escritos entre las Lamentaciones. 
 2CR035026 Lo demás referente a Josías y todo lo bueno que hizo de acuerdo con la Ley de Yavé 
-2CR035027 y sus hechos del comienzo al fin están escritos en el libro de los Reyes de Israel y de Judá. Los reyes 
+2CR035027 y sus hechos del comienzo al fin están escritos en el libro de los Reyes de Israel y de Judá.
 2CR036001 El pueblo del país tomó a Joacab, hijo de Josías, para proclamarlo rey de Jerusalén, en lugar de su padre. 
 2CR036002 Joacaz tenía veintitrés años cuando comenzó a reinar, y reinó tres meses en Jerusalén. 
 2CR036003 El rey de Egipto lo destituyó en Jerusalén, e impuso al país una contribución de cien talentos de plata y un talento de oro. 
