@@ -4,7 +4,7 @@ PRV001003 para obtener la instrucción e inteligencia, para hacer al hombre just
 PRV001004 para enseñar a los hombres sencillos la prudencia; a los jóvenes, ciencia y reflexión. 
 PRV001005 Que el sabio escuche, y aumentará su saber, y el inteligente sabrá dirigir a los demás 
 PRV001006 y comprenderá proverbios y secretos, los dichos de los sabios y sus palabras. 
-PRV001007 El temor de Yavé es la raíz del conocimiento; sabiduría e instrucción no interesan a los imbéciles. Huye compañía de los malos 
+PRV001007 El temor de Yavé es la raíz del conocimiento; sabiduría e instrucción no interesan a los imbéciles.
 PRV001008 Escucha, hijo mío, la instrucción de tu padre, y no rechaces las advertencias de tu madre. 
 PRV001009 Ellas serán tu corona, y las llevarás siempre como un collar precioso. 
 PRV001010 Hijo mío, si los pecadores te invitan con palabras bonitas, tú no les hagas caso. No quienes te digan: 
@@ -16,7 +16,7 @@ PRV001015 Hijo mío, no sigas sus pasos; guárdate de andar por sus sendas;
 PRV001016 ¿no ves que sus pies corren hacia la maldad y tienen prisa de derramar sangre? 
 PRV001017 Mas en vano tiendes la red a la vista de las aves. 
 PRV001018 Las trampas que preparan los impíos se volverán contra ellos, y se perderán en sus propias maquinaciones. 
-PRV001019 Ahí para el camino de todo el que se entrega a la rapiña, la violencia mata a los que la cometen. Escúchame 
+PRV001019 Ahí para el camino de todo el que se entrega a la rapiña, la violencia mata a los que la cometen.
 PRV001020 La Sabiduría viene clamando por las calles y levanta su voz en las plazas. 
 PRV001021 Habla en las esquinas de las calles céntricas y repite sus discursos a las entradas de la ciudad. 
 PRV001022 “¿Hasta cuándo, tontos, les gustarán las tonterías? ¿Hasta cuándo, orgullosos, tendrán ganas de burlarse? Necios, ¿hasta cuándo aborrecerán la verdad? 
@@ -30,7 +30,7 @@ PRV001029 Porque odiaron la verdad y no eligieron el temor a Yavé,
 PRV001030 porque despreciaron mis advertencias y no escucharon mis consejos. 
 PRV001031 Entonces cosecharán el fruto de sus errores y sentirán hastío de sus caprichos. 
 PRV001032 A los tontos los perderá su porfía, y a los irresponsables, su propia dejación. 
-PRV001033 Todo lo contrario el que me escucha: vivirá en paz y se sentirá seguro, sin temer la desgracia. Es adquirir la sabiduría 
+PRV001033 Todo lo contrario el que me escucha: vivirá en paz y se sentirá seguro, sin temer la desgracia.
 PRV002001 Hijo mío, si das acogida a mis palabras y guardas junto a ti mis mandamientos, 
 PRV002002 con tus oídos siempre atentos a la voz de la sabiduría y abierto tu corazón a la reflexión; 
 PRV002003 si llamas a la inteligencia y levantas tu voz hacia la prudencia; 
@@ -52,7 +52,7 @@ PRV002018 Su casa va cayendo al abismo y sus caminos bajan hacia los muertos.
 PRV002019 El que va hacia ella no volverá, ni encontrará más la senda de la vida. 
 PRV002020 Anda tú, pues, hijo mío, por el camino de los buenos y sigue la senda de los justos. 
 PRV002021 Porque los buenos habitarán la tierra; los hombres intachables permanecerán en ella. 
-PRV002022 Pero los malos serán expulsados y se echará fuera a los embusteros. Pon práctica la sabiduría 
+PRV002022 Pero los malos serán expulsados y se echará fuera a los embusteros.
 PRV003001 Hijo mío, no te olvides de mi enseñanza, guarda en tu corazón mis mandamientos. 
 PRV003002 Porque ellos te colmarán de largos días, de años de vida y de buena salud. 
 PRV003003 No se aparten de ti la bondad y la fidelidad; ponlas como collar en tu cuello, y escríbelas en el libro de tu corazón. 
@@ -87,7 +87,7 @@ PRV003031 No admires al hombre violento ni sigas sus ejemplos.
 PRV003032 Sepas que Yavé aborrece a los perversos y viene a convivir con los justos. 
 PRV003033 La maldición de Yavé está sobre la casa del malvado, mientras que bendice la casa de los justos. 
 PRV003034 Se burla de los que se burlan y reserva su favor a los humildes. 
-PRV003035 Al final serán ensalzados los sabios y no habrá sino vergüenza para los insensatos. Cuida camino 
+PRV003035 Al final serán ensalzados los sabios y no habrá sino vergüenza para los insensatos.
 PRV004001 Escuchen, hijos míos, las instrucciones de un padre y estén atentos para adquirir la prudencia. 
 PRV004002 Yo quiero transmitirles un saber precioso; no descuiden, pues, mi enseñanza. 
 PRV004003 Porque también fui hijo querido de mi padre y amado tiernamente como único por mi madre. 
@@ -114,7 +114,7 @@ PRV004023 Antes que nada guarda tu corazón, porque de él mana la vida.
 PRV004024 Aparta de tu boca la mentira, aleja de tus labios la falsedad. 
 PRV004025 Que tus ojos miren de frente y tus párpados se dirijan derechos ante ti. 
 PRV004026 Examina la senda en que pones tus pies, así serán firmes todos tus pasos. 
-PRV004027 No te desvíes ni a la derecha ni a la izquierda, aleja tus pasos del mal. Cuídate la mujer liviana 
+PRV004027 No te desvíes ni a la derecha ni a la izquierda, aleja tus pasos del mal. 
 PRV005001 Hijo mío, mantente atento a mi sabiduría e inclina tus oídos a mi prudencia. 
 PRV005002 Recuerda mis consejos y no se aparten de tus labios mis instrucciones. 
 PRV005003 Los labios de la mujer adúltera son como un panal que destila miel; su paladar, más suave que el aceite; 
@@ -142,7 +142,7 @@ PRV006001 Hijo mío, si saliste por fiador de tu prójimo, si dijiste: “Doy mi
 PRV006002 si te obligaste por las palabras de tus labios, si te amarraste por tu propia boca, hijo, te lo digo, 
 PRV006003 deslígate, ya que te pusiste en las manos de tu prójimo; corre, híncate de rodillas, importuna a tu prójimo, 
 PRV006004 no des sueño a tus ojos, ni descanso a tus párpados; 
-PRV006005 líbrate, como la gacela del lazo, o el pájaro de la trampa. El y el insensato 
+PRV006005 líbrate, como la gacela del lazo, o el pájaro de la trampa.
 PRV006006 Anda a ver a la hormiga, perezoso, mira sus costumbres y te harás sabio. 
 PRV006007 Ella no tiene jefe, ni mayordomo, ni amo. 
 PRV006008 Asegura en el verano su provisión, recoge durante la siega su comida. 
@@ -220,7 +220,7 @@ PRV008017 Quiero a los que me quieren y me dejaré encontrar por todos aquellos 
 PRV008018 Me acompañan la riqueza y los honores, el bienestar verdadero y la vida honrada; 
 PRV008019 produzco frutos más preciosos que el oro y dejo más utilidades que la plata, 
 PRV008020 usando siempre los medios justos y los procederes correctos 
-PRV008021 para enriquecer a los que me aman y para llenar sus bodegas. Yavé formó desde el principio 
+PRV008021 para enriquecer a los que me aman y para llenar sus bodegas.
 PRV008022 Yavé me creó en el principio de su creación, antes que sus obras más antiguas. 
 PRV008023 Desde el principio fui formada, desde el comienzo, antes del origen de la tierra. 
 PRV008024 Cuando no existía el abismo ni habían brotado las fuentes del océano, 
@@ -235,7 +235,7 @@ PRV008032 Ahora, pues, hijos, escúchenme: felices los que siguen mis caminos.
 PRV008033 Escuchen mi enseñanza y háganse sabios, no la desprecien. 
 PRV008034 Feliz el hombre que me escucha y se presenta a mi puerta cada día, esperándome a la entrada de mi casa. 
 PRV008035 Porque el que me encuentra, encuentra la vida, ha recibido el favor de Yavé. 
-PRV008036 En cambio, los que me ofenden se hieren a sí mismos, y me odian porque aman la muerte. La invita a su mesa 
+PRV008036 En cambio, los que me ofenden se hieren a sí mismos, y me odian porque aman la muerte.
 PRV009001 La Sabiduría ha construido su casa, para lo cual levantó sus siete columnas; 
 PRV009002 sacrificó sus animales, preparó sus vinos y dispuso su mesa. 
 PRV009003 Luego ha mandado a sus sirvientes al centro de la ciudad para clamar: 
@@ -253,7 +253,7 @@ PRV009014 se sienta a la puerta de su casa, en un trono, en lo más alto de la c
 PRV009015 para invitar a los que pasan y siguen recto su camino: 
 PRV009016 ¿Quién es simple? Que entre aquí. Al hombre insensato le dice: 
 PRV009017 “Las aguas robadas son dulces, y más sabroso el pan hurtado.” 
-PRV009018 Pero el hombre ignora que ahí están las sombras y que sus invitados se van al abismo del sepulcro. SEGUNDA LOS PROVERBIOS Proverbios Salomón 
+PRV009018 Pero el hombre ignora que ahí están las sombras y que sus invitados se van al abismo del sepulcro.
 PRV010001 El hijo sabio es alegría para su padre, y el necio es tristeza para su madre. 
 PRV010002 Los tesoros mal adquiridos no aprovechan, pero la justicia libra de la muerte. 
 PRV010003 Yavé no deja que el justo padezca hambre, pero deja insatisfechos a los malvados. 
@@ -628,7 +628,7 @@ PRV022012 La mirada de Yavé protege al sabio, pero desacredita las palabras del
 PRV022013 Dice el flojo: Afuera hay un león, me matarán en la calle. 
 PRV022014 Un foso profundo es la boca de la mujer adúltera, cae en él el que Yavé quiere castigar. 
 PRV022015 La necedad está anclada en el corazón del niño, el azote de la instrucción lo libera. 
-PRV022016 Oprimir a un pobre es enriquecerlo, dar al rico es perder su dinero. Proverbios los sabios 
+PRV022016 Oprimir a un pobre es enriquecerlo, dar al rico es perder su dinero.
 PRV022017 Presta oídos, escucha las palabras de los sabios, y luego aplícate en entenderlas. 
 PRV022018 Porque te será un placer conservarlas dentro de ti, tenerlas en cualquier momento para decirlas. 
 PRV022019 Para que pongas tu confianza en Yavé, quiero hoy enseñarte también a ti. 
@@ -710,7 +710,7 @@ PRV024030 Pasé junto al campo del perezoso, cerca de la viña del hombre despre
 PRV024031 y vi que todo estaba lleno de ortigas, los cardos cubrían el terreno, la cerca de piedras estaba en el suelo. 
 PRV024032 Al verlo reflexioné, al contemplarlo saqué esta lección. 
 PRV024033 Dormir un poco, adormecerse un poco, cruzar los brazos estirándose, 
-PRV024034 y como un ladrón, así llega la pobreza, y como un mendigo la indigencia. Otros de Salomón 
+PRV024034 y como un ladrón, así llega la pobreza, y como un mendigo la indigencia.
 PRV025001 Estos también son proverbios de Salomón que copiaron los hombres del tiempo de Ezequías, rey de Judá: 
 PRV025002 Es gloria de Dios dejar cosas ocultas, y gloria de los reyes descubrirlas. 
 PRV025003 Como son altos los cielos, y la tierra profunda, así también el corazón de los reyes. 
@@ -881,7 +881,7 @@ PRV030029 Tres cosas tienen un hermoso paso, y cuatro un bello andar:
 PRV030030 el león, el más valiente de los animales, que no retrocede ante nada; 
 PRV030031 el gallo, que se pasea gallardo entre las gallinas; el macho cabrío, que va delante de su manada; el rey, al frente de su ejército. 
 PRV030032 Si fuiste bastante torpe como para enojarte, y después reflexionaste, tápate la boca con la mano. 
-PRV030033 Porque apretándose la leche se saca mantequilla, apretándose la nariz, sangre, y provocando la ira, viene la disputa. Proverbios Lemuel 
+PRV030033 Porque apretándose la leche se saca mantequilla, apretándose la nariz, sangre, y provocando la ira, viene la disputa.
 PRV031001 Palabra de Lemuel, rey de Massa, que su madre le enseñó. 
 PRV031002 ¡No, hijo mío!; ¡no, hijo de mis entrañas!; ¡no, hijo tan deseado! 
 PRV031003 No des tus energías a las mujeres, ni tu vida a las que pierden a los reyes. 
@@ -890,7 +890,7 @@ PRV031005 no sea que al beber olviden lo que ordenaron y falseen la causa de los
 PRV031006 Da bebidas fuertes al que debe morir, y vino al corazón amargado: 
 PRV031007 que beba, que olvide su desgracia, que no recuerde ya su pena. 
 PRV031008 Abre la boca en favor del mudo, y defiende la causa de todos los abandonados. 
-PRV031009 Abre la boca, pronuncia sentencias justas, haz justicia a los desdichados e indigentes. La perfecta 
+PRV031009 Abre la boca, pronuncia sentencias justas, haz justicia a los desdichados e indigentes.
 PRV031010 Una mujer fuerte, ¿quién la encontrará? Es de más valor que cualquier joya. 
 PRV031011 Su marido puede confiar en ella, ¡qué beneficio no le traerá! 
 PRV031012 Le devuelve el bien, no el mal, todos los días de su vida. 

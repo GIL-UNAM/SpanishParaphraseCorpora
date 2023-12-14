@@ -1,6 +1,6 @@
 PRV001001 Proverbios de Salomón, hijo de David, rey de Israel,
 PRV001002 para aprender sabiduría e instrucción, para entender sensatos dichos,
-PRV001003 para alcanzar instrucción y discreción, justicia, f equidad y rectitud;'
+PRV001003 para alcanzar instrucción y discreción, justicia, equidad y rectitud;'
 PRV001004 para dar prudencia a los inexpertos, perspicacia y circunspección a los jóvenes.
 PRV001005 Oyéndolos el sabio crecerá en doctrina y el entendido adquirirá destreza
 PRV001006 para entender las sentencias y los dichos agudos, las palabras de los sabios y sus enigmas.
@@ -416,7 +416,7 @@ PRV015008 Yahvé abomina el sacrificio del impío y se agrada en la oración del
 PRV015009 Aborrece Yahvé el camino del impío, pero ama al que sigue la justicia.
 PRV015010 Molesta la corrección al que va por mal camino, pero el que aborrece la corrección morirá.
 PRV015011 Están delante de Yahvé el “seol” y el averno, cuánto más los corazones de los hombres!
-PRV015012 El pe-Bulante no quiere que le corrijan; por eso no va con los sabios.'
+PRV015012 El petulante no quiere que le corrijan; por eso no va con los sabios.'
 PRV015013 Corazón alegre hace buena cara, pero la pena del corazón abate el alma.
 PRV015014 El corazón prudente busca la sabiduría, pero la boca del necio se complace en la necedad.
 PRV015015 Los días del pobre todos son tristes, pero la alegría del corazón es un perenne banquete.
@@ -511,7 +511,7 @@ PRV018009 El que es negligente en su labor es hermano del derrochador.
 PRV018010 Torre fuerte es el nombre de Yahvé; a ella se acogerá el justo y estará seguro.'
 PRV018011 La riqueza es para el rico fuerte ciudadela; le parece una alta muralla.'
 PRV018012 Antes de la caída se exalta el corazón del hombre, y a la gloria precede la humillación.
-PRV018013 El que antes de haber escuchado responde, es tenido por fatuo para•oprobio suyo.
+PRV018013 El que antes de haber escuchado responde, es tenido por fatuo para oprobio suyo.
 PRV018014 El ánimo del hombre le sostiene en su aflicción; pero ¿quién sostendrá el ánimo abatido?'
 PRV018015 El corazón del sensato adquiere sabiduría, y la oreja del sabio busca la enseñanza.
 PRV018016 Las dádivas abren camino al hombre y le dan entrada a los grandes.
@@ -723,7 +723,7 @@ PRV025009 Defiende tu pleito contra tu adversario, pero no descubras el secreto 
 PRV025010 a fin de que no pueda infamarte quien te escucha, sin que tenga remedio tu deshonra.
 PRV025011 Fruto de oro en plato de plata es la palabra dicha a tiempo.
 PRV025012 Zarcillo de oro y collar de plata es un sabio amonestador para el oído dócil.
-PRV025013 Frío de nieve en el calor de la siega es el mensajero fiel para quien le manda, I que refresca el ánimo de su señor.
+PRV025013 Frío de nieve en el calor de la siega es el mensajero fiel para quien le manda, lo que refresca el ánimo de su señor.
 PRV025014 Nube y viento sin lluvia es el hombre que se jacta de vana liberalidad.
 PRV025015 Con longanimidad se aplaca el príncipe, y la lengua suave ablanda los huesos.
 PRV025016 Si encuentras miel, come lo suficiente; no te hartes y tengas que vomitarla.'
@@ -843,7 +843,7 @@ PRV029018 Sin profecía el pueblo va desenfrenado; pero el que guarda la ley, di
 PRV029019 No con solas palabras se corrige el esclavo, porque entiende bien, pero de obedecer, nada.
 PRV029020 ¿Has visto un hombre precipitado en el hablar? Más esperanza que en él hay en el necio.
 PRV029021 El que acaricia a su siervo desde su infancia, al fin tendrá que arrepentirse.
-PRV029022 JE1 iracundo levanta contiendas, y el furioso muchas veces peca.
+PRV029022 El iracundo levanta contiendas, y el furioso muchas veces peca.
 PRV029023 La soberbia trae al hombre la humillación, pero el de humilde corazón es ensalzado.
 PRV029024 El encubridor del ladrón a sí mismo se odia, oye el conjuro y no lo denuncia.
 PRV029025 El temor del hombre es un lazo, pero el que teme a Yahvé está seguro.
@@ -878,7 +878,7 @@ PRV030026 el damán, pueblo nada esforzado, que se hace su cubil en las rocas;'
 PRV030027 la langosta, que no tiene rey, y, sin embargo, avanza en escuadrones;'
 PRV030028 el lagarto, que se toma con la mano, y, sin embargo, habita en los palacios de los reyes.
 PRV030029 Tres cosas hay de buen andar y aun cuatro que muy bien se pasean:
-PRV030030 el león, el más fuerte de todos los , que no retrocede ante nadie;'
+PRV030030 el león, el más fuerte de todos los animales, que no retrocede ante nadie;'
 PRV030031 el gallo, que marcha arrogante entre sus gallinas; el macho cabrío, que va delante de su manada, y el rey, que va a la cabeza de su ejército.'
 PRV030032 Si te alabaste sin darte cuenta o a sabiendas, mano a la boca;'
 PRV030033 que batiendo la leche se hace la manteca, y oprimiendo la nariz se saca sangre, y oprimiendo la ira se excita la riña.

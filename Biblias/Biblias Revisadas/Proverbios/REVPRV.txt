@@ -4,7 +4,7 @@ PRV001003 Para recibir el consejo de prudencia, Justicia, juicio y equidad;
 PRV001004 Para dar sagacidad a los simples, Y a los jóvenes inteligencia y cordura.
 PRV001005 Oirá el sabio, y aumentará el saber, Y el entendido adquirirá consejo,
 PRV001006 Para entender proverbio y declaración, Palabras de sabios, y sus dichos profundos.
-PRV001007 El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza. Amonestaciones de la Sabiduría
+PRV001007 El principio de la sabiduría es el temor de Jehová; Los insensatos desprecian la sabiduría y la enseñanza.
 PRV001008 Oye, hijo mío, la instrucción de tu padre, Y no desprecies la dirección de tu madre;
 PRV001009 Porque adorno de gracia serán a tu cabeza, Y collares a tu cuello.
 PRV001010 Hijo mío, si los pecadores te quisieren engañar, No consientas.
@@ -254,7 +254,7 @@ PRV009015 Para llamar a los que pasan por el camino, Que van por sus caminos der
 PRV009016 Dice a cualquier simple: Ven acá. A los faltos de cordura dijo:
 PRV009017 Las aguas hurtadas son dulces, Y el pan comido en oculto es sabroso.
 PRV009018 Y no saben que allí están los muertos; Que sus convidados están en lo profundo del Seol. 
-PRV010001 Los proverbios de Salomón. El hijo sabio alegra al padre, Pero el hijo necio es tristeza de su madre.
+PRV010001 El hijo sabio alegra al padre, Pero el hijo necio es tristeza de su madre.
 PRV010002 Los tesoros de maldad no serán de provecho; Mas la justicia libra de muerte.
 PRV010003 Jehová no dejará padecer hambre al justo; Mas la iniquidad lanzará a los impíos.
 PRV010004 La mano negligente empobrece; Mas la mano de los diligentes enriquece.
@@ -890,7 +890,7 @@ PRV031005 No sea que bebiendo olviden la ley, Y perviertan el derecho de todos l
 PRV031006 Dad la sidra al desfallecido, Y el vino a los de amargado ánimo.
 PRV031007 Beban, y olvídense de su necesidad, Y de su miseria no se acuerden más.
 PRV031008 Abre tu boca por el mudo En el juicio de todos los desvalidos.
-PRV031009 Abre tu boca, juzga con justicia, Y defiende la causa del pobre y del menesteroso. Elogio de la mujer virtuosa
+PRV031009 Abre tu boca, juzga con justicia, Y defiende la causa del pobre y del menesteroso.
 PRV031010 Mujer virtuosa, ¿quién la hallará? Porque su estima sobrepasa largamente a la de las piedras preciosas.
 PRV031011 El corazón de su marido está en ella confiado, Y no carecerá de ganancias.
 PRV031012 Le da ella bien y no mal Todos los días de su vida.

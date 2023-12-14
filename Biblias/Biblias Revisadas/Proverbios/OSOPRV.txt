@@ -254,7 +254,7 @@ PRV009015 para llamar a los que pasan por el camino; a los que enderecen sus cam
 PRV009016 Cualquier simple, venga acá. A los faltos de entendimiento dijo: 
 PRV009017 Las aguas hurtadas son dulces, y el pan comido en oculto es suave. 
 PRV009018 Y no saben que allí están los muertos; que sus convidados están en los profundos de la sepultura. 
-PRV010001 (Las parábolas de Salomón.) El hijo sabio alegra al padre; y el hijo loco es tristeza a su madre. 
+PRV010001 El hijo sabio alegra al padre; y el hijo loco es tristeza a su madre. 
 PRV010002 Los tesoros de maldad no serán de provecho; mas la justicia libra de la muerte. 
 PRV010003 El SEÑOR no dejará hambrear el alma del justo; mas la iniquidad lanzará a los impíos. 
 PRV010004 La mano negligente hace pobre; mas la mano de los diligentes enriquece. 

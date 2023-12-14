@@ -254,7 +254,7 @@ PRV009015 para invitar a los transeúntes, a los que siguen derecho su camino.
 PRV009016 '¿Hay alguien inexperto? ¡Venga por aquí!' Y al de poco juicio le dice: 
 PRV009017 'Son dulces las aguas robadas y delicioso el pan a escondidas'. 
 PRV009018 Pero él ignora que allí moran las sombras; sus invitados están en el fondo del seol. 
-PRV010001 Proverbios de Salomón. El hijo sabio regocija a su padre, el hijo necio entristece a su madre. 
+PRV010001 El hijo sabio regocija a su padre, el hijo necio entristece a su madre. 
 PRV010002 De nada sirven tesoros mal adquiridos, es la justicia la que libra de la muerte. 
 PRV010003 Yahveh no permite el hambre del justo, pero rechaza la codicia de los malvados. 
 PRV010004 La mano perezosa empobrece, la mano diligente trae riqueza. 
@@ -629,7 +629,7 @@ PRV022013 Dice el perezoso: '¡Fuera hay un león! ¡Puedo ser muerto en medio d
 PRV022014 Fosa profunda es la boca de la extraña: el odiado por Yahveh caerá en ella. 
 PRV022015 La necedad arraiga en el corazón del joven; la vara de la instrucción le alejará de ella. 
 PRV022016 Quien oprime al pobre le enriquece, quien regala al rico le empobrece. 
-PRV022017 Palabras de los sabios. Presta atención y escucha mis palabras, aplica tu corazón a mi doctrina: 
+PRV022017 Presta atención y escucha mis palabras, aplica tu corazón a mi doctrina: 
 PRV022018 te será grato guardarlas bien adentro, tenerlas todas juntas en tus labios. 
 PRV022019 Para que pongas en Yahveh tu confianza, yo te muestro ahora cuál es tu camino. 
 PRV022020 ¿No he escrito para ti treinta sentencias de consejos y de ciencia, 

@@ -254,7 +254,7 @@ PRV009015 para llamar a los que pasan por el camino, a los que van derechos por 
 PRV009016 «Si alguno es simple, véngase acá» y al falto de juicio le dice:
 PRV009017 «Son dulces las aguas robadas y el pan a escondidas es sabroso.»
 PRV009018 No sabe el hombre que allí moran las Sombras; sus invitados van a los valles del seol.
-PRV010001 Proverbios de Salomón. El hijo sabio es la alegría de su padre, el hijo necio entristece a su madre.
+PRV010001 El hijo sabio es la alegría de su padre, el hijo necio entristece a su madre.
 PRV010002 Tesoros mal adquiridos no aprovechan, mas la justicia libra de la muerte.
 PRV010003 Yahveh no permite que el justo pase hambre, pero rechaza la codicia de los malos.
 PRV010004 Mano indolente empobrece, la mano de los diligentes enriquece.
