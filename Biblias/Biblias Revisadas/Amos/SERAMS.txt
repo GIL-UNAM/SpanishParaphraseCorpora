@@ -82,7 +82,8 @@ AMS005022 Si me ofrecéis holocaustos no me complaceré en vuestros dones ni me 
 AMS005023 Aparta de mí el ruido de tus cánticos, no quiero oír el son de tus arpas. 
 AMS005024 Corra el derecho como el agua, y la justicia como torrente inagotable. 
 AMS005025 ¡Sacrificios y oblaciones ya me los ofrecisteis en el desierto durante cuarenta años, oh casa de Israel! 
-AMS005026 Llevaréis a Sicut, vuestro rey, y la estrella de vuestro dios Quiyún, esos ídolos que os habéis fabricado; cuando os deportaré más allá de Damasco -dice Yahveh, cuyo nombre es Dios Sebaot-. 
+AMS005026 Llevaréis a Sicut, vuestro rey, y la estrella de vuestro dios Quiyún, esos ídolos que os habéis fabricado; 
+AMS005027 cuando os deportaré más allá de Damasco -dice Yahveh, cuyo nombre es Dios Sebaot-. 
 AMS006001 ¡Ay de los que viven tranquilos en Sión y de los que se sienten seguros en el monte de Samaría, hombres notables de la primera de las naciones, a quienes acude la casa de Israel! 
 AMS006002 Pasad a Calnó y mirad, id desde allí a Jamat la Grande, bajad después a Gat de Filistea, ¿Sois mejores que estos reinos, o es vuestro territorio mayor que el suyo? 
 AMS006003 Creéis lejano el día de la desgracia y provocáis una situación de violencia. 

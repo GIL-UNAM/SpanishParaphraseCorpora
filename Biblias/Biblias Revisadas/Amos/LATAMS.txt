@@ -63,9 +63,9 @@ AMS005003 Porque así dice Yavé a la gente de Israel: La ciudad de la cual sal�
 AMS005004 Así dice Yavé a la Casa de Israel: Búsquenme mí y vivirán,
 AMS005005 pero no me busquen en Betel ni vayan Guilgal, ni pasen Bersebá; porque Guilgal será enviada al destierro, Betel será reducida la nada. 
 AMS005006 Busquen a Yavé y vivirán, no sea que él se extienda como fuego sobre la casa de José y la consuma, sin que haya nadie en Betel para apagarlo. 
-AMS005007 El formó esas figuras en los cielos, él cambia las tinieblas en aurora y el día claro en noche oscura. 
-AMS005008 El junta las aguas del mar y las derrama por la superficie de la tierra; pues su nombre es Yavé. 
-AMS005009 El trae la ruina a la fortaleza y entrega al saqueo el recinto fortificado. 
+AMS005007 Él formó esas figuras en los cielos, él cambia las tinieblas en aurora y el día claro en noche oscura. 
+AMS005008 Él junta las aguas del mar y las derrama por la superficie de la tierra; pues su nombre es Yavé. 
+AMS005009 Él trae la ruina a la fortaleza y entrega al saqueo el recinto fortificado. 
 AMS005010 ¡Ay de ustedes, que transforman las leyes en algo tan amargo como el ajenjo y tiran por el suelo la justicia! Ustedes odian al que defiende lo justo en el tribunal y aborrecen a todo el que dice la verdad. 
 AMS005011 Pues bien, ya que ustedes han pisoteado al pobre, exigiéndole una parte de su cosecha, esas casas de piedras canteadas que edifican no las van a ocupar, y de esas cepas escogidas que ahora plantan no probarán el vino. 
 AMS005012 Pues yo sé que son muchos sus crímenes y enormes sus pecados, opresores de la gente buena, que exigen dinero anticipado y hacen perder su juicio al pobre en los tribunales. 

@@ -97,8 +97,7 @@ AMS006010 Y algún pariente suyo los tomará uno después de otro, y los quemar�
 AMS006011 Y responderá el de dentro: No hay más. Y aquel pariente le dirá: Pues calla, y no tienes ya que hacer mención del nombre del Señor. 
 AMS006012 Porque he aquí que el Señor lo ha decretado, y Él castigará la casa grande con la ruina, y la casa menor con grandes calamidades. 
 AMS006013 ¿Acaso pueden correr los caballos entre peñas, o se puede arar con indómitos búfalos? Vosotros habéis trocado en opresión el justo juicio, y en ajenjo el fruto de la justicia. 
-AMS006014 Vosotros fundáis sobre la nada vuestra alegría, y decís: Pues qué, ¿no nos ha hecho poderosos nuestra fortaleza? 
-AMS006015 Mas he aquí, ¡oh casa de Israel!, que Yo levantaré contra vosotros una nación, dice el Señor Dios de los ejércitos, la cual acabará con vosotros desde la entrada de Emat hasta el torrente del desierto. 
+AMS006014 Vosotros fundáis sobre la nada vuestra alegría, y decís: Pues qué, ¿no nos ha hecho poderosos nuestra fortaleza? Mas he aquí, ¡oh casa de Israel!, que Yo levantaré contra vosotros una nación, dice el Señor Dios de los ejércitos, la cual acabará con vosotros desde la entrada de Emat hasta el torrente del desierto. 
 AMS007001 Éstas son las visiones que me ha enviado el Señor Dios: He aquí que criaba el Señor un ejército de langostas al principio cuando la lluvia tardía hace crecer la hierba, y ésta es la lluvia tardía que la hace brotar después de haber sido segada por el rey. 
 AMS007002 Y sucedió que al haber acabado la langosta de comerse esta hierba de los campos, dije yo: Ruégote, Señor Dios, que tengas misericordia: ¿quién restaurará a Jacob tan extenuado como está? 
 AMS007003 Apiadóse con esto el Señor, y dijo: No sucederá lo que temes. 

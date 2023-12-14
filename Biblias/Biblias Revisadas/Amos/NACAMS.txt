@@ -64,8 +64,8 @@ AMS005004 Así, pues, dice Yahvé a la casa de Israel: ¡Buscadme y viviréis!
 AMS005005 No busquéis a Betel, ni vayáis a Guilgal, ni paséis a Bersabé, porque Guilgal será llevada al cautiverio y Betel será destruida.
 AMS005006 Buscad a Yahvé y vivid, no sea que abrase la casa de José con fuego devorador, sin que tenga Betel quien lo apague.
 AMS005007 Tornan el juicio en ajenjo y echan por tierra la justicia.
-AMS005008 El hizo las Pléyades y el Orion, El torna las tinieblas en aurora y del día hace noche oscura, llama las aguas del mary las derrama sobre la haz de la tierra. Yahvé es su nombre.
-AMS005009 El desencadena la ruina sobre la fortaleza y trae la destrucción sobre la ciudadela.
+AMS005008 Él hizo las Pléyades y el Orion, Él torna las tinieblas en aurora y del día hace noche oscura, llama las aguas del mar y las derrama sobre la haz de la tierra. Yahvé es su nombre.
+AMS005009 Él desencadena la ruina sobre la fortaleza y trae la destrucción sobre la ciudadela.
 AMS005010 En las puertas detestan al censor y aborrecen al que habla rectamente.
 AMS005011 Pues, porque pisoteáis al pobre y le exigís la carga del trigo, las casas que de piedras talladas os habéis construido no las habitaréis; de las deleitosas viñas que habéis plantado no beberéis el vino.'
 AMS005012 Porque yo sé que son muchas vuestras prevaricaciones y cuan grandes son vuestros pecados, opresores del justo, que aceptáis soborno y en las puertas hacéis perder al pobre su causa.
@@ -101,7 +101,7 @@ AMS006014 Pero yo voy a sucitar contra vosotros, oh casa de Israel - Dice Yahvé
 AMS007001 El Señor, Yahvé, me dio a ver esto: he aquí que criaba langostas al tiempo que comenzaba a crecer la hierba primaveral, y que venía después de la corte del rey,
 AMS007002 e iban a acabar de devorar el verdor de la tierra. Yo dije: ¡Oh Señor, Yahvé, ten piedad! ¿Cómo va a sostenerse Jacob, siendo tan pequeño?
 AMS007003 Y Yahvé se compadeció por esto, y dijo: No será así.
-AMS007004 Hízome ver también esto Yahvé, el Señor; y he aquí que Yahvé se aprestaba a castigar con fuego i, que había de devorar el gran abismo e iba a consumir la heredad.'
+AMS007004 Hízome ver también esto Yahvé, el Señor; y he aquí que Yahvé se aprestaba a castigar con fuego, que había de devorar el gran abismo e iba a consumir la heredad.'
 AMS007005 Yo dije: ¡Oh Señor, Yahvé! ¡Detente, por favor! ¿Cómo va a sostenerse Jacob siendo tan pequeño ?
 AMS007006 Yahvé se compadeció por esto y dijo: Tampoco será esto.
 AMS007007 También me dio a ver esto: Estaba Yahvé cerca de un muro y en su mano tenía la plomada.
