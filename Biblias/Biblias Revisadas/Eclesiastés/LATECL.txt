@@ -8,14 +8,14 @@ ECL001007 Todos los ríos van al mar, y el mar no se llena; nuevamente el agua c
 ECL001008 Se cansarán de hablar y no podrán decir más, pero no se sacia el ojo de ver ni el oído de oír. 
 ECL001009 Lo que fue volverá a ser, lo que se hizo se hará nuevamente. No hay nada nuevo bajo el sol. 
 ECL001010 Y si te dicen: “Mira, esto es nuevo”, aun eso ya fue en siglos anteriores. 
-ECL001011 No hay memoria de los ancianos; igual pasará con sus descendientes; nadie los recordará entre los que existan después. Incluso sabiduría es vana 
+ECL001011 No hay memoria de los ancianos; igual pasará con sus descendientes; nadie los recordará entre los que existan después.
 ECL001012 Yo, Eclesiastés, he sido rey de Israel en Jerusalén. 
 ECL001013 Me dediqué a investigar y a someter a un estudio crítico todo lo que se hace bajo el sol. Pues es una ocupación bastante ingrata que Dios dio a los hombres. 
 ECL001014 Contemplé todo lo que pasa bajo el sol, y hallé que todo es vano y un correr tras el aire. 
 ECL001015 Lo torcido no se puede enderezar, ni se puede reemplazar todo lo deficiente. 
 ECL001016 Y pensé para mí: Hice progresar la sabiduría más que cualquiera de mis antecesores en Jerusalén; probé largamente la sabiduría y la ciencia. 
 ECL001017 He reflexionado sobre la sabiduría y el saber, la estupidez y la locura, y comprendo que estudiar eso es también correr tras el viento. 
-ECL001018 Mucha sabiduría acarrea muchos problemas; mientras más se sabe, más se sufre. Los son vanos 
+ECL001018 Mucha sabiduría acarrea muchos problemas; mientras más se sabe, más se sufre.
 ECL002001 Pensé para mí: “Probaré la alegría y gozaré de la felicidad.” Pero advertí que esto también es vanidad. 
 ECL002002 La risa me pareció locura, y el placer, cosa que no sirve. 
 ECL002003 Decidí satisfacer todos mis deseos mientras seguiría en mi reflexión crítica; y me dediqué a todas las locuras para ver cuál es para el hombre la mejor manera de vivir bajo el sol. 
@@ -41,7 +41,7 @@ ECL002022 Pues, ¿qué le queda al hombre de todo su trabajo y de la búsqueda q
 ECL002023 ¿Sus días dolorosos, sus preocupaciones, las noches sin sueño? Y tampoco esto tiene sentido. 
 ECL002024 No hay mayor felicidad para el hombre que comer, beber y pasarlo bien gracias a su trabajo. 
 ECL002025 Pues me doy cuenta que esto fue ordenado por Dios: comemos y gozamos porque él lo ha dispuesto así. 
-ECL002026 Al que le agrada le da la sabiduría, el saber y el placer; en cambio, al pecador le impone la carga de acumular, para dárselo posteriormente a quien agrada a Dios. También esto es vanidad y vanos esfuerzos. Todo su tiempo 
+ECL002026 Al que le agrada le da la sabiduría, el saber y el placer; en cambio, al pecador le impone la carga de acumular, para dárselo posteriormente a quien agrada a Dios. También esto es vanidad y vanos esfuerzos.
 ECL003001 Hay un tiempo para cada cosa, y un momento para hacerla bajo el cielo: 
 ECL003002 Hay tiempo de nacer y tiempo para morir; tiempo para plantar, y tiempo para arrancar lo plantado. 
 ECL003003 Un tiempo para dar muerte, y un tiempo para sanar; un tiempo para destruir, y un tiempo para construir. 
@@ -79,7 +79,7 @@ ECL004012 A un solitario se le puede vencer, pero dos resisten, y la cuerda trip
 ECL004013 Más vale un chiquillo pobre pero inteligente que un rey viejo y tonto, que ya no sabe ni pedir consejo. 
 ECL004014 Pues aquél hasta puede salir de la cárcel para reinar, aunque haya nacido mendigo en su reino. 
 ECL004015 Vi que todos sus contemporáneos estaban del lado del muchacho, del príncipe que habría de ocupar el lugar del rey. 
-ECL004016 No se podía contar la muchedumbre que él mandaba; sin embargo, en el futuro, no estarán contentos con él. Sí, esto también es vanidad y perseguir el viento. Consejos piedad 
+ECL004016 No se podía contar la muchedumbre que él mandaba; sin embargo, en el futuro, no estarán contentos con él. Sí, esto también es vanidad y perseguir el viento.
 ECL005001 Camina con cuidado cuando entres en la Casa de Dios. Acércate para escuchar; esto vale más que el sacrificio ofrecido por los tontos, pues no se dan cuenta que hacen el mal. 
 ECL005002 No seas precipitado en el hablar, ni te comprometas con Dios a la ligera, porque Dios está en el cielo y tú en la tierra. Por eso, sé hombre de pocas palabras. 
 ECL005003 Porque de las muchas preocupaciones nacen los sueños, y del hablar sin parar, las palabras alocadas. 
@@ -169,7 +169,7 @@ ECL009008 Lleva siempre ropas blancas y que nunca falte el óleo en tu cabeza.
 ECL009009 Goza de la vida con la mujer que amas, todos los días de tu vida fugaz que Dios te da bajo el sol, porque ésa es tu parte en la vida y en el trabajo que tú realizas aquí abajo. 
 ECL009010 Si ves algo que se debe hacer, hazlo si puedes, porque entre los muertos, adonde vas, no hay obras, ni cuentas, ni conocimiento, ni sabiduría. 
 ECL009011 He visto, además, bajo el sol, que la carrera no la ganan los más rápidos, ni la lucha los que tienen más fuerza. No más pan para los sabios, ni más riqueza para los inteligentes, ni más favores para los entendidos; pues el tiempo y el contratiempo les llega a todos. 
-ECL009012 El hombre no conoce su hora; como los peces pillados en la red fatal o los pájaros en la trampa, así el hombre es sorprendido por el infortunio, cuando de improviso cae sobre él. Más 
+ECL009012 El hombre no conoce su hora; como los peces pillados en la red fatal o los pájaros en la trampa, así el hombre es sorprendido por el infortunio, cuando de improviso cae sobre él.
 ECL009013 Respecto de la sabiduría en la presente vida, he notado el hecho siguiente que me parece grave. 
 ECL009014 Había una pequeña ciudad de pocos habitantes. Un rey poderoso le declaró la guerra, la sitió y levantó grandes terraplenes para tomarla, 
 ECL009015 pero se presentó un hombre pobre y sabio, que, con su sabiduría, salvó la ciudad. Nadie, sin embargo, se acordó después de este pobre. 
@@ -201,7 +201,7 @@ ECL011002 Repártelo entre siete u ocho, porque no sabes las desgracias que pued
 ECL011003 Si las nubes están llenas de agua, la derraman sobre la tierra. Si un árbol cae, sea hacia el norte o hacia el sur, en el lugar donde cae quedará. 
 ECL011004 Quien observa el viento no siembra, y el que mira las nubes no cosecha. 
 ECL011005 Así como no sabes por dónde entró el alma en el niño que tiene la mujer en su seno, así tampoco puedes conocer la obra de Dios, que todo lo dirige. 
-ECL011006 Siembra de mañana tu semilla y no des descanso a tus manos hasta la tarde; pues tú no sabes qué es lo que tendrá resultado, si una u otra cosa, o si ambas saldrán igualmente buenas. Así el hombre a su morada eterna 
+ECL011006 Siembra de mañana tu semilla y no des descanso a tus manos hasta la tarde; pues tú no sabes qué es lo que tendrá resultado, si una u otra cosa, o si ambas saldrán igualmente buenas.
 ECL011007 La luz es dulce y agrada ver el sol. 
 ECL011008 Si uno vive muchos años, que goce de todos ellos y considere que serán muchos los días sombríos y que todo el porvenir no valdrá nada. 
 ECL011009 Joven, alégrate durante tu juventud y encuentra la felicidad; sigue tus deseos y realiza tus ambiciones, pero no olvides que por todo esto Dios te juzgará. 

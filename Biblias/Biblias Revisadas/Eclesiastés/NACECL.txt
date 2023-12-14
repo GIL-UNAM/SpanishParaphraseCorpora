@@ -27,7 +27,7 @@ ECL002008 Amontoné plata y oro, tesoros de reyes y provincias. Híceme con cant
 ECL002009 Fui grande más que cuantos me precedieron en Jerusalén, pero mi sabiduría permaneció conmigo.
 ECL002010 De cuanto mis ojos me pedían, nada les negué, no privé a mi corazón de gozo alguno; mi corazón gozaba de toda mi labor, siendo éste el premio de mis afanes.'
 ECL002011 Entonces miré cuanto habían hecho mis manos y todos los afanes que al hacerlo tuve, y vi que todo era vanidad y persecución del viento y que no hay provecho alguno debajo del sol.
-ECL002012 Me volví a considerar la sabiduría, la estulticia, la necedad, corno quien desanda el camino anteriormente recorrido.
+ECL002012 Me volví a considerar la sabiduría, la estulticia, la necedad, como quien desanda el camino anteriormente recorrido.
 ECL002013 Y vi que la sabiduría sobrepasa a la ignorancia cuanto la luz a las, tinieblas.
 ECL002014 El sabio tiene los ojos en la frente, mas el necio anda en tinieblas. Vi también que una es la suerte de ambos.
 ECL002015 Y dije en mi corazón: “También yo tendré la suerte del necio; ¿por qué, pues, hacerme sabio, qué provecho sacaré de ello?” Y vi que también esto es vanidad,'
@@ -71,7 +71,7 @@ ECL004004 Vi también que todo trabajo y cuanto de bueno se hace mueve la envidi
 ECL004005 El necio se cruza de manos y se come su carne.
 ECL004006 Más vale una sola mano llena en reposo que las dos llenas en trabajo y en vanos afanes.
 ECL004007 Volvíme de nuevo y vi otra vanidad debajo del sol:
-ECL004008 un hombre solo que no tiene sucesor, que no tiene hijo ni hermano y-no cesa nunca de trabajar ni se hartan sus ojos de riquezas. ¿Para quién trabajo yo y me someto a privaciones? También esto es vanidad y duro trabajo.
+ECL004008 un hombre solo que no tiene sucesor, que no tiene hijo ni hermano y no cesa nunca de trabajar ni se hartan sus ojos de riquezas. ¿Para quién trabajo yo y me someto a privaciones? También esto es vanidad y duro trabajo.
 ECL004009 Más valen dos que uno solo, porque logran mejor fruto de su trabajo.
 ECL004010 Si cayeren, se levantan el uno al otro; pero ¡ay del solo, que, si cae, no tiene quién le levante'
 ECL004011 También, si duermen dos juntos, uno a otro se calientan; pero el solo, ¿cómo podrá calentarse?'
