@@ -1,9 +1,0 @@
-JER, EMN, SER, NAC 002001,002002,002003,002004 eran en realidad 001018,001019,001020 y 001021
-JER, SER ZAC002010-13 (TEXTO OMITIDO)
-EMN, NAC 002014-017 se reetiquetaron para volverse 13 versiculos
-EMN ZAC004013 tenía el 14
-JNM ZAC004003 (TEXTO OMITIDO)
-LAT ZAC006002 tenía el 003 y ZAC006005 tenía 006
-LAT ZAC008009 tenía 10 y ZAC008014  tenía 15
-LAT ZAC014013 tenía 14
-LAT por error de edición ZAC014015 estaba antes del ZAC014013 y causo un desfase en el etiquetado
