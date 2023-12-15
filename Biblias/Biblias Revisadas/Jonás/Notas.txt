@@ -1,9 +1,0 @@
-Las biblias AME, ESP, OSO, REV se alinearon a 16 versículos ya que en realidad el capítulo 1 termina en JON001016 
-
-Las biblias EMN, JNM, LAT Y PET se alinearon a 10 versículos, ya que realmente el capítulo 2 termina en el versículo JON002010 que en realidad estaba en JON001010, por lo que se reetiquetaron los demas
-
-El capítulo 3 cuenta con 10 capítulos cada uno
-
-La biblia LAT se alineó a 11 versículos ya que termina en JON004010
-
-Se identificó TEXTO OMITIDO en el capítulo 2 versículo 10 de JER, NAC, y SER ya que hay contenido faltante
