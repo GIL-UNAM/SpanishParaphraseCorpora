@@ -1,9 +1,0 @@
-MIQ
-LATMIQ una parte del 003002 estaba en el 001
-
-JER, SER, LAT, EMN MIQ005001 (TEXTO OMITIDO)
-NAC, EMN, LAT y SER 004014 era el 005001, reordenando el cap 5 ya tiene 15 versiculos
-
-PET005011 tenía el versículo 12, se reordenan los demás y ya quedan en total 15
-
-LAT007 tenía 019 y no 020, en el 011 estaba también el 012, reordenando ya son 020
