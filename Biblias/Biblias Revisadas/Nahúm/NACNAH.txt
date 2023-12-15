@@ -5,9 +5,9 @@ NAH001004 Amenaza a los mares y los seca y agota los ríos todos. El Basan y el 
 NAH001005 Tiemblan los montes ante El y se disuelven los collados. Se agita la tierra ante El, el orbe y cuantos lo habitan.
 NAH001006 ¿Quién podrá permanecer ante su ira? ¿Quién arrostrará el ardor de su cólera? Su furor se difunde como fuego y ante El se quebrantan las rocas.
 NAH001007 Es bueno Yahvé como protección en el día de la angustia, y conoce a los que a El se acogen.
-NAH001008 Cuando sobreviene la inundación, aniquila a los que se dirigen contra El1 y a sus enemigos los lanza a las tinieblas.
+NAH001008 Cuando sobreviene la inundación, aniquila a los que se dirigen contra El y a sus enemigos los lanza a las tinieblas.
 NAH001009 ¿Qué maquináis contra Yahvé? El va a producir completo estrago, no se levantará dos veces la opresión.
-NAH001010 Pues aunque sean corno zarzas enmarañadas y están embebidos en su embriaguez, serán devorados enteramente como paja seca.
+NAH001010 Pues aunque sean como zarzas enmarañadas y están embebidos en su embriaguez, serán devorados enteramente como paja seca.
 NAH001011 De ti salió quien maquinó contra Yahvé, quien trazó malvados designios.
 NAH001012 Así dice Yahvé: Aunque estén completos y sean tan numerosos, serán cortados, perecerán. Yo te he humillado y no volveré a humillarte.
 NAH001013 Y ahora voy a quebrantar su yugo de sobre ti, yo voy a romper tus cadenas.
@@ -39,9 +39,9 @@ NAH003010 y, con todo, se fue prisionera al desierto, y sus niños fueron estrel
 NAH003011 También tú serás embriagada, serás objeto de escarnio; también tú irás en busca de un refugio contra el enemigo.'
 NAH003012 Todas tus plazas fuertes son higueras con brevas, que al sacudirse caen en la boca de quien las come.
 NAH003013 He aquí que tu pueblo es en medio de ti (como) mujeres. Las puertas de tu país se abren de par en par al enemigo; el fuego devora las barras de tus puertas.'
-NAH003014 Abastécete de agua para el asedio,fortifica tus plazas, pisa el barro, amasa la arcilla y coge el molde de los ladrillos.
+NAH003014 Abastécete de agua para el asedio, fortifica tus plazas, pisa el barro, amasa la arcilla y coge el molde de los ladrillos.
 NAH003015 Allí te devorará el fuego, allí te exterminará la espada, te devorará como te devora la langosta. Multiplícate como la langosta, amontónate como el salta-monte.
 NAH003016 Multiplicaste tus mercaderes más que las estrellas del cielo; la langosta se deslarva y se va.'
-NAH003017 Tus dignatarios *son como saltamontes,y tus escribas como enjambre de langostas', que en día de frío se amontonan sobre el vallado, sale el sol y levantan el vuelo, sin que pueda conocerse el lugar adonde se fueron.
+NAH003017 Tus dignatarios *son como saltamontes, y tus escribas como enjambre de langostas', que en día de frío se amontonan sobre el vallado, sale el sol y levantan el vuelo, sin que pueda conocerse el lugar a donde se fueron.
 NAH003018 Tus pastores, ¡oh rey de Asur! están dormidos; tus grandes, tumbados; tu pueblo está disperso por los montes, sin que haya quien le congregue.'
 NAH003019 Tu ruina no tiene remedio, tu herida es incurable. Cuantos oigan hablar de ti batirán palmas por tu causa, porque ¿sobre quién no descargó sin tregua tu maldad?

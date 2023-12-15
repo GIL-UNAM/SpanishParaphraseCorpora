@@ -237,7 +237,7 @@ GEN010001 Éstos son los descendientes de los hijos de Noé, Sem, Cam y Jafet, y
 GEN010002 Hijos de JAFET: Comer y Magog, y Madai, y Javán, y Túbal, y Mosoc, y Tiras. 
 GEN010003 Hijos de Comer: Ascenez, y Rifat, y Togorma. 
 GEN010004 Hijos de Javán: Elisa y Tarsis, Cetim y Dodanim. 
-GEN010005 Éstos se repartieronalgún tiempo después las islas de las naciones y las diversas regiones, cada cual según su propia lengua, familia y nación. 
+GEN010005 Éstos se repartieron algún tiempo después las islas de las naciones y las diversas regiones, cada cual según su propia lengua, familia y nación. 
 GEN010006 Hijos de CAM: fueron Cus, Mesraim y Fut y Canaán. 
 GEN010007 De Cus lo fueron Saba, y Hevila, y Sabatai y Regma, y Sabataca. Los de Regma: Saba y Dadán. 
 GEN010008 Cus engendró también a Nemrod: éste comenzó a ser prepotente en la tierra, 
@@ -573,7 +573,7 @@ GEN022024 Una mujer segunda, llamada Roma, le parió a Tabee, Gaham, Taas y Maac
 GEN023001 Sara, habiendo vivido ciento y veintisiete años, 
 GEN023002 murió en la ciudad de Arbée, por otro nombre Hebrón, en la tierra de Canaán; y asistió Abraham con lágrimas a celebrar sus exequias y hacer el duelo. 
 GEN023003 Y concluido que hubo las ceremonias del funeral, habló a los hijos de Het, diciendo: 
-GEN023004 Yo soy advenedizo y extranjero entre vosotros: concededme, 0s ruego, derecho de sepultura entre vosotros para enterrar a mi difunto. 
+GEN023004 Yo soy advenedizo y extranjero entre vosotros: concededme, os ruego, derecho de sepultura entre vosotros para enterrar a mi difunto. 
 GEN023005 Respondieron los hijos de Het, diciendo: 
 GEN023006 Escúchame, señor; tú eres entre nosotros un príncipe de Dios o un príncipe grande: entierra tu difunto en la que mejor te pareciere de nuestras sepulturas: que no habrá nadie que pueda impedirte el colocar en su sepultura a tu muerto. 
 GEN023007 Levantóse Abraham e hizo una profunda reverencia al pueblo de aquella tierra, esto es, a los hijos de Het; 
@@ -741,7 +741,7 @@ GEN027012 si mi padre me palpa con sus manos y llega a conocerme, temo no piense
 GEN027013 Al cual la madre: Sobre mí, dijo, caiga esa maldición, hijo mío, tú haz solamente lo que te aconsejo, y date prisa en traer lo que te tengo dicho. 
 GEN027014 Fue Jacob, y lo trajo, y lo dio a la madre, la cual le guisó los manjares según que sabía ser del gusto de su padre. 
 GEN027015 Y vistió después a Jacob con los más ricos vestidos de Esaú, que tenía guardados en casa, 
-GEN027016 y envolvióle las manos con las delicadaspieles de los cabritos, cubriendo también con ellas la parte desnuda del cuello. 
+GEN027016 y envolvióle las manos con las delicadas pieles de los cabritos, cubriendo también con ellas la parte desnuda del cuello. 
 GEN027017 Diole después el guisado y los panes que había cocido. 
 GEN027018 Todo lo cual llevándolo él adentro, dijo: Padre mío. A lo que respondió él: Oigo. ¿Quién eres tú, hijo mío? 
 GEN027019 Dijo Jacob: Yo soy tu primogénito Esaú: he hecho lo que me mandaste; levántate, incorpórate, y come de mi caza para que me des la bendición. 
@@ -777,7 +777,7 @@ GEN028002 mas ve y pasa a la Mesopotamia de Siria, a casa de Batuel, padre de tu
 GEN028003 Y el Dios todopoderoso te bendiga, y te aumente y multiplique: de suerte que vengas a ser padre de numerosos pueblos. 
 GEN028004 Y te conceda las bendiciones de Abraham, así a ti como a tu descendencia después de ti: para que poseas como propia la tierra en que estás ahora como peregrino, la cual tiene prometida a tu abuelo. 
 GEN028005 Despedido así de Isaac, partió a Mesopotamia de Siria, y fuese a casa de Labán, hijo de Batuel Siró, hermano de Rebeca, su madre. 
-GEN028006 Entretanto Esaú, viendo que su padre,00 bendiciendo a Jacob, le había enviado a Mesopotamia de Siria, para que tomase de allí mujer; y que después de la bendición le había mandado, diciendo: No tomes mujer de las hijas de Canaán; 
+GEN028006 Entretanto Esaú, viendo que su padre, bendiciendo a Jacob, le había enviado a Mesopotamia de Siria, para que tomase de allí mujer; y que después de la bendición le había mandado, diciendo: No tomes mujer de las hijas de Canaán; 
 GEN028007 y que Jacob, obedeciendo a sus padres, había marchado a la Siria; 
 GEN028008 experimentando por otra parte que las hijas de Canaán no eran del agrado de su padre, 
 GEN028009 fuese a casa de Ismael, y tomó por mujer, sobre las que ya tenía, a Mahelet, hija de Ismael, hijo de Abraham, hermana de Nabaiot. 
@@ -1312,7 +1312,7 @@ GEN043020 le dijeron: Suplicárnoste, señor, que nos escuches. Ya otra vez hemo
 GEN043021 y después de comprados, así que llegamos al mesón, abrimos nuestros costales, y encontramos el dinero en la boca de los sacos: el cual devolvemos ahora del mismo peso o valor. 
 GEN043022 Además de éste traemos otro, para comprar lo que necesitamos; no hemos podido saber quién le metió en nuestras bolsas. 
 GEN043023 A lo que respondió el mayordomo: Estad tranquilos, no tenéis que temer; vuestro Dios, y el Dios de vuestro padre, os ha puesto esos tesoros en vuestros sacos, pues el dinero que me disteis lo tengo yo abonado, y me doy por satisfecho. Dicho esto, les presentó libre a Simeón. 
-GEN043024 Y después de introducidos en casa, les trajo agua, con que lavaron sus pies, y dispuso que se diese pienso a los jumen tos. 
+GEN043024 Y después de introducidos en casa, les trajo agua, con que lavaron sus pies, y dispuso que se diese pienso a los jumentos. 
 GEN043025 Ellos, por su parte, disponían los presentes para cuando entrase José a mediodía, porque habían oído que tenían que comer allí. 
 GEN043026 Entró, pues, José en su casa, y le ofrecieron los presentes, teniéndoles en sus manos y le adoraron postrados en tierra. 
 GEN043027 Pero él, resaludándolos con afabilidad, les preguntó: ¿Goza de salud vuestro anciano padre, de quien me hablasteis? ¿Vive todavía? 
@@ -1321,7 +1321,7 @@ GEN043029 En esto, alzando José los ojos, vio a Benjamín, su hermano uterino, 
 GEN043030 Y retiróse a toda prisa, porque se le conmovieron las entrañas a causa de su hermano, y se le saltaban las lágrimas; y, entrando en su gabinete, prorrumpió en llanto. 
 GEN043031 Y saliendo fuera otra vez, después de haberse lavado la cara, se reprimió, y dijo a sus criados: Traednos de comer. 
 GEN043032 Puestas, pues, separadamente las mesas, una para José, otra para sus hermanos y la tercera para los egipcios también convidados (pues no es lícito a los egipcios comer con los hebreos, y tienen por profanos semejante banquete, 
-GEN043033 se sentaron en presencia de José, primero el primogénito, según su mayoría, y últimamenteel más pequeño, según su edad. Y estaban en extremo maravillados, 
+GEN043033 se sentaron en presencia de José, primero el primogénito, según su mayoría, y últimamente el más pequeño, según su edad. Y estaban en extremo maravillados, 
 GEN043034 al ver que de las porciones que habían recibido de él, cupo la mayor a Benjamín; por manera que era cinco veces mayor que las de los otros. Y bebieron, y alegráronse en su compañía. 
 GEN044001 Y dio José esta orden a su mayordomo, diciéndole: Llénales de trigo los costales, hasta que no quepa más, y pon el dinero de cada uno en la boca del saco. 
 GEN044002 Pon además mi copa o vaso de plata en la boca del costal del más mozo, junto con el dinero que ha dado por el trigo. Y ejecutóse así. 

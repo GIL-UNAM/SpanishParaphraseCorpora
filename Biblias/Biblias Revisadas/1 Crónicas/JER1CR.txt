@@ -282,7 +282,7 @@
 1CR006080 De la tribu de Gad: Ramot en Galaad con sus ejidos, Majanáyim con sus ejidos,
 1CR006081 Jesbón con sus ejidos y Yazer con sus ejidos.
 1CR007001 Hijos de Isacar: Tolá, Puá, Yasub, Simrón: cuatro.
-1CR007002 Hijos de Tolá: Uzzí, Refaías, Yeriel, Yajmay, Yibsam y Samuel, jefes de las casas paternas de Tolá. Su número, en los días de David, era, según sus genealogías, de 21CR007002600, valientes guerreros.
+1CR007002 Hijos de Tolá: Uzzí, Refaías, Yeriel, Yajmay, Yibsam y Samuel, jefes de las casas paternas de Tolá. Su número, en los días de David, era, según sus genealogías, de 22600, valientes guerreros.
 1CR007003 Hijos de Uzzí: Yizrajías; hijos de Yizrajías: Miguel, Abdías, Joel, Yissaías: en total cinco jefes.
 1CR007004 Tenían, según sus genealogías, por sus casas paternas, divisiones de tropas de guerra en número de 36.000; pues tenían muchas mujeres e hijos.
 1CR007005 Sus hermanos de todas las familias de Isacar, eran 87.000, esforzados guerreros, inscritos todos ellos en las genealogías.
@@ -732,7 +732,7 @@
 1CR023001 Viejo ya David y colmado de días, proclamó a su hijo Salomón rey de Israel.
 1CR023002 Reunió a todos los jefes de Israel, a los sacerdotes y a los levitas,
 1CR023003 y se hizo el censo de los levitas de treinta años para arriba; su número, contado por cabezas uno a uno, fue de 38.000 varones.
-1CR023004 De éstos, 21CR023004000 estaban al frente del servicio de la Casa de Yahveh; 6.000 eran escribas y jueces,
+1CR023004 De éstos, 24000 estaban al frente del servicio de la Casa de Yahveh; 6.000 eran escribas y jueces,
 1CR023005 4.000 eran porteros y 4.000 alababan a Yahveh con los instrumentos que David había fabricado para rendir alabanzas.
 1CR023006 David los distribuyó por clases, según los hijos de Leví: Guersón, Quehat y Merarí.
 1CR023007 De los guersonitas: Ladán y Simí.
@@ -858,7 +858,7 @@
 1CR027001 Por lo que se refiere al número de los hijos de Israel: Los cabezas de casas paternas, los jefes de millar y de cien y sus escribas atendían al servicio de todo el que acudiera. Las secciones intervenían en todo asunto del rey relevándose todos los meses del año. Cada sección tenía 24.000 hombres.
 1CR027002 Al frente de la primera sección, que era la del primer mes, estaba Yasobam, hijo de Zabdiel; en su sección había 24.000 hombres.
 1CR027003 Pertenecía a los hijos de Peres y era jefe de todos los comandantes del ejército del primer mes.
-1CR027004 Al frente de la sección del segundo mes estaba Doday, el ajojita, su sección tenía 21CR027004000 hombres.
+1CR027004 Al frente de la sección del segundo mes estaba Doday, el ajojita, su sección tenía 24000 hombres.
 1CR027005 Jefe del tercer ejército, para el tercer mes, era Benaías, hijo del sacerdote Yehoyadá; en su sección había 24.000 hombres.
 1CR027006 Este Benaías era uno de los Treinta valientes y hallábase al frente de ellos; en su sección estaba su hijo Ammizabad.
 1CR027007 El cuarto, para el cuarto mes, era Asahel, hermano de Joab; le sucedió su hijo Zebadías. En su sección había 24.000 hombres.

@@ -173,11 +173,11 @@ GEN007012 y estuvo lloviendo sobre la tierra durante cuarenta días y cuarenta n
 GEN007013 Aquel mismo día entraron en el arca Noé y sus hijos, Sem, Cam y Jafet; su mujer y las mujeres de sus tres hijos,'
 GEN007014 y las fieras todas según su especie; todos los ganados según su especie; todo reptil que se arrastra sobre la tierra, según su especie; toda ave, según su especie; todo pájaro, toda especie de volátil.'
 GEN007015 Entraron con Noé en el arca, de dos en dos, de toda carne que tiene hálito de vida.
-GEN007016 De toda carne entraron macho y hembra, como ió lo había mandado Dios, y tras él cerró Yahvé.
+GEN007016 De toda carne entraron macho y hembra, como lo había mandado Dios, y tras él cerró Yahvé.
 GEN007017 Diluvse durante cuarenta días sobre la tierra, crecieron las aguas y levantaron el arca, que se alzó sobre la tierra.
 GEN007018 Siguieron creciendo, creciendo, las aguas sobre la tierra, y el arca flotaba sobre la superficie de las aguas.
 GEN007019 Tanto crecieron las aguas, que cubrieron todos los altos montes de debajo del cielo.
-GEN007020 Quince ce dos subieron las aguas por encima de ellos.
+GEN007020 Quince se dos subieron las aguas por encima de ellos.
 GEN007021 Pereció toda carne que se mueve sobre la tierra, aves, ganados, bestias, y todos los reptiles que se arrastran por la tierra, todos los hombres,
 GEN007022 y todo cuanto vivía sobre la tierra seca.
 GEN007023 Fueron exterminados todos los vivientes sobre la superficie de la tierra, desde el hombre a la bestia, y los reptiles y las aves del cielo, quedando sólo Noé y los que con él estaban en el arca.
@@ -456,7 +456,7 @@ GEN018030 Volvió a insistir Abraham: “No te incomodes, Señor, si hablo todav
 GEN018031 Volvió a insistir: “Señor, ya que comencé; ¿y si se hallasen allí veinte justos?” Y contestó: “No la destruiría por los veinte.”
 GEN018032 Todavía Abraham: “Perdona, Señor, sólo una sola vez más: ¿Y si se hallasen diez?” Y le contestó: “Por los diez no la destruiría.”
 GEN018033 Fuese Yahvé después de haber hablado así a Abraham, y éste se volvió a su lugar.
-GEN019001 Llegaron a Sodoma los d0os ángeles ya de tarde, y Lot estaba sentado a la puerta de la ciudad. Al verlos, se levantó Lot y les salió al encuentro, e inclinó su rostro a tierra,
+GEN019001 Llegaron a Sodoma los dos ángeles ya de tarde, y Lot estaba sentado a la puerta de la ciudad. Al verlos, se levantó Lot y les salió al encuentro, e inclinó su rostro a tierra,
 GEN019002 diciendo: “Mirad, señores; os ruego que vengáis a la casa de vuestro siervo, para pernoctar en ella y lavaros los pies. Cuando os levantéis por la mañana, seguiréis vuestro camino.” Y le contestaron: “No; pasaremos la noche en la plaza.”
 GEN019003 Instóles mucho, y se fueron con él a su casa, donde les preparó de comer, y coció panes ácimos y comieron.
 GEN019004 Antes que fueran a acostarse, los hombres de la ciudad, los habitantes de Sodoma, rodearon la casa, mozos y viejos, todos sin excepción.

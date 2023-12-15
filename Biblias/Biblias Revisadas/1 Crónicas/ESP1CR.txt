@@ -566,7 +566,8 @@
 1CR015027 David vestía un manto de lino, igual que todos los levitas (los portadores del arca y los cantores) y que Quenanías, director del coro. David llevaba también un roquete de lino. 
 1CR015028 Todo Israel acompañaba al arca de la alianza del Señor entre vítores, al son de trompas, trompetas y platillos y tocando arpas y cítaras. 
 1CR015029 Cuando el arca de la alianza del Señor entraba en la Ciudad de David, Mical, hija de Saúl, estaba mirando por la ventana, y al ver al rey David haciendo cabriolas y bailando lo despreció en su interior. 
-1CR016002 O Metieron el arca de Dios y la instalaron en el centro de la tienda que David le había preparado. Ofrecieron holocaustos y sacrificios de comunión a Dios, 
+1CR016001 O Metieron el arca de Dios y la instalaron en el centro de la tienda que David le había preparado. 
+1CR016002 Ofrecieron holocaustos y sacrificios de comunión a Dios, 
 1CR016003 y cuando David terminó de ofrecerlos bendijo al pueblo en nombre del Señor. 
 1CR016004 Luego repartió a todos los israelitas, hombres y mujeres, una torta depón, una tajada de carne y un pastel de uvas pasas a cada uno. 
 1CR016005 A algunos levitas los puso al servicio del arca del Señor para que invocaran, dieran gracias y alabaran al Señor, Dios de Israel. 
@@ -696,7 +697,7 @@
 1CR021015 Luego envió Dios un ángel a Jerusalén para asolarla. Pero apenas había comenzado lo vio el Señor, se arrepintió del castigo y dijo al ángel exterminador: Basta, detén tu mano. El ángel del Señor se encontraba junto a la era de Ornan, el jebuseo. 
 1CR021016 David alzó los ojos y vio al ángel del Señor erguido entre tierra y cielo, con la espada desnuda en su mano, apuntando a Jerusalén. David y los ancianos, cubiertos de saco, cayeron rostro en tierra. 
 1CR021017 Entonces David dijo a Dios: Soy yo quien ordenó el censo del pueblo. Soy yo el que ha pecado. Soy yo el culpable. ¿Qué han hecho estas ovejas? Dios mío, descarga la mano sobre mí y sobre mi familia, pero no hieras a tu pueblo. 
-1CR021018 Entonces Gad, por orden del ángel del Señor, le dijo a David que fuera a edificar un altar al Se-^ ñor en la era de Ornan, el jebuseo. 
+1CR021018 Entonces Gad, por orden del ángel del Señor, le dijo a David que fuera a edificar un altar al Señor en la era de Ornan, el jebuseo. 
 1CR021019 Fue David, según le había dicho Gad en nombre del Señor. 
 1CR021020 Ornan se hallaba trillando el trigo y sus cuatro hijos se habían escondido; se volvió y vio al ángel. 
 1CR021021 David se acercó a Ornan y éste, al ver a David, salió de la era y se postró ante él rostro en tierra. 

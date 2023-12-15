@@ -8,7 +8,7 @@ GEN001007 E hizo Dios la bóveda para separar las aguas de debajo de la bóveda 
 GEN001008 Y llamó Dios a la bóveda 'cielo'. Pasó una tarde, pasó una mañana: el día segundo. 
 GEN001009 Y dijo Dios: Que se junten las aguas de debajo del cielo en un solo sitio, y que aparezcan los continentes. Y así fue. 
 GEN001010 Y llamó Dios a los continentes 'tierra', y a la masa de las aguas la llamó 'mar'. Y vio Dios que era bueno. 
-GEN001011 Y dijo Dios: Verdee la tierra hierba verde que engendre semilla y árboles frutales que den fruto según su especie y que lleven semilla sobre la tierra. Y así fue. 
+GEN001011 Y dijo Dios: Verde es la tierra hierba verde que engendre semilla y árboles frutales que den fruto según su especie y que lleven semilla sobre la tierra. Y así fue. 
 GEN001012 La tierra brotó hierba verde que engendraba semilla según su especie, y árboles que daban fruto y llevaban semilla según su especie. Y vio Dios que era bueno. 
 GEN001013 Pasó una tarde, pasó una mañana: el día tercero. 
 GEN001014 Y dijo Dios: Que existan lumbreras en la bóveda del cielo para separar el día de la noche, para señalar las fiestas, los días y los años; 
@@ -20,7 +20,7 @@ GEN001019 Pasó una tarde, pasó una mañana: el día cuarto.
 GEN001020 Y dijo Dios: Bullan las aguas con un bullir de vivientes, y vuelen pájaros sobre la tierra frente a la bóveda del cielo. 
 GEN001021 Y creó Dios los cetáceos y los vivientes que se deslizan y que el agua hizo bullir según sus especies, y las aves aladas según sus especies. Y vio Dios que era bueno. 
 GEN001022 Y Dios los bendijo, diciendo: Crezcan, multiplíquense, llenen las aguas del mar; que las aves se multipliquen en la tierra. 
-GEN001023 Pasó orna tarde, pasó una mañana: el día quinto. 
+GEN001023 Pasó orna tarde, pasó una mañana: el día quinto.
 GEN001024 Y dijo Dios: Produzca la tierra vivientes según sus especies: animales domésticos, reptiles y fieras según sus especies. Y así fue. 
 GEN001025 E hizo Dios las fieras de la tierra según sus especies, los animales domésticos según sus especies y los reptiles del suelo según sus especies. Y vio Dios que era bueno. 
 GEN001026 Y dijo Dios: Hagamos al hombre a nuestra imagen y semejanza; que ellos dominen los peces del mar, las aves del cielo, los animales domésticos y todos los reptiles. 
@@ -126,7 +126,7 @@ GEN005019 después vivió ochocientos años, engendró hijos e hijas,
 GEN005020 y a la edad de novecientos sesenta y dos años murió. 
 GEN005021 Henoc tenía sesenta y cinco años cuando engendró a Matusalén; Henoc trataba cotí Dios. 
 GEN005022 Después de nacer Matusalén, vivió trescientos años, engendró hijos e hijas; 
-GEN005023 vivió un total de trescientos sesenta y cinco años. Henoc trató con Dios 
+GEN005023 vivió un total de trescientos sesenta y cinco años.
 GEN005024 y después desapareció, porque Dios se lo llevó. 
 GEN005025 Matusalén tenía ciento ochenta y siete años cuando engendró a Lamec; 
 GEN005026 después vivió setecientos ochenta y dos años, engendró hijos e hijas, 
@@ -153,7 +153,7 @@ GEN006014 Tú fabrícate un arca de madera resinosa con compartimientos, y calaf
 GEN006015 Sus dimensiones serán: ciento cincuenta metros de largo, veinticinco de ancho y quince de alto. 
 GEN006016 Haz un tragaluz a medio metro del remate; una puerta al costado y tres cubiertas superpuestas. 
 GEN006017 Voy a enviar el diluvio a la tierra, para que extermine a todo viviente que respira bajo el cielo; todo lo que hay en la tierra perecerá. 
-GEN006018 Pero hago un pacto contigo: Entra ¿n el arca con tu mujer, tus hijos y sus mujeres. 
+GEN006018 Pero hago un pacto contigo: Entra en el arca con tu mujer, tus hijos y sus mujeres. 
 GEN006019 Toma una pareja de cada viviente, es decir, macho y hembra, y métela en el arca, para que conserve la vida contigo: 
 GEN006020 pájaros por especies, cuadrúpedos por especies, reptiles por especies; de cada una entrará una pareja contigo para conservar la vida. 
 GEN006021 Reúne toda clase de alimentos y almacénalos para ti y para ellos. 
@@ -221,7 +221,7 @@ GEN009014 Cuando yo envíe nubes sobre la tierra, aparecerá en las nubes el arc
 GEN009015 y recordaré mi pacto con ustedes y con todos los animales, y el diluvio no volverá a destruir los vivientes. 
 GEN009016 Saldrá el arco en las nubes, y al verlo recordaré mi pacto perpetuo: Pacto de Dios con todos los seres vivos, con todo lo que vive en la tierra. 
 GEN009017 Dios dijo a Noé: Esta es la señal del pacto que hago con todo lo que vive en la tierra. 
-GEN009018 Los hijos de Noé que salieron i del arca fueron: Sem, Cam y Jafet (Cam es el antecesor de Canaán); 
+GEN009018 Los hijos de Noé que salieron del arca fueron: Sem, Cam y Jafet (Cam es el antecesor de Canaán); 
 GEN009019 son los tres hijos de Noé que se propagaron por toda la tierra. 
 GEN009020 Noé, que era labrador, plantó la primera viña; 
 GEN009021 bebió el vino, se emborrachó y se desnudó dentro de la tienda. 
@@ -447,7 +447,7 @@ GEN018021 voy a bajar a ver si realmente sus acciones responden o no a la acusac
 GEN018022 Los hombres se volvieron y se dirigieron a Sodoma, mientras el Señor seguía en compañía de Abrahán. 
 GEN018023 Entonces Abrahán se acercó y dijo: ¿Es que vas a destruir al inocente con el culpable? 
 GEN018024 Supongamos que hay en la ciudad cincuenta inocentes, ¿los destruirás en vez de perdonar al lugar por los cincuenta inocentes que hay en él? 
-GEN018025 ¡Lejos de ti hacer tal cosa! Matar al inocente con el culpable, confundiendo al inocente con el culpable, i lejos de ti! El juez de todo el mundo, ¿no hará justicia? 
+GEN018025 ¡Lejos de ti hacer tal cosa! Matar al inocente con el culpable, confundiendo al inocente con el culpable, lejos de ti! El juez de todo el mundo, ¿no hará justicia? 
 GEN018026 El Señor contestó: Si encuentro en la ciudad de Sodoma cincuenta inocentes, perdonaré a toda la ciudad en atención a ellos. 
 GEN018027 Abrahán respondió: Me he atrevido a hablar a mi Señor, yo que soy polvo y ceniza. 
 GEN018028 Supongamos que faltan cinco para llegar a los cincuenta inocentes, ¿destruirás, por cinco, toda la ciudad? Respondió el Señor: No la destruiré si encuentro en ella cuarenta y cinco. 
@@ -512,7 +512,6 @@ GEN020015 Y le dijo: Ahí tienes mi tierra, vive donde quieras.
 GEN020016 Ya Sara le dijo: He dado a tu hermano mil pesos de plata; así podrás mirar a la cara a todos los tuyos. 
 GEN020017 Abrahán rezó a Dios y Dios curó a Abimelec, a su mujer y a sus concubinas, y dieron a luz. 
 GEN020018 Pues el Señor había cerrado el vientre a todas en casa de Abimelec por causa de Sara, mujer de Abrahán. 
-
 GEN021001 El Señor se fijó en Sara, como había dicho. El Señor cumplió a Sara lo que le había prometido. 
 GEN021002 Ella concibió y le dio un hijo al viejo Abrahán en el tiempo que había dicho Dios. 
 GEN021003 Abrahán llamó Isaac al hijo que le había nacido, que le había dado Sara. 
@@ -1074,7 +1073,8 @@ GEN036031 Reyes que reinaron en tierra de Edom antes que los israelitas tuvieran
 GEN036032 En Edom fue rey Bela, hijo de Beor; su ciudad se llamaba Dinhaba. 
 GEN036033 Murió Bela y le sucedió en el trono Yobab, hijo de Zéraj, natural de Bosra 
 GEN036034 Murió Yobab y le sucedió en el trono Jusán, natural de Teman. 
-GEN036035 Murió Jusán y le sucedió en el trono Hadad, hijo de Badad, el que derrotó a Madián en el campo de Moab; su ciudad se llamaba Avit. GEN036036 Murió Hadad y le sucedió en el trono Samlá, natural de Masreca. 
+GEN036035 Murió Jusán y le sucedió en el trono Hadad, hijo de Badad, el que derrotó a Madián en el campo de Moab; su ciudad se llamaba Avit. 
+GEN036036 Murió Hadad y le sucedió en el trono Samlá, natural de Masreca. 
 GEN036037 Murió Samlá y le sucedió en el trono Saúl, natural de Plaza del Río. 
 GEN036038 Murió Saúl y le sucedió en el trono Baal Janán, hijo de Acbor. 
 GEN036039 Murió Baal Janán, hijo de Acbor, y le sucedió en el trono Hadar; su ciudad se llamaba Pau y su mujer Mehetabel, hija de Matred, hijo de Mezahab. 
@@ -1269,7 +1269,7 @@ GEN042015 José les dijo: 'Lo que yo decía, son espías; pero los pondré á pr
 GEN042016 Manden a uno de ustedes a buscar a su hermano, mientras los demás quedan presos, y probarán que sus palabras son verdaderas; de lo contrario, por vida del Faraón, que son espías. 
 GEN042017 Y los hizo detener durante tres días. 
 GEN042018 Al tercer día, les dijo: Yo respeto a Dios; por eso harán lo siguiente y salvarán la vida: 
-GEN042019 sisón gente honrada, uno de ustedes quedará aquí encarcelado y los demás irán a llevar víveres a sus familias hambrientas; 
+GEN042019 si son gente honrada, uno de ustedes quedará aquí encarcelado y los demás irán a llevar víveres a sus familias hambrientas; 
 GEN042020 después me traerán a su hermano menor; así probarán que han dicho la verdad y no morirán. 
 GEN042021 Ellos aceptaron, y se decían: Estamos pagando el delito contra nuestro hermano, cuando le veíamos suplicarnos angustiado y no le hicimos caso; por eso nos sucede esta desgracia. 
 GEN042022 Intervino Rubén: ¿No les decía yo: 'No pequen contra el muchacho', y no me hicieron caso? Ahora nos piden cuentas de su sangre. 
@@ -1287,7 +1287,7 @@ GEN042033 El Señor del país nos dijo: Así sabré que son gente honrada: yo re
 GEN042034 después me traerán a su hermano menor, y así sabré que no son espías, sino gente honrada; entonces les devolveré a su hermano y podrán comerciar en mi país'. 
 GEN042035 Cuando vaciaron los sacos, encontraron una bolsa de dinero en cada saco; viendo las bolsas de dinero, ellos y su padre se asustaron. 
 GEN042036 Jacob, su padre, les dijo: Me dejan solo, José ha desaparecido, Simeón también, y ahora se quieren llevar a Benjamín. Todo se vuelve contra mí. 
-GEN042037 Rubén replicó a su padre: Da muerte a mis dos hijos si no te lo devuelvo; ponlo n mis manos y te lo devolveré. 
+GEN042037 Rubén replicó a su padre: Da muerte a mis dos hijos si no te lo devuelvo; ponlo en mis manos y te lo devolveré. 
 GEN042038 El dijo; Mi hijo no bajará con ustedes. Su hermano ha muerto y sólo me queda él. Si le sucede una desgracia en el viaje que ustedes emprenden, de la pena darán con mis canas en el sepulcro. 
 GEN043001 El hambre apretaba en el país; 
 GEN043002 cuando se terminaron los víveres que habían traído de Egipto, su padre les dijo: Vuelvan a comprarnos provisiones. 
@@ -1450,7 +1450,7 @@ GEN047028 Jacob vivió en Egipto diecisiete años, y toda su vida fueron ciento 
 GEN047029 Cuando se acercaba para Israel la hora de morir, llamó a su hijo José y le dijo: Si he alcanzado tu favor, coloca tu mano bajo mi muslo y promete tratarme con amor y bondad; no me entierres en Egipto. 
 GEN047030 Cuando me duerma con mis padres, sácame de Egipto y entiérrame en la sepultura con ellos. Contestó losé: Haré lo que pides. 
 GEN047031 Insistió: Júramelo. Y se lo juró. Entonces Israel hizo una inclinación hacia su cabecera de la cama. 
-GEN048001 Después de estos sucesos, le dijeron a José: Tu padre está grave. II tomó consigo a sus dos hijos: Manases y Efraín. 
+GEN048001 Después de estos sucesos, le dijeron a José: Tu padre está grave. El tomó consigo a sus dos hijos: Manases y Efraín. 
 GEN048002 Le dijeron a Jacob: Ha llegado tu hijo José. 
 GEN048003 E hizo un esfuerzo y se incorporó en la cama. Jacob dijo a José: Dios Todopoderoso, el que se me apareció en Almendral, en tierra de Canaán, me bendijo 
 GEN048004 y me dijo: 'Yo le haré crecer y multiplicarte hasta llegar a ser un grupo de pueblos; a tus descendientes daré esta tierra en posesión perpetua'. 

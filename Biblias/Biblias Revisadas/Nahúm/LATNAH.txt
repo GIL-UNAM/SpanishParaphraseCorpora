@@ -13,10 +13,10 @@ NAH001011 Así dice Yavé: “Por más potentes y poderosos que sean, serán cor
 NAH001013 y ahora voy a quebrar de sobre ti su yugo y a romper tus cadenas. 
 NAH001014 Pero sobre ti ha dado orden Yavé: No habrá más descendencia de tu nombre; de la casa de tu Dios extirparé ídolos y estatuas fundidas y haré de tu sepulcro una ignominia. 
 NAH001015 Miren al que viene por los montes y nos trae la buena nueva, el que anuncia la paz. ¡Celebra tus fiestas, oh Judá, cumple tus votos! Porque no volverá a pasar por ti el impío: ha sido extirpado totalmente. 
-NAH002001 Pues Yavé ha restablecido la gloria de Jacob, él mismo es el orgullo de Israel. Los devastadores han sido devastados y destruidos sus sarmientos. Sobre fin de Nínive 
+NAH002001 Pues Yavé ha restablecido la gloria de Jacob, él mismo es el orgullo de Israel. Los devastadores han sido devastados y destruidos sus sarmientos.
 NAH002002 Monta la guardia en el muro. Vigila camino y prepárate para asalto, porque contra ti el destructor. 
 NAH002003 El escudo de sus valientes rojea, sus están vestidos de púrpura. 
-NAH002004 Los carros alistados brillan como antorchas y hombres llevan el rostro cubierto. Se a las calles y corren por las plazas, como encendidas, como 
+NAH002004 Los carros alistados brillan como antorchas y hombres llevan el rostro cubierto. Se a las calles y corren por las plazas, como encendidas,
 NAH002005 En la ciudad el rey llama a sus generales, pero en su carrera; corren la muralla y coloca la pared de defensa. 
 NAH002006 Se rompen los diques del río y derrumba el palacio. 
 NAH002007 La diosa ha sido llevada y desterrada y siervas lloran y como palomas, y dan golpes en el pecho. 
@@ -25,20 +25,21 @@ NAH002009 “Roben la plata y saqueen el oro”, pues innumerables los tesoros, 
 NAH002010 ¡Destrozo, saqueo, devastación! Los desfallecen, tiemblan rodillas, se los cuerpos y los rostros. 
 NAH002011 ¿Dónde está la cueva de los leones, guarida sus cachorros, donde a llevar sus crías sin nadie los molestara? 
 NAH002012 El león desgarraba para sus cachorros; mataba sus leonas y sus guaridas de presas y carne despedazada. 
-NAH002013 Pero aquí estoy yo contra ti, dice Yavé Sebaot: yo en cenizas tus carros, y espada devorará tus cachorros. Yo fin a tus robos, y se oirá más el grito de tus mensajeros. La de sangre 
+NAH002013 Pero aquí estoy yo contra ti, dice Yavé Sebaot: yo en cenizas tus carros, y espada devorará tus cachorros. Yo fin a tus robos, y se oirá más el grito de tus mensajeros.
 NAH003001 Pobre de la ciudad de sangre, toda llena de mentira, de rapiña, de incesantes robos. 
-NAH003002 Chasquido de látigo, estrépito de ruedas, caballos que galopan, carros que saltan,3 caballerías que avanzan, llamear de espadas, centellear de lanzas, multitud de heridos, montones de muertos, cadáveres sin fin; se tropieza en los cadáveres. 
-NAH003003 Así paga sus muchas prostituciones la prostituta de encantadores atractivos, maestra en sortilegios, que engañaba a los pueblos con sus prostituciones y a las naciones con sus sortilegios. 
-NAH003004 Aquí estoy contra ti, palabra Yavé Sebaot, voy alzar tus faldas hasta tu cara; mostraré las naciones tu desnudez, y los reinos tus vergüenzas. 
-NAH003005 Arrojaré inmundicias sobre ti, te y te pondré como espectáculo y el que te vea, huirá de ti. 
-NAH003006 Dirán: “Asolada está Nínive, ¿quién piedad de ella? ¿Dónde quien la consuele?” 
-NAH003007 ¿Eres acaso tú mejor que No-Amón, la asentada entre los ríos, rodeada aguas, que el mar por antemuro? 
-NAH003008 Etiopía y Egipto la defendían; su no tenía límite; Put los libios venían en su ayuda. 
-NAH003009 También ella fue al destierro, partió cautiverio; también niños fueron estrellados en el cruce de todas las calles. Se suertes sobre sus notables y sus grandes fueron cargados de cadenas. 
-NAH003010 También tú quedarás ebria, serás que se esconde. También buscarás un refugio contra el enemigo. 
-NAH003011 Todas tus fortalezas son higueras cargadas de brevas: si las sacude, caen la boca de quien va a comerlas. 
-NAH003012 Tus habitantes son como mujeres en medio de ti; a enemigos se abren de par en par las puertas de tu país, el ha devorado tus cerrojos. 
-NAH003013 Sácate agua para el asedio, refuerza fortalezas, métete la arcilla, pisa mortero, toma molde para hacer ladrillos. 
+NAH003002 Chasquido de látigo, estrépito de ruedas, caballos que galopan, carros que saltan,
+NAH003003 caballerías que avanzan, llamear de espadas, centellear de lanzas, multitud de heridos, montones de muertos, cadáveres sin fin; se tropieza en los cadáveres. 
+NAH003004 Así paga sus muchas prostituciones la prostituta de encantadores atractivos, maestra en sortilegios, que engañaba a los pueblos con sus prostituciones y a las naciones con sus sortilegios. 
+NAH003005 Aquí estoy contra ti, palabra Yavé Sebaot, voy alzar tus faldas hasta tu cara; mostraré las naciones tu desnudez, y los reinos tus vergüenzas. 
+NAH003006 Arrojaré inmundicias sobre ti, te y te pondré como espectáculo y el que te vea, huirá de ti. 
+NAH003007 Dirán: “Asolada está Nínive, ¿quién piedad de ella? ¿Dónde quien la consuele?” 
+NAH003008 ¿Eres acaso tú mejor que No-Amón, la asentada entre los ríos, rodeada aguas, que el mar por antemuro? 
+NAH003009 Etiopía y Egipto la defendían; su no tenía límite; Put los libios venían en su ayuda. 
+NAH003010 También ella fue al destierro, partió cautiverio; también niños fueron estrellados en el cruce de todas las calles. Se suertes sobre sus notables y sus grandes fueron cargados de cadenas. 
+NAH003011 También tú quedarás ebria, serás que se esconde. También buscarás un refugio contra el enemigo. 
+NAH003012 Todas tus fortalezas son higueras cargadas de brevas: si las sacude, caen la boca de quien va a comerlas. 
+NAH003013 Tus habitantes son como mujeres en medio de ti; a enemigos se abren de par en par las puertas de tu país, el ha devorado tus cerrojos. 
+NAH003014 Sácate agua para el asedio, refuerza fortalezas, métete la arcilla, pisa mortero, toma molde para hacer ladrillos. 
 NAH003015 Allí el fuego te consumirá, te la espada, aunque un pueblo numeroso como el pulgón, incontable la langosta. 
 NAH003016 Habías multiplicado tus mercaderes más las estrellas del cielo; tus guardias, como langosta, y funcionarios como enjambres de insectos que posan en los cercos en un día de frío; sale sol y se van,
 NAH003017 se los pulgones, se y nadie sabe dónde. 

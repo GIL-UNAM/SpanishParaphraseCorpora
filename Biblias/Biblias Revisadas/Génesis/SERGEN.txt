@@ -1449,7 +1449,7 @@ GEN047027 Israel habitó en la tierra de Egipto, en el territorio de Gosen. Toma
 GEN047028 Jacob vivió diecisiete años en tierra de Egipto. Los días de Jacob, los años de su vida, fueron ciento cuarenta y siete años. 
 GEN047029 Cuando se aproximaban los días de la muerte de Israel, llamó éste a su hijo José y le dijo: 'Si cuento con tu benevolencia, pon tu mano bajo mi muslo y hazme favor y lealtad: no me entierres en Egipto. 
 GEN047030 Cuando me vaya a reposar con mis padres, sácame de Egipto y entiérrame en su sepulcro'. José le contestó: 'Haré como tú dices'. 
-GEN047031 Jacob le dijo: 'Júramelo'. José se lo juró. E Israel se inclinó sobre la cabecera de la cama. Jacob adopta y bendice a los hijos de José 
+GEN047031 Jacob le dijo: 'Júramelo'. José se lo juró. E Israel se inclinó sobre la cabecera de la cama.
 GEN048001 Después de estos sucesos, informaron a José: 'Mira, tu padre está enfermo'. José tomó consigo a sus dos hijos, Manasés y Efraín. 
 GEN048002 Le anunciaron a Jacob: 'Tu hijo José ha venido a verte'. Entonces Israel hizo un esfuerzo y se incorporó en la cama. 
 GEN048003 Dijo Jacob a José: 'El Sadday se me apareció en Luz, en tierra de Canaán, y me bendijo, 
@@ -1504,7 +1504,7 @@ GEN049029 Después les dio esta orden diciéndoles: 'Yo voy a reunirme con mi pu
 GEN049030 en la cueva del campo de Macpelá, frente a Mamré, en la tierra de Canaán, en el campo que compró Abrahán a Efrón, el hitita, en propiedad sepulcral. 
 GEN049031 Allí sepultaron a Abrahán y a Sara, su mujer; allí sepultaron a Isaac y a Rebeca, su mujer; allí también sepulté yo a Lía'. 
 GEN049032 El campo y la cueva que hay en él fueron comprados a los hijos de Het. 
-GEN049033 Cuando acabó Jacob de dar esta orden a sus hijos, recogió sus pies en la cama, expiró y se reunió con su pueblo. Exequias de Jacob 
+GEN049033 Cuando acabó Jacob de dar esta orden a sus hijos, recogió sus pies en la cama, expiró y se reunió con su pueblo.
 GEN050001 Se echó José sobre el rostro de su padre, lloró sobre él y lo besó. 
 GEN050002 Mandó después José a sus servidores médicos que embalsamaran a su padre, y los médicos embalsamaron a Israel. 
 GEN050003 Tardaron en ello cuarenta días, pues éste era el tiempo que se empleaba en embalsamar. Luego los egipcios hicieron duelo por él setenta días. 
@@ -1525,7 +1525,7 @@ GEN050017 'Hablad a José de esta manera: perdona, por favor, la iniquidad de tu
 GEN050018 Sus hermanos vinieron a postrarse ante él y le dijeron: 'Aquí nos tienes. Esclavos tuyos somos'. 
 GEN050019 Pero José les dijo: 'No temáis. ¿Ocupo yo acaso el lugar de Dios? 
 GEN050020 Vosotros maquinasteis un mal contra mí, pero Dios trocó aquel designio en bien, para que se realizara lo que sucede hoy: hacer que viva un pueblo numeroso. 
-GEN050021 No temáis, pues; yo os mantendré a vosotros y a vuestros pequeñuelos'. Después los consoló con palabras llenas de afecto. Muerte de José 
+GEN050021 No temáis, pues; yo os mantendré a vosotros y a vuestros pequeñuelos'. Después los consoló con palabras llenas de afecto.
 GEN050022 Habitó José en Egipto, él y la casa de su padre. Vivió José ciento diez años. 
 GEN050023 Vio José a los hijos de Efraín hasta la tercera generación. También a Maquir hijo de Manasés, le nacieron hijos sobre las rodillas de José. 
 GEN050024 Dijo José a sus hermanos: 'Se acerca la hora de mi muerte, pero Dios os visitará y os hará subir de este país a la tierra que juró dar a Abrahán, a Isaac, y a Jacob'. 

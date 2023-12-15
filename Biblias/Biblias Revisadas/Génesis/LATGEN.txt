@@ -32,7 +32,7 @@ GEN001031 Dios vio todo lo que había hecho, y era muy bueno. Y atardeció y ama
 GEN002001 Así es como fueron formados el cielo, la tierra y todo lo que hay en ellos. 
 GEN002002 Dios terminó su trabajo el Séptimo día y descansó en ese día de todo lo que había hecho. 
 GEN002003 Y Dios bendijo el Séptimo día y lo hizo santo, porque en ese día él descansó de todo su trabajo de la creación. 
-GEN002004 Este es el origen del cielo y de la tierra cuando fueron creados. Segundo de la Creación El en que Yavé Dios hizo la tierra y los cielos, 
+GEN002004 Este es el origen del cielo y de la tierra cuando fueron creados. El en que Yavé Dios hizo la tierra y los cielos, 
 GEN002005 no había sobre la tierra arbusto alguno, ni había brotado aún ninguna planta silvestre, pues Yavé Dios no había hecho llover todavía sobre la tierra, y tampoco había hombre que cultivara el suelo, 
 GEN002006 pero una neblina surgió de la tierra y regó toda su superficie. 
 GEN002007 Entonces Yavé Dios formó al hombre con polvo de la tierra, y sopló en sus narices un aliento de vida, y existió el hombre con aliento y vida. 
@@ -53,7 +53,7 @@ GEN002021 Entonces Yavé hizo caer en un profundo sueño sobre el hombre y qued�
 GEN002022 De la costilla que Yavé había sacado al hombre, formó una mujer y la llevó ante el hombre. Entonces el hombre exclamó: 
 GEN002023 “Esta sí es hueso de mis huesos y de mi carne. Esta llamada varona porque varón ha sido tomada.” 
 GEN002024 Por eso el hombre deja a su padre y a su madre para unirse a su mujer, y con ella llegará a ser una sola carne. 
-GEN002025 Los dos estaban desnudos, tanto el hombre como su mujer, pero no sentían vergüenza. La y la caída 
+GEN002025 Los dos estaban desnudos, tanto el hombre como su mujer, pero no sentían vergüenza.
 GEN003001 La serpiente era el más astuto de todos los animales del campo que Yavé había hecho. Dijo a la mujer: “¿Es cierto que Dios les ha dicho: No coman de ninguno de los árboles del jardín?” 
 GEN003002 La mujer respondió a la serpiente: “Podemos comer de los frutos de los árboles del jardín, 
 GEN003003 menos del fruto del árbol que está en medio del jardín, pues Dios nos ha dicho: No coman de él ni lo toquen siquiera, porque si lo hacen morirán.” 
@@ -66,7 +66,7 @@ GEN003009 Yavé Dios llamó al hombre y le dijo: “¿Dónde estás?”
 GEN003010 Este contestó: “He oído tu voz en el jardín, tuve miedo y me escondí, porque estoy desnudo.” Yavé replicó: 
 GEN003011 “¿Quién te ha hecho ver que estás desnudo? ¿Has comido acaso del árbol del que te prohibí que comieras?” 
 GEN003012 El hombre respondió: “La mujer que me diste por compañera me dio del fruto del árbol y yo comí.” 
-GEN003013 Yavé dijo a la mujer: “¿Qué has hecho?” La mujer respondió: “La serpiente me engañó y he comido.” La de Dios 
+GEN003013 Yavé dijo a la mujer: “¿Qué has hecho?” La mujer respondió: “La serpiente me engañó y he comido.”
 GEN003014 Entonces Yavé Dios dijo a la serpiente: “Por haber hecho esto, maldita seas entre todas las bestias y entre todos los animales del campo. Te arrastrarás sobre tu vientre y comerás polvo por todos los días de tu vida. 
 GEN003015 Haré que haya enemistad entre ti y la mujer, entre tu descendencia y la suya. Ella te aplastará la cabeza mientras tú golpearás su talón.” 
 GEN003016 Dios dijo a la mujer: “Multiplicaré tus sufrimientos en los embarazos y darás a luz a tus hijos con dolor. Estarás sujeta a tu marido y te él dominará." 
@@ -77,7 +77,7 @@ GEN003020 El hombre dio a su mujer el nombre de “Eva”, por ser la madre de t
 GEN003021 Yavé Dios hizo para el hombre y su mujer unos vestidos de piel y con ellos los vistió. 
 GEN003022 Entonces Yavé Dios dijo: “El hombre ya ha llegado a ser como uno de nosotros, y se ha hecho juez de lo bueno y de lo malo. Que ahora no vaya también a extender su mano y tomar del Arbol de la Vida para vivir para siempre.” 
 GEN003023 Así Dios lo expulsó del jardín del Edén para que trabajara la tierra de la que había sido formado, 
-GEN003024 y después de expulsar al hombre, puso querubines y un remolino que disparaba rayos al oriente del jardín del Edén, para proteger el camino hacia el Arbol de la Vida. Caín Abel 
+GEN003024 y después de expulsar al hombre, puso querubines y un remolino que disparaba rayos al oriente del jardín del Edén, para proteger el camino hacia el Arbol de la Vida.
 GEN004001 Adán tuvo relaciones con “Eva”, su mujer, que quedó embarazada y dio a luz un niño, al que llamó Caín, pues decía: “Con la ayuda de Yavé tengo un hijo.” 
 GEN004002 Después dio a luz a Abel, su hermano. Abel fue pastor y cuidaba rebaños, mientras Caín labraba la tierra. 
 GEN004003 Pasado algún tiempo, Caín presentó a Yavé una ofrenda de los frutos de la tierra. 
@@ -93,7 +93,7 @@ GEN004012 Cuando cultives la tierra, no te dará frutos. Andarás errante y fugi
 GEN004013 Caín dijo a Yavé: “Mi castigo es más grande de lo que puedo soportar. 
 GEN004014 Tú me arrojas hoy de esta tierra, y yo tendré que ocultarme de tu presencia y ser un errante y fugitivo que vaga sobre la tierra. Cualquiera que me encuentre me matará.” 
 GEN004015 Yavé le dijo: “No será así: quien mate a Caín será vengado siete veces.” Y Yavé puso una marca a Caín para evitar que fuese matado por cualquiera que lo encontrara. 
-GEN004016 Caín se fue de la presencia de Yavé y habitó en el país de Nod, al oriente del Edén. Los de Caín y Set 
+GEN004016 Caín se fue de la presencia de Yavé y habitó en el país de Nod, al oriente del Edén.
 GEN004017 Caín tuvo relaciones con su mujer, la cual dio a luz un hijo, al que llamó Henoc. Construyó una ciudad y la llamó Henoc, con el mismo nombre de su hijo. 
 GEN004018 Con el tiempo Henoc tuvo un hijo, que llamó Irad. Irad fue padre de Mavael, Mavael padre de Matusael y éste de Lamec. 
 GEN004019 Lamec tuvo dos mujeres: Ada y Sella. 
@@ -103,7 +103,7 @@ GEN004022 Sella, por su parte, dio a luz a Tubal-Caín, forjador de toda clase d
 GEN004023 Dijo Lamec a sus mujeres: “Escúchenme Ada y Sella; oigan palabras, mujeres de Lamec: yo matado a un hombre por herirme y un muchacho porque me golpeó. 
 GEN004024 Si Caín ha de ser vengado siete veces, Lamec de serlo setenta y siete veces.” 
 GEN004025 Adán tuvo de nuevo relaciones con su mujer, que dio a luz otro hijo, a quien llamó Set, pues dijo: “Dios me ha concedido otro hijo en lugar de Abel, que fue matado por Caín.” 
-GEN004026 A Set también le nació un hijo, y le puso el nombre de Enós. Por aquel tiempo se empezó a invocar el nombre de Yavé. Los de Adán 
+GEN004026 A Set también le nació un hijo, y le puso el nombre de Enós. Por aquel tiempo se empezó a invocar el nombre de Yavé.
 GEN005001 Esta es la descendencia de Adán. Cuando Dios creó a Adán, lo creó a semejanza de Dios. 
 GEN005002 Macho y hembra los creó. Luego los bendijo y les puso el nombre de Adán, es decir, Hombre. 
 GEN005003 Tenía Adán ciento treinta años de edad, cuando fue padre de un hijo, nacido según su imagen y semejanza, a quien llamó Set. 
@@ -134,12 +134,12 @@ GEN005027 Así que cuando Matusalén murió tenía novecientos sesenta y nueve a
 GEN005028 A la edad de ciento ochenta y dos años, Lamec fue padre de un hijo, 
 GEN005029 y le puso por nombre Noé, pues pensó: “Este nos servirá de consuelo en medio de nuestro trabajo y del cansancio de nuestras manos, debido a la tierra que maldijo Yavé.” 
 GEN005030 Vivió Lamec, después de que le nació Noé, quinientos noventa y cinco años, y fue padre de más hijos e hijas. 
-GEN005031 Murió a los setecientos setenta y siete años. Hijos Dios e hijas los hombres 
+GEN005031 Murió a los setecientos setenta y siete años.
 GEN005032 (TEXTO OMITIDO)
 GEN006001 Cuando los hombres empezaron a multiplicarse sobre la tierra y les nacieron hijas, 
 GEN006002 los hijos de Dios se dieron cuenta de que las hijas de los hombres eran muy hermosas, y tomaron por esposas aquellas que les gustaron. 
 GEN006003 Entonces dijo Yavé: “No permanecerá para siempre mi espíritu en el hombre, porque no es más que carne. Su vida no superará los ciento veinte años.” 
-GEN006004 En ese entonces había gigantes sobre la tierra, y también los hubo después, cuando los hijos de Dios se unieron a las hijas de los hombres y tuvieron hijos de ellas. Estos fueron los héroes de la antigüedad, hombres famosos. El 
+GEN006004 En ese entonces había gigantes sobre la tierra, y también los hubo después, cuando los hijos de Dios se unieron a las hijas de los hombres y tuvieron hijos de ellas. Estos fueron los héroes de la antigüedad, hombres famosos.
 GEN006005 Yavé vio que la maldad del hombre en la tierra era grande y que todos sus pensamientos tendían siempre al mal. 
 GEN006006 Se arrepintió, pues, de haber creado al hombre, y se afligió su corazón. 
 GEN006007 Dijo: “Exterminaré al hombre que he creado, y lo borraré de la superficie de la tierra, y lo mismo haré con los animales, los reptiles y las aves, pues me pesa haberlos creado.” 
@@ -203,7 +203,7 @@ GEN008018 Salió, pues, Noé y con él sus hijos, su esposa y sus nueras.
 GEN008019 Todos los animales salvajes y domésticos, todas las aves y todos los reptiles que se arrastran sobre la tierra, salieron del arca, una especie tras la otra. 
 GEN008020 Noé construyó un altar a Yavé, y tomando algunos de todos los animales puros y de todas las aves puras, los ofreció en sacrificio sobre él. 
 GEN008021 Al aspirar el agradable aroma, Yavé se dijo: “Nunca más maldeciré la tierra por causa del hombre, pues su corazón está inclinado al mal ya desde la infancia. Nunca más volveré a castigar a todo ser viviente como acabo de hacer. 
-GEN008022 Mientras perdure la tierra, habrá y cosecha, pues cesarán ni frío ni calor, ni verano ni invierno ni días ni las noches.” El orden del mundo 
+GEN008022 Mientras perdure la tierra, habrá y cosecha, pues cesarán ni frío ni calor, ni verano ni invierno ni días ni las noches.”
 GEN009001 Bendijo Dios a Noé y a sus hijos y les dijo: “Crezcan, multiplíquense y pueblen la tierra. 
 GEN009002 Teman y tiemblen ante ustedes todos los animales de la tierra y todas las aves del cielo. Dominen sobre todo lo que se arrastra sobre la tierra y sobre todos los peces del mar. Todo se lo entrego a ustedes. 
 GEN009003 Todo lo que tiene movimiento y vida les servirá de alimento, así como también las legumbres y las hierbas. 
@@ -220,7 +220,7 @@ GEN009013 Pongo mi arco en las nubes para que sirva como señal de la alianza en
 GEN009014 Cuando yo cubra de nubes la tierra y aparezca el arco en las nubes, 
 GEN009015 me recordaré de la alianza entre mí y ustedes y con toda creatura que tiene vida, y nunca más habrá aguas de diluvio para acabar con toda carne. 
 GEN009016 Cuando el arco aparezca en las nubes, yo lo veré y me recordaré de la alianza perpetua entre Dios y todo ser viviente que existe sobre la tierra.” 
-GEN009017 Y dijo Dios a Noé: “Esta es la señal de la alianza que yo he establecido entre mí y todo ser que vive en la tierra.” Los de Noé 
+GEN009017 Y dijo Dios a Noé: “Esta es la señal de la alianza que yo he establecido entre mí y todo ser que vive en la tierra.”
 GEN009018 Los hijos de Noé que salieron del arca fueron Sem, Cam y Jafet. Cam es el padre de Canaán. 
 GEN009019 Esos tres son los hijos de Noé, y de éstos se pobló toda la tierra. 
 GEN009020 Noé, que era labrador, comenzó a trabajar la tierra y plantó una viña. 
@@ -231,7 +231,8 @@ GEN009024 Cuando despertó Noé de su embriaguez, supo lo que había hecho con �
 GEN009025 “¡Maldito sea Canaán! ¡Será esclavo de los esclavos de sus hermanos! 
 GEN009026 Después añadió: ¡Bendito sea Yavé, Dios de Sem! Que Canaán sea su esclavo. 
 GEN009027 Que Dios agrande a Jafet y habite en las tiendas de Sem y sea Canaán su esclavo.” 
-GEN009028 Noé vivió aún trescientos cincuenta años después del diluvio. Así el total de la vida de fue de novecientos cincuenta años. Luego murió. Mapa los pueblos 
+GEN009028 Noé vivió aún trescientos cincuenta años después del diluvio. 
+GEN009029 Así el total de la vida de fue de novecientos cincuenta años. Luego murió.
 GEN010001 Estos son los descendientes de Sem, Cam y Jafet, hijos de Noé, y éstos son los hijos que les nacieron después del diluvio: 
 GEN010002 Hijos de Jafet: Gómer, Magog, Maday, Javán, Tubal, Mesec y Tirás. 
 GEN010003 Hijos de Gomer: Ascenez, Rifat y Togarma. 
@@ -263,12 +264,12 @@ GEN010028 Obal, Abimael, Saba,
 GEN010029 Ofir, Hevila y Jobab. Todos estos fueron hijos de Joctán. 
 GEN010030 Estos ocuparon la región comprendida entre Mesa, en dirección a Sefar, y la montaña que está al oriente. 
 GEN010031 Estos fueron los hijos de Sem, según sus familias, lenguas, y según sus países y naciones. 
-GEN010032 Estas fueron las familias de los hijos de Noé según sus genealogías y naciones. A partir de éstos se esparcieron las naciones por la tierra después del diluvio. La de Babel 
+GEN010032 Estas fueron las familias de los hijos de Noé según sus genealogías y naciones. A partir de éstos se esparcieron las naciones por la tierra después del diluvio.
 GEN011001 Todo el mundo tenía un mismo idioma y usaba las mismas expresiones. 
 GEN011002 Pero al emigrar los hombres desde Oriente, encontraron una llanura en la región de Sinar, y se establecieron allí. 
 GEN011003 Entonces se dijeron unos a otros: “Vamos a fabricar ladrillos y los cocinamos al fuego.” Utilizaron el ladrillo en lugar de piedra y el alquitrán como mezcla. 
 GEN011004 Después dijeron: “Construyamos una ciudad y una torre que llegue hasta el cielo. Así nos haremos un gran pueblo, y no nos dispersaremos por toda la superficie de la tierra.” 
-GEN011005 Yavé bajó para ver la ciudad y la torre que los hombres estaban levantan- do, 
+GEN011005 Yavé bajó para ver la ciudad y la torre que los hombres estaban levantando, 
 GEN011006 y dijo Yavé: “Veo que todos forman un solo pueblo y tienen una misma lengua. Si esto va adelante, nada les impedirá desde ahora que consigan todo lo que se propongan. 
 GEN011007 Pues bien, bajemos y confundamos ahí mismo su lengua, de modo que no se entiendan los unos a los otros.” 
 GEN011008 Así Yavé los dispersó sobre la superficie de la tierra, y dejaron de construir la ciudad. 
@@ -295,7 +296,7 @@ GEN011028 Harán fue padre de Lot. Harán murió en Ur de Caldea, su tierra nata
 GEN011029 Abram y Najor se casaron. La esposa de Abram se llamaba Saray, y la de Najor Milcá, hija de Harán, que era padre de Milcá y de Jisca. 
 GEN011030 Saray era estéril y no tenía hijos. 
 GEN011031 Terá tomó consigo a su hijo Abram, a su nieto Lot, hijo de Harán, y a su nuera Saray, esposa de Abram, y los sacó de Ur de Caldea para llevarlos al país de Canaán. Pero al llegar a Jarán se establecieron allí. 
-GEN011032 Terá vivió doscientos cinco años, y murió en Jarán. SEGUNDA DEL GENESIS LOS PADRES DEL PUEBLO DE DIOS Dios a Abram 
+GEN011032 Terá vivió doscientos cinco años, y murió en Jarán.
 GEN012001 Yavé dijo a Abram: “Deja tu país, a la gente de tu raza y a la familia de tu padre, y vete a la tierra que yo te mostraré. 
 GEN012002 Haré de ti una gran nación. Te bendeciré y engrandeceré tu nombre, y tú serás una bendición. 
 GEN012003 Bendeciré a quienes te bendigan y maldeciré a quienes te maldigan. En ti serán bendecidas todas las razas de la tierra.” 
@@ -319,7 +320,7 @@ GEN012020 Y Faraón ordenó a sus hombres que lo despidieran, para que siguiese 
 GEN013001 Abram subió de Egipto al Negueb, con su esposa y con todo lo que tenía, e iba también con él Lot. 
 GEN013002 Abram era entonces muy rico en ganado, plata y oro. 
 GEN013003 Y viajando por etapas, caminó desde el Negueb hasta Betel, y llegó al lugar donde anteriormente había levantado su tienda, entre Betel y Hay, 
-GEN013004 en el sitio en que había construido un altar y donde había invocado el Nombre de Yavé. Separación Abram y Lo 
+GEN013004 en el sitio en que había construido un altar y donde había invocado el Nombre de Yavé.
 GEN013005 También Lot, que iba con Abram, tenía rebaños, vacas y tiendas. 
 GEN013006 La tierra ya no les permitía vivir juntos, pues sus posesiones eran demasiado grandes como para habitar en el mismo lugar. 
 GEN013007 Se suscitó una pelea entre los pastores del rebaño de Abram y los de Lot. (Los Cananeos y los perezeos habitaban en el país en aquel tiempo). 
@@ -346,7 +347,7 @@ GEN014009 contra Codorlamor, rey de los elamitas, Tadal, rey de Goyim, Amrafel, 
 GEN014010 El valle de Sidim estaba lleno de pozos de asfalto, y los reyes de Sodoma y Gomorra, mientras huían, unos cayeron en los pozos y los demás huyeron a los montes. 
 GEN014011 Los vencedores se adueñaron de las riquezas y las reservas de alimentos de Sodoma y Gomorra y se marcharon. 
 GEN014012 Se llevaron también con ellos a Lot, hijo del hermano de Abram, con todo lo que tenía, pues vivía en Sodoma. 
-GEN014013 Uno de los que escaparon vino a avisar a Abram el hebreo, que vivía en el valle de Mambré el amorreo, hermano de Escol y de Aner, que eran aliados de Abram. Abram Melquisedec 
+GEN014013 Uno de los que escaparon vino a avisar a Abram el hebreo, que vivía en el valle de Mambré el amorreo, hermano de Escol y de Aner, que eran aliados de Abram.
 GEN014014 En cuanto oyó Abram que los cuatro jefes habían llevado prisionero a su sobrino Lot, escogió trescientos dieciocho de sus hombres que se habían criado en su casa y los persiguió hasta la ciudad de Dan. 
 GEN014015 Con sus hombres cayó de noche sobre ellos, los derrotó y persiguió hasta Jobá, al norte de Damasco. 
 GEN014016 Recuperó el botín, y también a su sobrino Lot con sus pertenencias, a las mujeres y al resto de la gente. 
@@ -357,7 +358,7 @@ GEN014020 Y bendito sea el Dios Altísimo, porque entregó a tus enemigos en tus
 GEN014021 Luego el rey de Sodoma dijo a Abram: “Devuélveme las personas y quédate con los bienes.” 
 GEN014022 Abram le respondió: “Levanto mi mano hacia Yavé, creador del cielo y de la tierra, el Dios Altísimo, 
 GEN014023 para jurar que no tomaré una hebra de hilo, ni el cordón de un zapato, ni cosa alguna que te pertenezca. Así tú no podrás decir: "Abram se hizo rico a costa mía." 
-GEN014024 No quiero nada para mí, sino tan sólo lo que han comido mis hombres, y la parte que les corresponde a mis aliados Aner, Escol y Mambré, los cuales tomarán su parte.” Alianza Dios con Abram 
+GEN014024 No quiero nada para mí, sino tan sólo lo que han comido mis hombres, y la parte que les corresponde a mis aliados Aner, Escol y Mambré, los cuales tomarán su parte.”
 GEN015001 Después de estos sucesos, Yavé dirigió su palabra a Abram en una visión, y le dijo: “No temas, Abram. Yo soy para ti un escudo protector. Tu recompensa será muy grande.” 
 GEN015002 Abram respondió: “Señor Yavé, ¿qué me puedes dar? Yo estoy aún sin hijos, y todo lo que poseo pasará a Eliezer de Damasco. 
 GEN015003 No me has dado descendencia, y por lo tanto tendré por heredero a uno de mis sirvientes.” 
@@ -378,7 +379,7 @@ GEN015017 Cuando se puso el sol y estaba todo oscuro, algo así como un calentad
 GEN015018 En aquel día Yavé pactó una alianza con Abram, diciendo: “A tu descendencia entrego esta tierra, desde el río de Egipto, hasta el Gran Río, el Eufrates: 
 GEN015019 el país de los quenitas, los queniceos, los cadmoneos, 
 GEN015020 los hititas, los pereceos, los refaítas, 
-GEN015021 los amorreos, los cananeos, los jergeseos y los jebuseos.” Nacimiento Ismael 
+GEN015021 los amorreos, los cananeos, los jergeseos y los jebuseos.” 
 GEN016001 Saray, esposa de Abram, no le había dado hijos, pero tenía una esclava egipcia que se llamaba Agar. 
 GEN016002 Y dijo Saray a Abram: “Ya que Yavé me ha hecho estéril, toma a mi esclava y únete a ella. Tal vez así yo tendré algún hijo por medio de ella.” Abram hizo caso a las palabras de su esposa. 
 GEN016003 Abram llevaba diez años viviendo en Canaán, cuando su esposa Saray tomó a su esclava Agar y se la dio a su esposo Abram por mujer. 
@@ -389,7 +390,7 @@ GEN016007 La encontró el Angel de Yavé junto a una fuente de agua en el desier
 GEN016008 y le dijo: “Agar, esclava de Saray, ¿de dónde vienes y a dónde vas?” 
 GEN016009 Ella contestó: “Estoy huyendo de Saray, mi señora.” Le replicó el Angel del Señor: “Regresa donde tu señora y ponte a sus órdenes con humildad.” 
 GEN016010 El Angel de Yavé añadió: “Multiplicaré de tal manera tu descendencia, que será tan numerosa que no se podrá contar". 
-GEN016011 T todavía prosiguió el Angel de Yavé: "Mira que estás embarazada y darás a luz a un hijo, al que pondrás por nombre Ismael, porque Yavé ha escuchado tu aflicción. 
+GEN016011 Todavía prosiguió el Angel de Yavé: "Mira que estás embarazada y darás a luz a un hijo, al que pondrás por nombre Ismael, porque Yavé ha escuchado tu aflicción. 
 GEN016012 Él será un hombre feroz, que se levantará contra todos y todos se levantarán contra él, y plantará su tienda desafiante frente a la de sus hermanos.” 
 GEN016013 Agar invocó el Nombre de Yavé que le hablaba, diciendo: “¡Oh Yavé! Tú eres el Dios que ve. Porque es cierto, pensó, que yo he visto aquí las huellas de Aquel que me ve.” 
 GEN016014 Por eso se llamó aquel pozo “el pozo de Lajay-Roi” y está entre Cadés y Bered. 
@@ -402,7 +403,7 @@ GEN017004 “Este es el pacto de mi alianza contigo: tú serás el padre de mult
 GEN017005 No te llamarás ya más Abram, sino Abraham, pues te he constituido padre de una multitud de naciones. 
 GEN017006 Yo te haré famoso hasta lo más alto, y multiplicaré tu descendencia. De ti saldrán naciones, y de entre tus descendientes surgirán reyes. 
 GEN017007 Yo estableceré una alianza, una alianza eterna, entre Yo y tú, y con tu descendencia después de ti. De ahora en adelante Yo seré tu Dios, y el Dios de tu descendencia después de ti, por todas las generaciones que vendrán. 
-GEN017008 Yo te daré a ti, y después de ti a tu posteridad, la tierra en que vives como peregrino y toda la tierra de Canaán, en posesión perpetua, y seré el Dios de los tuyos.” La 
+GEN017008 Yo te daré a ti, y después de ti a tu posteridad, la tierra en que vives como peregrino y toda la tierra de Canaán, en posesión perpetua, y seré el Dios de los tuyos.” 
 GEN017009 Dijo Dios a Abraham: “Tú, por tu parte, guarda mi Alianza, tú y tus descendientes después de ti, de generación en generación. 
 GEN017010 Esta es mi Alianza con ustedes, que deberán guardar tú y tu raza después de ti: Todo varón entre ustedes deberá ser circuncidado. 
 GEN017011 Ustedes cortarán el prepucio y ésta será la señal de la alianza entre Yo y ustedes. 
@@ -421,7 +422,7 @@ GEN017023 Tomó entonces Abraham a su hijo Ismael, a todos los nacidos en su cas
 GEN017024 Abraham tenía noventa y nueve años cuando se circuncidó, 
 GEN017025 y su hijo Ismael tenía trece años cuando fue circuncidado. 
 GEN017026 En aquel mismo día fueron circuncidados Abraham y su hijo Ismael. 
-GEN017027 También todos los varones de su casa, tanto los nacidos en ella como los esclavos comprados a algún extranjero, fueron igualmente circuncidados con él. Yavé a Abraham 
+GEN017027 También todos los varones de su casa, tanto los nacidos en ella como los esclavos comprados a algún extranjero, fueron igualmente circuncidados con él. 
 GEN018001 Yavé se presentó a Abraham junto a la encina de Mambré. Abraham estaba sentado a la entrada de su tienda, a la hora más calurosa del día, 
 GEN018002 y al levantar sus ojos, vio a tres hombres que estaban parados cerca de él. En cuanto los vio, corrió a su encuentro y se postró en tierra, 
 GEN018003 diciendo: “Señor mío, si me haces el favor, te ruego que no pases al lado de tu servidor sin detenerte. 
@@ -436,7 +437,7 @@ GEN018011 Abraham y Sara eran ancianos, bien entrados en años, y ella no tenía
 GEN018012 Sara se rió, pensando en su interior: “Ahora que soy anciana y gastada, y mi marido tan viejo, ¿podré tener ese placer?” 
 GEN018013 Pero Yavé dijo a Abraham: “¿Por qué se ha reído Sara y se ha dicho: Podré de verdad dar a luz a un niño, ahora que soy vieja? 
 GEN018014 ¿Hay acaso algo imposible para Yavé? Pues bien, volveré a visitarte dentro de un año por esta misma época, y para entonces Sara tendrá ya un hijo.” 
-GEN018015 Sara trató de defenderse, pues tuvo miedo, y dijo: “Yo no me he reído.” Pero él contestó: “Cierto que te has reído.” Abraham por Sodoma 
+GEN018015 Sara trató de defenderse, pues tuvo miedo, y dijo: “Yo no me he reído.” Pero él contestó: “Cierto que te has reído.”
 GEN018016 Los hombres se levantaron y marcharon en dirección de Sodoma, mientras Abraham los acompañaba para indicarles el camino. 
 GEN018017 Y Yavé se dijo: “¿Ocultaré a Abraham lo que voy a hacer, 
 GEN018018 cuando justamente está para convertirse en una nación grande y poderosa, y cuando a través de él van a ser bendecidas todas las naciones de la tierra? 
@@ -454,7 +455,7 @@ GEN018029 Abraham insistió: “Pero a lo mejor se encuentran allí sólo cuaren
 GEN018030 Abraham continuó todavía: “No se enoje mi Señor, si sigo hablando, pero tal vez no se encuentren más que treinta justos.” Yavé contestó: “No lo haré si encuentro allí treinta justos.” 
 GEN018031 Abraham insistió: “Sé que es una osadía por mi parte hablar así a mi Señor; pero, ¿y si se encontraran allí solamente veinte justos?” Yavé contestó: “No destruiré el lugar, en atención a esos veinte.” 
 GEN018032 Abraham dijo aún: “Por favor, no se enoje mi Señor, y hablaré por última vez. Puede ser que se encuentren allí sólo diez.” Yavé dijo: “En atención a esos diez, no destruiré la ciudad.” 
-GEN018033 Cuando Yavé terminó de hablar con Abraham se fue, mientras Abraham volvió a su casa. Destrucción Sodoma 
+GEN018033 Cuando Yavé terminó de hablar con Abraham se fue, mientras Abraham volvió a su casa.
 GEN019001 Los dos ángeles llegaron a Sodoma al atardecer. Lot estaba sentado a la entrada del pueblo. Apenas los vio, salió a su encuentro, se arrodilló inclinándose profundamente, 
 GEN019002 y les dijo: “Señores míos, les ruego que vengan a la casa de este siervo suyo a pasar la noche. Se lavarán los pies, descansarán y mañana, al amanecer, podrán seguir su camino.” Ellos le respondieron: “No, pasaremos la noche en la plaza.” Pero él insistió tanto, que lo siguieron a su casa, y les preparó comida. 
 GEN019003 Hizo panes sin levadura y comieron. 
@@ -479,7 +480,7 @@ GEN019021 El Angel respondió: “También este favor te lo concedo, y no destru
 GEN019022 Pero huye rápidamente, ya que no puedo hacer nada hasta que tú no hayas llegado allá.” 
 GEN019023 El sol ya había salido cuando Lot entró en Soar. 
 GEN019024 Entonces Yavé hizo llover del cielo sobre Sodoma y Gomorra azufre ardiendo que venía de Yavé, 
-GEN019025 y que destruyó completamente las dos ciudades y toda la llanura con todos sus habitantes y vegetación. Varias 
+GEN019025 y que destruyó completamente las dos ciudades y toda la llanura con todos sus habitantes y vegetación.
 GEN019026 La mujer de Lot se dio vuelta y miró hacia atrás, y al instante quedó convertida en una estatua de sal. 
 GEN019027 Abraham se levantó muy de madrugada y fue al lugar donde antes había estado ante Yavé. 
 GEN019028 Miró hacia Sodoma y Gomorra y hacia toda la comarca del valle y vio una gran humareda que subía de la tierra, semejante a la humareda de un horno. 
@@ -492,7 +493,7 @@ GEN019034 Al día siguiente dijo la mayor a la menor: “Ya sabes que me acosté
 GEN019035 Le hicieron beber y lo embriagaron de nuevo aquella noche, y la hija menor se acostó con él. El padre no se dio cuenta de nada, ni cuando ella se acostó ni cuando se levantó. 
 GEN019036 Y así las dos hijas de Lot quedaron embarazadas de su padre. 
 GEN019037 La mayor dio a luz un hijo y lo llamó Moab: éste fue el padre de los moabitas, que todavía existen hoy. 
-GEN019038 La menor también dio a luz un hijo y lo llamó Ben-Ammí, y es el padre de los actuales amonitas. Abraham Sara en Guerar 
+GEN019038 La menor también dio a luz un hijo y lo llamó Ben-Ammí, y es el padre de los actuales amonitas.
 GEN020001 Abraham se trasladó de allí al territorio del Negueb y se instaló entre Cadés y Sur. Vivió por algún tiempo en Guerar. 
 GEN020002 Abraham decía de su esposa Sara: “Es mi hermana.” Oyendo esto, el rey de Guerar, llamado Abimelec, mandó a buscarla para él. 
 GEN020003 Pero en la noche Dios habló a Abimelec en sueños y le dijo: “Date por muerto a causa de esa mujer que has tomado, porque es casada.” 
@@ -510,14 +511,14 @@ GEN020014 De inmediato Abimelec mandó traer ovejas y bueyes, esclavos y esclava
 GEN020015 Después Abimelec agregó: “Mira, ante tus ojos está todo mi país. Puedes vivir donde más te agrade.” 
 GEN020016 Y a Sara le dijo: “Le he dado a tu hermano mil monedas de plata, que serán para ti como un velo que tiendas ante los ojos de todos los que están contigo, y así nadie pensará mal de ti.” 
 GEN020017 Entonces Abraham oró por Abimelec, y Dios curó a Abimelec, a su esposa y a sus esclavos, a fin de que pudieran tener aún hijos. 
-GEN020018 Porque Dios había vuelto estéril a la esposa de Abimelec y a todas las mujeres que vivían su casa, a causa de Sara, esposa de Abraham. Nacimiento Isaac 
+GEN020018 Porque Dios había vuelto estéril a la esposa de Abimelec y a todas las mujeres que vivían su casa, a causa de Sara, esposa de Abraham.
 GEN021001 Yavé fue bondadoso con Sara tal como lo había anunciado, y cumplió la promesa que le había hecho. 
 GEN021002 Sara quedó embarazada, dio a luz a un hijo de Abraham siendo ya anciana, y en la misma fecha que Dios le había señalado. 
 GEN021003 Abraham puso al niño por nombre Isaac, 
 GEN021004 y lo circuncidó a los ocho días, conforme a lo que Dios le había ordenado. 
 GEN021005 Abraham tenía cien años de edad cuando le nació Isaac. 
 GEN021006 Sara dijo: “Dios me ha devuelto la alegría, y todos los que lleguen a conocer esto se alegrarán conmigo.” 
-GEN021007 Y añadió: “¡Quién hubiera dicho a Abraham que yo amamantaría hijos! Y sin embargo, le he dado a luz a un hijo en su vejez.” Abraham a Agar 
+GEN021007 Y añadió: “¡Quién hubiera dicho a Abraham que yo amamantaría hijos! Y sin embargo, le he dado a luz a un hijo en su vejez.”
 GEN021008 Creció el niño, y el día en que dejó de ser amamantado, Abraham celebró un gran banquete. 
 GEN021009 Sara vio que el hijo que la egipcia Agar había dado a Abraham, se burlaba de su hijo Isaac, 
 GEN021010 y dijo a Abraham: “Despide a esa esclava y a su hijo, pues el hijo de esa esclava no debe compartir la herencia con mi hijo Isaac.” 
@@ -544,7 +545,7 @@ GEN021030 Le respondió Abraham: “Acepta estas siete ovejas de mi mano, como p
 GEN021031 Por eso aquel lugar fue llamado Bersebá, (o sea, pozo del juramento), porque allí los dos hombres hicieron un juramento. Después haber hecho el pacto en Bersebá, 
 GEN021032 Abimelec y Ficol, general sus tropas, se despidieron y volvieron al país los filisteos. 
 GEN021033 Abraham plantó un árbol tamarindo en Bersebá y allí invocó el Nombre Yavé, Dios Eterno. 
-GEN021034 Y Abraham permaneció por mucho tiempo viviendo en el país los filisteos. El de Isaac 
+GEN021034 Y Abraham permaneció por mucho tiempo viviendo en el país los filisteos.
 GEN022001 Tiempo después, Dios quiso probar a Abraham y lo llamó: “Abraham.” Respondió él: “Aquí estoy”. 
 GEN022002 Y Dios le dijo: “Toma a tu hijo, el único que tienes y que tanto amas, Isaac, y vete a la región de Moriah. Allí me lo ofrecerás en holocausto, en un cerro que yo te indicaré.” 
 GEN022003 Se levantó Abraham de madrugada, ensilló su burro, llamó a dos muchachos para que lo acompañaran, y tomó consigo a su hijo Isaac. Partió leña para el sacrificio y se puso en marcha hacia el lugar que Dios le había indicado. 
@@ -568,7 +569,7 @@ GEN022020 Algún tiempo después, llegaron noticias a Abraham de que también Me
 GEN022021 Us, el primogénito, Buz su hermano, Camuel, que fue padre de los sirios, 
 GEN022022 Cased, Azau, Feldas, Jedlaf 
 GEN022023 y Batuel, que fue el padre de Rebeca. Estos fueron los ocho hijos que Melcá dio a Najor, el hermano de Abraham. 
-GEN022024 Najor tenía una concubina, llamada Roma, que también dio a luz a Tebaj, Gajam, Tajas y Maaca. La de Abraham y Sara 
+GEN022024 Najor tenía una concubina, llamada Roma, que también dio a luz a Tebaj, Gajam, Tajas y Maaca.
 GEN023001 Sara murió a la edad de ciento veintisiete años 
 GEN023002 en la ciudad de Kiriat-Arbe -o sea, Hebrón-, en el país de Canaán. Abraham hizo duelo por ella y la lloró. 
 GEN023003 Al concluir las ceremonias del funeral, Abraham dijo a los hititas: 
@@ -588,7 +589,7 @@ GEN023016 Abraham estuvo de acuerdo y pesó para Efrón, en presencia del pueblo
 GEN023017 Fue así como la finca de Efrón, que está en Macpelá, frente a Mambré, con la cueva que hay en ella y todos los árboles, tanto los que tiene el campo como los que hay en su alrededor, 
 GEN023018 pasaron a ser propiedad de Abraham, a la vista de todo el pueblo de los hititas, y de cuantos se encontraban en la entrada de la ciudad. 
 GEN023019 Después Abraham sepultó a Sara, su mujer, en la cueva que está en el campo de Macpelá, frente a Mambré, en Canaán. 
-GEN023020 De este modo el campo, con la cueva que en él se encuentra, fueron vendidos a Abraham por los hititas, para que sirviera como lugar de sepultura. Eliezer una esposa para Isaac 
+GEN023020 De este modo el campo, con la cueva que en él se encuentra, fueron vendidos a Abraham por los hititas, para que sirviera como lugar de sepultura.
 GEN024001 Abraham era ya de edad muy avanzada, y Yavé le había favorecido en todo. 
 GEN024002 Abraham dijo a su servidor más antiguo, que era su mayordomo: “Pon tu mano bajo mi muslo, 
 GEN024003 y júrame por Yavé, Dios del cielo y de la tierra, que no tomarás para mi hijo una mujer de entre las hijas de los cananeos, en medio de los cuales vivimos, 
@@ -655,7 +656,7 @@ GEN024063 Isaac salió al atardecer a dar un paseo por el campo. Levantó la vis
 GEN024064 También Rebeca levantó sus ojos y al ver a Isaac se bajó del camello, 
 GEN024065 y preguntó al mayordomo: “¿Quién es aquel hombre que viene por el campo a nuestro encuentro?” Le respondió: “Es mi patrón.” Ella entonces se cubrió el rostro con el velo. 
 GEN024066 El mayordomo contó a Isaac, todo lo que había hecho. 
-GEN024067 Isaac llevó a Rebeca a la tienda que había sido de su madre Sara. La hizo suya y fue su esposa. La amó y así se consoló por la muerte de su madre. Abraham sus descendientes 
+GEN024067 Isaac llevó a Rebeca a la tienda que había sido de su madre Sara. La hizo suya y fue su esposa. La amó y así se consoló por la muerte de su madre.
 GEN025001 Abraham tomó por esposa a otra mujer llamada Queturá, 
 GEN025002 de la que tuvo los siguientes hijos: Zamram, Jecsán, Madián, Jesboc y Suraj. 
 GEN025003 Jecsán fue padre de Saba y Dedán. Los hijos de Dedán fueron los asuritas, los latusíes y los leumíes. 
@@ -664,7 +665,7 @@ GEN025005 Abraham dio todo cuanto poseía a Isaac.
 GEN025006 A los hijos de las concubinas que tenía Abraham, en cambio, les hizo regalos, y estando él vivo todavía, los envió lejos de Isaac, en dirección al Este, a la región oriental. 
 GEN025007 Abraham vivió ciento setenta y cinco años, 
 GEN025008 y murió luego de una feliz ancianidad, cargado de años, y fue a reunirse con sus antepasados. 
-GEN025009 Sus dos hijos, Isaac e Ismael, lo se pultaron en la cueva de Macpelá, que está en el campo de Efrón, hijo de Seor el hitita. 
+GEN025009 Sus dos hijos, Isaac e Ismael, lo sepultaron en la cueva de Macpelá, que está en el campo de Efrón, hijo de Seor el hitita. 
 GEN025010 Esta era la finca enfrente de Mambré, que Abraham había comprado a los hititas. Allí fueron sepultados Abraham y su esposa Sara. 
 GEN025011 Después de la muerte de Abraham, Dios bendijo a su hijo Isaac, que se fue a vivir cerca del pozo de Lajay- Roi. 
 GEN025012 Estos son los descendientes de Ismael, hijo de Abraham y de Agar la egipcia, esclava de Sara. 
@@ -675,7 +676,7 @@ GEN025016 Estos son los hijos de Ismael y éstos son los nombres según sus pueb
 GEN025017 Ismael vivió ciento treinta y siete años. Luego murió y fue a juntarse con sus antepasados. 
 GEN025018 Sus descendientes permanecieron en la región que se extiende desde Havilá hasta Sur, frente a Egipto, en dirección a Asur. Se estableció enfrente de todos sus hermanos. 
 GEN025019 Esta es la historia de Isaac, hijo de Abraham. 
-GEN025020 Abraham fue padre de Isaac. Cuando Isaac tenía cuarenta años, tomó por esposa a Rebeca, hija de Betuel, el arameo de Paddán Aram, y hermana de Labán el arameo. Nacimiento Esaú y Jacob 
+GEN025020 Abraham fue padre de Isaac. Cuando Isaac tenía cuarenta años, tomó por esposa a Rebeca, hija de Betuel, el arameo de Paddán Aram, y hermana de Labán el arameo.
 GEN025021 Isaac suplicó a Yavé en favor de su esposa, pues era estéril. Yavé escuchó su oración y Rebeca, su esposa, quedó encinta. 
 GEN025022 Pero como los hijos chocasen entre sí en su seno, ella se dijo: "Si es así, ¿para qué seguir viviendo?" Y fue a consultar a Yavé. 
 GEN025023 Yavé le dijo: “Dos naciones hay en tu seno. Son dos pueblos que se separarán al salir de tus entrañas. Uno será más fuerte que el otro, y el mayor servirá al menor.” 
@@ -724,7 +725,7 @@ GEN026031 Se levantaron muy temprano y se hicieron juramento unos a otros. Luego
 GEN026032 Ese mismo día llegaron unos servidores de Isaac a comunicarle que habían abierto un pozo y que habían encontrado agua. 
 GEN026033 El lo llamó Sebá, y de aquí viene que la ciudad se llame Bersebá hasta el día de hoy. 
 GEN026034 Cuando Esaú tenía cuarenta años, tomó por esposa a Judit, hija de Berí el heteo, y a Basemat, hija de Elón, heteo también, 
-GEN026035 que amargaron la vida a Isaac y a Rebeca. Jacob la bendición con engaño 
+GEN026035 que amargaron la vida a Isaac y a Rebeca. 
 GEN027001 Siendo Isaac ya anciano, sus ojos se habían debilitado tanto que casi no veía nada. Llamó a su hijo mayor Esaú y le dijo: “Hijo mío”. Le contestó: “Aquí estoy". Prosiguió Isaac: 
 GEN027002 “Mira que ya estoy viejo e ignoro el día de mi muerte. 
 GEN027003 Así, pues, toma tus armas, tu arco y la caja de las flechas, sal al campo y caza alguna pieza para mí. 
@@ -764,7 +765,7 @@ GEN027036 Esaú declaró: “¿Es por eso que se llama Jacob, pues me ha suplant
 GEN027037 Respondió Isaac: “Lo he hecho tu señor y señor de todos tus hermanos. Lo he abastecido de trigo y vino. Después de esto, ¿qué quieres que haga por ti, hijo mío?” 
 GEN027038 Esaú insistió: “¿Acaso tienes una sola bendición? Padre, bendíceme a mí también.” Y Esaú se puso a llorar. 
 GEN027039 Entonces Isaac le respondió: “Mira, lejos de las tierras fértiles y del rocío del cielo. 
-GEN027040 De tu espada vivirás y a tu hermano servirás; pero conquistes tu libertad, quitarás yugo de tu cuello.” Jacob a casa de Labán 
+GEN027040 De tu espada vivirás y a tu hermano servirás; pero conquistes tu libertad, quitarás yugo de tu cuello.” 
 GEN027041 Esaú odió más aún a Jacob, a causa de la bendición que le había dado su padre, y pensó en su interior: “Se acercan los días de luto por mi padre, y entonces mataré a mi hermano Jacob.” 
 GEN027042 Pero Rebeca se enteró de las intenciones de Esaú, su hijo mayor, y mandó a llamar a Jacob, su hijo menor, y le dijo: “Tu hermano Esaú está tramando en su interior matarte. 
 GEN027043 Por lo tanto, hijo mío, hazme caso y huye a Jarán, a la casa de mi hermano Labán. 
@@ -779,7 +780,7 @@ GEN028005 Isaac despidió a Jacob, que se dirigió a Padán- Aram, a la casa de 
 GEN028006 Esaú vio que su padre había bendecido a Jacob y lo enviaba a Padán-Aram para que allí se buscara una mujer. Escuchó también que, después de haberlo bendecido, le había ordenado: “No te cases con ninguna mujer cananea”, 
 GEN028007 y que Jacob, obedeciendo a su padre y a su madre, se había ido a Padán-Aram. 
 GEN028008 Comprendió, pues, que las mujeres cananeas desagradaban enormemente a su padre Isaac. 
-GEN028009 Entonces, se dirigió a Ismael y tomó otra esposa, además de las que ya tenía, a Majalat, hija de Ismael, hijo de Abraham, y hermana de Nebayot. Sueño Jacob 
+GEN028009 Entonces, se dirigió a Ismael y tomó otra esposa, además de las que ya tenía, a Majalat, hija de Ismael, hijo de Abraham, y hermana de Nebayot.
 GEN028010 Jacob dejó Bersebá y se dirigió hacia Jarán. 
 GEN028011 Al llegar a un cierto lugar, el sol se había ya puesto y se dispuso a pasar allí la noche. Colocó una piedra por almohada y se acostó a dormir. 
 GEN028012 Mientras dormía, tuvo un sueño y vio una escalera que estaba apoyada en la tierra, y que tocaba el cielo con la otra punta, y por ella subían y bajaban ángeles de Dios. 
@@ -792,7 +793,7 @@ GEN028018 Se levantó Jacob muy temprano, tomó la piedra que había usado de ca
 GEN028019 Jacob llamó a ese lugar Betel, aunque antes era llamado Luz. 
 GEN028020 Entonces Jacob hizo una promesa: “Si Yavé me acompaña y me protege durante este viaje que estoy haciendo, si me da pan para comer y ropa para vestirme, 
 GEN028021 y si logro volver sano y salvo a la casa de mi padre, Yavé será mi Dios. 
-GEN028022 Esta piedra que he erigido como un pilar, será Casa de Dios y, de todo lo que me des, yo te devolveré la décima parte.” Jacob casa de Labán 
+GEN028022 Esta piedra que he erigido como un pilar, será Casa de Dios y, de todo lo que me des, yo te devolveré la décima parte.”
 GEN029001 Jacob continuó su viaje y llegó a la tierra de oriente. 
 GEN029002 Vio allí un pozo, y cerca de él descansaban tres rebaños de ovejas, pues era en este pozo donde tomaban agua los rebaños. Una gran piedra cubría la boca del pozo. 
 GEN029003 Cuando se reunían todos los rebaños, los pastores removían la piedra, sacaban agua para abrevar los rebaños y volvían a colocar la piedra sobre la boca del pozo. 
@@ -806,7 +807,7 @@ GEN029010 Apenas Jacob vio a Raquel, se acercó al pozo, corrió la piedra que l
 GEN029011 Luego Jacob besó a Raquel y empezó a llorar. 
 GEN029012 Jacob manifestó a Raquel que era sobrino de su padre, el hijo de Rebeca, y ella fue corriendo a decírselo a su padre. 
 GEN029013 Apenas Labán oyó la noticia sobre Jacob, que era el hijo de su hermana, corrió a su encuentro, lo abrazó, lo besó, y lo llevó a su casa. 
-GEN029014 Jacob contó a Labán todo lo ocurrido, y Labán le dijo: “En verdad tú eres carne y hueso míos.” Y Jacob se quedó allí con él durante un mes. Doble de Jacob 
+GEN029014 Jacob contó a Labán todo lo ocurrido, y Labán le dijo: “En verdad tú eres carne y hueso míos.” Y Jacob se quedó allí con él durante un mes.
 GEN029015 Dijo Labán a Jacob: “Aunque seas mi sobrino, ¿acaso vas a trabajar para mí de balde? Dime cuál va a ser tu salario.” 
 GEN029016 Labán tenía dos hijas: la mayor se llamaba Lía, y la menor Raquel. 
 GEN029017 Lía no tenía brillo en los ojos, mientras Raquel tenía una hermosa figura y era muy linda. 
@@ -822,7 +823,7 @@ GEN029026 ¿Por qué me has engañado?” Labán le respondió: “No se acostum
 GEN029027 Apenas se termine la semana de bodas, te daré también a mi hija menor, pero tendrás que prestar servicios en mi casa por otros siete años más.” 
 GEN029028 Jacob lo aceptó, y al terminar la semana de bodas con Lía, Labán le entregó a su hija Raquel como esposa. 
 GEN029029 Labán le dio a Raquel a su esclava Bilá como sierva. 
-GEN029030 Jacob se unió también a Raquel, y amó a Raquel más que a Lía. Y continuó trabajando para su tío Labán durante otros siete años. Hijos Jacob 
+GEN029030 Jacob se unió también a Raquel, y amó a Raquel más que a Lía. Y continuó trabajando para su tío Labán durante otros siete años.
 GEN029031 Al ver Yavé que Lía no era querida, le concedió tener hijos, mientras que Raquel era estéril. 
 GEN029032 Lía dio a luz al primer hijo, al que llamó Rubén, porque decía: “En verdad Yavé ha visto mi aflicción. Seguramente ahora mi esposo me amará.” 
 GEN029033 De nuevo quedó embarazada, y dio a luz a otro hijo, y dijo: “Yavé ha visto que yo era despreciada y me ha dado todavía otro hijo.” Por eso le puso por nombre Simeón. 
@@ -851,7 +852,7 @@ GEN030020 y dijo: “Me ha hecho Dios un maravilloso regalo. Ahora mi marido me 
 GEN030021 Tiempo después dio a luz a una hija, y le puso el nombre de Dina. 
 GEN030022 Entonces Dios se acordó de Raquel, oyó sus ruegos y le concedió ser fecunda. 
 GEN030023 Concibió y dio a luz un hijo, y exclamó: “Dios me ha quitado de encima la vergüenza.” 
-GEN030024 Y le puso por nombre José, diciendo: “¡Ojalá Yavé me dé otro hijo!” Otras 
+GEN030024 Y le puso por nombre José, diciendo: “¡Ojalá Yavé me dé otro hijo!”
 GEN030025 Después de que Raquel hubo dado a luz a José, Jacob dijo a Labán: “Permíteme marchar y regresar a mi tierra. 
 GEN030026 Dame mis esposas y mis hijos, por quienes te he servido, y déjame partir con ellos, pues bien sabes con qué fidelidad te he servido.” 
 GEN030027 Labán le contestó: “Sé que me aprecias..., y me he dado cuenta de que Yavé me ha bendecido gracias a ti.” 
@@ -870,7 +871,7 @@ GEN030039 parían después crías rayadas, moteadas y manchadas.
 GEN030040 Entonces Jacob separaba los corderos. Hacía que las ovejas del rebaño de Labán miraran todo lo que tenía rayas o era negro. Así se formó rebaños que le pertenecían y que apartaba de los de Labán. 
 GEN030041 Cuando entraban en celo las ovejas más robustas, Jacob volvía a poner en las pilas y abrevaderos las varas, a la vista de las ovejas, para que se aparearan ante ellas. 
 GEN030042 Pero si las ovejas eran débiles, no ponía las varas. Así las débiles quedaban para Labán, y las robustas eran para Jacob. 
-GEN030043 De este modo Jacob llegó a ser un hombre muy rico, con grandes rebaños, muchos servidores y sirvientas, camellos y burros. Jacob a su país 
+GEN030043 De este modo Jacob llegó a ser un hombre muy rico, con grandes rebaños, muchos servidores y sirvientas, camellos y burros.
 GEN031001 Se enteró Jacob de que los hijos de Labán andaban diciendo: “Jacob se ha apoderado de todo lo de nuestro padre, y es a costa de los bienes de nuestro padre que ha amontonado toda esa fortuna.” 
 GEN031002 Y se dio cuenta Jacob de que Labán no lo miraba en la misma forma que antes. 
 GEN031003 Entonces Yavé dijo a Jacob: "Regresa a tu patria, a la tierra de tus padres. Yo estaré contigo.” 
@@ -928,7 +929,7 @@ GEN031054 Entonces Jacob juró por el Dios Terrible de su padre Isaac. Jacob ofr
 GEN031055 A la mañana siguiente, Labán se levantó muy temprano, besó a sus hijos y a sus hijas, los bendijo y se volvió a su casa. 
 GEN032001 Jacob, por su parte, siguió su camino y le salieron al encuentro Angeles de Dios. 
 GEN032002 Al verlos, Jacob exclamó: “Este es un campamento de Dios”, y por eso llamó a aquel lugar Majanaim. 
-GEN032003 Y continuando su marcha, mandó delante de sí mensajeros a su hermano Esaú, que vivía en Seír, en los campos de Edom. Jacob con Dios 
+GEN032003 Y continuando su marcha, mandó delante de sí mensajeros a su hermano Esaú, que vivía en Seír, en los campos de Edom.
 GEN032004 Jacob envió a Esaú este mensaje: “He vivido con Labán, y con él he permanecido hasta hoy. 
 GEN032005 He adquirido bueyes, burros, rebaños, mozos y sirvientas. He enviado a avisarte, para que me recibas amablemente.” 
 GEN032006 Volvieron los mensajeros y dijeron a Jacob: “Hemos estado con tu hermano Esaú, y él mismo viene ahora a tu encuentro con cuatrocientos hombres.” 
@@ -957,7 +958,7 @@ GEN032028 El hombre le dijo: “En adelante ya no te llamarás Jacob, sino Israe
 GEN032029 Entonces Jacob le preguntó: “Y cuál es tu nombre” Él le contestó: “¿Para qué lo quieres saber?” Y allí mismo lo bendijo. 
 GEN032030 Jacob llamó a aquel lugar Panuel, pues se dijo: "He visto a Dios cara a cara y aún estoy vivo". 
 GEN032031 El sol ya había salido cuando cojeando a causa de su cadera, abandonó aquel lugar. 
-GEN032032 Por esta razón los hijos de Israel no comen, hasta el día de hoy, el nervio ciático del muslo, porque el ángel había tocado a Jacob en la ingle y su nervio ciático del muslo había quedado herido. Encuentro Esaú y Jacob 
+GEN032032 Por esta razón los hijos de Israel no comen, hasta el día de hoy, el nervio ciático del muslo, porque el ángel había tocado a Jacob en la ingle y su nervio ciático del muslo había quedado herido.
 GEN033001 Jacob levantó la mirada y vio a Esaú que se acercaba con los cuatrocientos hombres. Distribuyó entonces a los hijos entre Lía, Raquel y las dos siervas. 
 GEN033002 Situó a las dos siervas con sus hijos por delante. Detrás colocó a Lía con sus hijos, después a Raquel y a José por último. 
 GEN033003 Él mismo se puso delante de todos, y se inclinó siete veces hasta el suelo, antes de llegar a encontrarse con su hermano. 
@@ -1008,7 +1009,7 @@ GEN034027 Los demás hijos de Jacob pasaron rematando a los heridos y saquearon 
 GEN034028 Se apoderaron de sus vacas, ovejas, burros y de todo lo que había en la ciudad o en el campo. 
 GEN034029 Se llevaron como botín todas las riquezas, a las mujeres y a los niños, y saquearon todo lo que encontraron dentro de las casas. 
 GEN034030 Dijo entonces Jacob a Simeón y a Leví: “Me han dejado en mala situación y con serios problemas. Por culpa de ustedes me odiará la gente de este país, los cananeos y los fereceos. Yo sólo tengo unos pocos hombres, y si ellos se unen y me atacan, sin duda me vencerán y me exterminarán junto con toda mi gente.” 
-GEN034031 Pero ellos respondieron: “¿Acaso podíamos dejar pasar el que hayan tratado a nuestra hermana como una prostituta?” Jacob Betel 
+GEN034031 Pero ellos respondieron: “¿Acaso podíamos dejar pasar el que hayan tratado a nuestra hermana como una prostituta?”
 GEN035001 Dios dijo a Jacob: "Ponte en camino, sube a Betel y establécete allí. Y construye allí un altar al Dios que se te apareció cuando ibas huyendo de tu hermano Esaú.” 
 GEN035002 Llamó Jacob a toda su familia y a los que estaban con él y les ordenó: “Arrojen lejos a los dioses extranjeros que tienen con ustedes. Purifíquense con agua y cámbiense la ropa. 
 GEN035003 Después nos pondremos en camino y subiremos a Betel. Allí edificaré un altar al Dios que me auxilió el día de mi angustia y que me acompañó durante todo mi viaje.” 
@@ -1037,7 +1038,7 @@ GEN035025 Dan y Neftalí le nacieron de Bilá, la sirvienta de Raquel.
 GEN035026 Gad y Aser, le nacieron de Zelfa, la sirvienta de Lía. Estos fueron los hijos de Jacob, que nacieron en Padán-Aram. 
 GEN035027 Volvió Jacob a la casa de su padre Isaac, a Mambré, junto a Quiryat-Arbe, (es decir, Hebrón), donde Abraham e Isaac habían vivido como forasteros. 
 GEN035028 Isaac murió muy anciano, a los ciento ochenta años, 
-GEN035029 y fue a reunirse con sus antepasados. Sus hijos Esaú y Jacob lo sepultaron. Esaú, de los edomitas 
+GEN035029 y fue a reunirse con sus antepasados. Sus hijos Esaú y Jacob lo sepultaron.
 GEN036001 Estos fueron los descendientes de Esaú, o sea Edom. 
 GEN036002 Esaú tomó por esposas a mujeres cananeas: 2a Ada, hija de Helón el hetita, a Olibama, hija de Aná, hijo de Sebeón el jorita, 
 GEN036003 y a Basemat, hija de Ismael y hermana de Nebayot. 
@@ -1072,7 +1073,7 @@ GEN036031 Estos son los reyes que reinaron en Edom, antes de que reinase rey alg
 GEN036032 En Edom reinó Bela, hijo de Beor, y el nombre de su ciudad era Dinaba. 
 GEN036033 A la muerte de Bela reinó en su lugar Jobab, hijo de Zara, natural de Bosra. 
 GEN036034 Jobab murió y reinó en su lugar Husam, de la tierra de los temanitas. 
-GEN036035 Murió Husam y reinó en su lugar Hadad, hijo de Badad, el cual derrotó a Madián en los campos de Moab. El nombre de su ciudad era Avit. 
+GEN036035 Murió Husam y reinó en su lugar Hadad, hijo de Badad, el cual derrotó a Madián en los campos de Moab.
 GEN036036 Murió Hadad y le sucedió en el reino Semla de Masreca. 
 GEN036037 Murió Semla y reinó en su lugar Saúl, de Rejobot del río. 
 GEN036038 A la muerte de Saúl subió al trono Balanán, hijo de Acober. 
@@ -1091,7 +1092,7 @@ GEN037007 Estábamos nosotros atando gavillas en el campo, y he aquí que mi gav
 GEN037008 Sus hermanos le dijeron: “¿Eso quiere decir acaso que tú vas a reinar sobre nosotros, o que vas a dominarnos?” Y aumentó más aún el odio hacia él, a causa de sus sueños y de sus palabras. 
 GEN037009 Volvió a tener José otro sueño, y también se lo contó a los hermanos: “Me pareció ver que el sol, la luna y once estrellas se inclinaban ante mí.” 
 GEN037010 Al contarlo a su padre y a sus hermanos, su padre lo reprendió y le dijo: “¿Qué sueño es ese que has tenido? ¿Acaso yo, tu madre y tus hermanos tendremos que inclinarnos hasta el suelo ante ti?” 
-GEN037011 Sus hermanos se pusieron envidiosos con él, mientras que su padre reflexionaba sobre sus palabras. Vendido sus hermanos 
+GEN037011 Sus hermanos se pusieron envidiosos con él, mientras que su padre reflexionaba sobre sus palabras. 
 GEN037012 Sus hermanos habían ido a apacentar el rebaño de su padre a Siquem, 
 GEN037013 e Israel dijo a José: “Tus hermanos están cuidando las ovejas en los pastos de Siquem. Ven, que quiero mandarte donde ellos.” Contestó José: “Aquí estoy”. 
 GEN037014 Le ordenó Israel: “Anda, vete a ver si tus hermanos están bien y si todo va en orden para los rebaños. Después regresa y tráeme noticias.” Lo envió desde el valle de Hebrón, y José fue a Siquem. 
@@ -1116,7 +1117,7 @@ GEN037032 Enviaron la túnica de manga larga, y la hicieron llegar a su padre co
 GEN037033 Jacob la reconoció y exclamó: “¡Es la túnica de mi hijo. Algún animal feroz lo ha devorado! ¡José ha sido despedazado!” 
 GEN037034 Jacob desgarró sus vestidos, se vistió con un sayal, e hizo duelo por su hijo durante muchos días. 
 GEN037035 Todos sus hijos e hijas acudieron a consolarlo, pero él no quería ser consolado, y decía: “Quiero descender en duelo al lugar de las Sombras, donde mi hijo.” Y su padre lo lloró. 
-GEN037036 Entretanto los madianitas llegaron a Egipto y vendieron a José a Putifar, un funcionario del palacio de Faraón, que era un capitán de la guardia. Historia Judá y Tamar 
+GEN037036 Entretanto los madianitas llegaron a Egipto y vendieron a José a Putifar, un funcionario del palacio de Faraón, que era un capitán de la guardia.
 GEN038001 Ocurrió por aquel tiempo que Judá se separó de sus hermanos y se dirigió a casa de un adulamita, llamado Jirá. 
 GEN038002 Allí conoció a la hija de un cananeo llamado Sué, y la tomó por esposa. 
 GEN038003 Esta quedó encinta y dio a luz un hijo al que llamó Er. 
@@ -1169,7 +1170,7 @@ GEN039019 Cuando el patrón oyó lo que le decía su esposa: “Esto ha hecho co
 GEN039020 Tomó preso a José y lo metió en la cárcel real, donde estaban encarcelados los prisioneros del rey. Y mientras José estaba encarcelado, 
 GEN039021 Yavé lo asistió y lo trató con misericordia. Hizo que se ganase el favor del jefe de la prisión, 
 GEN039022 quien le confió el cuidado de todos los presos, y lo hizo responsable de todo lo que se hacía en la prisión. 
-GEN039023 El jefe de la cárcel no controlaba absolutamente nada de cuanto administraba José, pues Yavé estaba con él y hacía prosperar todo lo que emprendía. José sus sueños 
+GEN039023 El jefe de la cárcel no controlaba absolutamente nada de cuanto administraba José, pues Yavé estaba con él y hacía prosperar todo lo que emprendía.
 GEN040001 Sucedió tiempo después, que dos funcionarios del rey de Egipto, el jefe de los que preparaban las bebidas, y el panadero principal, cometieron algunas faltas contra su señor el Faraón. 
 GEN040002 Faraón se enojó contra estos dos funcionarios, 
 GEN040003 los entregó en custodia al capitán de la guardia y los hizo encerrar en la misma cárcel en que estaba José. 
@@ -1192,7 +1193,7 @@ GEN040019 Pasados tres días, Faraón te cortará la cabeza, te colgará de un �
 GEN040020 Pasaron tres días, y Faraón dio un banquete a todos sus servidores, festejando su cumpleaños. Y se recordó del jefe de los que preparaban las bebidas y del jefe de los panaderos. 
 GEN040021 Repuso en su puesto al jefe de los que preparaban las bebidas, quien de nuevo volvió a poner la copa en las manos de Faraón, 
 GEN040022 mientras al jefe de los panaderos lo hizo colgar, tal como José lo había interpretado. 
-GEN040023 El jefe de los que preparaban las bebidas no se volvió a recordar de José: sencillamente lo había olvidado. Los de Faraón 
+GEN040023 El jefe de los que preparaban las bebidas no se volvió a recordar de José: sencillamente lo había olvidado.
 GEN041001 Dos años después Faraón tuvo este sueño: Estaba él de pie a orillas del Nilo, 
 GEN041002 cuando vio que salían del río siete vacas hermosas y muy gordas, que se pusieron a pastar entre los juncos. 
 GEN041003 Detrás de ellas salieron otras siete vacas feas y flacas que se pusieron al lado de las primeras a la orilla del río. 
@@ -1228,7 +1229,7 @@ GEN041032 Si el sueño se ha repetido por dos veces, esto quiere decir que Dios 
 GEN041033 Ahora, pues, aconsejo a Faraón que busque un hombre inteligente y sabio y que lo ponga al frente de Egipto. 
 GEN041034 Que Faraón nombre, además, intendentes en todo el país, para que recauden como impuesto la quinta parte de la cosecha durante estos siete años de abundancia. 
 GEN041035 Deberán juntar víveres durante estos siete años de abundancia, y almacenar grano en las ciudades, donde los guardarán bajo la autoridad de Faraón. 
-GEN041036 De esta manera tendrán reservas para los siete años de escasez y hambre que vendrán sobre el país de Egipto, y el pueblo no morirá así de hambre.” José, ministro 
+GEN041036 De esta manera tendrán reservas para los siete años de escasez y hambre que vendrán sobre el país de Egipto, y el pueblo no morirá así de hambre.” 
 GEN041037 La propuesta de José agradó a Faraón y a sus ministros, 
 GEN041038 y dijo Faraón a sus oficiales: “¿Se podrá encontrar otro hombre como éste, que tenga el espíritu de Dios?” 
 GEN041039 Y dijo a José: “Puesto que Dios te ha hecho saber todas estas cosas, claro está que no hay hombre más inteligente ni sabio que tú. 
@@ -1249,7 +1250,7 @@ GEN041053 Pasaron los siete años de abundancia en todo el país de Egipto,
 GEN041054 y llegaron los siete años de sequía y escasez, tal como José había anunciado. Hubo hambre en todos los países, pero en todos los rincones de Egipto no faltaba pan. 
 GEN041055 Cuando también en Egipto empezó a sentirse el hambre, el pueblo acudió a Faraón pidiendo pan, y Faraón dijo a los egipcios: “Vayan a José y hagan lo que él les diga.” 
 GEN041056 El hambre, pues, se extendió por todo el mundo, y entonces José abrió los almacenes y vendió trigo a los egipcios, pues una gran hambruna asolaba toda la tierra. 
-GEN041057 Como el hambre se hacía sentir más y más en todo el mundo, de todas partes venían a Egipto a comprar trigo a José. Los de Jacob bajan a Egipto 
+GEN041057 Como el hambre se hacía sentir más y más en todo el mundo, de todas partes venían a Egipto a comprar trigo a José.
 GEN042001 Se enteró Jacob de que había trigo en Egipto, y dijo a sus hijos: “¿Por qué se están ahí mirando el uno al otro? 
 GEN042002 He oído que se vende trigo en Egipto. Vayan también ustedes allá y compren trigo, a fin de que no muramos.” 
 GEN042003 Los hermanos de José -diez de ellos-, bajaron entonces a Egipto para comprar trigo, 
@@ -1287,7 +1288,7 @@ GEN042034 Pero vuelvan trayendo a su hermano menor, y así me demostrarán que u
 GEN042035 Ahora bien, cuando vaciaron sus bolsas, cada uno de ellos encontró su dinero en la boca de la misma. Al ver esto, ellos temblaron de miedo, y también su padre. 
 GEN042036 Jacob, su padre, les dijo: “Ustedes me van a dejar sin hijos. José se fue, y ya falta Simeón, ¡y ahora quieren llevarse también a Benjamín! ¡No podré soportar todo esto!” 
 GEN042037 Entonces Rubén dijo a su padre: “Puedes quitar la vida a mis dos hijos si no te lo devuelvo. Confíamelo a mí, y verás que te lo traeré de vuelta.” 
-GEN042038 Pero Jacob respondió: “Mi hijo no bajará a Egipto con ustedes. Su hermano ha muerto y sólo me queda él. Si le ocurriera cualquier desgracia en el viaje, ustedes serían los culpables de que me muriera de pena en mi ancianidad.” Segundo a Egipto 
+GEN042038 Pero Jacob respondió: “Mi hijo no bajará a Egipto con ustedes. Su hermano ha muerto y sólo me queda él. Si le ocurriera cualquier desgracia en el viaje, ustedes serían los culpables de que me muriera de pena en mi ancianidad.”
 GEN043001 La escasez de alimentos y el hambre seguían arreciando en la tierra, 
 GEN043002 y cuando se acabó el trigo que habían traído de Egipto, su padre les dijo: “Bajen de nuevo a comprar un poco de comida.” 
 GEN043003 Pero Judá le contestó: “Aquel hombre nos advirtió con claridad que no nos admitiría en su presencia si no iba con nosotros nuestro hermano. 
@@ -1321,7 +1322,7 @@ GEN043030 Después José tuvo que salir rápidamente, pues se sintió muy conmov
 GEN043031 Después se lavó la cara y volvió. Tratando de dominarse, ordenó: “Sirvan la comida.” 
 GEN043032 Se la sirvieron por separado: a él aparte, también aparte a ellos, y a los egipcios que comían con él también les sirvieron aparte. Es que los egipcios no pueden comer con los hebreos, pues de hacerlo, los Egipcios se sentirían deshonrados. 
 GEN043033 Los hermanos se sentaron frente a José, por orden de edad, del mayor al más pequeño, y se miraban el uno al otro llenos de asombro. 
-GEN043034 José fue separando de su mismo plato que tenía delante en la mesa porciones para ellos, y la porción de Benjamín era cinco veces más grande que la de los demás. Bebieron con él y se sintieron muy alegres. La de José en la bolsa de Benjamín 
+GEN043034 José fue separando de su mismo plato que tenía delante en la mesa porciones para ellos, y la porción de Benjamín era cinco veces más grande que la de los demás. Bebieron con él y se sintieron muy alegres.
 GEN044001 José ordenó a su mayordomo: “Llena de alimentos las bolsas de estos hombres, todo lo que puedan llevar, y coloca el dinero de cada uno en la boca de su bolsa. 
 GEN044002 En la bolsa del menor pondrás, junto con el dinero de su trigo, también mi copa, mi copa de plata.” El mayordomo hizo tal como José le había ordenado. 
 GEN044003 A la mañana siguiente, al amanecer, los hombres partieron de regreso con sus burros. 
@@ -1355,7 +1356,7 @@ GEN044030 Yo no puedo volver ahora donde mi padre sin el muchacho, pues lo ama e
 GEN044031 Y por culpa nuestra nuestro padre bajará a la tumba en su ancianidad, cargado de amargura. 
 GEN044032 Yo, tu servidor, me hice responsable por el joven ante mi padre y le dije: “Si no te lo traigo de vuelta, yo cargaré con la culpa ante ti por toda la vida.” 
 GEN044033 Te ruego, pues, que me permitas quedar aquí como tu esclavo a mí, en lugar del muchacho, y que le permitas a él volver con sus hermanos. 
-GEN044034 Yo no puedo regresar a la casa de mi padre sin el joven. No quiero ver la aflicción que vendrá sobre mi padre.” José da a conocer 
+GEN044034 Yo no puedo regresar a la casa de mi padre sin el joven. No quiero ver la aflicción que vendrá sobre mi padre.”
 GEN045001 A este punto José no pudo ya contener más sus sentimientos delante de toda aquella gente que estaba con él, y gritó: “¡Salgan todos de mi presencia!” Sus hermanos estaban solos cuando José se dio a conocer a ellos. 
 GEN045002 Y rompió a llorar tan fuerte que los egipcios lo oyeron, y la noticia llegó hasta la casa de Faraón. 
 GEN045003 se acercó a sus hermanos y les dijo: “Yo soy José. ¿Vive aún mi padre?” Ellos no podían responderle, pues quedaron aterrados de verlo. 
@@ -1383,7 +1384,7 @@ GEN045024 Después despidió a sus hermanos, que se fueron, pero antes les recom
 GEN045025 Dejaron Egipto y regresaron a Canaán, donde estaba Jacob, su padre. 
 GEN045026 Le dieron la buena noticia: "José vive todavía y es el que manda en todo el país de Egipto". Pero Jacob no se conmovió, pues no les creyó. 
 GEN045027 Ellos repitieron todas las palabras que José les había dicho y le mostraron las carretas que José le había mandado para que se trasladara. Entonces revivió el espíritu de Jacob, 
-GEN045028 y exclamó: “¡Me basta con saber que mi hijo José vive todavía! Iré donde él y lo veré antes de morir.” Jacob a Egipto 
+GEN045028 y exclamó: “¡Me basta con saber que mi hijo José vive todavía! Iré donde él y lo veré antes de morir.”
 GEN046001 Israel partió con todo lo que tenía, y al llegar a Bersebá, ofreció allí sacrificios al Dios de su padre Isaac. 
 GEN046002 Dios habló a Israel durante la noche en una visión y le dijo: “Jacob, Jacob”. 
 GEN046003 “Aquí estoy”, contestó él. Y Dios prosiguió: “Yo soy Dios, el Dios de tu padre. No temas bajar a Egipto, porque allí te convertiré en una gran nación. 
@@ -1410,7 +1411,7 @@ GEN046023 Los hijos de Dan: Husim.
 GEN046024 Los hijos de Neftalí: Jasiel, Guni, Jese y Sallem. 
 GEN046025 Estos son los hijos de Bilá, la que Labán dio a su hija Raquel. Bilá fue la madre y Jacob el padre. En total siete personas. 
 GEN046026 El total de personas que entraron con Jacob en Egipto, todos descendientes suyos, era de sesenta y seis personas, sin contar las mujeres de sus hijos. 
-GEN046027 Los hijos de José que nacieron en Egipto, fueron dos. Así el total de personas de la familia de Jacob que entraron en Egipto fue de setenta. Encuentro Jacob con José 
+GEN046027 Los hijos de José que nacieron en Egipto, fueron dos. Así el total de personas de la familia de Jacob que entraron en Egipto fue de setenta.
 GEN046028 Jacob mandó por delante a Judá para avisar a José de que estaba para llegar a la tierra de Gosén. 
 GEN046029 José enganchó su carro y fue al encuentro de su padre a Gosén. Al verlo lo abrazó y lloró largamente sobre su cuello. 
 GEN046030 Y dijo Israel a José: “Ahora ya puedo morir, pues he visto tu rostro y sé vives todavía.” 
@@ -1423,7 +1424,7 @@ GEN047002 Después tomó a cinco de sus hermanos y los presentó a Faraón.
 GEN047003 Faraón les preguntó: “¿A qué se dedican?” Ellos contestaron: “Nosotros, tus servidores, somos pastores de ovejas, como lo fueron antes nuestros padres. 
 GEN047004 Hemos venido a asentarnos en este país porque ya no quedan pastos para nuestros rebaños y animales en el país de Canaán, debido a la gran sequía que asola a esa tierra. Por eso te rogamos que permitas vivir a tus siervos en la tierra de Gosén.” 
 GEN047005 Entonces Faraón dijo a José: “Tu padre y tus hermanos han venido a ti. 
-GEN047006 Todo el país de Egipto está a tu disposición. Que tu padre y tus hermanos se establezcan en la mejor parte del país. Que vivan en el país de Gosén, y si te consta que entre ellos hay hombres capacitados, ponlos como pastores principales de mis ganados.” Los de Jacob en Egipto 
+GEN047006 Todo el país de Egipto está a tu disposición. Que tu padre y tus hermanos se establezcan en la mejor parte del país. Que vivan en el país de Gosén, y si te consta que entre ellos hay hombres capacitados, ponlos como pastores principales de mis ganados.”
 GEN047007 José trajo después a su padre Jacob y se lo presentó a Faraón. 
 GEN047008 Faraón le preguntó: “¿Cuántos años tienes?” 
 GEN047009 Jacob respondió: “Los años de mi peregrinación son ciento treinta. Pocos y malos han sido los días de mi vida, y no han llegado a igualar los años de vida de mis padres durante su peregrinación.” 
@@ -1448,7 +1449,7 @@ GEN047027 Israel residió en Egipto, en el país de Gosén. Tomaron aquella tier
 GEN047028 Jacob vivió en Egipto diecisiete años de los ciento cuarenta y siete que duró su vida. 
 GEN047029 Y cuando los días de su vida se acercaron a su fin, llamó a su hijo José y le dijo: “Si me aprecias de veras, te ruego que coloques tu mano bajo mi muslo, y me prometas como prueba de tu amor y fidelidad, ¡que no me sepultarás en Egipto! 
 GEN047030 Cuando me haya ido a descansar con mis padres, sácame de Egipto y entiérrame en la tumba de ellos.” José respondió: “Lo haré tal como lo pides.” Insistió Jacob: “¡Júramelo!” Y José se lo juró. 
-GEN047031 Entonces Israel se inclinó sobre la cabecera de su cama. Jacob a los hijos de José 
+GEN047031 Entonces Israel se inclinó sobre la cabecera de su cama.
 GEN048001 Algún tiempo después, avisaron a José de que su padre estaba enfermo. Tomó entonces con él a sus dos hijos, Manasés y Efraím, 
 GEN048002 e hizo anunciar a su padre: “Mira, tu hijo José ha venido a verte.” Israel, haciendo un esfuerzo, se sentó en la cama. 
 GEN048003 Dijo Jacob a José: “El Dios Todopoderoso se me apareció en Luz, en el país de Canaán, y me bendijo diciendo: 
@@ -1470,7 +1471,7 @@ GEN048018 y le dijo: “Así no, padre mío, porque éste es mi hijo mayor. Colo
 GEN048019 Israel se negó y le dijo: “Lo sé, hijo mío, lo sé. Él también será grande y se convertirá en nación. Sin embargo, su hermano menor será más grande que él y su descendencia formará un grupo de naciones.” 
 GEN048020 Y los bendijo aquel día con estas palabras: “A ustedes los tomarán como ejemplo cuando quieran bendecir a alguno en Israel, y dirán: "Que Dios te haga semejante a Efraím y Manasés".” Así a Efraím por delante de Manasés. 
 GEN048021 Después dijo Israel a José: “Yo estoy para morir, pero Dios estará con ustedes y los hará volver a la tierra de sus padres. 
-GEN048022 A ti te dejo más que a tus hermanos, pues te entrego Siquem, una porción de tierra que conquisté al amorreo con mi espada y con mi arco.” Las de Jacob 
+GEN048022 A ti te dejo más que a tus hermanos, pues te entrego Siquem, una porción de tierra que conquisté al amorreo con mi espada y con mi arco.”
 GEN049001 Jacob llamó a sus hijos y les dijo: “Reúnanse, les voy a anunciar lo sucederá en el futuro. 
 GEN049002 Júntense hijos de Jacob, oigan escuchen a Israel, su padre. 
 GEN049003 Rubén, tú eres mi primogénito, mi y el primer fruto de mi virilidad, rebosante orgullo y lleno ímpetu. 
@@ -1497,7 +1498,7 @@ GEN049023 Los arqueros le han atacado con fiereza, le lanzado flechas y provocad
 GEN049024 pero su arco se ha mantenido firme y brazos no han aflojado su vigor, por mano del Fuerte de Jacob, por Pastor y la Roca de Israel, 
 GEN049025 por el Dios de tu padre, el que te ayuda, por Dios Todopoderoso que te bendice con de los cielos desde arriba, con del abismo que está abajo, con de los pechos y los senos, con de tu campo y de tu establo. 
 GEN049026 Las bendiciones de tu padre han sobrepasado a bendiciones de los montes seculares, y las riquezas de las lomas eternas. Todas descansen sobre la cabeza de José sobre frente del que ha sido elegido príncipe en de sus hermanos. 
-GEN049027 Benjamín es un lobo sanguinario. Por mañana devora su presa y la tarde reparte los despojos. Muerte funerales de Jacob 
+GEN049027 Benjamín es un lobo sanguinario. Por mañana devora su presa y la tarde reparte los despojos.
 GEN049028 Todas estas son las tribus de Israel, doce en total, y esto fue lo que les dijo su padre cuando los bendijo, dando a cada uno una bendición especial y apropiada. 
 GEN049029 Después les dio estas instrucciones: “Yo voy a reunirme con mi pueblo. Entiérrenme junto a mis padres, en la cueva que hay en el campo de Efrón el hitita, 
 GEN049030 o sea, en la cueva que está en el campo de Macpelá, frente a Mambré, en el país de Canaán, el campo que Abraham compró a Efrón el hitita como lugar de su propiedad para sepulturas. 
@@ -1517,7 +1518,7 @@ GEN050010 Al llegar a Gorén-Atad, que está al otro lado del Jordán, celebraro
 GEN050011 Los cananeos que vivían allí, al ver los funerales que se hacían en Gorén-Atad, se dijeron: “Estos son unos funerales muy solemnes de los egipcios.” Por eso aquel lugar se llamó Abel-Misraim (o sea, duelo de los egipcios) y está al otro lado del Jordán. 
 GEN050012 Los hijos de Jacob cumplieron todo lo que su padre les había ordenado. 
 GEN050013 Lo trasladaron al país de Canaán y lo sepultaron en la cueva que hay en el campo de Macpelá, frente a Mambré, campo que Abraham había comprado a Efrón el hitita, como su propiedad para sepulturas. 
-GEN050014 Después de sepultar a su padre, José volvió a Egipto con sus hermanos y con todos los que lo habían ido con él al funeral. Ultimos de José 
+GEN050014 Después de sepultar a su padre, José volvió a Egipto con sus hermanos y con todos los que lo habían ido con él al funeral.
 GEN050015 Dado que había muerto su padre, los hermanos de José se dijeron: “Tal vez José nos guarde aún rencor, y ahora nos devolverá todo el mal que le hicimos”. 
 GEN050016 Por eso le mandaron a decir: “Tu padre antes de morir nos encargó que te dijéramos: 
 GEN050017 "Por favor, perdona el crimen de tus hermanos y el pecado que cometieron. Ciertamente te hicieron daño, por eso perdona ahora el crimen de los servidores del Dios de tu padre."“ José, al oír este mensaje, se puso a llorar. 
