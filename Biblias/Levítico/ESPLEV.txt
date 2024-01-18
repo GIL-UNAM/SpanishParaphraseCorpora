@@ -1,0 +1,859 @@
+LEV001001 El Señor llamó a Moisés y le habló desde la tienda del encuentro: 
+LEV001002 Di a los israelitas: Cuando ofrezcan una oblación al Señor, su oferta será de ganado mayor o menor. 
+LEV001003 Si es un holocausto de ganado mayor, ofrecerá un macho sin defecto, lo llevará a la entrada de la tienda del encuentro para que lo acepte el Señor. 
+LEV001004 Pondrá la mano sobre la cabeza de la victima, y el Señor se lo aceptará como expiación. 
+LEV001005 Degollará la res en presencia del Señor. Los sacerdotes aaronitas ofrecerán la sangre y con ella rociarán por todos los lados el altar, que está a la entrada de la tienda del encuentro. 
+LEV001006 Desollará la víctima y la descuartizará. 
+LEV001007 Los sacerdotes aaronitas harán fuego sobre el altar y apilarán leña sobre el fuego. 
+LEV001008 Colocarán después cabeza, trozos y grosura sobre la leña, sobre el fuego, sobre el altar. 
+LEV001009 Lavarán vísceras y patas. El sacerdote lo dejará quemarse completamente sobre el altar. Es un holocausto: oblación de aroma que aplaca al Señor. 
+LEV001010 Si es un holocausto de ganado menor, corderos o cabritos, ofrecerá un macho sin defecto. 
+LEV001011 Lo degollará en el lado norte del altar, en presencia del Señor. Los sacerdotes aaronitas rociarán con la sangre todos los lados del altar. 
+LEV001012 El sacerdote lo descuartizará y colocará la cabeza y la grosura sobre la leña, sobre el fuego, sobre el altar. 
+LEV001013 Lavarán vísceras y patas. El sacerdote lo dejará quemarse completamente sobre el altar. Es un holocausto: oblación de aroma que aplaca al Señor. 
+LEV001014 Si es un holocausto de aves, su oferta será de tórtolas o pichones. 
+LEV001015 El sacerdote la llevará al altar y le retorcerá el cuello. La dejará quemarse sobre el altar, después de exprimir la sangre a un lado del mismo. 
+LEV001016 Le quitará buche y plumas, y los arrojará al este del altar, en el lugar de las cenizas. 
+LEV001017 Le rasgará las alas sin arrancarlas, y el sacerdote dejará quemarse la víctima sobre el altar, sobre la leña, sobre el fuego. Es un holocausto: oblación de aroma que aplaca al Señor. 
+LEV002001 Cuando alguien haga una ofrenda al Señor, su oferta será de flor de harina, sobre la que echará aceite y pondrá incienso. 
+LEV002002 La llevará a los sacerdotes aaronitas, y uno de éstos, tomando un pellizco de flor de harina, con aceite y todo el incienso, lo dejará quemarse sobre el altar, en obsequio. Es una oblación de aroma que aplaca al Señor. 
+LEV002003 El resto de la ofrenda será para Aarón y sus descendientes. Es la porción sagrada de la oblación al Señor. 
+LEV002004 Si haces una ofrenda cocida al horno, ésta será de roscas ázimas de flor de harina amasada con aceite y de obleas ázimas untadas de aceite. 
+LEV002005 Si tu ofrenda es a la sartén, ésta será de flor de harina ázima amasada con aceite. 
+LEV002006 La migarás y le echarás encima aceite. Es una ofrenda. 
+LEV002007 Si tu ofrenda es a la parrilla, ésta será de flor de harina con aceite. 
+LEV002008 La ofrenda así preparada la presentarás al Señor llevándola al sacerdote, quien la pondrá junto al altar. 
+LEV002009 Tomará de la ofrenda el obsequio y lo dejará quemarse sobre el altar. Es una oblación de aroma que aplaca al Señor. 
+LEV002010 El resto de la ofrenda será para Aarón y sus descendientes. Es la porción sagrada de la oblación al Señor. 
+LEV002011 Toda ofrenda que hagan al Señor será sin fermentar, porque nada que contenga levadura o miel debe ser quemado en oblación al Señor; 
+LEV002012 Lo pueden ofrecer al Señor como primicias, pero no lo pondrán sobre el altar como aroma que aplaca. 
+LEV002013 Sazonarán todas sus ofrendas. No dejen de echar a sus ofrendas la sal de la alianza de tu Dios. Todas las ofrecerás sazonadas. 
+LEV002014 Si haces una ofrenda de primicias al Señor, ésta será de granos de espigas tiernas, tostados y machacados. 
+LEV002015 Le echarás aceite y le pondrás incienso. Es una ofrenda. 
+LEV002016 El sacerdote quemará, en obsequio, algo de la masa y el aceite con todo el incienso. Es una oblación al Señor. 
+LEV003001 Cuando tu ofrenda sea un sacrificio de comunión. Si es de ganado mayor, ofrecerá al Señor un macho o una hembra sin defecto. 
+LEV003002 Pondrá la mano sobre la cabeza de la víctima y la degollará a la entrada de la tienda del encuentro. Los sacerdotes aaronitas rociarán con la sangre el altar por todos los lados. 
+LEV003003 Del sacrificio de comunión ofrecerá en oblación al Señor la grasa que envuelve las vísceras y su gordura, 
+LEV003004 los dos riñones con su grasa, la grasa junto a los lomos y el lóbulo del hígado junto a los riñones: todo esto lo apartará. 
+LEV003005 Los aaronitas la dejarán quemarse sobre el altar, sobre el holocausto, sobre la leña, sobre el fuego. Es una oblación de aroma que aplaca al Señor. 
+LEV003006 Si es de ganado menor, ofrecerá al Señor un macho o una hembra sin defecto. 
+LEV003007 Si es un cordero lo que ofrece, lo llevará a la presencia del Señor. 
+LEV003008 Pondrá la mano sobre la cabeza de la víctima y lo degollará ante la tienda del encuentro. Los sacerdotes aaronitas rociarán con la sangre el altar por todos los lados. 
+LEV003009 Del sacrificio de comunión ofrecerán en oblación al Señor la grasa, la cota cortada entera desde la rabadilla, la grasa que envuelve las vísceras y sus gorduras, 
+LEV003010 los dos riñones con su grasa, la grasa junto a los lomos y el lóbulo del hígado junto a los riñones: todo esto lo apartará. 
+LEV003011 El sacerdote la dejará quemarse sobre, el altar. Es comida en oblación al Señor. 
+LEV003012 Si es un cabrito lo que ofrece, lo llevará a la presencia del Señor. 
+LEV003013 Pondrá' la mano sobre la cabeza de la víctima y la degollará ante la tienda del encuentro. Los sacerdotes aaronitas rociarán con la sangre el altar por todos los lados. 
+LEV003014 De él ofrecerán en oblación al Señor la grasa que envuelve las vísceras y sus gorduras, 
+LEV003015 los dos riñones con su grasa, la grasa junto a los lomos y el lóbulo del hígado junto a los riñones: todo esto lo apartará. 
+LEV003016 El sacerdote lo dejará quemarse sobre el altar. Es comida en oblación de aroma que aplaca al Señor. Toda grasa le pertenece al Señor. 
+LEV003017 Es ley perpetua para todas sus generaciones y en todos sus poblados: no comerán grasa ni sangre. 
+LEV004001 El Señor habló a Moisés: 
+LEV004002 Di a los israelitas: Cuando alguien por inadvertencia traspase alguna de las prohibiciones del Señor, haciendo algo prohibido. 
+LEV004003 Si es el sacerdote ungido el que cometió la transgresión, comprometiendo así al pueblo, ofrecerá al Señor por la transgresión cometida un novillo sin defecto en sacrificio expiatorio. 
+LEV004004 Lo llevará a la entrada de la tienda del encuentro, a la presencia del Señor. Pondrá la mano sobre la cabeza de la víctima y la degollará en presencia del Señor. 
+LEV004005 El sacerdote ungido tomará sangre del novillo y la llevará a la tienda del encuentro. 
+LEV004006 Mojando un dedo en la sangre y en presencia del Señor, salpicará con ella siete veces en dirección a la cortina del santuario. 
+LEV004007 Luego, en presencia del Señor, el sacerdote untará con la sangre los salientes del altar del sahumerio, situado en la tienda del encuentro, y derramará toda la sangre del novillo al pie del altar de los holocaustos, situado a la entrada de la tienda del encuentro. 
+LEV004008 Quitará al novillo de expiación toda la grasa: la grasa que envuelve las vísceras y sus gorduras,' 
+LEV004009 los dos riñones con sus grasas; la grasa junto a los lomos y el lóbulo del hígado junto a los riñones: todo esto lo apartará, como se hace con el toro del sacrificio de comunión. 
+LEV004010 El sacerdote la dejará quemarse sobre el altar de los holocaustos. 
+LEV004011 El resto del novillo, la piel, la carne con cabeza y patas, vísceras e intestinos, 
+LEV004012 lo sacará: fuera del campamento a un lugar puro, al vertedero de cenizas, y lo quemará sobre la leña. En el vertedero de cenizas debe ser quemado. 
+LEV004013 Si es toda la comunidad israelita la que por inadvertencia traspasó alguna prohibición del Señor, incurriendo así en reato, y el asunto queda oculto a la, comunidad, 
+LEV004014 ésta, al darse cuenta de la transgresión cometida, ofrecerá en sacrificio expiatorio un novillo, que llevará hasta la tienda del encuentro. 
+LEV004015 Las autoridades pondrán las manos sobre la cabeza de la víctima y la degollarán en presencia del Señor. 
+LEV004016 Luego el sacerdote ungido llevará sangre del novillo a la tienda del encuentro. 
+LEV004017 Mojando un dedo en la sangre y en presencia del Señor, salpicará con ella siete vetes en dirección a la cortina del santuario. 
+LEV004018 Untará con la sangre los salientes del altar del sahumerio, situado ante el Señor en la tienda del encuentro, y derramará toda la sangre al pie del altar de los holocaustos, situado a la entrada de la tienda del encuentro. 
+LEV004019 Le quitará toda la grasa y la dejará quemarse sobre el altar. 
+LEV004020 Hará con este novillo como se hace con el del sacrificio expiatorio. El sacerdote expía así por ellos y quedan perdonados. 
+LEV004021 Sacará el novillo fuera del campamento y lo quemará como el primero. Es el sacrificio expiatorio de la asamblea. 
+LEV004022 Si es un jefe el que por inadvertencia traspasó alguna prohibición del Señor, su Dios, incurriendo así en reato, 
+LEV004023 al darse cuenta de la transgresión cometida, ofrecerá en oblación un macho sin defecto. 
+LEV004024 Pondrá la mano sobre la cabeza de la víctima, y en presencia del Señor la degollará en el matadero de los holocaustos. Es un sacrificio expiatorio. 
+LEV004025 El sacerdote, mojando un dedo en la sangre de la víctima, untará los salientes del altar de l os holocaustos y derramará la sangre al pie del mismo altar. 
+LEV004026 Toda la grasa la dejará quemarse sobre el altar, como se hace en los sacrificios de comunión. El sacerdote expía así por Su transgresión, y queda perdonado. 
+LEV004027 Si es un propietario el que por inadvertencia traspasó alguna prohibición del Señor, incurriendo así en reato, 
+LEV004028 al darse cuenta de la transgresión cometida, ofrecerá una cabra sin defecto en sacrificio expiatorio.' 
+LEV004029 Pondrá la mano sobre la cabeza de la víctima y la degollará en el matadero de los holocaustos. 
+LEV004030 El sacerdote, mojando un dedo en la sangre, untará los salientes del altar de los holocaustos y derramará la sangre al pie del mismo altar. 
+LEV004031 Le quitará toda la grasa, como en los sacrificios de comunión, y la dejará quemarse sobre el altar como aroma que aplaca al Señor. El sacerdote expía así por él, y queda perdonado. 
+LEV004032 Si ofrece un cordero en sacrificio expiatorio, será hembra y sin defecto. 
+LEV004033 Pondrá la mano sobre la cabeza de la víctima y la degollará en sacrificio expiatorio en el matadero de los holocaustos. 
+LEV004034 El sacerdote, mojando un dedo en la sangre de la víctima, untará los salientes del altar de los holocaustos y derramará toda la sangre al pie del mismo altar. 
+LEV004035 Le quitará toda la grasa, como al cordero de los sacrificios de comunión, y la dejará quemarse sobre el altar en oblación al Señor. El sacerdote expía así por su transgresión, y queda perdonado. 
+LEV005001 Si alguno, citado bajo pena a comparecer como testigo -de vista o de oído-, no declara, peca e incurre en culpa. 
+LEV005002 Si alguno, sin darse cuenta, toca algo impuro, sea el cadáver de una fiera impura, sea el cadáver de ganado impuro, o el de un bicho impuro, también, cuando se entere, incurre en reato. 
+LEV005003 Si alguno, sin darse cuenta, toca a una persona impura, manchada con cualquier clase de impureza, cuando se entere, incurre en reato. 
+LEV005004 Si alguno, sin darse cuenta, jura a la ligera, para mal o para bien -como hace la gente-, cuando se entere, incurre en reato. 
+LEV005005 El que por cualquiera de estas causas incurra en reato en cualquier caso, confesará su transgresión. 
+LEV005006 Y por la transgresión cometida, en penitencia ofrecerá al Señor una hembra de ganado menor, oveja o cabra, por su transgresión. El sacerdote expiará por su transgresión, y se le perdonará. 
+LEV005007 Si no tiene lo suficiente para un cabrito, por la transgresión cometida ofrecerá al Señor dos tórtolas o dos pichones: uno en sacrificio expiatorio y el otro en holocausto. 
+LEV005008 El sacerdote los llevará y ofrecerá en primer lugar la victima del sacrificio expiatorio; le retorcerá el cuello por la cerviz, sin arrancarlo. 
+LEV005009 Con la sangre de la víctima salpicará la pared del altar y exprimirá el resto de la sangre al pie del mismo altar. Es un sacrificio expiatorio. 
+LEV005010 El segundo lo ofrecerá en holocausto, según el ritual. El sacerdote expiará por la transgresión cometida, y se le perdonará. 
+LEV005011 Y si no tiene lo suficiente para dos tórtolas o dos pichones, por la transgresión cometida hará una oferta de veintidós decilitros de flor de harina. No le pondrá aceite ni incienso, porque es un sacrificio expiatorio. 
+LEV005012 La llevará al sacerdote, y éste, tomando un pellizco en obsequio, lo dejará quemarse sobre el altar, en oblación al Señor. Es un sacrificio expiatorio. 
+LEV005013 El sacerdote expiará por la transgresión cometida en cualquiera de estos casos, y se le perdonará. El resto, como en las ofrendas de flor de harina, le corresponde al sacerdote. 
+LEV005014 El Señor dijo a Moisés: 
+LEV005015 El que cometa un delito, defraudando por inadvertencia algo consagrado al Señor, ofrecerá al Señor en penitencia un carnero sin defecto, tasado en veinte gramos de plata (pesos del templo). 
+LEV005016 Y lo que defraudó lo restituirá con recargo de un veinte por ciento. Lo entregará al sacerdote, y éste expiará por él, con el carnero del sacrificio penitencial, y se le perdonará. 
+LEV005017 Si alguno, sin darse cuenta, traspasa alguna prohibición del Señor, incurre en reato y carga con la culpa. 
+LEV005018 Llevará al sacerdote un carnero sin defecto, tasado en proporción al reato. El sacerdote expiará por el pecado cometido por inadvertencia, y se le perdonará. 
+LEV005019 Es un sacrificio penitencial por el reato en que incurrió contra el Señor. 
+LEV006001 El Señor dijo a Moisés: 
+LEV006002 El que cometa un delito contra el Señor defraudando a su paisano, en concepto de depósito, préstamo, robo, explotación 
+LEV006003 o apropiación con perjurio de algo perdido -uno de los pecados que suelen cometer los nombres-, 
+LEV006004 pecando e incurriendo en reato, deberá restituir lo robado, lo ganado con explotación, el depósito o apropiación de algo perdido o cualquier caso de perjurio. 
+LEV006005 Lo restituirá por completo con recargo de un veinte por ciento, y se lo devolverá al propietario al ofrecer el sacrificio penitencial. 
+LEV006006 Como víctima, ofrecerá al Señor un carnero sin defecto, tasado en proporción al delito. 
+LEV006007 Lo llevará al sacerdote, y éste hará la expiación ante el Señor, y se le perdonará cualquier delito que haya cometido. 
+LEV006008 El Señor habló a Moisés: 
+LEV006009 Da estas órdenes a Aarón y a sus hijos: El holocausto arderá sobre el fuego del altar de la noche a la mañana, y el fuego del altar arderá sin apagarse. 
+LEV006010 El sacerdote, vistiéndose un calzón de lino y una camisa también de lino, retirará del altar la ceniza que deja el fuego al consumir el holocausto y la dejará junto al altar. 
+LEV006011 Después se cambiará de vestiduras para sacar la ceniza fuera del campamento a un lugar puro. 
+LEV006012 El fuego del altar ha de arder sin apagarse, el sacerdote lo alimentará con leña cada mañana, sobre ella colocará el holocausto y dejará que se queme la grasa de los sacrificios de comunión. 
+LEV006013 Es un fuego que ha de arder sobre el altar continuamente, sin apagarse. Los aaronitas llevarán la ofrenda al altar, a la presencia del Señor. 
+LEV006014 Y tomando de la ofrenda un pellizco de flor de harina con aceite y todo el incienso, lo dejará quemarse sobre el altar en obsequio de aroma que aplaca al Señor. 
+LEV006015 El resto de la ofrenda lo comerán Aarón y sus hijos. 
+LEV006016 Se comerá sin levadura, en lugar sagrado, en el atrio de la tienda del encuentro lo comerán. 
+LEV006017 No se cocerá fermentado, es la parte que les doy de mi oblación. Es porción sagrada, como en el sacrificio expiatorio y en el sacrificio penitencial. 
+LEV006018 La pueden comer todos los varones aaronitas: es su porción de las oblaciones del Señor, en las sucesivas generaciones. El que las toque queda consagrado. 
+LEV006019 El Señor dijo a Moisés: 
+LEV006020 Ofrenda de Aarón y sus hijos el día de su unción: Veintidós decilitros de flor de harina como ofrenda permanente, la mitad por la mañana y la mitad al atardecer. 
+LEV006021 La presentarás desleída en aceite en la sartén; y la ofrenda, hecha migajas, la ofrecerás en aroma que aplaca al Señor. 
+LEV006022 Igualmente hará el sacerdote ungido que le suceda. Es ley perpetua: toda ella se quemará en honor al Señor. 
+LEV006023 Toda ofrenda sacerdotal se ha de quemar por completo, no se comerá. 
+LEV006024 El Señor habló a Moisés: 
+LEV006025 Di a Aarón y a sus hijos: La víctima expiatoria se degollará en el matadero de los holocaustos, en presencia del Señor. Es porción sagrada. 
+LEV006026 El sacerdote que la ofrece la comerá. Se comerá en lugar sagrado, en el atrio de la tienda del encuentro. 
+LEV006027 El que toque su carne queda consagrado. El vestido sobre el que salpique sangre de aspersión se lavará en lugar sagrado. 
+LEV006028 La vasija en que se cueza, si es de loza, se romperá; si es de bronce, se fregara y enjuagará. 
+LEV006029 Pueden comer la carne todos los sacerdotes varones. Es porción sagrada. 
+LEV006030 Pero ninguna víctima expiatoria cuya sangre haya de llevarse a la tienda del encuentro, para expiar en el santuario, se comerá; debe ser quemada. 
+LEV007001 Es porción sagrada. 
+LEV007002 Degollarán la víctima del sacrificio penitencial en el matadero de los holocaustos. El sacerdote con la sangre rociará el altar por todos los lados. 
+LEV007003 Ofrecerá toda la grasa: la cola y la grasa que envuelve las vísceras, 
+LEV007004 los dos riñones con su grasa, la grasa junto a los lomos y el lóbulo del hígado junto a los riñones: todo esto lo apartará. 
+LEV007005 Lo dejará quemarse sobre el altar en oblación al Señor. Es un sacrificio penitencial. 
+LEV007006 Lo puede comer todo sacerdote varón; se comerá en lugar sagrado. Es porción sagrada. 
+LEV007007 El mismo rito vale para el sacrificio expiatorio y para el penitencial. Le pertenece al sacerdote que hace la expiación. 
+LEV007008 Al sacerdote que ofrece el holocausto le pertenece la piel de la víctima. 
+LEV007009 Toda ofrenda cocida al horno, asada a la parrilla o frita en la sartén le pertenece al sacerdote celebrante. 
+LEV007010 Toda ofrenda amasada con aceite o seca les pertenece a los aaronitas, a todos por igual. 
+LEV007011 Rito de los sacrificios de comunión que se ofrecen al Señor. 
+LEV007012 Si es un sacrificio de acción de gracias, además de la víctima, se ofrecerán roscas ázimas amasadas con aceite, obleas ázimas untadas de aceite y flor de harina desleída en aceite. 
+LEV007013 Con la víctima del sacrificio de comunión, de acción de gracias, hará una ofrenda de roscas de pan fermentado. 
+LEV007014 De todas estas oblaciones se ofrecerá una en tributo al Señor. Ella le pertenece al sacerdote que roció con la sangre de la víctima. 
+LEV007015 La carne de este sacrificio de acción de gracias se comerá el día en que se ofrece, sin dejar nada para el día siguiente. 
+LEV007016 Si es un sacrificio voluntario o en cumplimiento de un voto, se comerá la víctima el día en que se ofrece; el resto se comerá al día siguiente. 
+LEV007017 Pero si sobra carne de la víctima, se quemará al tercer día. 
+LEV007018 Y si alguno come carne de este sacrificio de comunión al tercer día, el sacrificio es inválido, no se le tendrá en cuenta. Lo que sobra se considera desecho, y el que lo coma cargará con la culpa. 
+LEV007019 La carne que toque algo impuro no se puede comer. Hay que quemarla. Sólo el que está puro podrá comer la carne. 
+LEV007020 El que estando impuro coma de la carne del sacrificio de comunión ofrecida al Señor, será excluido de su pueblo. 
+LEV007021 El que habiendo tocado algo impuro -de hombre, de ganado impuro o de cualquier bicho impuro- coma carne del sacrificio de comunión ofrecido al Señor, será excluido de su pueblo. 
+LEV007022 El Señor habló a Moisés: 
+LEV007023 Di a los israelitas: No comerás grasa de toro, cordero ni cabrito. 
+LEV007024 La grasa de un animal muerto o desgarrado por una bestia servirá para cualquier uso, pero no la pueden comer. 
+LEV007025 Porque todo el que coma grasa del ganado ofrecido en oblación al Señor será excluido de su pueblo. 
+LEV007026 No comerán sangre ni de ganado ni de ave, en ninguno de sus poblados. 
+LEV007027 Todo el que coma sangre será excluido de su pueblo. 
+LEV007028 El Señor habló a Moisés: 
+LEV007029 Di a los israelitas: El que ofrezca un sacrificio de comunión al Señor, llevará de dicho sacrificio su ofrenda al Señor. 
+LEV007030 El mismo llevará en oblación al Señor la grasa y el pecho, y lo agitará ritualmente en presencia del Señor. 
+LEV007031 El sacerdote dejará quemarse la grasa sobre el altar. El pecho le pertenece a Aarón y a sus hijos. 
+LEV007032 De sus sacrificios de comunión darán ustedes como tributo al sacerdote la pierna derecha. 
+LEV007033 Al aaronita que ofrezca la sangre y la grasa del sacrificio de comunión le pertenece como arancel la pierna derecha. 
+LEV007034 Porque el pecho agitado ritualmente y la pierna del tributo lo recibo de los israelitas, de sus sacrificios de comunión, y se lo doy a Aarón, sacerdote, y a sus hijos. Es porción perpetua cedida por los israelitas. 
+LEV007035 Esta es la ración de Aarón y de sus hijos, de las oblaciones al Señor, desde que son promovidos al sacerdocio del Señor. 
+LEV007036 El Señor ha mandado a los israelitas que se lo den a los sacerdotes, desde el día en que éstos son ungidos. Es ley perpetua para todas sus generaciones. 
+LEV007037 Este es el rito del holocausto, de la ofrenda, del sacrificio expiatorio, del penitencial, del sacrificio de consagración y del de comunión. 
+LEV007038 El Señor se lo mandó a Moisés en el monte Sinaí, cuando mandó a los israelitas en el desierto Sinaí que le ofrecieran oblaciones. 
+LEV008001 El Señor habló a Moisés: 
+LEV008002 Toma a Aarón y a sus hijos, los vestidos, el aceite de la unción, el novillo del sacrificio expiatorio, los dos carneros y el canastillo de panes ázimos, 
+LEV008003 y convoca a toda la asamblea a la entrada de la tienda del encuentro. 
+LEV008004 Moisés cumplió el mandato del Señor, y se congregó la asamblea a la entrada de la tienda del encuentro. 
+LEV008005 Moisés dijo a la asamblea: Esto es lo que el Señor manda hacer. 
+LEV008006 Después hizo acercarse a Aarón y a sus hijos y los hizo bañarse. 
+LEV008007 Le vistió la túnica y le ciñó la banda, le puso el manto y encima le colocó el efod, sujetándolo con el cíngulo. 
+LEV008008 Le impuso el pectoral con los urim y tumim. 
+LEV008009 Le puso un turbante en la cabeza, y en el lado frontal del mismo le impuso la flor de oro, la diadema santa, como el Señor se lo había mandado. 
+LEV008010 Moisés, tomando después el aceite de la unción, ungió la morada y cuanto en ella había. Y los consagró. 
+LEV008011 Salpicó con el aceite siete veces sobre el altar y ungió el altar con todos sus utensilios, el barreño y su peana, para consagrarlos. 
+LEV008012 Luego derramó aceite sobre la cabeza dé Aarón, y lo ungió para consagrado. 
+LEV008013 Después Moisés hizo acercarse a los hijos de Aarón, les vistió la túnica, les ciñó la banda y les puso sobre la cabeza las birretas, como el Señor se lo había ordenado. 
+LEV008014 Hizo traer el novillo del sacrificio expiatorio. Aarón y sus hijos pusieron sus manos sobre la cabeza de la víctima. 
+LEV008015 Moisés la degolló y tomando sangre untó con el dedo los salientes del altar por todos los lados: así purificó el altar. Derramó la sangre al pie del altar, y así lo consagró para expiar en él. 
+LEV008016 Tomó toda la grasa que envuelve las vísceras, el lóbulo del hígado, los dos riñones con su grasa, y lo dejó quemarse sobre el altar. 
+LEV008017 El resto del novillo, la piel, carne e intestinos, lo quemó fuera del campamento, como el Señor se lo había ordenado. 
+LEV008018 Hizo traer el carnero del holocausto. Aarón y sus hijos pusieron sus manos sobre la cabeza de la víctima. 
+LEV008019 Moisés lo degolló y roció con la sangre el altar por todos los lados. 
+LEV008020 Descuartizó el carnero y dejó quemarse la cabeza, los trozos y la grosura. 
+LEV008021 Lavó vísceras y patas y dejó quemarse todo el carnero sobre el altar, como el Señor se lo había ordenado. Fue un holocausto; oblación de aroma que aplaca al Señor. 
+LEV008022 Hizo traer el segundo carnero, el de la consagración. Aarón y sus hijos pusieron sus manos sobre la cabeza de la víctima. 
+LEV008023 Moisés lo degolló, y tomando sangre, untó con ella el lóbulo de la oreja derecha de Aarón y los pulgares de su mano y pie derechos. 
+LEV008024 Hizo acercarse a los hijos de Aarón y untó con sangre los lóbulos de sus orejas derechas y los pulgares de sus manos y pies derechos, y roció con la sangre el altar por todos sus lados. 
+LEV008025 Tomó la grasa y la cola, toda la grasa que envuelve las vísceras, el lóbulo del hígado, los dos riñones con su grasa y la pierna derecha. 
+LEV008026 Del canastillo de los panes ázimos puesto en presencia del Señor tomó una rosca ázima, una rosca de pan amasada con aceite y una oblea, y las colocó sobre la grasa y la pierna derecha. 
+LEV008027 Puso todo ello en manos de Aarón y sus hijos, y éste lo agitó ritualmente en presencia del Señor. 
+LEV008028 Luego, Moisés lo recibió de sus manos y lo dejó quemarse sobre el altar del holocausto. Fue un sacrificio de consagración: oblación de aroma que aplaca al Señor. 
+LEV008029 Después tomó el pecho y lo agitó ritualmente en presencia del Señor. Era la ración del carnero de consagración que le pertenecía a Moisés, como se lo había ordenado el Señor. 
+LEV008030 Moisés tomó el aceite de la unción y sangre del altar y salpicó sobre Aarón y sus vestidos, sobre los hijos de Aarón y sus vestidos, y así los consagró. 
+LEV008031 Moisés dijo a Aarón y a sus hijos: Cuezan la carne a la entrada de la tienda del encuentro y allí la comerán con el pan que hay en el canastillo del sacrificio de consagración; así se me ordenó: 'Lo comerán Aarón y sus hijos'. 
+LEV008032 Las sobras de carne y pan las quemarán. 
+LEV008033 Durante siete días no saldrán por la puerta de la tienda del encuentro, hasta que concluya el tiempo de su consagración. Porque ha de durar siete días su consagración. 
+LEV008034 Lo que se ha hecho hoy ha mandado el Señor que se haga para obtener su expiación. 
+LEV008035 Permanecerán siete días y siete noches a la entrada de la tienda del encuentro y respetarán las prohibiciones del Señor. Así no morirán. Así se me ha ordenado. 
+LEV008036 Y Aarón y sus hijos cumplieron todo lo que el Señor había mandado por medio de Moisés. 
+LEV009001 El día octavo Moisés llamó a Aarón, a sus hijos y al senado de Israel. 
+LEV009002 Y dijo a Aarón: Toma un: novillo para el sacrificio expiatorio y un carnero para el holocausto, ambos sin defecto, y ofrécelos en presencia del Señor. 
+LEV009003 Y di a los israelitas: Tomen un macho cabrío para el sacrificio expiatorio, un novillo y un cordero añales y sin defecto, para el holocausto; 
+LEV009004 un toro y un carnero para el sacrificio de comunión (que sacrificarán en presencia del Señor), y una ofrenda con aceite, porque hoy el Señor se les mostrará. 
+LEV009005 Llevaron ante la tienda del encuentro lo que Moisés había mandado, y acercándose toda la comunidad, se colocó ante el Señor. 
+LEV009006 Moisés les dijo: Cumplirán cuanto el Señor ha ordenado, y se les mostrará su gloria. 
+LEV009007 Después dijo a Aarón: Acércate al altar a ofrecer tu sacrificio expiatorio y tu holocausto. Expía así por ti y por el pueblo, presenta luego la ofrenda del pueblo y expía por él, como el Señor ha ordenado. 
+LEV009008 Aarón se acercó al altar y degolló el novillo de su sacrificio expiatorio. 
+LEV009009 Los aaronitas le acercaron la sangre, y él, mojando un dedo en ella, untó los salientes del altar. Después derramó la sangre al pie del mismo altar. 
+LEV009010 Dejó quemarse sobre el altar la grasa, los riñones y el lóbulo del hígado de la victima, como el Señor se lo había ordenado a Moisés. 
+LEV009011 La carne y la piel las quemó fuera del campamento. 
+LEV009012 Después degolló la víctima del holocausto; los aaronitas le acercaron la sangre y él roció el altar por todos los lados. 
+LEV009013 Le acercaron la víctima descuartizada y la cabeza, y Aarón las dejó quemarse sobre el altar. 
+LEV009014 Lavó vísceras y patas y las dejó quemarse sobre el holocausto, sobre el altar. 
+LEV009015 Aarón tomó el macho cabrío, víctima expiatoria del pueblo, y lo degolló en sacrificio expiatorio, igual que el primer macho cabrío. 
+LEV009016 Ofreció el holocausto según el ritual. 
+LEV009017 Hizo la ofrenda. Y tomando un puñado de ella, lo dejó quemarse sobre el altar (además de la ofrenda que acompaña el holocausto matutino). 
+LEV009018 Degolló el toro y el carnero del sacrificio de comunión del pueblo, los aaronitas le acercaron la sangre y él roció el altar por todos los lados. 
+LEV009019 La grasa del toro y del carnero, la cola, la grasa que envuelve las vísceras, 
+LEV009020 los dos riñones con su grasa y el lóbulo del hígado los puso junto a la grasa del pecho y lo dejó quemarse sobre el altar. 
+LEV009021 El pecho y la pierna derecha los agitó ritualmente en presencia del Señor, como Moisés lo había ordenado. 
+LEV009022 Aarón, alzando las manos sobre el pueblo, lo bendijo, y después de haber ofrecido el sacrificio expiatorio, el holocausto y el sacrificio de comunión, bajó. 
+LEV009023 Aarón y Moisés entraron en la tienda del encuentro. Cuando salieron bendijeron al pueblo. Y la gloria del Señor se mostró a todo el pueblo. 
+LEV009024 De la presencia del Señor salió fuego que devoró el holocausto y la grasa. Al verlo, el pueblo aclamó y cayó rostro en tierra. 
+LEV010001 Nadab y Abihú, hijos de Aarón, tomando cada uno un incensario y poniendo en ellos brasas e incienso, presentaron al Señor un fuego que él no les había mandado. 
+LEV010002 De la presencia del Señor salió un fuego que los devoró, y murieron en presencia del Señor. 
+LEV010003 Moisés dijo a Aarón: A esto se refería el Señor cuando dijo: 'Mostraré mi santidad en mis ministros y mi gloria ante todo el pueblo'. Aarón no respondió. 
+LEV010004 Moisés llamó después a Misael y Elsafán, hijos de Uziel, tío de Aarón, y les dijo: Retiren a sus hermanos de la presencia del santuario y sáquenlos fuera del campamento. 
+LEV010005 Se acercaron y, con sus túnicas, los sacaron fuera del campamento, como Moisés había ordenado. 
+LEV010006 Moisés dijo a Aarón y a sus hijos Eleazar e Itamar. No se despeinen ni se vistan harapos, así no morirán ni se encenderá la ira del Señor contra la comunidad. Sus hermanos, los demás israelitas, se encargarán de llorar por el incendio que envió el Señor. 
+LEV010007 No salgan por la puerta de la tienda del encuentro, no sea que mueran, porque están ungidos con aceite del Señor. Ellos hicieron lo que Moisés había dicho. 
+LEV010008 El Señor dijo a Aarón: 
+LEV010009 Cuando tengan que entrar en la tienda del encuentro, tú o tus hijos, no beban vino ni licor, y no morirán. Es ley perpetua para sus generaciones. 
+LEV010010 Separen lo sacro de lo profano, lo puro de lo impuro. 
+LEV010011 Enseñen a los israelitas todos los preceptos que les comunicó el Señor por medio de Moisés. 
+LEV010012 Moisés dijo a Aarón y a los hijos que le quedaban, Eleazar e Itamar: Tomen la ofrenda, lo que sobra de la oferta al Señor, cómanlo sin levadura junto al altar, porque es porción sagrada. 
+LEV010013 La comerán en lugar sagrado: es tu porción y la de tus hijos de la ofrenda al Señor. Así se me ha ordenado. 
+LEV010014 El pecho agitado ritualmente y la pierna del tributo los comerán en lugar puro tú, tus hijos e hijas; es tu porción y la de tus hijos de los sacrificios de comunión de los israelitas. 
+LEV010015 La pierna del tributo y el pecho agitado ritualmente, que se ofrecen con la oferta de la grasa, agitándolos ritualmente ante el Señor, te pertenecen a ti y a tus hijos como porción perpetua. Así lo ha ordenado el Señor. 
+LEV010016 Moisés preguntó por el macho cabrío del sacrificio expiatorio, y ya estaba quemado. Se enfadó contra Eleazar e Itamar, únicos hijos vivientes de Aarón, y les dijo: 
+LEV010017 ¿Por qué no comieron la víctima expiatoria en lugar sagrado? Es porción sagrada, y el Señor se la ha dado, para que carguen con la culpa de la comunidad y expíen así por ellos ante el Señor. 
+LEV010018 Si no se llevó su sangre al interior del santuario, la debían haber comido en lugar sagrado, como se me ha ordenado. 
+LEV010019 Aarón replicó a Moisés: Si el día que han ofrecido ante el Señor sus sacrificios expiatorios y sus holocaustos me ha sucedido esto, ¿cómo le podía agradar al Señor que yo comiera hoy la víctima expiatoria? 
+LEV010020 Moisés quedó satisfecho con la respuesta. 
+LEV011001 El Señor habló a Moisés y a Aarón: 
+LEV011002 Digan a los israelitas: 
+LEV011003 De los animales terrestres pueden comer todos los rumiantes, bisulcos, de pezuña partida; 
+LEV011004 se exceptúan sólo los siguientes; el camello, que es rumiante, pero no tiene la pezuña partida: ténganlo por impuro; 
+LEV011005 el tejón, que es rumiante, pero no tiene la pezuña partida: ténganlo por impuro; 
+LEV011006 la liebre, que es rumiante, pero no tiene la pezuña partida: ténganla por impura; 
+LEV011007 el cerdo, que es bisulco y tiene la pezuña partida, pero no es rumiante: ténganlo por impuro. 
+LEV011008 No coman su carne ni toquen su cadáver: son impuros. 
+LEV011009 De los animales acuáticos, de mar o de río, pueden comer los que tienen escamas y aletas. 
+LEV011010 Y todo reptil o animal acuático, de mar o de río, que no tenga escamas y aletas, ténganlo por inmundo. 
+LEV011011 Son inmundos: no coman su carne, y tengan por inmundo su cadáver. 
+LEV011012 Todo animal acuático que no tiene escamas y aletas ténganlo por inmundo. 
+LEV011013 De las aves tengan por inmundas las siguientes (no son comestibles, pues son inmundas): el águila, el quebrantahuesos y el buitre negro; 
+LEV011014 el milano y el buitre en todas sus variedades; 
+LEV011015 el cuervo en todas sus variedades; 
+LEV011016 el avestruz, el chotacabras y la gaviota; el halcón en todas sus variedades; 
+LEV011017 el buho, el mergo y el mochuelo; 
+LEV011018 la corneja, el pelícano y el calamón; 
+LEV011019 la cigüeña y la garza en todas sus variedades; la abubilla y el murciélago, 
+LEV011020 Todo insecto que camine a cuatro patas ténganlo por inmundo. 
+LEV011021 De estos insectos de cuatro patas pueden comer únicamente los que tienen las patas traseras más largas que las delanteras, para saltar con ellas sobre el suelo. 
+LEV011022 Pueden comer los siguientes: la langosta en todas sus variedades, el cortapicos en todas sus variedades, el grillo en todas sus variedades, el saltamontes en todas sus variedades. 
+LEV011023 Los demás insectos de cuatro patas ténganlos por inmundos. 
+LEV011024 El que toque su cadáver, quedará impuro, 
+LEV011025 y el que transporte su cadáver lavará sus vestidos y quedará impuro hasta la tarde. 
+LEV011026 Todo animal bisulco que no sea rumiante ni de pezuña partida, ténganlo por impuro: el que lo toque, quedará impuro hasta la tarde. 
+LEV011027 De los animales cuadrúpedos tengan por impuros los plantígrados: el que toque su cadáver, quedará impuro hasta la tarde; 
+LEV011028 el que transporte su cadáver, lavará sus vestidos y quedará impuro hasta la tarde. Ténganlos por impuros. 
+LEV011029 De los reptiles tengan por impuros los siguientes: la comadreja, el ratón, el lagarto en todas sus variedades, 
+LEV011030 el geco, la salamandra, el camaleón, la lagartija y la corneja. 
+LEV011031 Estos son los reptiles que tendrán por impuros. El que los toque después de muertos quedará impuro hasta la tarde. 
+LEV011032 Todo objeto de madera, de paño, de cuero o de saco -todo utensilio- sobre el que caiga un bicho de éstos después de muerto quedará impuro: lo meterán en agua, y quedará impuro hasta la tarde. Después volverá a ser puro. 
+LEV011033 Todo recipiente de loza donde caiga un bicho de éstos lo romperán. 
+LEV011034 Y lo que haya dentro quedará impuro: la comida preparada con agua quedará impura y la bebida -cualquiera que sea el tipo de recipiente- quedará impura. 
+LEV011035 Todo objeto sobre el que caiga el cadáver de esos bichos quedará impuro: el hornillo y el fogón serán destruidos, porque quedan impuros y por impuros los tendrán. 
+LEV011036 Sólo se exceptúan las fuentes, los pozos y las albercas, que siguen puras. Pero el que toque un cadáver de estos bichos quedará impuro. 
+LEV011037 Si uno de estos cadáveres cae sobre grano de sembrar, éste queda puro; 
+LEV011038 pero si el grano ha sido humedecido y cae sobre él uno de estos cadáveres, ténganlo por impuro. 
+LEV011039 Cuando muere un animal comestible, el que toque su cadáver quedará impuro hasta la tarde; 
+LEV011040 el que coma su carne, lavará sus vestidos y quedará impuro hasta la tarde; el que transporte su cadáver, lavara sus vestidos y quedará impuro hasta la tarde. 
+LEV011041 Todo reptil es inmundo y no se come. 
+LEV011042 Ningún reptil es comestible, ni los que se arrastran sobre el vientre ni los que avanzan a cuatro patas ni los ciempiés: son inmundos. 
+LEV011043 No se vuelvan inmundos también ustedes con esos reptiles ni se contaminen con ellos ni se dejen manchar por ellos. 
+LEV011044 Yo soy el Señor, su Dios, santifíquense y sean santos, porque yo soy santo. No se vuelvan impuros con esos reptiles, que se arrastran por el suelo. 
+LEV011045 Yo soy el Señor que los saqué de Egipto para ser su Dios: sean santos, porque yo soy santo. 
+LEV011046 Esta es la ley sobre los animales terrestres, las aves, los animales que se mueven en el agua y sobre todos los reptiles; 
+LEV011047 la ley que enseña a separar lo impuro de lo puro, los animales comestibles de los no comestibles. 
+LEV012001 El Señor habló a Moisés: 
+LEV012002 Di a los israelitas: Cuando una mujer conciba y dé a luz un hijo, quedará impura durante siete días, como en la impureza por menstruación. 
+LEV012003 El octavo día circuncidarán al hijo, 
+LEV012004 y ella pasará treinta y tres días purificando su sangre: no tocará cosa santa ni entrará en el templo hasta terminar los días de su purificación. 
+LEV012005 Si da a luz una hija, quedará impura durante dos semanas, como en la menstruación, y pasará sesenta y seis días purificando su sangre. 
+LEV012006 Al terminar los días de su purificación -por hijo o por hija-, llevará al sacerdote, a la entrada de la tienda del encuentro, un cordero añal en holocausto y un pichón o una tórtola en sacrificio expiatorio. 
+LEV012007 El sacerdote los ofrecerá al Señor, hará la expiación por ella y quedará purificada del flujo de su sangre. Esta es la ley sobre la mujer que da a luz un hijo o una hija. 
+LEV012008 Si no tiene medios para comprarse un cordero, que tome dos tórtolas o dos pichones: uno para el holocausto y el otro para el sacrificio expiatorio. El sacerdote hará la expiación por ella, y quedará pura. 
+LEV013001 El Señor dijo a Moisés y a Aarón: 
+LEV013002 Cuando alguno tenga una inflamación, una erupción o una mancha en la piel y se le produzca una afección cutánea, será llevado ante Aarón, el sacerdote, o cualquiera de sus hijos sacerdotes. 
+LEV013003 El sacerdote examinará la parte afectada; si el pelo en ella se ha vuelto blanco y aparece hundida, es un caso de afección cutánea. Después de examinarlo, el sacerdote lo declarará impuro. 
+LEV013004 Si se trata de una mancha blanquecina en la piel, pero no aparece hundida ni se ha vuelto blanco el pelo, entonces el sacerdote aislará al enfermo durante siete días. 
+LEV013005 Él séptimo día lo examinará; si observa que el mal está localizado, sin extenderse por la piel, lo volverá a aislar por otros siete días. 
+LEV013006 El séptimo día lo volverá a examinar; si observa que la mancha está pálida y que no se ha extendido por la piel, entonces lo declarará puro. Es un caso de descamación. El enfermo lavará sus vestidos y quedará puro. 
+LEV013007 Pero si después de examinado por el sacerdote y declarado puro se extiende la descamación por la piel, se hará examinar de nuevo por el sacerdote. 
+LEV013008 El sacerdote lo examinará; si observa que la descamación se ha extendido por la piel, lo declarará impuro. Es un caso de afección cutánea. 
+LEV013009 Cuando alguno tenga una afección cutánea será llevado al sacerdote. 
+LEV013010 El sacerdote lo examinará; si observa que tiene una inflamación blanquecina en la piel, que el pelo en esa parte se ha vuelto blanco y que se han formado llagas en la inflamación, 
+LEV013011 es un caso de afección crónica. El sacerdote lo declarará impuro. No lo aislará, porque es impuro. 
+LEV013012 Pero si la afección va atacando la piel, hasta cubrir al enfermo de pies a cabeza -cuanto puede observar el sacerdote-, 
+LEV013013 el sacerdote lo examinará; si observa que la afección ha cubierto toda su carne, declarará puro al enfermo. Toda su piel se ha vuelto blanca: es puro. 
+LEV013014 Pero cuando aparezcan en él nuevas llagas, será impuro. 
+LEV013015 El sacerdote examinará las llagas, y lo declarará impuro, porque las llagas son impuras. Es un caso de afección cutánea. 
+LEV013016 Y si se cierran las llagas y se vuelven blancas, se presentará al sacerdote. 
+LEV013017 El sacerdote lo examinará; si observa que la parte afectada se ha vuelto blanca, declarará puro al enfermo: es puro. 
+LEV013018 Cuando uno tenga una úlcera ya curada 
+LEV013019 y se le produzca sobre la úlcera una inflamación blanquecina o una mancha rojiza clara, se hará examinar por el sacerdote. 
+LEV013020 El sacerdote lo examinará; si la mancha aparece hundida y el pelo se ha vuelto blanco, el sacerdote lo declarará impuro. Es un caso de afección producida en la úlcera. 
+LEV013021 Pero si al examinar la mancha observa el sacerdote que el pelo no se ha vuelto blanco ni se ha hundido la piel y que la mancha se ha vuelto pálida, entonces el sacerdote aislará al enfermo durante siete días; 
+LEV013022 si se extiende el mal por la piel, el sacerdote lo declarará impuro. Es un caso de afección. 
+LEV013023 Pero si a los siete días la mancha sigue localizada, sin extenderse, se trata de la cicatriz de la úlcera. El sacerdote lo declarará puro. 
+LEV013024 Cuando uno tenga una quemadura en la piel y se le produzca sobre la parte quemada una mancha blanca o rojiza clara, 
+LEV013025 el sacerdote lo examinará; si observa que el pelo en la mancha se ha vuelto blanco y que ésta aparece hundida, es un caso de afección producida en la quemadura. El sacerdote lo declarará impuro: es un caso de afección cutánea. 
+LEV013026 Pero si, al examinarlo, el sacerdote observa que no se ha vuelto blanco el pelo en la mancha ni se ha hundido la piel y que la mancha está pálida, entonces aislará al enfermo durante siete días. 
+LEV013027 El séptimo día lo examinará; si se ha extendido el mal por la piel, el sacerdote lo declarará impuro: es un caso de afección cutánea, 
+LEV013028 Pero si la mancha está localizada, sin extenderse por la piel, y se ha vuelto pálida, se trata de la inflamación de la quemadura. El sacerdote lo declarará puro, pues se trata de la cicatriz de la quemadura. 
+LEV013029 Cuando a un hombre o a una mujer se le produzca una afección en la cabeza o en la barba, 
+LEV013030 el sacerdote examinará la afección; si observa que está hundida y que el pelo se ha vuelto amarillo y ralo, el sacerdote lo declarará impuro: es un caso de sarna, afección de la cabeza o la barba. 
+LEV013031 Pero si, al examinar la sarna, el sacerdote ve que, aunque la piel no aparece hundida, ya no le queda pelo negro, aislará al enfermo durante siete días. 
+LEV013032 El séptimo día lo examinará; si observa que no se ha extendido la sarna, que no hay pelo amarillo ni aparece hundida, 
+LEV013033 entonces el enfermo se afeitará completamente menos la parte sarnosa, y el sacerdote lo volverá a aislar por otros siete días. 
+LEV013034 El séptimo día el sacerdote examinará la sarna; si observa que no se ha extendido y que la piel no aparece hundida, el sacerdote lo declarará puro. El enfermo lavará sus vestidos y quedará puro. 
+LEV013035 Pero si, después de declarado puro, se extiende la sarna, 
+LEV013036 el sacerdote lo volverá a examinar; si observa que la sarna se ha extendido, no hace falta que mire si el pelo se ha vuelto amarillo; es impuro. 
+LEV013037 Pero si ve que la sarna está localizada y le crece pelo negro, entonces la sarna está curada: es puro, y el sacerdote lo declarará puro. 
+LEV013038 Cuando a un hombre o a una mujer le salgan manchas blancas en la piel, 
+LEV013039 el sacerdote lo examinará; si observa sobre la piel manchas blancas pálidas, es un caso de leucodermia formada en la piel: es puro. 
+LEV013040 Cuando a un hombre se le caiga el pelo, es un caso de alopecia: es puro. 
+LEV013041 Si se le cae el pelo de las sienes, se le forman entradas: es puro. 
+LEV013042 Si en la calvicie o en las entradas se le forman llagas rojizas claras, es un caso de afección producida en la calvicie o en las entradas. 
+LEV013043 El sacerdote lo examinará; si observa en la calvicie o en las entradas una inflamación rojiza clara del mismo aspecto que las afecciones cutáneas, 
+LEV013044 se trata de un hombre con afección cutánea: es impuro. El sacerdote lo declarará impuro de afección en la cabeza. 
+LEV013045 El que ha sido declarado enfermo de afección cutánea andará harapiento y despeinado, con la barba tapada y gritando: '¡Impuro, impuro!'. 
+LEV013046 Mientras le dure la afección seguirá impuro. Vivirá apartado y tendrá su morada fuera del campamento. 
+LEV013047 Cuando se produzca una infección en un vestido de lana o de lino, 
+LEV013048 en una trama o urdimbre de lana o de lino, en un cuero o en cualquier objeto de piel, 
+LEV013049 y aparezca en ellos una mancha verduzca o rojiza, es una infección que hay que hacer examinar al sacerdote. 
+LEV013050 El sacerdote examinará la mancha y aislará el objeto durante siete días. 
+LEV013051 El séptimo día lo examinará; si se ha extendido el mal por el vestido, o por la trama o urdimbre o por el cuero del objeto hecho con piel, se trata de un morbo corrosivo: es impuro. 
+LEV013052 Quemará el vestido, la trama o urdimbre, de lana o de lino, o el objeto de piel en el que ha prendido el mal, porque se trata de un morbo corrosivo: la quemará. 
+LEV013053 Pero si al examinarlo observa el sacerdote que no se ha extendido el mal por el vestido, trama, urdimbre o por el objeto de cuero, 
+LEV013054 mandará lavar la parte manchada y la volverá a aislar por otros siete días. 
+LEV013055 Después de lavada, el sacerdote volverá a examinar la mancha, y si. no ha cambiado de aspecto, aunque no se haya extendido, es impura. El sacerdote la quemará; está corroída por el derecho o por el revés. 
+LEV013056 Pero si después de lavada, al examinarla el sacerdote, observa que la mancha se ha vuelto pálida, entonces arrancará el trozo del vestido, del cuero, de la trama o de la urdimbre. 
+LEV013057 Y si más tarde reaparece la mancha en el vestido, trama, urdimbre o en el objeto de piel, el mal sigue vivo. Quemarán todo lo infectado. 
+LEV013058 El vestido, trama, urdimbre u objeto de cuero del que ha desaparecido la mancha al lavarlo, lo volverán a lavar y quedará puro. 
+LEV013059 Esta es la ley sobre la infección en vestidos de lana o lino, en trama o urdimbre y en objetos de piel. Es la ley según la cual se declararán puros o impuros. 
+LEV014001 El Señor dijo a Moisés: 
+LEV014002 Rito de purificación de las afecciones cutáneas: El día en que se presente el enfermo al sacerdote, 
+LEV014003 el sacerdote saldrá fuera del campamento y comprobará que el enfermo se ha curado de su afección cutánea. 
+LEV014004 Después mandará traer para el purificando dos aves puras, vivas, ramas de cedro, púrpura escarlata e hisopo. 
+LEV014005 El sacerdote mandará degollar una de las aves en una vasija de loza sobre agua corriente. 
+LEV014006 Después tomará el ave viva, las ramas de cedro, la púrpura escarlata y el hisopo, y los mojará, también el ave viva, en la sangre del ave degollada sobre agua corriente. 
+LEV014007 Salpicará siete veces al que se está purificando de la afección, y lo declarará puro. El ave viva la soltará después en el campo. 
+LEV014008 El purificando lavará sus vestidos, se afeitará completamente, se bañará y quedará puro. Después de esto podrá entrar en el campamento. Pero durante siete días se quedará fuera de su tienda. 
+LEV014009 El séptimo día se rapará la cabeza, se afeitará la barba, las cejas y todo el pelo, lavará sus vestidos, se bañará y quedará puro. 
+LEV014010 El octavo día tomará dos corderos sin defecto, una cordera añal sin defecto, doce litros de flor de harina de ofrenda, amasada con aceite y un cuarto de litro de aceite. 
+LEV014011 El sacerdote que oficie la purificación presentará todo esto, junto con el purificando, ante el Señor a la entrada de la tienda del encuentro. 
+LEV014012 El sacerdote tomará uno de los corderos y lo ofrecerá en sacrificio penitencial, junto con el cuarto de litro de aceite; los agitará ritualmente ante el Señor. 
+LEV014013 Después degollará el cordero en el matadero de las víctimas expiatorias y holocaustos en lugar santo, porque la víctima penitencial, igual que las víctimas expiatorias, pertenece al sacerdote: son porción sagrada: 
+LEV014014 El sacerdote tomará sangre de la víctima penitencial y untará con ella, el lóbulo de la oreja derecha, el pulgar de la mano derecha y el pulgar del pie derecho del purificando. 
+LEV014015 Después echará un poco del aceite en su mano izquierda, 
+LEV014016 y untando en él el índice de su mano derecha, salpicará siete veces ante el Señor. 
+LEV014017 Con el aceite que le queda en la mano untará el lóbulo de la oreja derecha, el pulgar de la mano derecha y el pulgar del pie derecho del purificando, donde había untado la sangre de la' víctima penitencial. 
+LEV014018 El resto del aceite que le queda en la mano lo derramará sobre la cabeza del purificando, y así expiará en él ante el Señor. 
+LEV014019 Después el sacerdote ofrecerá el sacrificio expiatorio y hará la expiación por el que se está purificando. 
+LEV014020 Después degollará la víctima del holocausto y la ofrecerá junto con la ofrenda sobre el altar. Así expía por el purificando, y éste queda puro. 
+LEV014021 Si es pobre y no tiene recursos, lomará sólo un cordero, víctima penitencial, para la agitación ritual y para la expiación, cuatro litros de flor de harina amasada con aceite para la ofrenda y un cuarto de litro de aceite 
+LEV014022 y dos tórtolas o dos pichones, según sus recursos: uno para el sacrificio expiatorio y otro para el holocausto. 
+LEV014023 El octavo día los presentará al sacerdote, a la entrada de la tienda del encuentro, en presencia del Señor, para su purificación. 
+LEV014024 El sacerdote tomará el cordero penitencial y el cuarto de litro de aceite y los agitará ritualmente ante el Señor. 
+LEV014025 Después degollará el cordero penitencial. El sacerdote tomará sangre de la víctima y untará con ella el lóbulo de la oreja derecha, el pulgar de la mano derecha y el pulgar del pie derecho del purificando. 
+LEV014026 Después echará un poco de aceite en su mano izquierda, 
+LEV014027 y con el índice de la mano derecha salpicará siete veces ante el Señor con el aceite que tiene en la izquierda. 
+LEV014028 Con el aceite que tiene en la mano, el sacerdote untará el lóbulo de la oreja derecha, el pulgar de la mano derecha y el pulgar del pie derecho del purificando, donde había untado la sangre de la víctima. 
+LEV014029 El resto del aceite que le quede en la mano lo derramará sobre la cabeza del purificando, para expiar por él ante el Señor. 
+LEV014030 Después ofrecerá una de las tórtolas o pichones, según sus recursos: 
+LEV014031 una en sacrificio expiatorio y otra en holocausto, junto a la ofrenda. El sacerdote expía así por el purificando en presencia del Señor. 
+LEV014032 Este es el rito para la purificación del que padece de afección cutánea y no dispone de medios. 
+LEV014033 El Señor dijo a Moisés y a Aarón: 
+LEV014034 Cuando hayan entrado en la tierra de Canaán, que voy a darles en posesión, y yo permita que una casa de su tierra quede infectada, 
+LEV014035 el dueño de la casa se presentará al sacerdote a informarle: 'Ha aparecido una mancha en mi casa'. 
+LEV014036 El sacerdote, sin esperar hasta el examen de la mancha, mandará desalojar la casa, para que no se contamine lo que hay en ella. Después, el sacerdote entrará a examinar la casa. 
+LEV014037 El sacerdote examinará la mancha; si observa el mal en las paredes, cavidades verduzcas o rojizas un poco hundidas en la pared, 
+LEV014038 saldrá a la puerta de la casa y la mandará cerrar durante siete días. 
+LEV014039 Al séptimo día volverá; si la mancha se ha extendido por la pared, 
+LEV014040 el sacerdote mandará quitar las piedras manchadas y echarlas a un lugar impuro fuera de la ciudad. 
+LEV014041 Mandará raspar toda la casa por dentro, y el polvo que salga de rasparla lo echarán a un lugar impuro, fuera de la ciudad. 
+LEV014042 Tomarán otras piedras y las pondrán en el lugar de las primeras. Y con nueva cal revocarán la casa. 
+LEV014043 Si después de quitadas las piedras y después de haber raspado y revocado la casa reaparece la mancha, 
+LEV014044 el sacerdote volverá a examinar la casa; si observa que se ha extendido el mal por la casa, se trata de un morbo corrosivo de la casa: es impura. 
+LEV014045 Hará derribar la casa, piedras, maderamen y toda la cal, y lo sacará todo a un lugar impuro fuera de la ciudad. 
+LEV014046 El que entre en la casa mientras está cerrada, quedará impuro hasta la tarde. 
+LEV014047 El que duerma en la casa, lavará sus vestidos. El que coma en la casa, lavará sus vestidos. 
+LEV014048 Pero si el sacerdote entra, y al examinar la casa observa que no se ha extendido el mal después de haberla revocado, declarará pura la casa, porque el mal se ha curado. 
+LEV014049 Entonces tomará dos aves, ramas de cedro, púrpura escarlata e hisopo para expiar por la casa. 
+LEV014050 Degollará una de las aves en una vasija de loza sobre agua corriente. 
+LEV014051 Después tomará la rama de cedro, el hisopo, la púrpura escarlata y el ave viva, y los mojará en la sangre del ave degollada sobre agua corriente, y salpicará la casa siete veces. 
+LEV014052 Así expía por la casa con la sangre del ave, con el agua corriente, con el ave viva, con la rama de cedro, con el hisopo y con la púrpura escarlata. 
+LEV014053 El ave viva la soltará en el campo, fuera de la ciudad. Así expía por la casa, y ésta queda pura. 
+LEV014054 Esta es la ley sobre infecciones y sarnas, 
+LEV014055 sobre manchas de vestidos y casas, 
+LEV014056 sobre inflamaciones, erupciones y manchas, 
+LEV014057 según la cual se declaran los casos de pureza e impureza. Esta es la ley sobre infecciones. 
+LEV015001 El Señor habló a Moisés y a Aarón: 
+LEV015002 Digan a los israelitas: Cuando un hombre padezca de gonorrea, es impuro. 
+LEV015003 Estas son las normas de impureza en caso de gonorrea, sea fluida o espesa, pues ambas son impuras. 
+LEV015004 La cama en que se acueste el enfermo, quedará impura. El asiento que use, quedará impuro. 
+LEV015005 El que toque la cama del enfermo, lavará sus vestidos, se bañará y quedará impuro hasta la tarde. 
+LEV015006 El que se siente donde ha estado sentado el enfermo, lavará sus vestidos, se bañará y quedará impuro hasta la tarde. 
+LEV015007 El que toque al enfermo, lavará sus vestidos, se bañará y quedará impuro hasta la tarde. 
+LEV015008 Si el enfermo escupe a uno que está puro, éste lavará sus vestidos, se bañará y quedará impuro hasta la tarde. 
+LEV015009 La albardilla sobre la que monte el enfermo, quedará impura. 
+LEV015010 El que toque un objeto sobre el que ha estado el enfermo, quedará impuro hasta la tarde. Y el que lo transporte, lavará sus vestidos, se bañará y quedará Impuro hasta la tarde. 
+LEV015011 Aquel a quien el enfermo toque, antes de lavarse las manos, lavará sus vestidos, se bañará y quedará impuro hasta la tarde. 
+LEV015012 Todo utensilio de loza que toque el enfermo, se romperá; si es de madera, se lavará. 
+LEV015013 Cuando cure de la gonorrea, el enfermo contará siete días hasta su purificación. Lavará sus vestidos, se bañará con agua corriente y quedará puro. 
+LEV015014 El octavo día tomará dos tórtolas o dos pichones, se presentará ante el Señor, a la entrada de la tienda del encuentro, y los entregará al sacerdote. 
+LEV015015 EÍ sacerdote los ofrecerá, uno en sacrificio expiatorio y otro en holocausto. Así expía por él, por su gonorrea, ante el Señor. 
+LEV015016 Cuando un hombre tenga una polución, se bañará y quedará impuro hasta la tarde. 
+LEV015017 También la ropa o el cuero adonde haya caído el semen se lavará y quedará impuro hasta la tarde. 
+LEV015018 Si un hombre se acuesta con una mujer y tiene una polución, se bañarán los dos y quedarán impuros hasta la tarde. 
+LEV015019 La mujer, cuando tenga su menstruación, quedará manchada durante siete días. El que la toque quedará impuro hasta la tarde. 
+LEV015020 El sitio donde se acueste o donde se siente, mientras está manchada, quedará impuro. 
+LEV015021 El que toque su casa, lavará sus vestiduras, se bañará y quedará impuro hasta la tarde. 
+LEV015022 El que toque el asiento que usó, lavará sus vestidos, se bañará y quedará impuro hasta la tarde. 
+LEV015023 Si está ella sobre la cama o el asiento, el que los toque quedará impuro hasta la tarde. 
+LEV015024 Si un hombre se acuesta con ella, pasará también a él la mancha: quedará impuro durante siete días, y dejará impura la cama en que se acueste. 
+LEV015025 Cuando una mujer tenga hemorragias frecuentes fuera o después de la menstruación, quedará impura, como en la menstruación, mientras le duren las hemorragias. 
+LEV015026 La cama en que se acueste mientras le duran las hemorragias, quedará impura, lo mismo que en la menstruación. El asiento en que se siente quedará impuro, como en la menstruación. 
+LEV015027 El que los toque, quedará impuro. Lavará sus vestidos, se bañará y quedará impuro hasta la tarde. 
+LEV015028 Si cura de sus hemorragias, contará siete días y después quedará pura. 
+LEV015029 El octavo día tomará dos tórtolas o dos pichones, los presentará al sacerdote, a la entrada de la tienda del encuentro. 
+LEV015030 El sacerdote ofrecerá uno en sacrificio expiatorio y otro en holocausto. Así expía por ella, por la impureza de sus hemorragias ante el Señor. 
+LEV015031 Prevengan a los israelitas de la impureza, para que no mueran por su impureza, por haber profanado mi morada entre ustedes. 
+LEV015032 Esta es la ley sobre la gonorrea, las poluciones que impurifican, 
+LEV015033 sobre la menstruación de la mujer, las secreciones de hombre o de mujer y sobre el hombre que se acuesta con una mujer en estado de impureza. 
+LEV016001 El Señor habló a Moisés después de la muerte de los dos hijos de Aarón, que murieron por acercarse hasta el Señor: 
+LEV016002 Di a tu hermano Aarón que no entre en cualquier fecha en el santuario, de la cortina hacia dentro, hasta la placa que cubre el arca. Así no morirá. Porque yo me muestro en una nube sobre la placa del arca. 
+LEV016003 Así entrará Aarón en el santuario: con un novillo para el sacrificio expiatorio y un carnero para el holocausto. 
+LEV016004 Se vestirá la túnica sagrada de lino, se cubrirá con calzones de lino, se ceñirá una banda de lino y se pondrá un turbante de lino. Son vestiduras sagradas: las vestirá después de haberse bañado. 
+LEV016005 Además recibirá de la asamblea de los israelitas dos machos cabríos para el sacrificio expiatorio y un carnero para el holocausto. 
+LEV016006 Aarón ofrecerá su novillo, víctima expiatoria, y hará la expiación por sí mismo y por su familia. 
+LEV016007 Después tomará los dos machos cabríos y los presentará ante el Señor a la entrada de la tienda del encuentro. 
+LEV016008 Echará a suerte los dos machos cabríos: uno le tocará al Señor y el otro a Azazel. 
+LEV016009 Tomará el que haya tocado en suerte al Señor y lo ofrecerá en sacrificio expiatorio. 
+LEV016010 El que tocó en suerte a Azazel lo presentará vivo ante el Señor, hará la expiación por él y después lo mandará al desierto, a Azazel. 
+LEV016011 Aarón ofrecerá su novillo, víctima expiatoria, y hará la expiación por sí mismo y por su familia, y lo degollará. 
+LEV016012 Tomará del altar que está ante el Señor un incensario lleno de brasas y un puñado de incienso de sahumerio pulverizado, pasando con ellos dentro de la cortina. 
+LEV016013 Pondrá incienso sobre las brasas, ante el Señor; el humo del incienso ocultará la placa que hay sobre el documento de la alianza, y así no morirá. 
+LEV016014 Después tomará sangre del novillo y salpicará con el dedo la placa, hacia oriente; después, frente a la placa salpicará siete veces la sangre con el dedo. 
+LEV016015 Degollará al macho cabrío, víctima expiatoria, presentado por el pueblo; llevará su sangre dentro de la cortina, y hará igual que con la sangre del novillo: la salpicará sobre la placa y delante de ella. 
+LEV016016 Así hará la expiación por el santuario, por todas las impurezas y delitos de los israelitas, por todos sus pecados. Lo mismo hará con la tienda del encuentro, establecida entre ellos, en medio de sus impurezas. 
+LEV016017 Mientras esté haciendo la expiación por sí mismo, por su familia y por toda la asamblea de Israel, desde que entra hasta que sale, no habrá nadie en la tienda del encuentro. 
+LEV016018 Después saldrá, irá al altar, que está ante el Señor, y hará la expiación por él: tomará sangre del novillo y del macho cabrío, irá untando con ella los salientes del altar. 
+LEV016019 Salpicará la sangre con el dedo siete veces sobre el altar. Así lo santifica y lo purifica de las impurezas de los israelitas. 
+LEV016020 Acabada la expiación del santuario, de la tienda del encuentro y del altar, Aarón presentará el macho cabrío vivo. 
+LEV016021 Con las dos manos puestas sobre la cabeza del macho cabrío vivo, confesará las iniquidades y delitos de los israelitas, todos sus pecados: se los echará en la cabeza al macho cabrío, y después, con el encargado de turno, lo mandará al desierto. 
+LEV016022 El macho cabrío se lleva consigo, a región baldía, todas las iniquidades de los israelitas. El encargado lo soltará en el desierto. 
+LEV016023 Después Aarón entrará en la tienda del encuentro, Se quitará los vestidos de lino que se había puesto para entrar en el santuario y los dejará allí. 
+LEV016024 Se bañará en lugar santo y se pondrá sus propios vestidos. Volverá a salir, ofrecerá su holocausto y el holocausto del pueblo. 
+LEV016025 Hará la expiación por sí mismo y por el pueblo, y dejará quemarse sobre el altar la grasa de la victima expiatoria. 
+LEV016026 El que ha llevado el macho cabrío a Azazel, lavará sus vestidos, se bañará y después podrá entrar en el campamento. 
+LEV016027 Las víctimas expiatorias, el macho cabrío y el carnero, cuya sangre se introdujo para expiar en el santuario, se sacarán fuera del campamento, y se quemarán piel, carne e intestinos. 
+LEV016028 El encargado de quemarlos lavará sus vestidos, se bañará y después podrá entrar en el campamento. 
+LEV016029 Es ley perpetua. El día diez del séptimo mes harán penitencia; no trabajarán ni el indígena ni el emigrante que reside entre ustedes. 
+LEV016030 Porque ese día se hace la expiación por ustedes, para purificarlos. Quedarán puros ante el Señor de todo pecado. 
+LEV016031 Es el sábado solemne en que harán penitencia: es ley perpetua. 
+LEV016032 Hará la expiación el sacerdote ungido que ha sucedido a su padre en las funciones sacerdotales. Se pondrá los vestidos sagrados de lino 
+LEV016033 y hará la expiación por el santuario, por la tienda del encuentro y por el altar. Hará la expiación también por los sacerdotes y por toda la asamblea del pueblo de Israel. 
+LEV016034 Será para ustedes ley perpetua. Una vez al año se hará la expiación por todos los pecados de los israelitas. Moisés hizo lo que le había mandado el Señor. 
+LEV017001 El Señor habló a Moisés: 
+LEV017002 Di a Aarón, a sus hijos y a los israelitas: Esto es lo que manda el Señor: 
+LEV017003 cualquier israelita que en el campamento o fuera de él degüelle un toro, un cordero o una cabra 
+LEV017004 y no los lleve a la entrada de la tienda del encuentro para ofrecerlos al Señor ante su morada, es reo de sangre. Ha derramado sangre, y será excluido de su pueblo. 
+LEV017005 Así, pues, los israelitas llevarán al sacerdote las víctimas que maten en el campo y las ofrecerán al Señor en sacrificio de comunión, a la entrada de la tienda del encuentro. 
+LEV017006 El sacerdote rociará con la sangre el aliar del Señor, situado a la entrada de la tienda del encuentro, y dejará quemarse la grasa en aroma que aplaca al Señor. 
+LEV017007 En adelante no inmolarán sus víctimas a los sátiros, con quienes se han prostituido. Es ley perpetua para los israelitas en todas sus generaciones. 
+LEV017008 Diles también: Cualquier israelita o emigrante residente entre ustedes que ofrezca un holocausto o un sacrificio 
+LEV017009 y no los lleve a la entrada de la tienda del encuentro para ofrecerlos al Señor, será excluido de su pueblo. 
+LEV017010 Cualquier israelita o emigrante residente entre ustedes que coma sangre, me enfrentaré con él y lo extirparé de su pueblo. 
+LEV017011 Porque la vida de la carne es la sangre, y yo les he dado la sangre para uso del altar, para expiar por sus vidas. Porque la sangre expía por la vida. 
+LEV017012 Por eso he prescrito a los israelitas: ni ustedes ni el emigrante residente entre ustedes comerá sangre. 
+LEV017013 Cualquier israelita o emigrante residente entre ustedes que cobre una pieza comestible de pluma o de pelo, derramará su sangre y la cubrirá con tierra, 
+LEV017014 porque la vida de la carne es su sangre. Por eso he prescrito a los israelitas: no comerán la sangre de carne alguna, porque la vida de la carne es su sangre; quien la coma, será excluido. 
+LEV017015 Todo indígena o emigrante que coma carne muerta o desgarrada por una bestia, lavará sus vestidos y se bañará, y quedará impuro hasta la tarde; después quedará puro. 
+LEV017016 Si no los lava ni se baña, cargará con su culpa. 
+LEV018001 El Señor habló a Moisés: 
+LEV018002 Di a los israelitas: Yo soy el Señor, su Dios. 
+LEV018003 No harán lo que hacen los egipcios, con quienes han convivido, o los cananeos, a cuyo país los llevo; ni seguirán su legislación. 
+LEV018004 Cumplan mis mandatos y guarden mis leyes, procediendo según ellos. Yo soy el Señor, su Dios. 
+LEV018005 Cumplan mis leyes y mis mandatos, que dan vida al que los cumple. Yo soy el Señor. 
+LEV018006 Nadie se acercará a un pariente para tener relaciones sexuales con él. Yo soy el Señor. 
+LEV018007 No tendrás relaciones con tu madre. Es de tu padre y es tu madre; no tendrás relaciones con ella. 
+LEV018008 No tendrás relaciones con la concubina de tu padre. Es carne de tu padre. 
+LEV018009 No tendrás relaciones con tu hermana, por parte de padre o de madre, nacida en casa o fuera. 
+LEV018010 No tendrás relaciones con tus nietas. Son tu propia carne. 
+LEV018011 No tendrás relaciones con la hija nacida a tu padre de su concubina. Es tu hermana. 
+LEV018012 No tendrás relaciones con tu tía paterna. Es de la sangre de tu padre. 
+LEV018013 No tendrás relaciones con tu tía materna. Es de la sangre de tu madre. 
+LEV018014 No ofenderás a tu tío, hermano de tu padre, teniendo relaciones con su mujer. Es tu tía. 
+LEV018015 No tendrás relaciones con tu nuera. Es mujer de tu hijo; no tendrás relaciones con ella. 
+LEV018016 No tendrás relaciones con tu cuñada. Es carne de tu hermano. 
+LEV018017 No tendrás relaciones con una mujer y con su hija, o con dos primas hermanas. Son de la misma sangre; es aborrecible. 
+LEV018018 No tomarás a la vez a una mujer y a su hermana, creando rivalidades al tener relaciones también con ella, mientras vive la otra. 
+LEV018019 No tendrás relaciones con una mujer durante su menstruación. 
+LEV018020 No te acostarás con la mujer de uno de tu pueblo. Quedarías impuro. 
+LEV018021 No sacrificarás un hijo tuyo a Moloc por el fuego, profanando el nombre de tu Dios. Yo soy el Señor. 
+LEV018022 No te acostarás con un hombre como con mujer. Es una abominación. 
+LEV018023 No te acostarás con un animal. Quedarías impuro. La mujer no se ofrecerá a un animal para que la cubra. Es una depravación. 
+LEV018024 No se manchen con nada de esto, porque eso es lo que hacen los pueblos que yo voy a quitar de en medio de ustedes. 
+LEV018025 La tierra está impura: le tomaré cuentas, y ella vomitará a sus habitantes. 
+LEV018026 Ustedes, en cambio, cumplan mis leyes y mandatos y no cometan ninguna de esas abominaciones, tanto el indígena como el emigrante que reside entre ustedes. 
+LEV018027 Porque todas esas abominaciones las cometían los habitantes que les precedieron en la tierra, y la tierra quedó impura. 
+LEV018028 ¡Que no los vaya a vomitar también a ustedes, por haberla manchado, como vomitó a los pueblos que les precedieron! 
+LEV018029 Porque todo aquel que cometa una de esas abominaciones, será excluido de su pueblo. 
+LEV018030 Así, pues, respeten mis prohibiciones no haciendo ninguna de las prácticas abominables que se hacían antes de llegar ustedes. No se manchen con ellas. Yo soy el Señor, su Dios. 
+LEV019001 El Señor habló a Moisés: 
+LEV019002 Di a toda la comunidad de los israelitas: Sean santos, porque yo, el Señor, su Dios, soy santo, 
+LEV019003 Respeten a sus padres y guarden mis sábados. Yo soy el Señor, su Dios. 
+LEV019004 No acudan a ídolos ni se hagan dioses de fundición. Yo soy el Señor, su Dios. 
+LEV019005 Cuando ofrezcan al Señor sacrificios de comunión, háganlo de forma que les sean aceptados. 
+LEV019006 Se comerá la víctima el día mismo de su inmolación o al día siguiente. Lo que sobre, se quemará al tercer día. 
+LEV019007 Lo que se come el tercer día es de desecho e inválido. 
+LEV019008 El transgresor cargará con su culpa por haber profanado lo santo del Señor, y será excluido de su pueblo. 
+LEV019009 Cuando sieguen la mies de sus tierras, no desorillarás el campo ni espigarás después de segar. 
+LEV019010 Tampoco harás el rebusco de tu viña ni recogerás las uvas caídas. Se lo dejarás al pobre y al emigrante. Yo soy el Señor, su Dios. 
+LEV019011 No robarán ni defraudarán, ni engañarán a ninguno de su pueblo. 
+LEV019012 No jurarán en falso por mi nombre, profanando el nombre de tu Dios. Yo soy el Señor. 
+LEV019013 No explotarás a tu próximo ni lo expropiarás. No dormirá contigo hasta el día siguiente el jornal del obrero. 
+LEV019014 No maldecirás al sordo ni pondrás tropiezos al ciego. Respeta a tu Dios. Yo soy el Señor. 
+LEV019015 No darán sentencias injustas, No serás parcial, ni por favorecer al pobre ni por honrar al rico. Juzga con justicia a tu conciudadano. 
+LEV019016 No andarás con cuentos de aquí para allá ni declararás en falso contra la vida de tu prójimo. Yo soy el Señor. 
+LEV019017 No guardarás odio a tu hermano. Reprenderás abiertamente a tu conciudadano y no cargarás con pecado por su causa. 
+LEV019018 No serás vengativo ni guardarás rencor a tus conciudadanos. Amarás a tu prójimo como a ti mismo. Yo soy el Señor. 
+LEV019019 Guarden mis leyes. No emparejarás animales de especie diversa, ni sembrarás simientes de especie diversa, ni llevarás vestidos de paño mezclado. 
+LEV019020 El que se acueste con una esclava prometida a otro, no rescatada ni manumitida, la resarcirá; pero no es reo de muerte, por no ser ella libre. 
+LEV019021 Ofrecerá al Señor a la entrada de la tienda del encuentro un carnero como víctima penitencial. 
+LEV019022 El sacerdote, con el carnero del sacrificio penitencial, expiará por él, por el pecado que cometió, en presencia del Señor. Y se le perdonará el pecado que cometió. 
+LEV019023 Cuando entren en la tierra y planten árboles frutales, por tres años se abstendrán de cortar sus frutos: los dejarán incircuncisos. Sus frutos no se comerán. 
+LEV019024 Al cuarto año se los consagrarán al Señor. 
+LEV019025 Y al quinto podrán comer de ellos; así incrementarán para su provecho el rendimiento del árbol. Yo soy el Señor, su Dios. 
+LEV019026 No comerán carne con sangre. No practicarán la adivinación ni la magia. 
+LEV019027 No se raparán en cerco la cabeza ni se recortarán la barba. 
+LEV019028 No se harán incisiones por un difunto ni tampoco tatuajes. Yo soy el Señor. 
+LEV019029 No profanes a tu hija prostituyéndola. No se prostituya el país llenándose de depravación. 
+LEV019030 Guarden mis sábados y respeten mi santuario. Yo soy el Señor. 
+LEV019031 No acudan a nigromantes ni consulten adivinos. Quedarán impuros. Yo soy el Señor, su Dios. 
+LEV019032 Álzate ante las canas y honra al anciano. Respeta a tu Dios. Yo soy el Señor. 
+LEV019033 Cuando un emigrante se establezca con ustedes en su país, no lo oprimirán. 
+LEV019034 Será para ustedes como el indígena: lo amarás como a ti mismo, porque emigrantes fueron ustedes en Egipto. Yo soy el Señor, su Dios. 
+LEV019035 No darán sentencias injustas ni cometerán injusticias en pesos y medidas. 
+LEV019036 Tengan balanzas, pesas y medidas exactas. Yo soy el Señor, su Dios, que los sacó de Egipto. 
+LEV019037 Cumplan todas mis leyes y mandatos poniéndolos por obra. Yo soy el Señor. 
+LEV020001 El Señor habló a Moisés: 
+LEV020002 Di a los israelitas: Cualquier israelita o emigrante residente en Israel que entregue un hijo suyo a Moloc, es reo de muerte. Los terratenientes lo apedrearán. 
+LEV020003 Yo mismo me enfrentaré con él y lo extirparé de su pueblo, por haber entregado un hijo suyo a Moloc, manchando mi santuario y profanando mi nombre santo. 
+LEV020004 Pero si los terratenientes se desentienden del que entrega un hijo suyo a Moloc y no ejecutan al culpable, 
+LEV020005 yo mismo me enfrentaré con él y con su familia, y extirparé de su pueblo a él y a cuantos como él se prostituyen con Moloc. 
+LEV020006 Si uno acude a nigromantes y adivinos para prostituirse con ellos, me enfrentaré con él y lo extirparé de su pueblo. 
+LEV020007 Así, pues, santifíquense y sean santos, porque yo, el Señor, soy su Dios. 
+LEV020008 Guarden mis leyes poniéndolas por obra. Yo soy el Señor, que los santifica. 
+LEV020009 El que maldiga a su padre o a su madre, es reo de muerte. Caiga su sangre sobre él, por haberlos maldecido. 
+LEV020010 Si uno comete adulterio con la mujer de su prójimo, los dos adúlteros son reos de muerte. 
+LEV020011 Si uno se acuesta con la concubina de su padre, ofendiendo a su propio padre, ambos son reos de muerte. Caiga su sangre sobre ellos. 
+LEV020012 Si uno se acuesta con su nuera, ambos son reos de muerte. Han cometido una depravación. Caiga su sangre sobre ellos. 
+LEV020013 Si uno se acuesta con un hombre como con mujer, ambos cometen una abominación. Son reos de muerte. Caiga su sangre sobre ellos. 
+LEV020014 Si uno toma a la vez a una hija y a la madre, es cosa aborrecible. A él y a ellas los quemarán, para que no quede lo aborrecible entre ustedes. 
+LEV020015 El que se acueste con un animal, es reo de muerte. Al animal lo matarán. 
+LEV020016 Si una mujer se ofrece a un animal para que la cubra, matarás a la mujer y al animal. Son reos de muerte. Caiga su sangre sobre ellos. 
+LEV020017 Si uno toma a una hermana por parte de padre o de madre y tienen relaciones, es una infamia. Serán públicamente excluidos de su pueblo. Por haber tenido relaciones con su hermana, cargará con su culpa. 
+LEV020018 Si uno se acuesta con una mujer durante su menstruación, descubriendo ambos la fuente de la sangre, los dos serán excluidos de su pueblo. 
+LEV020019 No tendrás relaciones con una tía materna o paterna. Por haber tenido relaciones con alguien de su propia sangre, cargarán con su culpa. 
+LEV020020 Si uno se acuesta con la cuñada de su padre, ofende a su tío. Cargarán con su pecado y morirán sin hijos. 
+LEV020021 Si uno toma a su cuñada, es una inmundicia. Ofende a su propio hermano. No tendrán hijos. 
+LEV020022 Cumplan todas mis leyes y mandatos poniéndolos por obra, para que no los vomite la tierra a la que los llevo para que habiten en ella. 
+LEV020023 No sigan la legislación de los pueblos que voy a expulsar ante ustedes, porque me da asco su proceder. 
+LEV020024 Les he dicho: ustedes poseerán su tierra; yo se la voy a dar en posesión, una tierra que mana leche y miel. Yo soy el Señor, su Dios, que los he separado de los demás pueblos. 
+LEV020025 Separen también ustedes los animales puros de los impuros, las aves impuras de las puras, y no se contaminen con animales, aves o reptiles que yo he separado como impuros. 
+LEV020026 Sean para mí santos, porque yo, el Señor, soy santo, y los he separado de los demás pueblos para que sean míos. 
+LEV020027 El hombre o mujer que practique la nigromancia o la adivinación es reo de muerte. Será apedreado. Caiga su sangre sobre él. 
+LEV021001 El Señor habló a Moisés: Di a los sacerdotes aaronitas: El sacerdote no se contaminará con el cadáver de un pariente, 
+LEV021002 a no ser de pariente próximo: madre, padre, hijo, hija, hermano 
+LEV021003 o de su propia hermana soltera, no dada en matrimonio. No se incluye la pariente casada. 
+LEV021004 Quedaría profanado. 
+LEV021005 No se raparán la cabeza, no se recortarán la barba ni se harán incisiones. 
+LEV021006 Serán santos para su Dios y no profanarán el nombre de su Dios, porque son los encargados de ofrecer la oblación del Señor, la comida de su Dios. Deben ser santos. 
+LEV021007 No tomará por mujer una prostituta, una violada o una repudiada por su marido, porque está consagrado a su Dios. 
+LEV021008 Lo considerarás santo, porque es el encargado de ofrecer la comida de tu Dios. Será para ti santo, porque yo, el Señor, que los santifico, soy santo. 
+LEV021009 Si la hija de un sacerdote se profana prostituyéndose, profana a su propio padre. Debe ser quemada. 
+LEV021010 El sumo sacerdote, escogido entre sus hermanos, sobre cuya cabeza ha sido derramado el aceite de la unción y que ha sido consagrado con la investidura de los ornamentos, no irá despeinado ni harapiento. 
+LEV021011 No se acercará a cadáver alguno ni se contaminará con el de su padre o de su madre. 
+LEV021012 No saldrá del santuario ni profanará el santuario de su Dios, porque tiene la consagración del aceite de la unción de su Dios. Yo soy el Señor. 
+LEV021013 Tomará por mujer una virgen. 
+LEV021014 No tomará por mujer una viuda, repudiada, violada ni prostituta, sino una virgen 
+LEV021015 No profanará a sus hijos entre su pueblo, porque yo soy el Señor, que lo santifico. 
+LEV021016 El Señor habló a Moisés: 
+LEV021017 Di a Aarón: Ninguno de tus futuros descendientes que tenga un defecto corporal podrá ofrecer la comida de su Dios: 
+LEV021018 sea ciego, cojo, con miembros atrofiados o hipertrofiados, 
+LEV021019 con una pierna o un brazo fracturados, 
+LEV021020 jorobado, enclenque, con cataratas, con sarna o tina, con testículos lesionados. Nadie con alguno de estos defectos puede ofrecer la comida de su Dios. 
+LEV021021 Ninguno de los descendientes del sacerdote Aarón que tenga un defecto corporal se acercará a ofrecer la oblación del Señor. Tiene un defecto corporal: no puede acercarse a ofrecer la comida de su Dios. 
+LEV021022 Podrá comer la comida de su Dios, de la porción sagrada como de la santa; 
+LEV021023 pero no puede traspasar la cortina ni acercarse al altar, porque tiene un defecto corporal. No profanará mi santuario, porque yo soy el Señor, que los santifico. 
+LEV021024 Moisés se lo comunicó a Aarón, a sus hijos y a todos los israelitas. 
+LEV022001 El Señor habló a Moisés: 
+LEV022002 Di a Aarón y a sus hijos que traten con respeto la porción santa que los israelitas me consagren y no profanen mi santo nombre. Yo soy el Señor. 
+LEV022003 Diles: Cualquiera de sus futuros descendientes que se acerque en estado de impureza a la porción santa que los israelitas consagran al Señor, será excluido de mi presencia. Yo soy el Señor. 
+LEV022004 Ningún descendiente de Aarón, leproso o con gonorrea, comerá de la porción santa hasta que no esté puro. 
+LEV022005 El que toque un cadáver, el que tenga polución, el que toque un bicho o un hombre que puedan contaminarlo con cualquier clase de impureza, quedará impuro hasta la tarde. 
+LEV022006 No comerá dé la porción santa, sino que se bañará, 
+LEV022007 y a la puesta del sol quedará puro. Entonces podrá comer de la porción santa, que es su comida. 
+LEV022008 No comerá animal muerto o desgarrado por una fiera: quedaría impuro. Yo soy el Señor. 
+LEV022009 Respetarán mis prohibiciones para no incurrir en pecado que les traiga la muerte por haberse profanado. Yo soy el Señor, que los santifica. 
+LEV022010 Ningún extraño comerá de lo santo: ni el sirviente del sacerdote ni el jornalero lo comerán. 
+LEV022011 Pero si un sacerdote compra con su dinero un esclavo, éste lo podrá comer, lo mismo que los esclavos nacidos en su casa. 
+LEV022012 Si la hija de un sacerdote se casa con un extraño, no podrá comer del tributo de la porción santa. 
+LEV022013 Pero si enviuda o es repudiada sin tener descendencia y vuelve a la casa paterna como en su juventud, podrá comer de la comida de su padre. Pero ningún extraño podrá comerla. 
+LEV022014 El que por inadvertencia coma de lo santo, lo restituirá al sacerdote con recargo de un veinte por ciento. 
+LEV022015 Los sacerdotes no profanarán la porción santa que los israelitas tribuían al Señor. 
+LEV022016 Incurrirán en grave culpa al comer de su porción santa. Yo soy el Señor, que los santifico. 
+LEV022017 El Señor habló a Moisés: 
+LEV022018 Di a Aarón, a sus hijos y a todos los israelitas: Cualquier israelita o emigrante residente en Israel que ofrezca un holocausto al Señor, voluntario o en cumplimiento de un voto, empleará como víctima, 
+LEV022019 para que les sea aceptado, un macho sin defecto, de ganado mayor, ovino o caprino. 
+LEV022020 No ofrecerán reses con defecto, porque no les serán aceptadas. 
+LEV022021 El que ofrezca al Señor un sacrificio de comunión, voluntario o en cumplimiento de un voto, empleará reses de ganado mayor o menor, sin defecto, para que les sea aceptado. No tendrán defecto alguno. 
+LEV022022 No ofrecerán al Señor reses ciegas, con fracturas, mutiladas, con nubes, con sarna o tina; ni las colocarán sobre el altar en ofrenda al Señor. 
+LEV022023 Como ofrenda voluntaria, podrás emplear toros u ovejas con miembros hipertrofiados o atrofiados, pero como cumplimiento de un voto no te serán aceptados. 
+LEV022024 No ofrecerán al Señor reses con testículos machacados, aplastados, arrancados o cortados. No harán esto nunca en su tierra, 
+LEV022025 Ni siquiera de parte de un extranjero ofrecerán tales reses como comida de su Dios. Son deformes y defectuosas, y, por tanto, inválidas. 
+LEV022026 El Señor dijo a Moisés: 
+LEV022027 Cuando nazca un toro, un cordero o un cabrito, estarán siete días con la madre. A partir del octavo pueden ofrecerse válidamente en ofrenda al Señor. 
+LEV022028 No degollarán el mismo día una vaca o una oveja con su cría. 
+LEV022029 Cuando ofrezcan al Señor sacrificios de acción de gracias, háganlo de forma que les sean aceptados. 
+LEV022030 Se comerá la víctima el día mismo de la inmolación, sin dejar nada para el día siguiente. Yo soy el Señor. 
+LEV022031 Cumplan mis preceptos, poniéndolos por obra. Yo soy el Señor. 
+LEV022032 No profanarán mi nombre santo, para que yo sea santificado entre los israelitas. Yo soy el Señor, que los santifico, 
+LEV022033 ¡que los sacó de Egipto para ser su Dios. Yo soy el Señor. 
+LEV023001 El Señor habló a Moisés: 
+LEV023002 Di a los israelitas: Festividades del Señor en las que convocarán asamblea litúrgica; son mis festividades: 
+LEV023003 Durante seis días trabajarán, pero el día séptimo es día de descanso solemne, de asamblea litúrgica. No harán trabajo alguno. Es día de descanso dedicado al Señor en todos sus poblados. 
+LEV023004 Estas son las festividades del Señor, las asambleas litúrgicas que convocarán a su debido tiempo. 
+LEV023005 El día catorce del primer mes, al atardecer, es te Pascua del Señor. 
+LEV023006 El día quince del mismo mes es la fiesta de los panes ázimos dedicada al Señor. Comerán panes ázimos durante siete días. 
+LEV023007 El primer día se reunirán en asamblea litúrgica, y no harán trabajo ni tarea alguna. 
+LEV023008 Los siete días ofrecerán oblaciones al Señor. Al séptimo se volverán a reunir en asamblea litúrgica, y no harán trabajo ni tarea alguna. 
+LEV023009 El Señor habló a Moisés: 
+LEV023010 Di a los israelitas: Cuando entren en la tierra que yo les voy a dar, y sieguen la mies, la primera gavilla se la llevarán al sacerdote. 
+LEV023011 Estela agitará ritualmente en presencia del Señor, para que les sea aceptada; la agitará el sacerdote el día siguiente al sábado. 
+LEV023012 Ese mismo día ofrecerán al Señor en holocausto un cordero añal sin defecto, 
+LEV023013 harán también una ofrenda de ocho litros de flor de harina amasada con aceite -oblación de aroma que aplaca al Señor- y una libación de un litro de vino. 
+LEV023014 No comerán pan de granos tiernos tostados hasta el día en que lleven su ofrenda a Dios. Es ley perpetua para sus generaciones en todos sus poblados. 
+LEV023015 Pasadas siete semanas completas, a contar desde el día siguiente al sábado -día en que llevan la gavilla para la agitación ritual-, ' 
+LEV023016 hasta el día siguiente al séptimo sábado, es decir, a los cincuenta días, harán una nueva ofrenda al Señor. 
+LEV023017 Desde sus poblados traerán pan para la agitación ritual: dos roscas de ocho litros de flor de harina, cocidas con levadura. Son las primicias del Señor. 
+LEV023018 Además del pan, ofrecerán en holocausto al Señor siete corderos añales sin defecto, un novillo y dos carneros, que junto con la ofrenda y las libaciones es oblación de aroma que aplaca al Señor. 
+LEV023019 Ofrecerán también en sacrificio expiatorio un macho cabrío y dos corderos añales en sacrificio de comunión. 
+LEV023020 El sacerdote lo agitará ritualmente, junto con el pan de las primicias, en presencia del Señor. Es porción santa del Señor, para el sacerdote. 
+LEV023021 El mismo día se reunirán en asamblea litúrgica, y no harán trabajo alguno. Es ley perpetua para sus generaciones en todos sus poblados. 
+LEV023022 Cuando sieguen la mies de sus tierras, no desorillarás tu campo ni espigarás después de segar; se lo dejarás al pobre y al emigrante. Yo soy el Señor, su Dios. 
+LEV023023 El Señor habló a Moisés: 
+LEV023024 Di a los israelitas: El día primero del séptimo mes es día de descanso solemne. Se anunciará con un toque. Se reunirán en asamblea litúrgica. 
+LEV023025 No harán trabajo alguno, y ofrecerán una oblación al Señor. 
+LEV023026 El Señor dijo a Moisés: 
+LEV023027 El día diez del séptimo mes es el día de la expiación. Se reunirán en asamblea litúrgica, harán penitencia y ofrecerán una oblación al Señor. 
+LEV023028 No harán trabajo alguno, porque es día de expiación. Es el día en que se expía por ustedes en presencia del Señor, su Dios. 
+LEV023029 Todo el que en ese día no haga penitencia será excluido de su pueblo. 
+LEV023030 A quien trabaje, lo exterminaré de su pueblo. 
+LEV023031 No harán trabajo alguno. Es ley perpetua para sus generaciones en todos sus poblados. 
+LEV023032 Es día de descanso solemne, en el que harán penitencia. Desde el nueve por la tarde al diez por la tarde guardarán descanso. 
+LEV023033 El Señor habló a Moisés: 
+LEV023034 Di a los israelitas: El día quince del séptimo mes comienza la fiesta de las chozas, dedicada al Señor, y dura siete días. 
+LEV023035 El día primero se reunirán en asamblea litúrgica. No harán trabajo alguno. 
+LEV023036 Los siete días ofrecerán oblaciones al Señor. Al octavo volverán a reunirse en asamblea litúrgica y a ofrecer una oblación al Señor. Es día de reunión religiosa solemne. No harán trabajo alguno. 
+LEV023037 Estas son las festividades del Señor en las que se reunirán en asamblea litúrgica y ofrecerán al Señor oblaciones, holocaustos y ofrendas, sacrificios de comunión y libaciones, según corresponda a cada día. 
+LEV023038 Además de los sábados del Señor, además de sus dones y cuantos sacrificios ofrezcan al Señor, sea en cumplimiento de un voto o voluntariamente. 
+LEV023039 Desde el día quince del séptimo mes, recogida ya la cosecha, celebrarán la fiesta del Señor durante siete días. El primero y el octavo son días de descanso solemne. 
+LEV023040 El primer día cortarán ramos de árboles de adorno, palmas, ramas de árboles frondosos y de sauces, y harán fiesta siete días en presencia del Señor. 
+LEV023041 Celebrarán esta fiesta dedicada al Señor anualmente, por espacio de siete días. Es ley perpetua para sus generaciones: la celebrarán el séptimo mes. 
+LEV023042 Habitarán los siete días en chozas. Todo indígena e israelita habitará en chozas; 
+LEV023043 para que sepan sus futuras generaciones que yo hice habitar a los israelitas en chozas cuando los saqué de Egipto. Yo soy el Señor, su Dios. 
+LEV023044 Moisés comunicó a los israelitas las festividades del Señor. 
+LEV024001 El Señor dijo a Moisés: 
+LEV024002 Manda a los israelitas que te traigan aceite de oliva puro y refinado para alimentar cada día la lámpara. 
+LEV024003 En la tienda del encuentro, delante de la cortina de la alianza, Aarón preparará cada día la lámpara, para que arda de la noche a la mañana en presencia del Señor. Es ley perpetua para sus generaciones. 
+LEV024004 Colocará siempre las lámparas en el candelabro, de oro de ley, en presencia del Señor. 
+LEV024005 Toma flor de harina y cuece con ella doce roscas de ocho litros cada una. 
+LEV024006 Colócalas después en dos montones de a seis, sobre la mesa pura, en presencia del Señor. 
+LEV024007 Echa en cada montón incienso puro, para que sean pan de obsequio, oblación al Señor. 
+LEV024008 Todos los sábados las prepararás en presencia del Señor. Es un compromiso perpetuo de los israelitas. 
+LEV024009 Son para Aarón y sus hijos, que las comerán en lugar santo. Es la porción sagrada, porción perpetua para Aarón, de la oblación al Señor. 
+LEV024010 Había entre los israelitas un hijo de madre israelita y padre egipcio. Un día riñó con un israelita en el campamento. 
+LEV024011 Blasfemó y maldijo el nombre del Señor, por lo que lo llevaron ante Moisés. (Su madre se llamaba Selamit, hija de Dibfí, de la tribu de Dan). 
+LEV024012 Lo arrestaron hasta que decidiera un -oráculo del Señor-. 
+LEV024013 El Señor dijo a Moisés: 
+LEV024014 Saca al blasfemo fuera del campamento. Que todos los que le oyeron pongan las manos sobre su cabeza y luego toda la asamblea lo apedreará. 
+LEV024015 Después dirás a los israelitas: Todo el que maldiga a su Dios, cargará con su pecado. 
+LEV024016 El que blasfeme el nombre del Señor, es reo de muerte. Toda la asamblea lo apedreará. Emigrante o indígena, quien blasfeme el nombre del Señor morirá. 
+LEV024017 El que mate a un hombre, es reo de muerte. 
+LEV024018 El que mate un animal, compensará pieza por pieza. 
+LEV024019 Al que lesione a un conciudadano, se le hará lo que él ha hecho: 
+LEV024020 fractura por fractura, ojo por ojo, diente por diente. La lesión que causó a otro se le causará a él. 
+LEV024021 El que mate un animal, compensará una pieza con otra; el que mate a un hombre, morirá. 
+LEV024022 Aplicarán la misma sentencia al emigrante y al indígena. Yo soy el Señor, su Dios. 
+LEV024023 Moisés se lo comunicó a los israelitas, y éstos, sacando al blasfemo fuera del campamento, lo apedrearon. Los israelitas hicieron lo que el Señor había mandado a Moisés. 
+LEV025001 El Señor habló a Moisés en el monte Sinaí: 
+LEV025002 Di a los israelitas: Cuando entren en la tierra que yo les voy a dar, la tierra gozará del descanso del Señor. 
+LEV025003 Durante seis años sembrarás tus campos y durante seis años vendimiarás tus viñedos y recogerás sus cosechas. 
+LEV025004 Pero el séptimo será año de descanso solemne para la tierra: el descanso del Señor. No sembrarás tus campos ni vendimiarás tus viñas. 
+LEV025005 No segarás el grano de ricio ni cortarás las uvas de cepas bordes. Es año de descanso para la tierra. 
+LEV025006 El descanso de la tierra te servirá de alimento a ti, a tu esclavo, a tu esclava, a tu jornalero, a tu sirviente y al emigrante que vive contigo. 
+LEV025007 Su entera cosecha servirá de pasto a tu ganado y a los animales salvajes. 
+LEV025008 Haz el cómputo de siete semanas de años, siete por siete, o sea, cuarenta y nueve años. 
+LEV025009 A toque de trompeta darás un bando por todo el país, el día diez del séptimo mes. El día de la expiación ustedes harán resonar la trompeta por todo su país. 
+LEV025010 Santificarán el año cincuenta y promulgarán manumisión en el país para todos sus moradores. Celebrarán jubileo, cada uno recobrará su propiedad y retornará a su familia. 
+LEV025011 El año cincuenta es para ustedes jubilar, no sembrarán ni segarán el grano de ricio ni cortarán las uvas de cepas bordes. 
+LEV025012 Porque es jubileo, lo considerarás sagrado. Comerán de la cosecha de sus campos. 
+LEV025013 En este año jubilar cada uno recobrará su propiedad. 
+LEV025014 Cuando realicen operaciones de compra y venta con alguien de su pueblo, no se perjudiquen unos a otros. 
+LEV025015 Lo que compres a uno de tu pueblo se tasará según el número de años transcurridos después del jubileo. El, a su vez, te lo cobrará según el número de cosechas anuales: 
+LEV025016 cuantos más años falten, más alto será el- precio; cuantos menos, menor será el precio. Porque él te cobra según el número de cosechas. 
+LEV025017 Nadie perjudicará a uno de su pueblo. Respeta a tu Dios. Yo soy el Señor, su Dios. 
+LEV025018 Cumplan mis leyes y guarden mis mandatos poniéndolos por obra y habitarán tranquilos en la tierra. 
+LEV025019 La tierra dará sus frutos, comerán hasta saciarse y habitarán tranquilos. 
+LEV025020 Si se preguntan: '¿Qué vamos a comer el año séptimo? No hemos sembrado ni hemos recogido cosecha'. 
+LEV025021 Yo les mandaré mi bendición el año sexto, para que produzca cosecha para los tres años. 
+LEV025022 Sembrarán el año octavo y comerán de la cosecha pasada. Hasta el año noveno, hasta la recogida de su cosecha, seguirán comiendo de la pasada. 
+LEV025023 La tierra no se venderá sin derecho a retracto, porque es mía, y en lo mío ustedes son emigrantes y sirvientes. 
+LEV025024 Darán posibilidad de rescate a todas las tierras de su propiedad. 
+LEV025025 Si un hermano tuyo se arruina y vende parte de su propiedad hereditaria, a su pariente más cercano toca rescatar lo vendido por su hermano. 
+LEV025026 El que no tenga quien lo rescate, si ahorra lo requerido para el rescate, 
+LEV025027 descontará los años desde su venta, y pagará al comprador lo que falta, recobrando así su propiedad. 
+LEV025028 Pero si no ha ahorrado lo requerido para el rescate, lo vendido quedará en poder del comprador, hasta el año del jubileo, en que queda libre y vuelve a ser propiedad suya. 
+LEV025029 El que venda una vivienda situada en una ciudad amurallada tiene derecho al rescate hasta cumplirse un año de la venta. Su derecho al rescate es limitado. 
+LEV025030 Si no es rescatada en el plazo de un año, la casa situada en una ciudad amurallada queda en propiedad del comprador y sus sucesores, sin derecho a retracto. No queda libre el año del jubileo. 
+LEV025031 Los poblados no amurallados se consideran como los campos. Sus casas tienen posibilidad de rescate: quedan libres el año del jubileo. 
+LEV025032 Referente a las ciudades de los levitas, éstos tienen derecho perpetuo a rescatar las casas de las ciudades de su propiedad. 
+LEV025033 Si no son rescatadas, quedan libres el año del jubileo, porque las casas de las ciudades de los levitas son propiedad suya entre los israelitas. 
+LEV025034 Los ejidos pertenecientes a sus ciudades no se pueden vender, porque son propiedad perpetua de ¡os levitas. 
+LEV025035 Si un hermano tuyo se arruina y no puede mantenerse, tú lo sustentarás para que viva contigo como el emigrante o el sirviente. 
+LEV025036 No le exijas ni intereses ni recargo. Respeta a tu Dios, y viva tu hermano contigo: 
+LEV025037 No le prestarás dinero a interés' ni impondrás recargo a su sustento. 
+LEV025038 Yo soy el Señor, su Dios, que los saqué de Egipto para darles la tierra de Canaán y ser su Dios. 
+LEV025039 Si un hermano tuyo se arruina y se te vende, no lo tratarás como esclavo, 
+LEV025040 sino como jornalero o sirviente. Trabajará contigo hasta el año del jubileo, 
+LEV025041 cuando él y sus hijos quedarán libres para retornar a su familia y recobrar su propiedad paterna. 
+LEV025042 Porque son mis siervos a quienes saqué de Egipto, y no pueden ser vendidos como esclavos. 
+LEV025043 No lo tratarás con dureza. Respeta a tu Dios: 
+LEV025044 Los esclavos y esclavas de su propiedad los adquirirán entre los pueblos circundantes. 
+LEV025045 O bien entre los hijos de los sirvientes emigrantes que viven con ustedes, entre sus familias nacidas en su territorio. Serán propiedad de ustedes. 
+LEV025046 Se los dejarán en propiedad hereditaria a los hijos que a ustedes les sucedan. Se pueden servir de ellos siempre, pero a sus hermanos israelitas no los tratarán con dureza. 
+LEV025047 Si un emigrante o un criado mejoran de posición y un hermano tuyo se arruina y se vende al emigrante o criado o a un descendiente de la familia del emigrante, 
+LEV025048 después de haberse vendido tiene derecho a rescate. 
+LEV025049 Uno de sus hermanos lo rescatará, o un tío suyo o su primo o alguien de su parentela, o él mismo si ahorra lo necesario. 
+LEV025050 Calculará con el comprador los años desde la venta hasta el jubileo, y el precio corresponderá al número de años, a razón de jornales de jornalero. 
+LEV025051 Si quedan muchos años, se devolverá del precio de compra, como rescate, lo que corresponda a dichos años. 
+LEV025052 Si quedan pocos años para el jubileo, pagará el rescate calculando los años que faltan. 
+LEV025053 Cada año que pase con él, será como un jornalero. Y no permitirás que lo traten con dureza. 
+LEV025054 Pero si no es rescatado de ninguna de estas maneras, él y sus hijos quedarán libres el año jubilar. 
+LEV025055 Porque los israelitas me pertenecen como siervos: son siervos míos, a quienes saqué de Egipto. Yo soy el Señor, su Dios. 
+LEV026001 No se harán Ídolos, ni erigirán estelas, ni colocarán relieves en piedra en su país para postrarse ante ellos. Porque yo soy el Señor, su Dios. 
+LEV026002 Guarden mis sábados y respeten mi santuario. Yo soy el Señor. 
+LEV026003 Si siguen mi legislación y cumplen mis preceptos poniéndolos por obra, 
+LEV026004 yo les mandaré la lluvia a su tiempo: la tierra dará sus cosechas y los árboles sus frutos. 
+LEV026005 La trilla alcanzará a la vendimia y la vendimia a la sementera. Comerán hasta saciarse y habitarán tranquilos en su tierra. 
+LEV026006 Pondré paz en el país y dormirán sin alarmas. Descastaré las fieras y la espada no cruzará su país. 
+LEV026007 Perseguirán a sus enemigos, que caerán ante ustedes a filo de espada. 
+LEV026008 Cinco de ustedes pondrán en fuga a cien, y cien de ustedes, a diez mil. Sus enemigos caerán ante ustedes a filo de espada. 
+LEV026009 Me volveré hacia ustedes y los haré crecer y multiplicarse, manteniendo mi pacto con ustedes. 
+LEV026010 Comerán de cosechas almacenadas y sacarán lo almacenado para hacer sitio a lo nuevo. 
+LEV026011 Pondré mi morada entre ustedes y no los detestaré. 
+LEV026012 Caminaré entre ustedes y seré su Dios y ustedes serán mi pueblo. 
+LEV026013 Yo soy el Señor, su Dios, que los saqué de Egipto, de la esclavitud, rompí las coyundas de su yugo, los hice caminar erguidos. 
+LEV026014 Pero si no me obedecen y no ponen por obra todos estos preceptos, 
+LEV026015 si rechazan mis leyes y detestan mis mandatos, no poniendo por obra todos mis preceptos y rompiendo mi pacto, 
+LEV026016 entonces yo los trataré así: despacharé contra ustedes el espanto, la tisis y la fiebre, que nublan los ojos y consumen la vida; sembrarán en balde, pues sus enemigos se comerán la cosecha; 
+LEV026017 me enfrentaré con ustedes y sucumbirán ante sus enemigos; sus contrarios los someterán y huirán sin que nadie los persiga. 
+LEV026018 Y si con todo no me obedecen, multiplicaré por siete mis escarmientos, por sus pecados. 
+LEV026019 Quebrantaré su terca soberbia. Convertiré su cielo en hierro y en bronce su tierra. 
+LEV026020 Se agotarán en balde sus fuerzas. Sus campos no darán su cosecha ni los árboles sus frutos. 
+LEV026021 Y si siguen obstinados en proceder contra mí, negándose a obedecerme, multiplicaré por siete mis golpes, por sus pecados. 
+LEV026022 Soltaré contra ustedes fieras salvajes que los dejarán sin hijos, destrozarán sus ganados, los diezmarán y asolarán sus caminos. 
+LEV026023 Y si aun así no escarmientan, sino que proceden obstinadamente contra mí, 
+LEV026024 también yo procederé obstinadamente contra ustedes, multiplicando por siete mis golpes, por sus pecados. 
+LEV026025 Esgrimiré contra ustedes la espada vengadora de mi pacto y se refugiarán en sus ciudades. Les mandaré entonces la peste, y se rendirán a sus enemigos. 
+LEV026026 Cuando les corte el sustento de pan, diez mujeres cocerán su pan en un horno, les darán el pan tasado y comerán sin saciarse. 
+LEV026027 Y si aun así no me obedecen, sino que proceden obstinadamente contra mí, 
+LEV026028 también yo seguiré obstinado en mi ira contra ustedes, multiplicando por siete mis escarmientos, por sus pecados. 
+LEV026029 Se comerán la carne de sus hijos, se comerán la carne de sus hijas. 
+LEV026030 Destruiré sus altozanos, destrozaré sus cipos, amontonaré sus cadáveres sobre los de sus ídolos y los detestaré. 
+LEV026031 Devastaré sus ciudades, asolaré sus santuarios, no me aplacarán sus aromas. 
+LEV026032 Yo asolaré el país, y los enemigos de ustedes, sus ocupantes, se horrorizarán de él. 
+LEV026033 Los aventaré en medio de los pueblos y los perseguiré con la espada desenvainada. Sus campos serán desolación y sus ciudades ruinas. 
+LEV026034 Entonces todo el tiempo que dure la desolación y estén ustedes en país enemigo, la tierra disfrutará de sus sábados; sólo entonces descansará la tierra y disfrutará de sus sábados. 
+LEV026035 Descansará todo el tiempo que dure la desolación; descanso de sábado que ustedes no le dieron mientras la habitaban. 
+LEV026036 A los que de ustedes sobrevivan, los haré acobardarse en país enemigo; alarmados por el rumor de hojas que vuelan, huirán como si fuera la espada, y caerán sin que nadie los persiga. 
+LEV026037 Tropezarán unos con otros, como si de espada se tratara, sin que nadie los persiga. No podrán oponer resistencia a sus enemigos. 
+LEV026038 Perecerán en medio de los pueblos. El país enemigo los devorará. 
+LEV026039 Los que sobrevivan de ustedes, se pudrirán en país enemigo por su culpa y la de sus padres. 
+LEV026040 Confesarán su culpa y la de sus padres: de haberme sido infieles y haber procedido obstinadamente contra mí; 
+LEV026041 por lo que también yo procedí obstinadamente contra ellos, y los llevé a país enemigo, para ver si se doblegaba su corazón incircunciso y expiaban su culpa. 
+LEV026042 Entonces yo recordaré mi pacto con Jacob, mi pacto con Isaac, mi pacto con Abrahán: me acordaré de la tierra. 
+LEV026043 Pero ellos tendrán que abandonar la tierra, y así ella disfrutará de sus sábados, mientras queda desolada en su ausencia. Expiarán la culpa de haber rechazado mis mandatos y haber detestado mis leyes. 
+LEV026044 Pero aun con todo esto, cuando estén en país enemigo, no los rechazaré ni los detestaré hasta el punto de exterminarlos y de romper mi pacto con ellos. Porque yo soy el Señor, su Dios. 
+LEV026045 Recordaré en favor de ellos el pacto con los antepasados, a quienes saqué de Egipto, a la vista de los pueblos, para ser su Dios. Yo soy el Señor. 
+LEV026046 Estos son los preceptos, mandatos y leyes a tenor de los cuales pactó el Señor por medio de Moisés con los israelitas en el monte Sinaí. 
+LEV027001 El Señor habló a Moisés: 
+LEV027002 Di a los israelitas: Cuando alguno haga un voto especial ofreciendo al Señor el valor de una persona, 
+LEV027003 se aplicarán las siguientes tarifas: Un varón entre los veinte y los sesenta años será tasado en quinientos gramos de plata (pesos del templo). 
+LEV027004 Si es mujer, será tasada en trescientos gramos. 
+LEV027005 Un chico entre los cinco y los veinte años será tasado en doscientos gramos; si es chica, en cien gramos. 
+LEV027006 Un niño entre el mes y los cinco años será tasado en cincuenta gramos; si es niña, en treinta gramos. 
+LEV027007 De los sesenta años para arriba, el varón será tasado en ciento cincuenta gramos; la mujer, en cien gramos. 
+LEV027008 Si es tan pobre que no puede pagar la tarifa, lo presentará al sacerdote, y éste lo tasará según los recursos del que hizo el voto. 
+LEV027009 Si se trata de un animal apto para la ofrenda al Señor, el animal entero queda consagrado. 
+LEV027010 No se puede cambiar ni sustituir animal bueno por malo, o viceversa. Y si se cambia un animal por otro, los dos quedan consagrados. 
+LEV027011 Si se trata de un animal impuro, no apto para la ofrenda al Señor, será presentado al sacerdote, 
+LEV027012 y éste lo tasará según su calidad. La tasación será válida. 
+LEV027013 Y si quiere rescatarlo, pagará un recargo del veinte por ciento sobre lo tasado. 
+LEV027014 Cuando alguno consagre su casa al Señor, el sacerdote la tasará según su calidad, La tasación será válida. 
+LEV027015 Si el que la consagró la quiere rescatar, pagará lo tasado con un veinte por ciento de recargo. 
+LEV027016 Si consagrara al Señor una parte de las tierras de su propiedad hereditaria, se tasará en proporción a su siembra: quinientos gramos de plata por cada doscientos veinte litros de cebada. 
+LEV027017 Si consagra el campo durante el año jubilar, la tasación será válida. 
+LEV027018 Pero si lo consagra después del jubileo, el sacerdote calculará el dinero que corresponde a los años que faltan hasta el próximo año jubilar, y hará el descuento correspondiente. 
+LEV027019 Si el que lo consagró lo quiere rescatar, pagará la tasa con un recargo del veinte por ciento. Y el campo será suyo. 
+LEV027020 Si no lo rescata o lo vende a otro, entonces el campo ya no podrá ser rescatado. 
+LEV027021 Cuando quede libre en el año jubilar, quedará como campo dedicado, consagrado al Señor. Será propiedad del sacerdote. 
+LEV027022 Si uno consagra al Señor un campo comprado que no pertenece a su propiedad hereditaria, 
+LEV027023 el sacerdote calculará el valor de la tasa hasta el año jubilar. El que consagró el campo pagará ese mismo día lo tasado, como cosa consagrada al Señor. 
+LEV027024 El año jubilar, el campo volverá al vendedor a quien pertenecía en propiedad hereditaria. 
+LEV027025 Las tasaciones se harán según el peso del templo: diez gramos equivalen a veinte óbolos. 
+LEV027026 Nadie consagrará el primogénito de los animales, porque le pertenece ya al Señor como primicia: sea vaca o sea oveja, pertenece al Señor. 
+LEV027027 Si se trata de un animal impuro, será rescatado con un recargo del veinte por ciento sobre lo tasado. Si no lo rescata, se venderá al precio tasado. 
+LEV027028 Lo que uno ha separado como cosa dedicada al Señor, personas, animales o campos de propiedad hereditaria, no podrá ser vendido ni rescatado. Lo dedicado es propiedad sagrada del Señor. 
+LEV027029 Una persona dedicada al exterminio no puede ser rescatada, ha de ser ejecutada. 
+LEV027030 Los diezmos del campo, de la siembra y de los frutos pertenecen al Señor y son sagrados. 
+LEV027031 Si alguien quiere rescatarlos, lo hará con un recargo del veinte por ciento sobre lo tasado. 
+LEV027032 Los diezmos de animales de ganado mayor o menor, la décima parte de todos los que pasen bajo el cayado, serán consagrados al Señor. 
+LEV027033 No hay que averiguar si, son buenos o malos ni se sustituirán. Si se cambia un animal por otro, los dos quedan consagrados, sin posibilidad de rescate. 
+LEV027034 Estos son los preceptos qué el Señor dio a Moisés en el monte Sinaí para los israelitas. 

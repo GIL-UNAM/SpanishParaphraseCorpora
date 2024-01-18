@@ -1,0 +1,618 @@
+JCS001001 Después de la muerte de Josué consultaron los israelitas a Yahveh diciendo: '¿Quién de nosotros subirá el primero contra los cananeos para combatir contra ellos?'. 
+JCS001002 Respondió Yahveh: 'Subirá Judá, pues he decidido entregar el país en sus manos'. 
+JCS001003 Dijo entonces Judá a su hermano Simeón: 'Sube conmigo al territorio que me ha tocado y combatiremos juntos a los cananeos; y después yo iré contigo al que te ha tocado a ti'. Simeón se fue con él. 
+JCS001004 Subió, pues, Judá. Yahveh entregó en sus manos a los cananeos y a los perizeos, y derrotaron en Bézec a diez mil hombres. 
+JCS001005 En Bézec encontraron a Adoni Bézec, le atacaron y derrotaron a los cananeos y perizeos. 
+JCS001006 Adoni Bézec consiguió huir, pero lo persiguieron, se apoderaron de él y le amputaron los pulgares de manos y pies. 
+JCS001007 Exclamó entonces Adoni Bézec: 'Setenta reyes, a quienes se les amputaron los pulgares de manos y pies, recogían migajas bajo mi mesa. Dios me paga mi merecido'. Le llevaron a Jerusalén y allí murió. 
+JCS001008 Los hijos de Judá atacaron Jerusalén, se apoderaron de ella, pasaron a filo de espada a su población y prendieron fuego a la ciudad. 
+JCS001009 Bajaron después los hijos de Judá para dar batalla a los cananeos que habitaban en la montaña, en el Negueb y en la llanura. 
+JCS001010 Judá marchó contra los cananeos que moraban en Hebrón, llamada antes Quiriat Arbá, y derrotó a Sesay, Ajimán y Talmay. 
+JCS001011 Desde allí se dirigió contra los habitantes de Debir, llamada anteriormente Quiriat Séfer. 
+JCS001012 Caleb anunció: 'A quien ataque Quiriat Séfer y se apodere de ella, le entregaré mi hija Acsá por mujer'. 
+JCS001013 La conquistó Otniel, hijo de Quenaz, hermano menor de Caleb; y Caleb le dio a su hija Acsá por mujer. 
+JCS001014 Cuando ella llegó a casa de su marido, éste la indujo a que pidiera a su padre un campo. Se bajó ella del asno y Caleb le preguntó: '¿Qué quieres?'. 
+JCS001015 Ella le replicó: 'Concédeme un favor: ya que me has dado tierra en el Negueb, dame también fuentes de agua'. Y Caleb le dio las fuentes de arriba y las fuentes de abajo. 
+JCS001016 Los hijos de Jobab, el quenita, suegro de Moisés, subieron con los hijos de Judá desde la ciudad de las Palmeras al desierto que está al sur de Arad, y fueron a habitar con los amalecitas. 
+JCS001017 Luego Judá y su hermano Simeón atacaron a los cananeos que moraban en Sefat, consagraron la ciudad al anatema y le dieron el nombre de Jormá. 
+JCS001018 Pero Judá no pudo apoderarse de Gaza y de su territorio, ni de Ascalón y su comarca, ni de Ecrón y su territorio. 
+JCS001019 Yahveh estuvo con Judá, que conquistó la montaña, pero no pudo expulsar a los habitantes del llano, porque tenían carros de hierro. 
+JCS001020 Como Moisés había dispuesto, se dio Hebrón a Caleb, quien expulsó de allí a los tres hijos de Anac. 
+JCS001021 En cambio, los benjaminitas no pudieron echar a los jebuseos que habitaban en Jerusalén, los cuales hasta el día de hoy moran con los benjaminitas en Jerusalén. 
+JCS001022 Los de la casa de José subieron también hacia Betel y Yahveh les prestó su ayuda. 
+JCS001023 Hizo la casa de José una exploración hacia la ciudad de Betel, que antes se llamaba Luz. 
+JCS001024 Los exploradores avistaron a un hombre que salía de la ciudad y le dijeron: 'Indícanos la entrada de la ciudad y te perdonaremos la vida'. 
+JCS001025 Él les mostró la entrada de la ciudad, a la que pasaron a filo de espada, si bien dejaron libres a aquel hombre y a toda su parentela. 
+JCS001026 Se encaminó aquel hombre al país de los hititas, donde edificó una ciudad a la que impuso el nombre de Luz. Es el nombre que tiene hasta el día de hoy. 
+JCS001027 Tampoco Manasés logró conquistar Betsán y sus aldeas, ni Taanac y sus aldeas, ni a los habitantes de Dor, de Yibleán, de Meguidó y de sus respectivas aldeas, pues los cananeos consiguieron permanecer en esta región. 
+JCS001028 Cuando Israel se hizo fuerte, hizo tributarios suyos a los cananeos, pero de hecho no los expulsó. 
+JCS001029 Tampoco Efraín logró arrojar a los cananeos que habitaban en Guézer; y éstos continuaron viviendo entre ellos en Guézer. 
+JCS001030 Zabulón no expulsó a los habitantes de Quitrón ni a los de Nahalol, y los cananeos continuaron viviendo en medio de ellos, si bien sometidos a tributo. 
+JCS001031 Aser no expulsó a los habitantes de Aco, ni a los de Sidón, ni a los de Ahlab, Aczib, Jelbá, Afec ni Rejob. 
+JCS001032 Vivieron, pues, los aseritas entre los cananeos del país, ya que no lograron expulsarlos. 
+JCS001033 Tampoco Neftalí expulsó a los habitantes de Bet Semes ni a los de Bet Anat, y continuó viviendo en medio de los cananeos que habitaban en esta región; no obstante, los habitantes de Bet Semes y de Bet Anat fueron sometidos a tributo. 
+JCS001034 Los amorreos rechazaron a los hijos de Dan hacia la montaña, sin permitirles bajar al llano. 
+JCS001035 Los amorreos consiguieron mantenerse en Har Jéres, en Ayalón y en Saalbín; pero cuando la mano de la casa de José se hizo más pesada, quedaron sometidos a tributo. 
+JCS001036 El territorio de los amorreos se extendía desde la cuesta de los Escorpiones, desde Sela hacia arriba. 
+JCS002001 Subió el ángel de Yahveh de Guilgal a Bojín, y dijo: 'Yo os saqué de Egipto y os introduje en la tierra que había prometido bajo juramento a vuestros padres'. Yo dije: 'Jamás quebrantaré mi alianza con vosotros; 
+JCS002002 mientras que, por vuestra parte, no haréis alianza con los habitantes de este país, sino que destruiréis sus altares. Pero vosotros no habéis escuchado mi voz. ¿Por qué habéis hecho esto? 
+JCS002003 Por eso también digo yo: no los arrojaré de delante de vosotros, sino que estarán a vuestro lado, y sus dioses os servirán de trampa'. 
+JCS002004 Cuando el ángel de Yahveh acabó de proferir estas palabras a todos los israelitas, levantó el pueblo la voz y rompió en llanto. 
+JCS002005 Llamaron a este lugar Bojín y ofrecieron allí sacrificios a Yahveh. 
+JCS002006 Despidió Josué al pueblo, y los israelitas se fueron cada uno a su heredad para tomar posesión de la tierra. 
+JCS002007 Sirvió el pueblo a Yahveh durante todos los días de Josué y durante todos los días de los ancianos que le sobrevivieron, los cuales habían sido testigos de todas las grandes hazañas que en favor de Israel había realizado Yahveh. 
+JCS002008 Murió Josué, hijo de Nun, siervo de Yahveh, a la edad de ciento diez años; 
+JCS002009 y lo sepultaron en el terreno de su heredad en Timnat Jeres, en la montaña de Efraín, al norte del monte Gaás. 
+JCS002010 Cuando toda esta generación fue a reunirse con sus padres, surgió después otra que no conocía a Yahveh, ni sus obras en favor de Israel. 
+JCS002011 Entonces los israelitas hicieron lo que es malo a los ojos de Yahveh, rindieron culto a los baales, 
+JCS002012 abandonaron a Yahveh, Dios de sus padres, que los había sacado de la tierra de Egipto, y se fueron tras de los dioses extraños, los dioses de los pueblos circunvecinos, se postraron ante ellos y provocaron así la ira de Yahveh. 
+JCS002013 Abandonaron a Yahveh, y sirvieron a Baal y a las astartés. 
+JCS002014 La cólera de Yahveh se encendió contra Israel y los entregó en manos de salteadores, que los saquearon, y los dejó vendidos a sus enemigos de alrededor, sin que pudieran ellos resistir a sus enemigos. 
+JCS002015 En todas sus campañas, la mano de Yahveh les era adversa, según se lo había anunciado Yahveh y se lo había jurado. Estaban, pues, en gran aprieto. 
+JCS002016 Yahveh suscitó jueces que los librasen del poder de los salteadores. 
+JCS002017 Pero tampoco a los jueces prestaron oído, sino que se prostituyeron tras de los dioses extraños, se postraron ante ellos y se apartaron pronto del camino por el que habían andado sus padres, que obedecían a los mandatos de Yahveh. No obraron ellos así. 
+JCS002018 Cuando Yahveh les suscitaba jueces, Yahveh estaba con el juez y los salvaba de sus enemigos durante la vida del juez, pues Yahveh tenía piedad de los gemidos que les arrancaban los que los oprimían y vejaban. 
+JCS002019 Pero después de la muerte del juez volvían a corromperse más aún que sus padres: se iban tras dioses extraños, les daban culto y se postraban ante ellos, y no renunciaban a sus prácticas perversas ni a su empedernida conducta. 
+JCS002020 Inflamóse entonces la ira de Yahveh contra Israel y dijo: 'Puesto que este pueblo ha quebrantado mi alianza, la que yo establecí con sus padres, y no ha escuchado mi voz, 
+JCS002021 tampoco yo seguiré arrojando de su presencia a ninguno de los pueblos que dejó Josué al morir, 
+JCS002022 para probar con ellos a Israel y ver si guardan o no los caminos de Yahveh, caminando por ellos como caminaron sus padres'. 
+JCS002023 Dejó, pues, Yahveh en paz a aquellos pueblos que no había entregado en manos de Josué, sin apresurarse a expulsarlos. 
+JCS003001 Éstos son los pueblos que dejó en paz Yahveh para probar por su medio a Israel y a cuantos no habían conocido las guerras de Canaán, 
+JCS003002 con el único fin de que las generaciones de los israelitas aprendieran a adiestrarse en la guerra, por lo menos los que antes no tenían experiencia de ella: 
+JCS003003 los cinco príncipes de los filisteos y todos los cananeos, los sidonios y los jiveos que habitan la montaña del Líbano, desde el monte Baal Hermón hasta la entrada de Jamat. 
+JCS003004 Sirvieron de prueba a Israel para saber si obedecían a los mandatos de Yahveh, los que había impuesto a sus antepasados por medio de Moisés. 
+JCS003005 Los israelitas, pues, residieron en medio de los cananeos, hititas amorreos, perizeos, jiveos y jebuseos; 
+JCS003006 tomaron sus hijas por esposas y entregaron a su vez sus hijas a los hijos de ellos, y rindieron culto a sus dioses 
+JCS003007 Los israelitas hicieron lo que es malo a los ojos de Yahveh y, olvidándose de Yahveh, su Dios, dieron culto a los baales y aserás. 
+JCS003008 La ira de Yahveh se encendió contra Israel, y los entregó en manos de Cusán Risatáin, rey de Aram Naharáin. Los israelitas estuvieron sometidos a Cusán Risatáin durante ocho años. 
+JCS003009 Clamaron los israelitas a Yahveh, quien les suscitó un libertador que los salvó: a Otniel, hijo de Quenaz, hermano menor de Caleb. 
+JCS003010 El espíritu de Yahveh vino sobre él y quedó constituido juez de Israel. Salió a campaña y Yahveh entregó en sus manos a Cusán Risatáin, rey de Aram. Prevaleció su mano sobre Cusán Risatáin 
+JCS003011 y el país quedó tranquilo durante cuarenta años, hasta que murió Otniel, hijo de Quenaz. 
+JCS003012 Volvieron los israelitas a hacer lo que es malo a los ojos de Yahveh, y Yahveh hizo prevalecer a Eglón, rey de Moab, sobre Israel, porque habían hecho lo que es malo a los ojos de Yahveh. 
+JCS003013 Congregó Eglón en torno suyo a los amonitas y los amalecitas y partió contra Israel, lo derrotó y conquistó la ciudad de las Palmeras. 
+JCS003014 Los israelitas estuvieron sometidos a Eglón, rey de Moab, dieciocho años. 
+JCS003015 Clamaron entonces los israelitas a Yahveh, y Yahveh les suscitó un libertador: Ehúd, hijo de Guerá, benjaminita, que era zurdo. Los israelitas enviaron por medio de él un presente a Eglón, rey de Moab. 
+JCS003016 Habíase fabricado Ehúd un puñal de doble filo de un codo de largo, se lo ciñó debajo de sus vestidos, sobre el lado derecho, 
+JCS003017 y fue a presentar el regalo a Eglón, rey de Moab, que era muy grueso. 
+JCS003018 Cuando terminó de ofrecer el presente, despidió a la gente que se lo había llevado. 
+JCS003019 Pero él se volvió desde los ídolos que hay junto a Guilgal y exclamó: 'Tengo, oh rey, para ti un mensaje secreto'. Eglón dijo: '¡Silencio!'. Y salieron todos los que con él estaban. 
+JCS003020 Entonces Ehúd se dirigió hacia él, que estaba sentado en la cámara alta, fresca, reservada exclusivamente para él. Ehúd le dijo: 'Tengo para ti un mensaje de parte de Dios'. El rey se levantó de su asiento. 
+JCS003021 En aquel instante, Ehúd, deslizó su mano izquierda, tomó el puñal de su lado derecho y se lo clavó al rey en el vientre. 
+JCS003022 Incluso la empuñadura penetró tras la hoja, que quedó tapada por la grasa, pues no le extrajo el puñal del vientre. Y se le salieron las heces. 
+JCS003023 Ehúd salió por el corredor, atrancando tras de sí y echando el cerrojo a las puertas de la cámara alta. 
+JCS003024 Cuando Ehúd ya estaba fuera, los servidores quisieron entrar pero, al ver que las puertas de la cámara alta tenían echado el cerrojo, pensaron: 'Sin duda está satisfaciendo una necesidad en la cámara fresca'. 
+JCS003025 Esperaron, pero luego se sintieron inquietos, porque no abría las puertas de la cámara. Tomaron entonces la llave y abrieron. Allí yacía su amo derribado en tierra, muerto. 
+JCS003026 Mientras ellos habían estado esperando indecisos se escapó Ehúd y, después de dejar atrás el lugar de los ídolos, llegó salvo a Seirá. 
+JCS003027 Cuando llegó, mandó sonar la trompeta en la montaña de Efraín. Los israelitas bajaron entonces del monte hacia él, y él se puso al frente de ellos. 
+JCS003028 Les dijo: 'Seguidme, porque Yahveh va a entregar a vuestros enemigos, los moabitas, en vuestras manos'. Descendieron tras él y ocuparon los vados del Jordán en dirección a Moab, sin dejar pasar a nadie. 
+JCS003029 Derrotaron a Moab en aquella ocasión y de unos diez mil hombres, todos robustos y valerosos, no dejaron escapar ni uno solo. 
+JCS003030 Aquel día, Moab fue humillado bajo la mano de Israel. Y el país quedó tranquilo durante ochenta años. 
+JCS003031 Le sucedió Sangar, hijo de Anat, quien derrotó a seiscientos filisteos con una aguijada de bueyes. También él salvó a Israel. 
+JCS004001 Después de la muerte de Ehúd, volvieron los israelitas a hacer lo que es malo a los ojos de Yahveh. 
+JCS004002 Por ello Yahveh los entregó en manos de Yabín, rey de Canaán, que reinaba en Jasor. El jefe de su ejército era Sísara, que residía en Jaróset Hagoin. 
+JCS004003 Los israelitas clamaron a Yahveh, pues Yabín tenía novecientos carros de hierro y había ejercido una dura opresión sobre los israelitas durante veinte años. 
+JCS004004 Por aquel tiempo era juez en Israel la profetisa Débora, mujer de Lapidot. 
+JCS004005 Se sentaba bajo la Palmera de Débora, entre Ramá y Betel, en la montaña de Efraín; y los israelitas acudían a ella para resolver sus litigios. 
+JCS004006 Ella mandó llamar a Barac, hijo de Abinoán, de Cades de Neftalí, y le dijo: '¿No te tiene ordenado Yahveh, Dios de Israel, que vayas al monte Tabor, a reclutar y tomar contigo diez mil hombres de los hijos de Neftalí y de Zabulón? 
+JCS004007 Yo atraeré hacia ti, al torrente Quisón, a Sísara, jefe del ejército de Yabín, con sus carros y su tropa, y lo entregaré en tus manos'. 
+JCS004008 Barac le contestó: 'Si vienes tú conmigo, iré, pero si no vienes conmigo, no iré'. 
+JCS004009 Respondió ella: 'Bien, iré contigo; pero no será tuya la gloria de la expedición que vas a emprender, porque Yahveh entregará a Sísara en manos de una mujer'. Débora se levantó y se fue con Barac a Cades. 
+JCS004010 Convocó Barac a Zabulón y Neftalí en Cades y emprendió la marcha, seguido de diez mil hombres. También Débora subió con él. 
+JCS004011 Jéber, el quenita, se había separado de Caín, de los hijos de Jobab, suegro de Moisés, y había plantado su tienda junto al encinar de Saananín, que está cerca de Cades. 
+JCS004012 Le anunciaron a Sísara que Barac, hijo de Abinoán, había subido al monte Tabor. 
+JCS004013 Sísara reunió todos sus carros, novecientos carros de hierro, y todo su ejército, desde Jaróset Hagoin hasta el torrente Quisón. 
+JCS004014 Dijo entonces Débora a Barac: 'Levántate, porque éste es el día en que Yahveh entregará a Sísara en tus manos. ¿Es que Yahveh no va delante de ti?'. Descendió, pues Barac del monte Tabor, y tras él diez mil hombres. 
+JCS004015 Sembró el pánico Yahveh sobre Sísara, sobre todos sus carros y sobre todo su ejército delante de Barac. Sísara abandonó su carro y emprendió la huida a pie. 
+JCS004016 Barac siguió en persecución de los carros y del ejército hasta Jaróset Hagoin y todo el ejército de Sísara cayó a filo de espada: no quedó ni uno. 
+JCS004017 Sísara huyó a pie hacia la tienda de Yael, esposa de Jéber, el quenita, pues había paz entre Yabin, rey de Jasor y la casa de Jéber, el quenita. 
+JCS004018 Salió Yael al encuentro de Sísara y le dijo: 'Ven, señor, acógete a mi tienda y no temas'. Entró en la tienda, y ella lo cubrió con un cobertor. 
+JCS004019 Él le dijo: 'Dame un poco de agua para beber porque tengo sed'. Abrió ella el odre de leche, dióle de beber, y lo volvió a cubrir. 
+JCS004020 Él le dijo: 'Ponte a la puerta de la tienda y si alguien viene y te pregunta: ¿Hay alguno aquí?, respóndele que no hay nadie'. 
+JCS004021 Tomó luego Yael, esposa de Jéber, una clavija de fijar la tienda, tomó también en la mano un martillo, se acercó sigilosamente a él y le hincó en la sien la clavija, que penetró hasta clavarse en la tierra. Él, que estaba profundamente dormido y fatigado, murió. 
+JCS004022 En ese momento llegó Barac, que iba persiguiendo a Sísara. Le salió Yael al encuentro y le dijo: 'Ven, que voy a mostrarte al hombre que buscas'. Entró él donde ella y vio que Sísara yacía allí muerto, con el clavo en la sien. 
+JCS004023 Así humilló Dios aquel día a Yabín, rey de Canaán, ante los israelitas. 
+JCS004024 La mano de los israelitas se fue haciendo cada vez más dura sobre Yabín, rey de Canaán, hasta que lo aniquilaron. 
+JCS005001 Aquel día, Débora y Barac, hijo de Abinoán, entonaron un cántico diciendo: 
+JCS005002 'Cuando en Israel se sueltan las melenas, cuando se ofrece voluntario el pueblo, ¡bendecid a Yahveh! 
+JCS005003 ¡Escuchad, reyes; prestad oído, príncipes! Yo, yo quiero cantar a Yahveh; voy a entonar un himno a Yahveh, Dios de Israel. 
+JCS005004 Cuando tú, Yahveh, salías de Seír cuando avanzabas por los campos de Edom, se estremeció la tierra, gotearon los cielos y las nubes destilaron agua. 
+JCS005005 Derritiéronse los montes delante de Yahveh, delante de Yahveh, Dios de Israel. 
+JCS005006 En los días de Sangar, hijo de Anat, en los días de Yael, no había caravanas; los que antes caminaban por calzadas andaban ahora por senderos tortuosos. 
+JCS005007 Faltaban caudillos en Israel, faltaban, hasta que yo, Débora, surgí, hasta que surgí como madre de Israel. 
+JCS005008 Por haber escogido dioses nuevos, a las puertas estaba la guerra. ¿Acaso se veían escudos ni lanzas entre cuarenta mil en Israel? 
+JCS005009 Va mi corazón tras los caudillos de Israel, tras los que se ofrecen voluntarios en el pueblo. ¡Bendecid a Yahveh! 
+JCS005010 Los que vais montados sobre blancas asnas, los que os sentáis sobre alfombras, los que andáis por los caminos, cantad 
+JCS005011 con voces de quienes se reparten la presa en los abrevaderos. ¡Cántense allí las gestas de Yahveh, las victorias de su caudillaje en Israel, cuando el pueblo de Yahveh ha bajado a las puertas! 
+JCS005012 ¡Despierta, despierta, Débora; despierta, despierta, entona un cántico! ¡Levántate, Barac; prende a quienes te prendieron, hijo de Abinoán! 
+JCS005013 Descienden entonces los supervivientes, los príncipes, el pueblo de Yahveh desciende hacia mí con los nobles. 
+JCS005014 Los jefes de Efraín están ya en el valle; tras de ti, Benjamín está con sus guerreros; descienden los caudillos de Maquir; y de Zabulón, los que empuñan el cetro. 
+JCS005015 Los jefes de Isacar están con Débora; Neftalí es fiel a Barac: se han lanzado al valle tras sus pasos. En los riachuelos de Rubén grandes decisiones de corazón se toman. 
+JCS005016 ¿Por qué has de seguir echado en los apriscos, escuchando las flautas entre los rebaños? En los riachuelos de Rubén grandes ansiedades de corazón se sienten. 
+JCS005017 Allende el Jordán descansa Galaad. ¿Y por qué habita Dan junto a las naves? Aser permanece a orillas del mar, descansa en sus puertos. 
+JCS005018 Zabulón es un pueblo que desprecia la vida, igual que Neftalí sobre la altura de sus campos. 
+JCS005019 Llegaron los reyes, combatieron, entonces combatieron los reyes de Canaán en Taanac, junto a las aguas de Meguidó, sin poder recoger botín de plata. 
+JCS005020 Desde los cielos combatieron las estrellas, desde sus órbitas combatieron contra Sísara. 
+JCS005021 El torrente Quisón los barrió, el torrente de tiempos antiguos, el torrente Quisón. ¡Avanza, alma mía, con denuedo! 
+JCS005022 Cascos de caballos resonaron entonces: era el galopar, el galopar de sus corceles. 
+JCS005023 Maldecid a Meroz, dice el ángel de Yahveh, maldecid y maldecid a sus habitantes, porque no vinieron en ayuda de Yahveh, en ayuda de Yahveh, con los héroes. 
+JCS005024 ¡Bendita entre las mujeres Yael, esposa de Jéber, el quenita! ¡Entre las mujeres que moran en tiendas, bendita sea ella! 
+JCS005025 Agua pidió él, y ella le dio leche, en copa de príncipes le ofreció cuajada; 
+JCS005026 su mano alargó a la clavija, y su diestra al martillo de los trabajadores. Martilló a Sísara, le machacó la cabeza, le atravesó, le perforó la sien. 
+JCS005027 A sus pies se encorvó, cayó, quedó tendido, se encorvó, cayó a sus pies; donde se encorvó, allí cayó exánime. 
+JCS005028 A la ventana se asoma y atisba, tras las celosías, la madre de Sísara: ¿Por qué su carro tarda en llegar? ¿Por qué se retrasan sus carros de combate? 
+JCS005029 La más perspicaz de sus princesas le dice, y ella a sí misma se repite esas palabras: 
+JCS005030 ¿No será que hallaron botín y lo están repartiendo? ¡Una doncella, dos doncellas por cada valiente; telas de colores son el botín de Sísara, son el botín telas de colores; un manto, dos mantos de color para el cuello es el botín! 
+JCS005031 Perezcan así todos tus enemigos, oh Yahveh! ¡Y sean sus amigos como el salir del sol con todo su esplendor!'. Y el país quedó tranquilo durante cuarenta años. 
+JCS006001 Los israelitas hicieron lo que es malo a los ojos de Yahveh y Yahveh los entregó en poder de Madián durante siete años. 
+JCS006002 Como la mano de Madián pesaba demasiado duramente sobre Israel, los israelitas, por librarse de ella, tuvieron que refugiarse en las hendiduras de los montes, en cuevas y lugares de difícil acceso. 
+JCS006003 Cuando Israel hacía la siembra, subían contra él los madianitas, los amalecitas y los hijos de oriente, 
+JCS006004 acampaban frente a ellos y devastaban los productos de la región hasta cerca de Gaza; no dejaban en Israel víveres, ni ovejas, ni bueyes, ni asnos. 
+JCS006005 Porque ellos subían con sus ganados y sus tiendas; llegaban tan numerosos como langostas, pues ellos y sus camellos eran innumerables. Venían al país para devastarlo. 
+JCS006006 Quedó, pues, Israel reducido a la extrema miseria por causa de Madián. Entonces los israelitas clamaron a Yahveh. 
+JCS006007 Cuando los israelitas clamaron a Yahveh por causa de Madián, 
+JCS006008 Yahveh les envió un profeta que les dijo: 'Esto es lo que dice Yahveh, Dios de Israel: Yo os hice subir de Egipto y os saqué de la casa de la esclavitud. 
+JCS006009 Yo os liberé de la mano de Egipto y del poder de todos vuestros opresores; yo los arrojé de delante de vosotros y os di su tierra. 
+JCS006010 Entonces os dije: 'Yo soy Yahveh, vuestro Dios; no temáis a los dioses de los amorreos en cuyo país habitáis. Pero no habéis escuchado mi voz''. 
+JCS006011 Vino el ángel de Yahveh y se sentó bajo el terebinto de Ofrá, que pertenecía a Joás de Abiezer, mientras Gedeón, su hijo, estaba majando trigo en el lagar, para ponerlo a salvo de los madianitas. 
+JCS006012 Se le apareció el ángel de Yahveh, y le dijo: 'Yahveh está contigo, valiente guerrero'. 
+JCS006013 Respondióle Gedeón: 'Por favor, señor mío. Si Yahveh está con nosotros, ¿por qué nos sucede todo esto? ¿Dónde están todas esas maravillas que nos han narrado nuestros padres, al decirnos que nos sacó Yahveh de Egipto? Ahora Yahveh nos ha desamparado y nos ha entregado en manos de Madián'. 
+JCS006014 Entonces Yahveh se volvió hacia él y le dijo: 'Vete con esa fuerza que tienes y salvarás a Israel de manos de los madianitas. ¿No soy yo quien te envía?'. 
+JCS006015 Él replicó: 'Por favor, señor mío. Pero ¿con qué voy yo a salvar a Israel? Mi familia es la más mísera de Manasés, y yo soy el más pequeño en la casa de mi padre'. 
+JCS006016 Le dijo Yahveh: 'Yo estaré contigo y derrotarás a los madianitas como si fueran un solo hombre'. 
+JCS006017 Gedeón le respondió: 'Si cuento con tu favor, dame una señal de que eres tú el que me estás hablando. 
+JCS006018 Te ruego que no te alejes de aquí hasta que yo vuelva a ti, te presente mi ofrenda y la ponga delante de ti'. Y Él le respondió: 'Me quedaré hasta que vuelvas'. 
+JCS006019 Fue Gedeón y preparó un cabrito; con un efá de harina hizo panes ázimos; y, poniendo la carne en un canastillo y el caldo en una olla, se los llevó bajo el terebinto y se los ofreció. 
+JCS006020 El ángel de Dios le dijo: 'Toma la carne y los panes ázimos, ponlos sobre esa roca y derrama encima el caldo'. Así lo hizo. 
+JCS006021 Entonces el ángel de Yahveh extendió la punta del bastón que tenía en la mano y tocó la carne y los ázimos. Brotó entonces fuego de la roca, que consumió la carne y los ázimos. Y el ángel de Yahveh desapareció de su vista. 
+JCS006022 Gedeón se dio cuenta entonces de que aquel era el ángel de Yahveh y exclamó: '¡Ay, Señor mío, Yahveh! ¡Que he visto al ángel de Yahveh cara a cara!'. 
+JCS006023 Pero Yahveh le contestó: 'La paz sea contigo. No temas; que no morirás'. 
+JCS006024 Gedeón construyó allí un altar a Yahveh y lo llamó Yahveh-Paz. Todavía subsiste hasta hoy día en Ofrá de Abiezer. 
+JCS006025 Aquella noche le dijo Yahveh: 'Toma el toro cebado que tiene tu padre. Derriba el altar de Baal que tiene tu padre, y tala la aserá que está junto a él. 
+JCS006026 Después alzarás un altar bien construido a Yahveh, tu Dios, en la cima de ese fortín; tomarás luego el toro y lo ofrecerás en holocausto con la leña de la aserá que has talado'. 
+JCS006027 Tomó, pues, Gedeón diez hombres de entre sus siervos y ejecutó lo que Yahveh le había indicado; pero, por temor a su familia y a la gente de la ciudad, en vez de hacerlo de día, lo hizo de noche. 
+JCS006028 Cuando se levantaron de madrugada los hombres de la ciudad y vieron demolido el altar de Baal y talada la aserá que había junto a él y sacrificado el toro sobre el altar construido, 
+JCS006029 se dijeron unos a otros: '¿Quién ha hecho tal cosa?'. Después de indagar y preguntar, concluyeron: 'Ha sido Gedeón, hijo de Joás, el que lo ha hecho'. 
+JCS006030 Dijeron, pues, los hombres de la ciudad a Joás: 'Sácanos a tu hijo para que muera, pues ha derribado el altar de Baal y talado la aserá que estaba junto a él'. 
+JCS006031 Pero Joás replicó a cuantos estaban ante él: '¿Os toca a vosotros defender la causa de Baal? ¿Sois los encargados de salvarlo? Quien quiera defenderlo, será muerto antes de la mañana. Si él es dios, que se defienda a sí mismo, ya que le han derribado su altar'. 
+JCS006032 Por eso se le llamó a Gedeón desde aquel día Yerubaal, diciendo: 'Que Baal ponga pleito contra él, puesto que es él quien ha derribado su altar'. 
+JCS006033 Concentráronse todos los madianitas, los amalecitas y los hijos de oriente, pasaron el Jordán y acamparon en la llanura de Yizreel. 
+JCS006034 Entonces Gedeón quedó revestido del espíritu de Yahveh, tocó la trompeta y, al punto, los de Abiezer se agruparon a su alrededor. 
+JCS006035 Despachó mensajeros por todo Manasés, que también se congregó en su seguimiento; envió igualmente mensajeros a Aser, Zabulón y Neftalí, quienes subieron a su encuentro. 
+JCS006036 Dijo entonces Gedeón a Dios: 'Si realmente vas a salvar a Israel por mi mano, como has dicho, 
+JCS006037 yo voy a colocar un vellón de lana en la era: si el rocío cubre solamente el vellón, y todo el suelo queda seco, conoceré que por mi mano vas a salvar a Israel, como dijiste'. 
+JCS006038 Y así fue. Al levantarse de madrugada, exprimió el vellón y con el rocío que sacó de él llenó una taza de agua. 
+JCS006039 Dijo luego Gedeón a Dios: 'No se encienda tu cólera contra mí, si hablo todavía otra vez. Quiero hacer una nueva prueba con el vellón: que sólo el vellón permanezca seco, mientras el rocío cubra todo el suelo'. 
+JCS006040 Hízolo Dios así aquella noche: sólo el vellón quedó seco, mientras que el rocío cubría todo el suelo. 
+JCS007001 Madrugó Yerubaal, es decir, Gedeón, y toda la tropa que con él estaba, y acamparon junto a En Jarod; el campamento de Madián quedaba a su lado norte, junto a la colina de Moré, en el valle. 
+JCS007002 Dijo entonces Yahveh a Gedeón: 'Es demasiada gente la que tienes para que entregue yo en tus manos a los madianitas; no sea que se gloríe Israel a costa mía diciendo: 'Mi propia mano es la que me ha salvado'. 
+JCS007003 Haz, pues, pregonar ante la tropa: 'El que tenga miedo y tiemble, que se vuelva y se retire por la montaña de Galaad''. Volviéronse veintidós mil hombres de la tropa, y quedaron diez mil. 
+JCS007004 Pero Yahveh dijo a Gedeón: 'Todavía es demasiada gente; hazlos bajar al agua, y allí los someteré a prueba. Aquel del que yo te diga: 'Éste irá contigo', ése efectivamente irá contigo; mientras que todo aquel del que te diga: 'Éste no irá contigo', ése no irá'. 
+JCS007005 Hizo, pues, Gedeón que la tropa bajara al agua; y dijo Yahveh a Gedeón: 'Los que laman el agua con la lengua, como los perros, ponlos aparte de los que doblen la rodilla para beber'. 
+JCS007006 Y resultó que el número de los que lamieron el agua llevándola con las manos a la boca fue de trescientos hombres, mientras que todo el resto de la gente dobló sus rodillas para beber agua. 
+JCS007007 Dijo entonces Yahveh a Gedeón: 'Con los trescientos hombres que han lamido el agua os salvaré, y entregaré a los madianitas en tus manos. En cuanto a todos los demás, que se vaya cada uno a su lugar'. 
+JCS007008 Se quedaron con los cántaros y las trompetas de la tropa, mientras Gedeón despachó a todos los demás hombres de Israel a sus tiendas, y sólo retuvo a aquellos trescientos hombres. El campamento de Madián estaba abajo, en el valle. 
+JCS007009 Aquella misma noche Yahveh le habló así: 'Levántate y baja al campamento, porque lo voy a entregar en tus manos. 
+JCS007010 Si temes bajar solo, que baje contigo al campamento Purá, tu siervo, 
+JCS007011 y escucha lo que hablan; pues se fortalecerán tus manos para luego atacar al campamento'. Descendió, pues, con Purá, su siervo, hasta el extremo de las avanzadillas que había en el campamento. 
+JCS007012 Los madianitas, los amalecitas y todos los hijos de oriente habían caído sobre el valle, numerosos como langostas, y sus camellos eran innumerables, como las arenas de las orillas del mar. 
+JCS007013 Al llegar Gedeón, un hombre contaba a su compañero un sueño, diciéndole: 'He tenido un sueño: una hogaza de pan de cebada rodaba por el campamento de Madián; llegó hasta la tienda, chocó con ella y la derribó, la volvió de arriba abajo y la tienda se desplomó'. 
+JCS007014 Respondió su compañero: 'Esto no es otra cosa que la espada de Gedeón, hijo de Yoás, el israelita; Dios ha entregado en sus manos a Madián y todo el campamento'. 
+JCS007015 Al oír Gedeón el relato del sueño y su interpretación se postró, volvió luego al campamento de Israel y dijo: '¡Arriba; que Yahveh ha entregado en vuestras manos el campamento de Madián!'. 
+JCS007016 Dividió a los trescientos hombres en tres grupos y entregó a todos ellos trompetas y cántaros vacíos, con teas dentro de los cántaros. 
+JCS007017 Y les dijo: 'Miradme a mí y haced como yo. Cuando yo llegue al extremo del campamento, haced lo que yo haga. 
+JCS007018 Cuando yo y todos los que me acompañan toquemos la trompeta, tocadla también vosotros alrededor de todo el campamento, y gritad: '¡Por Yahveh y por Gedeón!''. 
+JCS007019 Llegó, pues, Gedeón con sus cien hombres al extremo del campamento al empezar la vela de media noche, justamente cuando acababan de relevar a los centinelas; tocaron las trompetas y rompieron los cántaros que llevaban en las manos. 
+JCS007020 Los tres grupos hicieron sonar las trompetas y rompieron los cántaros; y tomando las teas con la mano izquierda y las trompetas con la derecha, las hacían sonar y gritaban: '¡La espada, por Yahveh y por Gedeón!'. 
+JCS007021 Se mantuvieron, cada uno en su puesto, alrededor del campamento. Todos los del campamento corrían, gritaban y buscaban la huida. 
+JCS007022 Mientras los trescientos hombres tocaban las trompetas, Yahveh hacía que, en el campamento, unos volvieran las espadas contra otros; y todos los del campamento huyeron hasta Bet Hasitá, hacia Sarerá, hasta la ribera de Abel Mejolá, frente a Tabat. 
+JCS007023 Entonces se reunieron los israelitas venidos de Neftalí, Aser y Manasés y persiguieron a los de Madián. 
+JCS007024 Gedeón despachó mensajeros por toda la montaña de Efraín, con esta consigna: 'Bajad al encuentro de Madián y ocupad antes que ellos los vados hasta Bet Bará y el Jordán'. Todos los hombres de Efraín se reunieron y ocuparon los vados hasta Bet Bará y el Jordán. 
+JCS007025 Se apoderaron de dos príncipes de Madián, Oreb y Zeeb. Dieron muerte a Oreb en la roca de Oreb, y mataron a Zeeb en el lagar de Zeeb. Siguieron luego en persecución de Madián, y llevaron las cabezas de Oreb y Zeeb a Gedeón, al otro lado del Jordán. 
+JCS008001 Los hombres de Efraín dijeron a Gedeón: '¿Qué significa lo que has hecho con nosotros: no habernos convocado cuando fuiste a pelear con Madián?'. Y mantuvieron una violenta discusión con él. 
+JCS008002 Pero él les replicó: '¿Qué he hecho yo hasta ahora en comparación con vosotros? ¿Es que no son mejores los rebuscos de Efraín que la vendimia de Abiezer? 
+JCS008003 En vuestras manos ha entregado Dios a los príncipes de Madián, Oreb y Zeeb. ¿Qué he podido hacer yo en comparación con vosotros?'. Con estas palabras se aplacó su irritación contra él. 
+JCS008004 Llegó Gedeón al Jordán y lo cruzó con los trescientos hombres que tenía consigo, fatigados por la persecución 
+JCS008005 Dijo entonces a los habitantes de Sucot: 'Dad, por favor, tortas de pan a los que me siguen, porque están cansados, y tengo que dar alcance a Zébaj y Salmuná, reyes de Madián'. 
+JCS008006 Pero los príncipes de Suot respondieron. '¿Acaso tienes ya en tu poder a Zébaj y a Salmuná, para que tengamos que dar pan a tu ejército?'. 
+JCS008007 Dijo entonces Gedeón: 'Cuando Yahveh haya entregado en mis manos a Zébaj y a Salmuná, desgarraré vuestras carnes con espinas del desierto y con cardos'. 
+JCS008008 Subió de allí a Penuel, y les dijo lo mismo. Pero la gente de Penuel le respondió como le había respondido la gente de Sucot. 
+JCS008009 Y también a la gente de Penuel les contestó él: 'Cuando yo vuelva en paz, echaré abajo esa torre'. 
+JCS008010 Zébaj y Salmuná se hallaban en Carcor con su ejército, unos quince mil hombres, cuantos supervivientes quedaban de todo el ejército de los hijos de oriente, pues habían caído ciento veinte mil hombres capaces de empuñar la espada. 
+JCS008011 Subió Gedeón por el camino de los nómadas, al este de Nóbaj y de Yogboá, y derrotó al ejército, que se creía seguro. 
+JCS008012 Zébaj y Salmuná emprendieron la huida; pero él los perseguió, hizo prisioneros a los dos reyes de Madián, Zébaj y Salmuná, y el pánico se adueñó del ejército entero. 
+JCS008013 Gedeón, hijo de Yoás, volvió del campo de batalla por la cuesta de Jeres. 
+JCS008014 Y habiendo apresado a un joven de los de Sucot, lo interrogó. Éste le dio por escrito los nombres de los jefes y ancianos de Sucot: setenta y siete hombres. 
+JCS008015 Luego, cuando llegó adonde estaba la gente de Suot, les dijo: 'Aquí tenéis a Zébaj y a Salmuná, por causa de los cuales os mofasteis de mí, diciéndome: '¿Tienes ya en tu poder a Zébaj y a Salmuná, para que tengamos que dar pan a tus hombres cansados?''. 
+JCS008016 Tomó entonces a los ancianos de la ciudad, y con espinas del desierto y con cardos dio una lección a los hombres de Sucot. 
+JCS008017 Derribó también la torre de Penuel, y dio muerte a los hombres de la ciudad. 
+JCS008018 Dijo luego a Zébaj y a Salmuná: '¿Cómo eran los hombres que habéis matado en el Tabor?'. Respondieron: 'Parecidos a ti; todos ellos tenían aspecto de ser hijos de rey'. 
+JCS008019 Dijo entonces Gedeón: 'Eran mis hermanos, hijos de mi madre. Por vida de Yahveh, que, si los hubierais dejado con vida, yo no os mataría'. 
+JCS008020 Y dijo a Yéter, su primogénito: 'Anda, mátalos'. Pero el joven no se atrevió a desenvainar la espada, porque, como era todavía un niño, tenía miedo. 
+JCS008021 Dijéronle entonces Zébaj y Salmuná: 'Ven y hiérenos tú, porque como es el hombre, así es su valor'. Se levantó, pues, Gedeón y mató a Zébaj y Salmuná; luego tomó las lunetas que sus camellos llevaban al cuello. 
+JCS008022 Dijeron entonces los israelitas a Gedeón: 'Reina sobre nosotros tú, tu hijo y tu nieto, pues nos has salvado del poder de Madián'. 
+JCS008023 Gedeón les respondió: 'No reinaré yo sobre vosotros, ni mi hijo; Yahveh será vuestro rey'. 
+JCS008024 Y les añadió: 'Voy a haceros una petición: entregadme cada uno de vosotros un anillo de su botín'. Pues los vencidos eran amalecitas y usaban anillos de oro. 
+JCS008025 Le respondieron: 'De buen grado te los daremos'. Extendieron el manto, y cada uno depositó en él un anillo de su botín. 
+JCS008026 El peso de los anillos de oro que había pedido fue de mil setecientos siclos de oro, sin contar las lunetas, los pendientes, los vestidos de púrpura que llevaban los reyes de Madián ni los collares que pendían del cuello de sus camellos. 
+JCS008027 Gedeón fabricó con ellos un efod y lo colocó en su ciudad, en Ofrá. Pero todo Israel se prostituyó ante aquel efod, que vino a ser una trampa para Gedeón y su casa. 
+JCS008028 Así quedó humillado Madián ante los israelitas, sin volver a levantar cabeza. El país estuvo tranquilo durante cuarenta años, mientras vivió Gedeón. 
+JCS008029 Yerubaal, hijo de Yoás, se fue a residir a su casa. 
+JCS008030 Tenía setenta hijos, nacidos de él, pues tenía muchas mujeres. 
+JCS008031 También la concubina que tenía en Siquén le dio a luz un hijo, al que llamó Abimélec. 
+JCS008032 Murió Gedeón, hijo de Yoás, en buena ancianidad, y fue sepultado en la tumba de Yoás, su padre, en Ofrá de Abiezer. 
+JCS008033 Después de la muerte de Gedeón volvieron los israelitas a prostituirse tras de los baales, y tomaron por dios a Baal Berit. 
+JCS008034 Los israelitas, pues, no se acordaron de Yahveh, su Dios, que los había salvado de todos sus enemigos que lo cercaban. 
+JCS008035 Tampoco mostraron gratitud a la familia de Yerubaal-Gedeón por todo el bien que había hecho a Israel. 
+JCS009001 Abimélec, hijo de Yerubaal, se fue a Siquén para estar con los hermanos de su madre. Y les habló, a ellos y a toda la familia de la casa paterna de su madre, en estos términos: 
+JCS009002 'Decid, por favor, a oídos de todos los principales de Siquén: '¿Qué es mejor para vosotros, que reinen sobre vosotros setenta hombres, hijos todos ellos de Yerubaal, o que reine sobre vosotros uno solo?'. Y tened en cuenta que soy hueso vuestro y carne vuestra'. 
+JCS009003 Los hermanos de su madre hicieron llegar estas palabras a todos los principales de Siquén, cuyo corazón se inclinó hacia Abimélec, pues se decían: 'Es nuestro hermano'. 
+JCS009004 Le dieron setenta siclos de plata del templo de Baal Berit, con los que Abimélec tomó a sueldo a maleantes y aventureros que le siguieron. 
+JCS009005 Se dirigió entonces a casa de su padre, en Ofrá, y asesinó a sus hermanos, hijos de Yerubaal, setenta hombres, sobre una misma piedra. Sólo se salvó Jotán, el hijo menor de Yerubaal, porque logró ocultarse. 
+JCS009006 Reuniéronse luego todos los principales de Siquén y todo Bet Miló y proclamaron rey a Abimélec junto a la encina de la estela que hay en Siquén. 
+JCS009007 Cuando se lo anunciaron a Jotán, éste fue a situarse en la cima del monte Garizín, levantó su voz, y les dijo a gritos: '¡Escuchadme, principales de Siquén, y que Dios os oiga!: 
+JCS009008 Pusiéronse en camino los árboles para ungir un rey. Dijeron al olivo: '¡Sé nuestro rey!'. 
+JCS009009 Respondió el olivo: '¿Voy a privarme de mi pingüe jugo, con el cual, gracias a mí, son honrados dioses y hombres, para ir a mecerme sobre los árboles?'. 
+JCS009010 Dijeron entonces los árboles a la higuera: '¡Ven tú, y reina sobre nosotros!'. 
+JCS009011 Pero la higuera les respondió: '¿Voy a renunciar a mi dulzura, a mis apetitosos frutos, para ir a mecerme sobre los árboles?'. 
+JCS009012 Dijeron entonces los árboles a la vid: '¡Ven tú, y reina sobre nosotros!'. 
+JCS009013 Pero la vid les respondió: '¿Voy a renunciar a mi mosto, que alegra a los dioses y a los hombres, para ir a mecerme sobre los árboles?'. 
+JCS009014 Dijeron entonces los árboles todos a la zarza: '¡Ven tú, y reina sobre nosotros!'. 
+JCS009015 Y la zarza respondió a los árboles: 'Si de verdad me queréis ungir para que reine sobre vosotros, venid a refugiaros bajo mi sombra; de lo contrario, saldrá fuego de la zarza y devorará los cedros del Líbano''. 
+JCS009016 'Ahora bien, ¿habéis procedido con verdad y con rectitud al elegir rey a Abimélec? ¿Os habéis portado bien con Yerubaal y con su casa? ¿Lo habéis tratado conforme a los méritos de sus hechos? 
+JCS009017 Mi padre combatió por vosotros, arriesgó su vida y os libró del poder de Madián. 
+JCS009018 Vosotros, en cambio, os habéis alzado hoy contra la casa de mi padre, habéis asesinado a sus hijos, setenta hombres, sobre una misma piedra, y habéis proclamado a Abimélec, hijo de su esclava, rey sobre los principales de Siquén, porque es hermano vuestro. 
+JCS009019 Si, pues, con verdad y con rectitud os habéis portado hoy con Yerubaal y con su casa, alegraos con Abimélec, y que él se alegre también con vosotros. 
+JCS009020 Pero, si no es así, que salga fuego de Abimélec y devore a los principales de Siquén y de Bet Miló, y que salga fuego de los principales de Siquén y de Bet Miló y devore a Abimélec.' 
+JCS009021 Jotán huyó y se puso a salvo yéndose a Beer; donde se instaló, para estar lejos de su hermano Abimélec. 
+JCS009022 Abimélec dominó sobre Israel durante tres años. 
+JCS009023 Pero Dios mandó un espíritu malo de discordia entre Abimélec y los principales de Siquén, hasta el punto de que éstos traicionaron a Abimélec. 
+JCS009024 Se devolvía así la violencia hecha a los setenta hijos de Yerubaal y se hacía recaer la sangre de éstos sobre Abimélec, su hermano, que los había asesinado, y sobre los principales de Siquén, que le habían ayudado a matar a sus hermanos. 
+JCS009025 Los principales de Siquén pusieron emboscadas en las cimas de los montes para desvalijar a cuantos pasaban junto a su camino. De ello se dio aviso a Abimélec. 
+JCS009026 Por aquel entonces, llegó Gaal, hijo de Ébed, con sus hermanos y, al pasar por Siquén, se ganó la confianza de los principales de Siquén. 
+JCS009027 Salieron, pues, éstos a la campiña, vendimiaron sus viñas, pisaron las uvas, organizaron gran fiesta y entraron en el templo de su dios; y mientras comían y bebían, maldecían a Abimélec. 
+JCS009028 Dijo entonces Gaal, hijo de Ébed: '¿Quién es Abimélec y qué es Siquén, para que les sirvamos? ¿Acaso no es hijo de Yerubaal, y no es Zebul su lugarteniente? Servid a los hombres de Jamor, padre de Siquén. Pero ¿por qué nosotros hemos de servirle a él? 
+JCS009029 ¡Quién me diera este pueblo en mis manos, para poder yo eliminar a Abimélec! Yo le diría: refuerza tu ejército, y sal a luchar'. 
+JCS009030 Al enterarse Zebul, gobernador de la ciudad, de las palabras de Gaal, hijo de Ébed, montó en cólera, 
+JCS009031 y con astucia envió emisarios a Abimélec para avisarle: 'Mira que Gaal, hijo de Ébed, y sus hermanos, han llegado a Siquén y están soliviantando la ciudad contra ti. 
+JCS009032 Así que sal de noche, tú y la tropa que está contigo, y tiende una emboscada en la campiña. 
+JCS009033 De mañana, al salir el sol, parte en seguida y lánzate contra la ciudad; entonces, él y la gente que con él está saldrán hacia ti, y tú harás con él según lo que dicten las circunstancias'. 
+JCS009034 Abimélec salió de noche con toda su gente, y tendieron una emboscada junto a Siquén, divididos en cuatro grupos. 
+JCS009035 Gaal, hijo de Ébed, salió y se detuvo a la entrada de la puerta de la ciudad; en aquel momento, surgieron Abimélec y sus tropas de la emboscada. 
+JCS009036 Divisó Gaal a la gente, y dijo a Zebul: 'Mira la gente que baja de las cumbres de los montes'. Zebul le respondió: 'Son las sombras de los montes que te parecen hombres'. 
+JCS009037 Volvió a decirle Gaal: 'Mira cómo baja gente por el Ombligo de la Tierra y otro grupo viene por el camino de la Encina de los Adivinos'. 
+JCS009038 Entonces Zebul le dijo: '¿Dónde están ahora tus fanfarronadas de cuando decías: '¿Quién es Abimélec para que le sirvamos?'¿No es ésa la gente que despreciabas? Pues, ahora, sal a su encuentro y combate contra él'. 
+JCS009039 Salió entonces Gaal al frente de los principales de Siquén, y presentó combate a Abimélec. 
+JCS009040 Abimélec persiguió a Gaal, pero éste consiguio escapar. Muchos de los suyos cayeron traspasados a la entrada de la puerta. 
+JCS009041 Después Abimélec se instaló en Arumá. Zebul expulsó a Gaal y a sus hermanos y no les permitió habitar en Siquén. 
+JCS009042 Al día siguiente salió el pueblo al campo y se lo avisaron a Abimélec. 
+JCS009043 Tomó éste a su gente, la dividió en tres grupos y tendió una emboscada en el campo. Cuando vio que el pueblo salía de la ciudad, se lanzó contra ellos y los derrotó. 
+JCS009044 Abimélec y su grupo atacaron y tomaron posiciones a la entrada de la puerta de la ciudad, mientras los otros dos grupos cargaron contra todos los que estaban en el campo y los derrotaron. 
+JCS009045 Abimélec atacó la ciudad durante todo aquel día, se apoderó al fin de ella y dio muerte a toda su población. Después arrasó la ciudad, y la sembró de sal. 
+JCS009046 Al enterarse de esto, todos los principales, que estaban en la torre de Siquén se metieron en la cripta del templo de El Berit. 
+JCS009047 Avisaron a Abimélec que todos los principales de la torre de Siquén se habían reunido allí. 
+JCS009048 Entonces Abimélec subió al monte Salmón con toda su gente, tomó en su mano el hacha, cortó una rama de árbol y, levantándola, se la echó al hombro y dijo a su gente: '¡Daos prisa; haced lo que me habéis visto hacer!'. 
+JCS009049 Y toda la gente cortó cada uno una rama, siguieron tras de Abimélec, echaron las ramas sobre la cripta y le prendieron fuego. Así perecieron todos los que estaban en la torre de Siquén: unas mil personas entre hombres y mujeres. 
+JCS009050 Después Abimélec se dirigió a Tebés, la sitió y se apoderó de ella. 
+JCS009051 Había una torre fortificada en el centro de la ciudad, donde se refugiaron todos los hombres y mujeres y todos los principales de la ciudad, aseguraron los cerrojos y se subieron a la terraza de la torre. 
+JCS009052 Abimélec llegó hasta la torre para atacarla, y se acercó a la entrada de la misma con la intención de incendiarla. 
+JCS009053 Pero entonces, una mujer lanzó sobre la cabeza de Abimélec una muela de molino y le fracturó el cráneo. 
+JCS009054 Él llamó de inmediato a su joven escudero y le dijo: 'Saca tu espada y remátame, para que nadie diga de mí: 'Una mujer lo ha matado''. Su escudero lo traspasó, y él murió. 
+JCS009055 Cuando los israelitas vieron que Abimélec había muerto, se fueron cada uno a su lugar. 
+JCS009056 Así devolvió Dios a Abimélec el mal que había hecho a su padre cuando mató a sus setenta hermanos. 
+JCS009057 Y asimismo hizo Dios que todo el mal de los hombres de Siquén recayera sobre sus cabezas y que se cumpliera así sobre ellos la maldición de Jotán, hijo de Yerubaal. 
+JCS010001 Después de Abimélec surgió para salvar a Israel Tolá, hijo de Puá, hijo de Dodó, de la tribu de Isacar, que residía en Samir, en la montaña de Efraín. 
+JCS010002 Fue juez de Israel durante veintitrés años. Murió y fue sepultado en Samir. 
+JCS010003 Después de él surgió el galaadita Yaír, que fue juez de Israel durante veintidós años. 
+JCS010004 Tenía treinta hijos que montaban treinta pollinos y eran dueños de treinta poblados, llamados todavía hoy Poblados de Yaír, en el territorio de Galaad. 
+JCS010005 Murió Yaír y fue sepultado en Camón. 
+JCS010006 Los israelitas volvieron a hacer lo que es malo a los ojos de Yahveh y a servir a los baales y a las astartés, a los dioses de Aram y a los de Sidón, a los dioses de los moabitas y de los amonitas, y a los dioses de los filisteos. Abandonaron así a Yahveh, al que dejaron de dar culto. 
+JCS010007 Encendióse la ira de Yahveh contra Israel y los entregó en manos de los filisteos y de los amonitas, 
+JCS010008 que oprimieron y vejaron a los israelitas, a partir de aquel año, a lo largo de dieciocho años, sobre todo a los israelitas que habitaban al otro lado del Jordán, en el territorio amorreo donde está Galaad. 
+JCS010009 Los amonitas atravesaron el Jordán para llevar también la guerra a Judá, a Benjamín y a la casa de Efraín, de modo que Israel se encontró en grande aprieto. 
+JCS010010 Clamaron entonces los israelitas a Yahveh, diciendo: 'Hemos pecado contra ti, porque hemos abandonado a nuestro Dios y hemos servido a los baales'. 
+JCS010011 Respondió Yahveh a los israelitas: '¿Es que no os oprimieron los egipcios, los amorreos, los amonitas, los filisteos, 
+JCS010012 los sidonios, los amalecitas y los madianitas? Y cuando clamasteis a mí, ¿no os libré yo de sus manos? 
+JCS010013 Pero vosotros me habéis abandonado y habéis rendido culto a dioses extraños; por eso no volveré a salvaros. 
+JCS010014 Id y clamad a esos dioses que os habéis elegido; que ellos os salven en el tiempo de vuestra angustia'. 
+JCS010015 Dijeron entonces los israelitas a Yahveh: 'Hemos pecado: haz con nosotros todo lo que mejor te parezca; pero, por favor, líbranos hoy'. 
+JCS010016 Retiraron entonces a los dioses extraños de en medio de ellos y sirvieron a Yahveh, quien no pudo ya soportar las penalidades de Israel. 
+JCS010017 Los amonitas se movilizaron y acamparon en Galaad. También se movilizaron los israelitas y acamparon en Mispá. 
+JCS010018 Entonces el pueblo y los jefes de Galaad se dijeron unos a otros: '¿Quién será el primero que inicie el combate contra los amonitas? Quien lo haga será el caudillo de cuantos vivimos en Galaad'. 
+JCS011001 Jefté, el galaadita, era un guerrero valiente, hijo de una meretriz. Jefté había sido engendrado por Galaad, 
+JCS011002 pero la esposa de Galaad también le había dado varios hijos, que, al hacerse mayores, echaron de casa a Jefté, diciéndole: 'No podrás heredar en la casa de nuestro padre, porque eres hijo de otra mujer'. 
+JCS011003 Jefté marchó lejos de sus hermanos y estableció su residencia en la región de Tob. Se le unieron algunos maleantes, que hacían incursiones con él. 
+JCS011004 Después de algún tiempo, los amonitas hicieron la guerra a Israel. 
+JCS011005 Cuando los amonitas iniciaron sus ataques contra Israel, los ancianos de Galaad fueron en busca de Jefté, a la región de Tob, 
+JCS011006 y le dijeron: 'Ven y serás nuestro jefe en la guerra contra los amonitas'. 
+JCS011007 Pero Jefté respondió a los ancianos de Galaad: '¿No sois vosotros los que me odiabais, hasta arrojarme de la casa de mi padre? ¿Por qué venís a mí ahora que estáis en aprieto?'. 
+JCS011008 Pero los ancianos de Galaad le dijeron: 'Hemos vuelto a ti precisamente ahora, para que vengas con nosotros a pelear contra los amonitas y seas nuestro jefe y el de todos los habitantes de Galaad'. 
+JCS011009 Respondió Jefté a los ancianos de Galaad: 'Si me hacéis volver para pelear contra los amonitas y Yahveh me los entrega, ¿seré yo vuestro jefe?'. 
+JCS011010 Replicaron los ancianos de Galaad a Jefté: 'Yahveh sea testigo contra nosotros, si no hacemos según lo que dices'. 
+JCS011011 Entonces se fue Jefté con los ancianos de Galaad y fue reconocido por el pueblo como jefe y caudillo. Y Jefté repitió todas sus palabras delante de Yahveh, en Mispá. 
+JCS011012 Jefté despachó mensajeros al rey de los amonitas para que le dijeran: '¿Qué hay entre nosotros, para que vengas tú contra mí a hacer la guerra a mi país?'. 
+JCS011013 El rey de los amonitas respondió a los mensajeros de Jefté: 'Pues que Israel, cuando subió de Egipto, se apoderó de mi tierra desde el Arnón hasta el Yaboc y hasta el Jordán. Ahora, pues, devuélvemela en paz'. 
+JCS011014 Jefté tornó a enviar mensajeros al rey de los amonitas 
+JCS011015 y le dijo: 'Esto habla Jefté: no se apoderó Israel del país de Moab ni del de los amonitas, 
+JCS011016 sino que, al subir de Egipto, Israel caminó por el desierto hasta el mar de los Juncos y llegó a Cades. 
+JCS011017 Entonces Israel envió mensajeros al rey de Edom, para decirle: 'Permíteme pasar por tu país'. Pero el rey de Edom no accedió. También envió mensajeros al rey de Moab, pero tampoco éste lo consintió; con lo que Israel se vio obligado a permanecer en Cades. 
+JCS011018 Después se fue por el desierto, bordeó el país de Edom y la tierra de Moab, llegó al oriente del país de Moab y acampó al otro lado del Arnón, pero sin franquear las fronteras de Moab, ya que el Arnón es el límite de Moab. 
+JCS011019 Israel envió también mensajeros a Sijón, rey de los amorreos, rey de Jesbón, para decirle: 'Permítenos cruzar por tu país de paso hasta nuestro destino'. 
+JCS011020 Pero no sólo no permitió a Israel atravesar el país, sino que concentró a todo su ejército, acampó en Yahas y atacó a Israel. 
+JCS011021 Pero Yahveh, Dios de Israel, entregó a Sijón y a todo su ejército en manos de Israel, que los derrotó, e Israel se apoderó de toda la tierra de los amorreos que habitaban en aquella región 
+JCS011022 y conquistaron todo el territorio de los amorreos desde el Arnón hasta el Yaboc, y desde el desierto hasta el Jordán. 
+JCS011023 Y ahora que Yahveh, Dios de Israel, arrojó a los amorreos de delante de su pueblo Israel, ¿tú los quieres desalojar? 
+JCS011024 ¿Es que tú no ocupas ya todo lo que Camós, tu dios, te dio en posesión? Por la misma razón, todo lo que Yahveh, nuestro Dios, nos ha dado en posesión ante nosotros, ¿no lo vamos a poseer? 
+JCS011025 Por otra parte, ¿vales tú más que Balac, hijo de Sipor, rey de Moab? ¿Acaso pudo él luchar contra Israel o hacerle la guerra? 
+JCS011026 Hace ya trescientos años que se instaló Israel en Jesbón y en sus aldeas, en Aroer y en sus aldeas y en todas las ciudades que están a orillas del Arnón, ¿por qué desde entonces no las habéis reclamado? 
+JCS011027 Yo, pues, no he pecado contra ti; y en cambio, tú me haces daño al declararme la guerra. ¡Que Yahveh, el juez, juzgue hoy entre los israelitas y los amonitas!'. 
+JCS011028 Pero el rey de los amonitas no aceptó el mensaje que Jefté le había dirigido. 
+JCS011029 El espíritu de Yahveh vino sobre Jefté, quien atravesó Galaad y Manasés, pasó a Mispá de Galaad y desde Mispá de Galaad marchó contra los amonitas. 
+JCS011030 Jefté hizo entonces este voto a Yahveh: 'Si realmente entregas a los amonitas en mis manos, 
+JCS011031 el primero que salga de las puertas de mi casa a mi encuentro, al volver yo sano y salvo de los amonitas, será para Yahveh y se lo sacrificaré en holocausto'. 
+JCS011032 Avanzó luego Jefté hacia los amonitas para atacarlos. Yahveh se los entregó en sus manos y 
+JCS011033 los derrotó desde Aroer hasta la entrada de Minit -veinte pueblos- y hasta Abel Queramín. Fue una aplastante derrota. Y así los amonitas quedaron humillados ante los israelitas. 
+JCS011034 Cuando Jefté llegó a Mispá, a su casa, salió a su encuentro su hija, con panderos y coros de danza. Era su hija única, pues él no tenía más hijos ni hijas. 
+JCS011035 Al verla, rasgó él sus vestiduras y exclamó: '¡Ay, hija mía! ¡Tú misma me hundes! ¡Tú me has destrozado! Porque yo pronuncié un voto ante Yahveh y no puedo retractarme'. 
+JCS011036 Ella le respondió: 'Padre mío: si pronunciaste un voto ante Yahveh, haz conmigo conforme a lo que salió de tu boca, ya que Yahveh te ha concedido vengarte de tus enemigos, de los amonitas'. 
+JCS011037 Después dijo a su padre: 'Que se me conceda este favor: Déjame un espacio de dos meses, para ir a vagar por los montes y hacer duelo con mis compañeras por mi virginidad '. 
+JCS011038 'Vete', contestó él. Y la despidió por dos meses. Ella se fue con sus compañeras por los montes y estuvo haciendo duelo por su virginidad. 
+JCS011039 Al cabo de los dos meses, regresó adonde su padre, el cual dio con ella cumplimiento a su voto. Ella no había conocido varón. Por eso es costumbre en Israel 
+JCS011040 que todos los años, durante cuatro días al año, vayan las hijas de Israel a lamentarse por la hija de Jefté, el galaadita. 
+JCS012001 Se reunieron los hombres de Efraín, pasaron a Safón y dijeron a Jefté: '¿Por qué has ido a combatir a los amonitas sin convocarnos para que fuéramos contigo? Vamos a prender fuego a tu casa contigo dentro'. 
+JCS012002 Respondióles Jefté: 'Tuvimos muchas querellas, yo y mi pueblo, con los amonitas y os pedí auxilio, pero no hicisteis nada por librarme de sus manos. 
+JCS012003 Viendo que no veníais a salvarme, marché contra los amonitas poniendo en riesgo mi propia vida y Yahveh los entregó en mis manos. ¿Por qué, pues, subís hoy contra mí para hacerme la guerra?'. 
+JCS012004 Entonces Jefté reunió a todos los hombres de Galaad y declaró la guerra a Efraín. Los de Galaad derrotaron a los de Efraín, que decían: '¡Vosotros, galaaditas, sois tránsfugas de Efraín, de en medio de Efraín, en medio de Manasés!'. 
+JCS012005 Los galaaditas ocuparon los vados del Jordán en dirección a Efraín; y cuando alguno de los fugitivos de Efraín decía: 'Dejadme pasar', le respondían los galaaditas: '¿Eres efrainita?'. Si él respondía: 'No', 
+JCS012006 los galaaditas le replicaban: 'Di 'shibbólet''; pero él pronunciaba 'sibbólet', porque no acertaba con la pronunciación correcta. Entonces los de Galaad lo prendían y lo degollaban junto a los vados del Jordán. Cayeron así en aquella ocasión cuarenta y dos mil hombres de Efraín. 
+JCS012007 Jefté fue juez de Israel durante seis años. Después murió Jefté, el galaadita, y fue sepultado en su ciudad de Galaad. 
+JCS012008 Después de él fue juez de Israel Ibsán de Belén, 
+JCS012009 que tuvo treinta hijos y treinta hijas. A éstas las casó fuera, y de fuera trajo treinta doncellas para sus hijos. Fue juez de Israel durante siete años. 
+JCS012010 Murió Ibsán, y fue sepultado en Belén. 
+JCS012011 Después de él fue juez de Israel Elón, zabulonita, quien juzgó a Israel diez años. 
+JCS012012 Murió Elón, de Zabulón, y fue sepultado en Ayalón, en tierra de Zabulón. 
+JCS012013 Después de él fue juez de Israel Abdón, hijo de Hilel, de Piratón. 
+JCS012014 Tuvo cuarenta hijos y treinta nietos, que cabalgaban sobre setenta asnos. Fue juez de Israel durante ocho años. 
+JCS012015 Murió Abdón, hijo de Hilel, de Piratón, y fue sepultado en Piratón, en la tierra de Efraín, en la montaña de los amalecitas. 
+JCS013001 Los israelitas volvieron a hacer lo que es malo ante los ojos de Yahveh; y Yahveh los entregó en manos de los filisteos durante cuarenta años. 
+JCS013002 Había entonces un hombre de Sorá, de la familia de los danitas, que se llamaba Manóaj. Su mujer era estéril y no había tenido hijos. 
+JCS013003 Se le apareció a esta mujer el ángel de Yahveh y le dijo: 'Mira, eres estéril y nunca has dado a luz, pero vas a concebir y darás a luz un hijo. 
+JCS013004 Y ahora guárdate de beber vino y bebidas fermentadas, y de comer nada impuro, 
+JCS013005 porque vas a concebir y darás a luz un hijo. No pasará la navaja sobre su cabeza, porque el niño será nazireo de Dios desde el seno materno. Él comenzará a salvar a Israel de manos de los filisteos'. 
+JCS013006 La mujer comunicó a su esposo: 'Ha venido a mí un hombre de Dios; su aspecto era como el del ángel de Dios, sobremanera terrible. No le pregunté de dónde venía ni me dijo su nombre. 
+JCS013007 Pero sí me dijo: 'Vas a concebir y darás a luz un hijo. Desde ahora no bebas vino ni bebidas fermentadas, ni comas nada impuro, porque el niño será nazireo de Dios desde el seno materno hasta el día de su muerte''. 
+JCS013008 Manóaj invocó a Yahveh, diciendo: 'Por favor, Señor mío: que el hombre de Dios que enviaste venga de nuevo a nosotros, para que nos indique lo que debemos hacer con el niño que nazca'. 
+JCS013009 Escuchó Dios la súplica de Manóaj, y el ángel de Dios volvió a la mujer cuando ella estaba sentada en el campo. Manóaj, su marido, no estaba con ella. 
+JCS013010 La mujer corrió en seguida a comunicárselo a su marido, y le dijo: 'Se me ha vuelto a aparecer el hombre que vino a mí el otro día'. 
+JCS013011 Manóaj se levantó y se fue tras su mujer; llegó adonde estaba el hombre y le dijo: '¿Eres tú el hombre que habló con esta mujer?'. Respondió: 'Yo soy'. 
+JCS013012 Le dijo entonces Manóaj: 'Cuando se cumplan tus palabras, ¿cuál será la norma de conducta y el proceder con el niño?'. 
+JCS013013 Respondió el ángel de Yahveh a Manóaj: 'Que la mujer se guarde de todo lo que le dije: 
+JCS013014 No probará nada que proceda de la vid, ni beberá vino ni bebidas fermentadas, ni comerá nada impuro. Que observe todo lo que le he ordenado'. 
+JCS013015 Manóaj dijo entonces al ángel de Yahveh: 'Permite que te retengamos para preparar un cabritillo en tu honor'. 
+JCS013016 Pero el ángel de Yahveh respondió a Manóaj: 'Aunque me retuvieses, no comería de tu manjar; pero si quieres preparar un holocausto, ofréceselo a Yahveh'. Manóaj no sabía que era el ángel de Yahveh. 
+JCS013017 Preguntó entonces Manóaj al ángel de Yahveh: '¿Cuál es tu nombre, para que cuando se cumpla tu promesa te honremos?'. 
+JCS013018 El ángel de Yahveh le respondió: '¿Para qué preguntar por mi nombre, siendo, como es, misterioso?'. 
+JCS013019 Tomó entonces Manóaj el cabritillo y la oblación, y los ofreció en holocausto sobre la roca a Yahveh, quien obró un prodigio a la vista de Manóaj y su mujer. 
+JCS013020 Cuando la llama subía del altar hacia el cielo, el ángel de Yahveh se elevó también en la llama del altar. Al verlo, Manóaj y su mujer cayeron rostro en tierra. 
+JCS013021 El ángel de Yahveh no volvió a aparecerse más a Manóaj y a su mujer; y entonces se dio cuenta Manóaj de que era el ángel de Yahveh. 
+JCS013022 Dijo, pues, Manóaj a su mujer: 'Ciertamente vamos a morir, pues hemos visto a Dios'. 
+JCS013023 Pero su mujer le respondió: 'Si Yahveh hubiera querido matarnos, no habría aceptado de nuestras manos el holocausto y la oblación, ni nos habría hecho ver todas estas cosas, ni nos habría hecho oír cosa semejante'. 
+JCS013024 La mujer dio a luz un hijo y le llamó Sansón. El niño creció, y Yahveh lo bendijo. 
+JCS013025 Y el espíritu de Yahveh comenzó a excitarlo en el Campamento de Dan, entre Sorá y Estaol. 
+JCS014001 Sansón bajó a Timná, y se interesó allí por una mujer de las hijas de los filisteos. 
+JCS014002 Subió y se lo comunicó a su padre y a su madre: 'He visto en Timná una mujer de las hijas de los filisteos; tomadla para mí por esposa'. 
+JCS014003 Su padre y madre le dijeron: '¿No hay una mujer entre las hijas de tu parentela y en todo el pueblo, para que vayas a tomar mujer entre los filisteos incircuncisos?'. Pero Sansón dijo a su padre: 'Tómamela, porque ésa me gusta'. 
+JCS014004 Su padre y su madre no sabían que esto provenía de Yahveh, que buscaba así un pretexto contra los filisteos, pues por aquel tiempo éstos dominaban en Israel. 
+JCS014005 Sansón bajó con su padre y su madre a Timná. Al llegar a los viñedos de Timná, le salió al encuentro rugiendo, un cachorro de león. 
+JCS014006 Entonces el espíritu de Yahveh lo invadió y despedazó al león como se despedaza un cabrito, a pesar de no tener nada en la mano; pero no contó a su padre ni a su madre lo que había hecho. 
+JCS014007 Bajó, pues, Sansón y habló con la mujer que le gustaba. 
+JCS014008 Días después, cuando volvía para casarse con ella, se apartó del camino para ver el cadáver del león; y observó que había en el cuerpo del león un enjambre de abejas y miel. 
+JCS014009 La recogió en sus manos, y se la comió según iba caminando. Cuando llegó adonde estaban su padre y su madre les dio para que la comieran, sin declararles que había recogido la miel del cadáver del león. 
+JCS014010 Bajó luego su padre adonde estaba la mujer, y Sansón celebró allí un banquete según la usanza de los jóvenes. 
+JCS014011 Cuando le vieron, le asignaron treinta compañeros para que estuvieran con él. 
+JCS014012 Entonces Sansón les dijo: 'Os voy a proponer un acertijo. Si dentro de los siete días del banquete lo adivináis y acertáis, os daré treinta túnicas y treinta vestidos; 
+JCS014013 pero si no acertáis, me daréis vosotros a mí treinta túnicas y treinta vestidos'. Dijéronle entonces: 'Propón tu acertijo. Te escuchamos'. 
+JCS014014 Él les dijo: 'Del que come ha salido comida, y del fuerte ha salido dulzura'. Habían pasado ya tres días y aún no habían sido capaces de descifrar el acertijo. 
+JCS014015 Al séptimo día dijeron a la mujer de Sansón: 'Convence a tu marido para que nos declare el acertijo, de lo contrario prenderemos fuego a ti y a la casa de tu padre. ¿Nos habéis invitado para desvalijarnos?'. 
+JCS014016 La mujer de Sansón se puso junto a él llorando y diciéndole: 'Odio es lo que me tienes, pero nada de amor. Has propuesto un acertijo a los de mi pueblo y no me lo has declarado'. Él le respondió: 'No se lo he declarado a mi padre ni a mi madre, ¿y voy a declarártelo a ti?'. 
+JCS014017 Ella estuvo lloriqueándole así los siete días del festín, hasta que el día séptimo, como tanto le apremiaba, se lo declaró. Al punto ella explicó el acertijo a los de su pueblo. 
+JCS014018 Dijéronle entonces los hombres de la ciudad en el día séptimo, antes de la puesta del sol: '¿Qué hay más dulce que la miel, y qué más fuerte que el león?'. Y él les replicó: -'Si no hubierais arado con mi novilla, no habríais adivinado mi acertijo'. 
+JCS014019 Entonces el espíritu de Yahveh lo invadió, bajó a Ascalón, mató a treinta hombres, los despojó y entregó los vestidos a los que habían descifrado el acertijo. Después, lleno de ira, se volvió a casa de su padre. 
+JCS014020 Y la mujer de Sansón pasó a pertenecer a uno de sus camaradas, uno de los que le habían hecho compañía. 
+JCS015001 Algún tiempo después, en los días de la siega del trigo, fue Sansón a visitar a su esposa, y le llevó un cabrito. Dijo entonces: 'Quiero estar con mi esposa en la alcoba'. Pero el padre no se lo permitió, 
+JCS015002 diciéndole: 'Pensaba que la habías aborrecido, y se la di a tu compañero; pero ¿no es su hermana pequeña más hermosa que ella? Que sea para ti en su lugar'. 
+JCS015003 Sansón les declaró: 'Esta vez no me hago responsable del mal que pueda causar a los filisteos'. 
+JCS015004 Se fue Sansón y capturó trescientas zorras y tomó también teas. Ató las zorras cola con cola, poniendo en medio, entre cada dos colas, una tea. 
+JCS015005 Prendió luego fuego a las teas y soltó las zorras por las mieses de los filisteos y así incendió gavillas, hacinas, viñedos y olivares. 
+JCS015006 Dijeron entonces los filisteos: '¿Quién ha hecho esto?'. Y les respondieron: 'Ha sido Sansón, el yerno del timnita, porque éste le quitó a su mujer y se la dio a su compañero'. Subieron luego los filisteos y prendieron fuego a la mujer y a su padre. 
+JCS015007 Díjoles entonces Sansón: 'Por eso que habéis hecho, no he de parar hasta haberme vengado de vosotros'. 
+JCS015008 Y les tundió piernas y muslos causándoles un gran estrago. Después se quedó a vivir en una quebrada de la peña de Etán. 
+JCS015009 Subieron entonces los filisteos, acamparon contra Judá e hicieron una incursión hasta Lejí. 
+JCS015010 Los de Judá les preguntaron: '¿Por qué habéis subido contra nosotros?'. Ellos respondieron: 'Hemos subido para prender a Sansón y tratarle como él nos ha tratado'. 
+JCS015011 Bajaron entonces tres mil hombres de Judá hacia la quebrada de la peña de Etán y dijeron a Sansón: '¿No sabes que los filisteos nos dominan? ¿Qué es lo que has hecho con nosotros?'. Él les contestó: 'Yo les he tratado como ellos me han tratado a mí'. 
+JCS015012 Dijéronle ellos: 'Hemos bajado para atarte y entregarte a los filisteos'. Él les replicó: 'Juradme que vosotros no me vais a matar'. 
+JCS015013 Ellos le respondieron: 'De ningún modo; sólo te ataremos y te entregaremos en sus manos. Pero matarte, no te mataremos'. Lo ataron, pues, con dos cordeles nuevos y le sacaron de la roca. 
+JCS015014 Cuando llegaba a Lejí, los filisteos salieron gritando a su encuentro, pero entonces lo invadió el espíritu de Yahveh y los cordeles con que tenía atados los brazos fueron como hilos de lino consumidos por el fuego, de modo que las ligaduras se deshicieron entre sus manos. 
+JCS015015 Y como encontró una quijada de asno todavía fresca, echó mano, la agarró y mató con ella a mil hombres. 
+JCS015016 Sansón exclamó entonces: 'Con una quijada de asno bien los he golpeado, con una quijada de rocín he batido a mil hombres'. 
+JCS015017 Dicho esto, tiró la quijada y llamó a aquel lugar Ramat Lejí. 
+JCS015018 Sintió luego mucha sed, por lo que invocó a Yahveh diciendo: 'Tú has concedido a tu siervo esta gran victoria; pero ¿voy ahora morir de sed, y a caer en manos de los incircuncisos?'. 
+JCS015019 Entonces Dios hendió la cavidad que hay en Lejí, y de ella brotó agua. Bebió, recuperó el espíritu y se reanimó. Por eso se le puso el nombre de En Hacoré, que existe hasta el día de hoy en Lejí. 
+JCS015020 Fue juez de Israel en tiempo de los filisteos durante veinte años. 
+JCS016001 Luego Sansón se fue a Gaza. Vio allí a una meretriz y se unió a ella. 
+JCS016002 Llegó la noticia a los de Gaza: 'Sansón está aquí'. Entonces lo rodearon y estuvieron acechando durante toda la noche a la puerta de la ciudad. Esperaron callados toda la noche diciéndose para sí: 'Al despuntar la luz del día lo mataremos'. 
+JCS016003 Sansón estuvo durmiendo hasta la media noche. Luego, a media noche, se levantó, aferró las dos hojas de la puerta de la ciudad junto con las dos jambas y el cerrojo, las arrancó; se las echó sobre los hombros y las subió a la cima de la colina que está frente a Hebrón. 
+JCS016004 Después de esto, se enamoró de una mujer del valle de Sorec llamada Dalila. 
+JCS016005 Los príncipes de los filisteos fueron donde ella y le dijeron: 'Sedúcelo y averigua cuál es el secreto de su gran fuerza, y cómo podríamos nosotros con él, para atarlo y tenerlo sujeto. Te daríamos cada uno mil cien siclos de plata'. 
+JCS016006 Dalila dijo a Sansón: 'Explícame cuál es el secreto de tu gran fuerza y con qué habría que atarte para tenerte sujeto'. 
+JCS016007 Le dijo Sansón: 'Si me ataran con siete cuerdas de arco frescas y todavía húmedas, quedaría sin fuerza y sería como un hombre cualquiera'. 
+JCS016008 Los príncipes de los filisteos llevaron a la mujer siete cuerdas de arco frescas y todavía húmedas, y ella misma le ató con ellas. 
+JCS016009 Había en la alcoba hombres apostados en acecho; y ella gritó: '¡Sobre ti los filisteos, Sansón!'. Él rompió las cuerdas como si fueran hilos de estopa consumidos por el fuego. Así que no dio a conocer el secreto de su fuerza. 
+JCS016010 Dijo entonces Dalila a Sansón: 'Te has burlado de mí y me has dicho una mentira. Por favor, dime ahora con qué habría que atarte'. 
+JCS016011 Él respondió: 'Si me ataran bien con cuerdas nuevas que no hubieran sido empleadas para otro uso, quedaría sin fuerzas y sería como un hombre cualquiera'. 
+JCS016012 Tomó entonces Dalila cuerdas nuevas, lo ató con ellas y gritó: '¡Sobre ti los filisteos, Sansón!'. Había en la alcoba hombres apostados en acecho. Pero él rompió las cuerdas de sus brazos como un hilo. 
+JCS016013 Dijo entonces Dalila a Sansón: 'Hasta aquí te has burlado de mí, y sólo me has dicho mentiras. Por favor, díme ya cómo habría que atarte'. Él respondió: 'Si entretejieras las siete trenzas de mi cabellera con hilo fuerte de tejer 
+JCS016014 y las fijaras con una clavija de tejedor, yo me quedaría sin fuerzas y sería como un hombre cualquiera'. Entonces ella consiguió que se durmiera; le tejió las siete trenzas de la cabellera con un hilo fuerte y las fijó con una clavija de tejedor. Luego le gritó: '¡Sobre ti los filisteos, Sansón!'. Él se despertó al punto de su sueño y arrancó el tejido, la clavija y el telar. 
+JCS016015 Ella le dijo entonces: '¿Cómo puedes decir 'te amo', si tu corazón no está conmigo? Es la tercera vez que te has burlado de mí, pues todavía no me has declarado cuál es el secreto de tu gran fuerza'. 
+JCS016016 Y tanto le importunaba y le agobiaba con sus palabras día tras día que su espíritu decayó hasta sentir mortal hastío. 
+JCS016017 Por fin le descubrió su corazón y le dijo: 'Jamás ha pasado sobre mi cabeza una navaja, porque soy nazireo de Dios desde el seno de mi madre. Si me rasuraran, la fuerza desaparecería de mí, quedaría debilitado y sería como un hombre cualquiera'. 
+JCS016018 Dalila comprendió que él le había abierto todo su corazón; mandó llamar a los príncipes de los filisteos y les dijo: 'Subid esta vez, que ya me ha abierto todo su corazón'. Los príncipes de los filisteos fueron adonde ella estaba, con el dinero en la mano. 
+JCS016019 Ella, por su parte, logró que él se durmiera sobre sus rodillas y, llamando a un hombre, hizo que le cortara las siete trenzas de su cabellera. Comenzó él a debilitarse, pues su fuerza se retiró de él. 
+JCS016020 Ella gritó: '¡Sobre ti los filisteos, Sansón!'. Despertó él de su sueño y se dijo: 'Saldré como otras veces y me libraré'. No sabía que Yahveh se había retirado de él. 
+JCS016021 Los filisteos le prendieron y le sacaron los ojos; lo bajaron a Gazá y lo ataron con una doble cadena de bronce. Y en la prisión le hacían dar vueltas a la piedra de molino. 
+JCS016022 Pero el cabello de su cabeza, después de rapado, comenzó a crecer de nuevo. 
+JCS016023 Los príncipes de los filisteos se reunieron para ofrecer un gran sacrificio a Dagón, su dios, y regocijarse; pues ellos se decían: -'Nuestro dios ha entregado en nuestras manos a Sansón, nuestro enemigo'. 
+JCS016024 Y al verlo el pueblo, alababa a su dios, diciendo: 'Nuestro dios ha entregado en nuestras manos a nuestro enemigo, al que devastaba nuestro país y multiplicaba nuestros muertos'. 
+JCS016025 Y como sus corazones se sentían alegres dijeron: 'Llamad a Sansón para que nos divierta'. Trajeron a Sansón de la cárcel y les sirvió de diversión. Luego lo colocaron entre las columnas. 
+JCS016026 Dijo entonces Sansón a su lazarillo: 'Déjame tocar las columnas que sostienen el edificio para apoyarme en ellas'. 
+JCS016027 Estaba el edificio lleno de hombres y de mujeres, pues se hallaban allí todos los príncipes de los filisteos. En la terraza había unas tres mil personas entre hombres y mujeres, disfrutando de la diversión que les producía Sansón. 
+JCS016028 Sansón invocó a Yahveh y exclamó: '¡Señor mío, Yahveh, acuérdate de mí y dame fuerzas sólo por esta vez, oh Dios, para que yo pueda de una vez vengarme de los filisteos por lo de mis ojos!'. 
+JCS016029 Y palpando las dos columnas centrales que sostenían el edificio, se apoyó en ellas, en una con la mano derecha y en la otra con la izquierda. 
+JCS016030 Y exclamó Sansón: '¡Muera yo con los filisteos!'. Empujó con fuerza y el edificio se desplomó sobre los príncipes y sobre toda la gente que en él había. Así causó más muertos al morir que los que había matado en vida. 
+JCS016031 Bajaron luego sus hermanos y todos los de la casa de su padre y se lo llevaron. Lo subieron y lo sepultaron entre Sorá y Estaol, en la tumba de Manóaj, su padre. Había sido juez en Israel durante veinte años. 
+JCS017001 Hubo un hombre de la montaña de Efraín, llamado Micayehu. 
+JCS017002 Éste dijo a su madre: 'Los mil cien siclos de plata que te han sido hurtados y por los que lanzabas maldiciones que has hecho llegar a mis oídos, los tengo yo; yo los había tomado'. Dijo entonces su madre: '¡Bendito, tú, hijo mío, ante Yahveh!'. 
+JCS017003 Devolvió él los mil cien siclos de plata a su madre, y ella dijo: 'Yo había consagrado solemnemente y de forma voluntaria este dinero a Yahveh en favor de mi hijo, para fabricar una estatua y una imagen de metal fundido'. Él dijo: 'Ahora te lo devuelvo'. 
+JCS017004 Cuando devolvió el dinero a su madre, ésta tomó doscientos siclos de plata y se los entregó al fundidor, quien fabricó una estatua y una imagen de metal fundido, que quedaron en casa de Micá. 
+JCS017005 De este modo llegó a tener Micá un santuario. Fabricó también un efod y terafim y además ungió a uno de sus hijos como sacerdote. 
+JCS017006 Por aquellos días no había rey en Israel y cada uno hacía lo que bien le parecía. 
+JCS017007 Había por entonces un joven de Belén de Judá, de los clanes de Judá, que era levita y residía allí como forastero. 
+JCS017008 El hombre se puso en camino desde la ciudad de Belén de Judá para establecerse como forastero donde encontrara acomodo. En su peregrinación, llegó a la montaña de Efraín, a la casa de Micá. 
+JCS017009 Micá le preguntó: '¿De dónde vienes?'. A lo que él le respondió: 'Soy levita de Belén de Judá, y voy de camino hasta encontrar acomodo'. 
+JCS017010 Le dijo Micá: 'Quédate conmigo y sé para mí padre y sacerdote; yo te daré diez siclos de plata al año, vestido y comida'. 
+JCS017011 El levita accedió a quedarse con aquel hombre y fue para él como uno de sus hijos. 
+JCS017012 Micá consagró al levita y el joven se convirtió en sacerdote suyo; y se quedó en la casa de Micá. 
+JCS017013 Dijo entonces Micá: 'Ahora sé que me ha de favorecer Yahveh, pues tengo a un levita como sacerdote'. 
+JCS018001 Por aquellos días no había rey en Israel. La tribu de Dan andaba buscando un territorio para establecerse, porque hasta aquel entonces no le había correspondido heredad en medio de las tribus de Israel. 
+JCS018002 Los danitas enviaron de entre los suyos a cinco hombres de sus familias, hombres valerosos, desde Sorá y Estaol, para explorar y reconocer el territorio. Les dijeron: 'Id a reconocer el territorio'. Llegaron a la montaña de Efraín, hasta la casa de Micá, y allí pasaron la noche. 
+JCS018003 Mientras estaban ellos junto a la casa de Micá, reconocieron al joven levita por la voz y, dirigiéndose a él, le dijeron: '¿Quién te ha traído aquí y qué haces por estos lugares? ¿A qué te dedicas?'. 
+JCS018004 Él les respondió: 'Esto y lo otro ha hecho Micá por mí: me ha tomado a sueldo para que sea su sacerdote'. 
+JCS018005 Ellos le dijeron entonces: 'Consulta, por favor, a Dios, para que sepamos si vamos a tener éxito en el viaje que hemos emprendido'. 
+JCS018006 Respondióles el sacerdote: 'Id en paz, pues el viaje que hacéis está bajo la mirada de Yahveh'. 
+JCS018007 Los cinco hombres partieron y llegaron a Lais. Vieron que aquella gente vivía confiada, a la manera de los sidonios, tranquila y segura, sin que faltara nada en el país, rico en recursos, alejado de los sidonios y sin relación alguna con nadie. 
+JCS018008 Regresaron luego adonde sus hermanos de Sorá y Estaol y sus hermanos les preguntaron: '¿Qué noticias traéis?'. 
+JCS018009 Ellos respondieron: 'Preparémonos a subir contra ellos. Hemos visto la tierra, que realmente es buena. No perdáis tiempo ni vaciléis en poneros en camino para ir a ocupar esa tierra. 
+JCS018010 Cuando lleguéis, encontraréis un pueblo confiado; y la tierra es espaciosa en todas direcciones. Ciertamente que Dios ha de entregar en vuestras manos una región donde no falta nada de cuanto hay en la tierra'. 
+JCS018011 Emigraron de allí, de Sorá y Estaol, seiscientos hombres de la tribu de Dan, bien equipados de armas de guerra. 
+JCS018012 Subieron y acamparon en Quiriat Yearín de Judá. Por eso se llama aquel lugar 'Campamento Dan' hasta el día de hoy. Está al oeste de Quiriat Yearín. 
+JCS018013 De allí pasaron a la montaña de Efraín y llegaron hasta la casa de Micá. 
+JCS018014 Los cinco hombres que habían explorado la tierra de Lais tomaron la palabra y dijeron a sus hermanos: '¿No sabéis que en aquellas casas hay un efod, unos terafim, una estatua y una imagen de metal fundido? Considerad ahora lo que habéis de hacer'. 
+JCS018015 Dirigiéronse allá, llegaron a la casa del joven levita, a la casa de Micá, y le dieron el saludo de paz. 
+JCS018016 Los seiscientos hombres danitas bien armados se quedaron a la entrada de la puerta. 
+JCS018017 Los cinco hombres que habían ido a explorar el país entraron, se apoderaron de la estatua, del efod, de los terafim y de la imagen de metal fundido, mientras el sacerdote estaba a la entrada de la puerta con los seiscientos hombres armados. 
+JCS018018 Entraron, pues, aquéllos en la casa de Micá y se apoderaron de la estatua, del efod, de los terafim y de la imagen de metal fundido. El sacerdote les preguntó: '¿Qué estáis haciendo?'. 
+JCS018019 Ellos le respondieron: 'Cállate, ponte la mano en la boca; ven con nosotros y serás nuestro padre y sacerdote. ¿Qué prefieres, ser sacerdote de la casa de un hombre solo, o ser sacerdote de una tribu y de una familia de Israel?'. 
+JCS018020 Se alegró el corazón del sacerdote, tomó el efod, los terafim y la estatua y se fue con ellos. 
+JCS018021 Se pusieron de nuevo en camino y se fueron, llevando delante en cabeza a los niños, el ganado y los objetos preciosos. 
+JCS018022 Cuando ya se habían alejado de la casa de Micá, los hombres de las casas cercanas a la de Micá se reunieron para perseguir a los danitas. 
+JCS018023 Dieron voces a los danitas, que volvieron el rostro y dijeron a Micá: '¿Qué te pasa para gritar así?'. 
+JCS018024 Respondió él: 'Os habéis apoderado del dios que yo fabriqué y de mi sacerdote, y os vais. ¿Qué me queda a mí? ¿Cómo podéis decir: qué te pasa?'. 
+JCS018025 Respondiéronle los danitas: 'No alces demasiado la voz contra nosotros, no sea que algunos se irriten, arremetan contra ti y pierdas tu vida y la de tu familia'. 
+JCS018026 Los danitas prosiguieron su camino y Micá, viendo que ellos eran más fuertes que él, dio la vuelta y retornó a su casa. 
+JCS018027 Ellos se apoderaron, pues, de lo que había fabricado Micá y del sacerdote que estaba con él y se dirigieron contra Lais, contra un pueblo tranquilo y confiado; los pasaron a filo de espada, y prendieron fuego a la ciudad. 
+JCS018028 No hubo quien viniera en su auxilio, porque la ciudad estaba lejos de Sidón y no tenía relaciones con nadie. Estaba situada en el valle que hay junto a Bet Rejob. Reedificaron la ciudad y se establecieron en ella. 
+JCS018029 Pusieron a la ciudad el nombre de Dan, que era el nombre de su antepasado Dan, hijo de Israel, aunque la ciudad se llamaba antes Lais. 
+JCS018030 Los danitas entronizaron la estatua. Jonatán, hijo de Guersón, hijo de Moisés, y sus descendientes fueron sacerdotes de la tribu de Dan hasta el día de la deportación del país. 
+JCS018031 Instalaron en beneficio propio la estatua que Micá había fabricado y allí estuvo todo el tiempo que la casa de Dios permaneció en Siló. 
+JCS019001 Por aquel tiempo, cuando aún no había rey en Israel, un levita que residía como forastero en los confines de la montaña de Efraín tomó como concubina a una mujer de Belén de Judá. 
+JCS019002 Ella le fue infiel y se marchó a la casa de su padre, a Belén de Judá. Allí permaneció algún tiempo, cuatro meses. 
+JCS019003 Luego su marido se puso en camino y se fue tras ella, para tratar de convencerla y hacerla volver. Llevaba consigo un criado y un par de asnos. Ella le hizo entrar en la casa de su padre; al verle, el padre de la joven se alegró por el encuentro. 
+JCS019004 Su suegro, el padre de la joven, lo retuvo, y él se quedó allí tres días; comieron y bebieron, y allí pasaron la noche. 
+JCS019005 Al cuarto día se levantaron de madrugada y él se dispuso a emprender el camino. Pero el padre de la joven dijo a su yerno: 'Reconfórtate con un bocado de pan y después os iréis'. 
+JCS019006 Sentáronse, pues, y comieron y bebieron los dos juntos. Luego el padre de la joven dijo al hombre: 'Consiente, por favor, en pasar aquí la noche para que se alegre tu corazón'. 
+JCS019007 Y aunque el hombre se levantó para irse, le importunó tanto su suegro que al fin se quedó y pasó allí la noche. 
+JCS019008 Al quinto día se levantó de madrugada para partir; pero el padre de la joven le dijo: 'Reconforta, por favor, tu corazón'. Así aguardaron hasta el declinar del día y comieron juntos. 
+JCS019009 Se levantó el hombre con la concubina y el criado para emprender la marcha, pero su suegro, el padre de la joven, le dijo: 'Mira que el día declina y se viene el atardecer; pasa la noche aquí, por favor. Está para acabarse el día; pasa la noche aquí, que se alegre tu corazón. Mañana madrugaréis para emprender vuestro viaje y llegarás a tu tienda'. 
+JCS019010 Pero el hombre no quiso pasar la noche allí, sino que se levantó, se fue y llegó frente a Jebús, es decir Jerusalén. Llevaba los dos asnos cargados y le acompañaban la concubina y el criado. 
+JCS019011 Cuando estaban junto a Jebús, ya muy avanzado el día, dijo el criado a su señor: 'Vamos a entrar en esta ciudad de los jebuseos para pasar allí la noche'. 
+JCS019012 Pero le replicó su señor: 'No vamos a entrar en una ciudad extranjera en la que no hay israelitas. Pasaremos hasta Guibeá'. 
+JCS019013 Y le añadió a su criado: 'Vamos a acercarnos a uno de aquellos lugares y pasaremos la noche en Guibeá o en Ramá'. 
+JCS019014 Pasaron de largo y continuaron el viaje. La puesta del sol les alcanzó junto a Guibeá de Benjamín. 
+JCS019015 Se dirigieron allí para hacer noche en Guibeá. Pero una vez dentro, tuvo que quedarse en la plaza de la ciudad, porque no hubo quien los acogiera en casa para pasar la noche. 
+JCS019016 En esto, llegó un anciano que, al atardecer, venía de sus faenas del campo; era de la montaña de Efraín y residió como forastero en Guibeá; pues las gentes del lugar eran benjaminitas. 
+JCS019017 El anciano alzó los ojos y, al ver al viajero en la plaza de la ciudad, le dijo: '¿A dónde vas y de dónde vienes?'. 
+JCS019018 Y le respondió: 'Estamos de paso. Vamos de Belén de Judá hacia los confines de la montaña de Efraín, de donde soy. He ido a Belén y ahora vuelvo a mi casa. Pero no hay quien me ofrezca la suya. 
+JCS019019 Tenemos paja y forraje para nuestros asnos; y también pan y vino para mí, para tu sierva y para el criado que acompaña a tu siervo; no nos falta de nada'. 
+JCS019020 Le dijo entonces el anciano: '¡La paz sea contigo! Corre de mi cargo todo lo que necesites; pero no pases la noche en la plaza'. 
+JCS019021 Lo llevó a su casa y echó pienso a los asnos. Ellos, después de lavarse los pies, comieron y bebieron. 
+JCS019022 Mientras estaban reconfortando su corazón, unos hombres, hijos de Belial, rodearon la casa y, golpeando la puerta, decían al anciano, dueño de la casa: 'Saca al hombre que entró en tu casa, para que lo conozcamos'. 
+JCS019023 Salió entonces a ellos el dueño de la casa y les dijo: 'Por favor, hermanos míos, no hagáis tal maldad; puesto que este hombre ha entrado a hospedarse en mi casa, no cometáis tal infamia. 
+JCS019024 Ahí tenéis a mi hija, que es virgen, y a su concubina; os las voy a sacar, para que abuséis de ellas y hagáis con ellas lo que mejor os parezca. Pero a este hombre no le hagáis tal infamia'. 
+JCS019025 Pero aquellos hombres no quisieron escucharlo. Entonces el hombre tomó a su concubina y se la sacó fuera. Ellos la conocieron y abusaron de ella toda la noche hasta la mañana, y por fin la dejaron al despuntar la aurora. 
+JCS019026 Al amanecer, vino la mujer y cayó delante de la casa del hombre donde estaba su marido; allí estuvo hasta que fue de día. 
+JCS019027 Su marido se levantó de mañana, abrió las puertas de la casa y salió para proseguir su viaje. Entonces vio que la mujer, su concubina, yacía a la puerta de la casa, con las manos sobre el umbral. 
+JCS019028 Él le dijo: '¡Levántate y vamos!'. Pero ella no le respondía. Entonces el hombre la puso sobre su asno y se encaminó a su lugar. 
+JCS019029 Llegado a su casa, echó mano a un cuchillo y tomando a su concubina la descuartizó, miembro por miembro, en doce trozos, y los envió a todo el territorio de Israel. 
+JCS019030 Y todos los que lo veían exclamaban: 'Nunca ha sucedido ni se ha visto nada semejante desde que los israelitas subieron de Egipto hasta el día de hoy'. 
+JCS020001 Salieron entonces todos los israelitas y la comunidad se reunió como un solo hombre, desde Dan hasta Berseba, y los de la tierra de Galaad, ante Yahveh en Mispá. 
+JCS020002 Los príncipes de todo el pueblo y todas las tribus de Israel se presentaron a la asamblea del pueblo de Dios: cuatrocientos mil hombres de a pie armados de espada. 
+JCS020003 Los benjaminitas se dieron cuenta de que los israelitas habían subido a Mispá. Los israelitas dijeron: 'Contadnos cómo ocurrió tal perversidad'. 
+JCS020004 El levita, marido de la mujer asesinada, tomó la palabra y dijo: 'Llegué con mi concubina a Guibeá de Benjamín para pasar la noche; 
+JCS020005 y se alzaron contra mí los príncipes de Guibeá, rodearon la casa durante la noche con intención de asesinarme y tanto violaron a mi concubina que murió. 
+JCS020006 Yo entonces tomé a mi concubina, la descuarticé, y la envié por todo el territorio de la heredad de Israel, porque en Israel habían cometido un crimen tan infame. 
+JCS020007 Ahora que estáis aquí todos, israelitas, reflexionad y tomad una decisión aquí mismo'. 
+JCS020008 Todo el pueblo como un solo hombre se levantó para decir: '¡Nadie volverá a su tienda ni se irá a su casa! 
+JCS020009 Esto es lo que ahora debemos hacer con Guibeá: ir contra ella por suertes. 
+JCS020010 Tomaremos diez hombres de cada cien de todas las tribus de Israel, cien de cada mil, mil de cada diez mil, y que vayan en busca de provisiones para la gente que va a tratar a Guibeá de Benjamín según su merecido por la gran infamia que cometió en Israel'. 
+JCS020011 Reuniéronse, pues, todos los de Israel como un solo hombre contra la ciudad. 
+JCS020012 Las tribus de Israel enviaron hombres que fueron diciendo por toda la tribu de Benjamín: '¿Qué maldad es ésta que se ha cometido entre vosotros? 
+JCS020013 Entregadnos a esos hombres hijos de Belial que hay en Guibeá; los ejecutaremos y así quedará extirpada de Israel la maldad'. Pero los benjaminitas no quisieron escuchar la voz de sus hermanos, los israelitas. 
+JCS020014 Entonces los benjaminitas salieron de sus ciudades y se concentraron en Guibeá para ir a la guerra contra los israelitas. 
+JCS020015 Hízose aquel día el censo de los benjaminitas venidos de las ciudades: veintiseis mil hombres capaces de manejar la espada, sin contar los habitantes de Guibeá. 
+JCS020016 Entre toda esta tropa había setecientos hombres escogidos, ambidextros, todos ellos capaces de lanzar con la honda una piedra contra un cabello sin errar el tiro. 
+JCS020017 El número de los israelitas, sin contar a los de Benjamín, subía a cuatrocientos mil hombres capaces de manejar la espada: todos ellos eran aguerridos. 
+JCS020018 Los israelitas partieron y subieron a Betel para consultar a Dios y le preguntaron: '¿Quién de nosotros subirá el primero a luchar con los hijos de Benjamín?'. Respondió Yahveh: 'Judá será el primero'. 
+JCS020019 Los israelitas se levantaron de madrugada y acamparon frente a Guibeá. 
+JCS020020 Salieron los hombres de Israel para hacer la guerra a Benjamín, y se pusieron en orden de batalla frente a Guibeá. 
+JCS020021 Pero los benjaminitas hicieron una salida desde Guibeá y en aquel día dejaron muertos en tierra a veintidós mil hombres de Israel. 
+JCS020022 Sin embargo, los israelitas cobraron ánimos y se pusieron en orden de batalla en el mismo lugar en que se habían organizado el día anterior. 
+JCS020023 Porque los israelitas habían subido a lamentarse delante de Yahveh hasta la tarde y habían consultado: '¿Hemos de volver a pelear con los benjaminitas, nuestros hermanos?'. Y Yahveh les había respondido: 'Subid contra ellos'. 
+JCS020024 Al día siguiente los israelitas avanzaron hacia los benjaminitas. 
+JCS020025 Pero Benjamín les salió al encuentro desde Guibeá también el segundo día, y dejaron muertos en tierra a dieciocho mil hombres de los israelitas, todos ellos armados de espada. 
+JCS020026 Subieron entonces todos los israelitas, todo el pueblo, a Betel a lamentarse; y permanecieron allí en presencia de Yahveh, ayunaron aquel día hasta el atardecer y ofrecieron holocaustos y sacrificios de comunión ante Yahveh. 
+JCS020027 Después, los israelitas consultaron a Yahveh, pues allí se hallaba por aquel entonces el arca de la alianza de Dios. 
+JCS020028 Estaba de servicio en aquella época Pinjás, hijo de Eleazar, hijo de Aarón. Preguntaron: '¿Hemos de salir de nuevo a combatir contra los hijos de Benjamín, nuestro hermano, o debemos desistir?'. Respondió Yahveh: 'Subid, porque mañana lo entregaré en vuestras manos'. 
+JCS020029 Israel puso entonces emboscadas en torno a Guibeá. 
+JCS020030 Al tercer día, subieron los israelitas contra los benjaminitas y se pusieron en orden de batalla contra Guibeá, como las otras veces. 
+JCS020031 Los benjaminitas salieron entonces al encuentro de la tropa y se alejaron de la ciudad. Como las veces anteriores, empezaron a sembrar la mortandad entre la tropa por los caminos, uno de los cuales sube a Betel, y otro a Guibeá por la campiña, y ocasionaron unas treinta bajas en Israel. 
+JCS020032 Dijéronse entonces los benjaminitas: 'Los hemos derrotado como antes'. Pero los israelitas habían pensado: 'Huiremos por los caminos para alejarlos de la ciudad'. 
+JCS020033 Todos los hombres de Israel se levantaron de sus puestos y se colocaron en orden de batalla en Baal Tamar, mientras los emboscados de Israel se disponían al ataque desde su posición al oeste de Guibeá. 
+JCS020034 Llegaron así frente a Guibeá diez mil hombres escogidos de todo Israel. Como el combate se recrudecía, los benjaminitas no se percataron del desastre que sobre ellos se cernía. 
+JCS020035 Yahveh hizo que Benjamín sucumbiera ante Israel. Aquel día, los israelitas mataron a veinticinco mil cien benjaminitas, todos ellos hombres de armas. 
+JCS020036 Los benjaminitas por su parte se dieron cuenta de que habían sido derrotados. Los israelitas habían cedido terreno ante Benjamín porque confiaban en la emboscada preparada contra Guibeá. 
+JCS020037 Los emboscados se habían desplazado rápidamente hacia Guibeá; se desplegaron y pasaron a toda la ciudad a filo de espada. 
+JCS020038 Habían convenido los israelitas con los emboscados en que éstos provocarían, como señal, una humareda en la ciudad. 
+JCS020039 Cuando los hombres de Israel habían vuelto la espalda, Benjamín había herido ya de muerte a unos treinta hombres israelitas, y se decía: 'En verdad que los hemos vuelto a derrotar como en el combate anterior'. 
+JCS020040 Pero entonces empezó a subir de la ciudad la señal, una columna de humo. Volviéronse los benjaminitas hacia atrás y pudieron contemplar cómo de toda la ciudad subía la humareda hacia el cielo. 
+JCS020041 Entonces los hombres de Israel dieron la vuelta y los benjaminitas fueron presa del pánico, al ver que el desastre se les venía encima. 
+JCS020042 Volvieron la espalda ante los israelitas hacia el camino del desierto; pero les alcanzaba la lucha, y los que venían de la ciudad, sorprendiéndolos en el medio, los aniquilaban. 
+JCS020043 Envolvieron así a los de Benjamín y los persiguieron sin descanso hasta aplastarlos frente a Guibeá, por el lado oriental. 
+JCS020044 Así cayeron de Benjamín dieciocho mil hombres, todos ellos aguerridos. 
+JCS020045 Los supervivientes benjaminitas que volvieron la espalda huían hacia el desierto, hacia la roca de Rimón; pero los israelitas mataron a cinco mil hombres que encontraron por los caminos; continuaron la persecución hasta Guidón y dieron muerte a otros dos mil hombres. 
+JCS020046 El número de caídos de Benjamín en aquel día llegó a veinticinco mil hombres de los que manejaban la espada, todos ellos aguerridos. 
+JCS020047 De los que habían vuelto la espalda y huido al desierto, hacia la roca de Rimón, lograron escapar seiscientos, que se instalaron en la roca de Rimón durante cuatro meses. 
+JCS020048 Los israelitas se volvieron contra los benjaminitas y pasaron a filo de espada a cuanto quedaba en las ciudades, hombres y ganados, y prendieron fuego a todas las ciudades que encontraron a su paso. 
+JCS021001 Los hombres de Israel habían hecho este juramento en Mispá: 'Ninguno de nosotros entregará su hija por esposa a los de Benjamín'. 
+JCS021002 Vino luego el pueblo a Betel, donde permaneció en presencia de Dios hasta la tarde, llorando amargamente a voz en grito y 
+JCS021003 diciendo: '¿Por qué, ¡oh Yahveh, Dios de Israel!, ha de suceder que desaparezca hoy en Israel una de sus tribus?'. 
+JCS021004 Al día siguiente se levantó el pueblo de madrugada, construyó allí un altar y ofreció holocaustos y sacrificios de comunión. 
+JCS021005 Y se preguntaron los israelitas: '¿Cuál de entre todas las tribus de Israel no subió a la asamblea ante Yahveh?'. Porque habían hecho este solemne juramento contra el que no subiera a Mispá ante Yahveh: 'Morirá sin remisión'. 
+JCS021006 Los israelitas se compadecieron de su hermano Benjamín, y se decían: 'Hoy ha sido cercenada una tribu de Israel. 
+JCS021007 ¿Qué haremos para procurar mujeres a los supervivientes, ya que nosotros hemos jurado por Yahveh no entregarles nuestras hijas por esposas?'. 
+JCS021008 Dijeron entonces: '¿Cuál de las tribus de Israel no subió ante Yahveh a Mispá?'. Y se descubrió que ninguno de Yabés de Galaad había venido al campamento, a la asamblea. 
+JCS021009 Se hizo, en efecto, el cómputo del pueblo, y no había nadie de Yabés de Galaad. 
+JCS021010 Entonces la asamblea envió allí a doce mil hombres, de los más aguerridos, con esta orden: 'Id y pasad a filo de espada a los habitantes de Yabés de Galaad, incluidos mujeres y niños. 
+JCS021011 Y esto es lo que debéis hacer: entregaréis al anatema a todo varón y a toda mujer que haya conocido varón'. 
+JCS021012 Entre los habitantes de Yabés de Galaad encontraron cuatrocientas jóvenes vírgenes que no habían conocido varón, y las llevaron al campamento de Siló, en tierra de Canaán. 
+JCS021013 Entonces la asamblea entera envió emisarios a los benjaminitas instalados en la roca de Rimón, y les ofrecieron la paz. 
+JCS021014 Volvieron, pues, los benjaminitas y les fueron entregadas las mujeres supervivientes de Yabés de Galaad, pero no hubo bastantes para todos. 
+JCS021015 El pueblo tuvo compasión de Benjamín, pues Yahveh había abierto una brecha entre las tribus de Israel. 
+JCS021016 Dijeron entonces los ancianos de la comunidad: '¿Qué haremos para proporcionar esposas a los restantes, puesto que fueron exterminadas las mujeres benjaminitas?'. 
+JCS021017 Y añadieron: 'Lo que resta de supervivientes será para Benjamín, para que no desaparezca una tribu de Israel. 
+JCS021018 Pero nosotros no podemos darles nuestras hijas por esposas, porque los israelitas han jurado diciendo: '¡Maldito el que entregue una mujer a Benjamín!''. 
+JCS021019 Reflexionaron: 'Ahora es la fiesta anual de Yahveh en Siló', al norte de Betel, al oriente del camino que sube de Betel a Siquén y al sur de Leboná. 
+JCS021020 Ordenaron entonces a los benjaminitas: 'Id y poned una emboscada en las viñas. 
+JCS021021 Y cuando veáis que las doncellas de Siló salen a danzar en corro, saldréis vosotros de las viñas y raptaréis cada uno una mujer de entre las jóvenes de Siló; y después os iréis a la tierra de Benjamín. 
+JCS021022 Si sus padres o hermanos vienen a querellarse contra nosotros, les diremos: concedednos esta gracia en favor de ellos, porque no hemos tomado en la batalla una esposa para cada hombre; ni tampoco sois vosotros los que se las habéis entregado, en cuyo caso seríais culpables'. 
+JCS021023 Así lo hicieron los benjaminitas, y raptaron para esposas el número de danzarinas que necesitaban. Luego se fueron a habitar a su heredad, reedificaron las ciudades y habitaron en ellas. 
+JCS021024 Los israelitas se fueron de allí cada uno a su tribu y a su familia; salieron de allí cada uno hacia su heredad. 
+JCS021025 Por aquellos días no había rey en Israel, y cada uno hacía lo que bien le parecía. 
