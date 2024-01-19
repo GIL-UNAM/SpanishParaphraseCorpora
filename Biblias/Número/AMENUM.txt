@@ -1,0 +1,1288 @@
+NUM001001 El SEÑOR habló a Moisés en el desierto de Sinaí, en la tienda de reunión, el primer día del segundo mes, en el segundo año de su salida de la tierra de Egipto, diciendo:
+NUM001002 Haz un censo de toda la congregación de los hijos de Israel por sus familias, por sus casas paternas, según el número de nombres, todo varón, uno por uno;
+NUM001003 de veinte años arriba, todos los que pueden salir a la guerra en Israel, tú y Aarón los contaréis por sus ejércitos.
+NUM001004 Con vosotros estará además, un hombre de cada tribu, cada uno jefe de su casa paterna.
+NUM001005 Estos son los nombres de los hombres que estarán con vosotros: de Rubén, Elisur, hijo de Sedeur;
+NUM001006 de Simeón, Selumiel, hijo de Zurisadai;
+NUM001007 de Judá, Naasón, hijo de Aminadab;
+NUM001008 de Isacar, Natanael, hijo de Zuar;
+NUM001009 de Zabulón, Eliab, hijo de Helón;
+NUM001010 de los hijos de José: de Efraín, Elisama, hijo de Amiud, y de Manasés, Gamaliel, hijo de Pedasur;
+NUM001011 de Benjamín, Abidán, hijo de Gedeoni;
+NUM001012 de Dan, Ahiezer, hijo de Amisadai;
+NUM001013 de Aser, Pagiel, hijo de Ocrán;
+NUM001014 de Gad, Eliasaf, hijo de Deuel;
+NUM001015 de Neftalí, Ahira, hijo de Enán.
+NUM001016 Estos son los que fueron llamados de la congregación, los principales de las tribus de sus padres; ellos fueron los jefes de las divisiones de Israel.
+NUM001017 Entonces Moisés y Aarón tomaron a estos hombres que habían sido designados por sus nombres,
+NUM001018 y reunieron a toda la congregación el primer día del mes segundo. Y se registraron según sus antepasados por familias, por sus casas paternas, según el número de nombres, de veinte años arriba, uno por uno.
+NUM001019 Tal como el SEÑOR lo había mandado a Moisés, los contó en el desierto de Sinaí.
+NUM001020 De los hijos de Rubén, primogénito de Israel, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, uno por uno, todo varón de veinte años arriba, todo el que podía salir a la guerra;
+NUM001021 los enumerados de la tribu de Rubén fueron cuarenta y seis mil quinientos.
+NUM001022 De los hijos de Simeón, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, sus enumerados, según el número de nombres, uno por uno, todo varón de veinte años arriba, todo el que podía salir a la guerra;
+NUM001023 los enumerados de la tribu de Simeón fueron cincuenta y nueve mil trescientos.
+NUM001024 De los hijos de Gad, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001025 los enumerados de la tribu de Gad fueron cuarenta y cinco mil seiscientos cincuenta.
+NUM001026 De los hijos de Judá, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001027 los enumerados de la tribu de Judá fueron setenta y cuatro mil seiscientos.
+NUM001028 De los hijos de Isacar, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001029 los enumerados de la tribu de Isacar fueron cincuenta y cuatro mil cuatrocientos.
+NUM001030 De los hijos de Zabulón, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001031 los enumerados de la tribu de Zabulón fueron cincuenta y siete mil cuatrocientos.
+NUM001032 De los hijos de José: de los hijos de Efraín, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001033 los enumerados de la tribu de Efraín fueron cuarenta mil quinientos.
+NUM001034 De los hijos de Manasés, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001035 los enumerados de la tribu de Manasés fueron treinta y dos mil doscientos.
+NUM001036 De los hijos de Benjamín, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001037 los enumerados de la tribu de Benjamín fueron treinta y cinco mil cuatrocientos.
+NUM001038 De los hijos de Dan, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001039 los enumerados de la tribu de Dan fueron sesenta y dos mil setecientos.
+NUM001040 De los hijos de Aser, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001041 los enumerados de la tribu de Aser fueron cuarenta y un mil quinientos.
+NUM001042 De los hijos de Neftalí, fueron contados por su registro genealógico, por sus familias, por sus casas paternas, según el número de nombres, de veinte años arriba, todo el que podía salir a la guerra;
+NUM001043 los enumerados de la tribu de Neftalí fueron cincuenta y tres mil cuatrocientos.
+NUM001044 Estos son los que fueron enumerados, los que Moisés y Aarón contaron con los jefes de Israel, doce hombres, cada uno de los cuales era jefe de su casa paterna.
+NUM001045 Y todos los enumerados de los hijos de Israel por sus casas paternas, de veinte años arriba, todo el que podía salir a la guerra en Israel,
+NUM001046 fueron seiscientos tres mil quinientos cincuenta.
+NUM001047 Pero los levitas no fueron enumerados con ellos según la tribu de sus padres.
+NUM001048 Porque el SEÑOR había hablado a Moisés, diciendo:
+NUM001049 Solamente la tribu de Leví no enumerarás, ni los contarás con los hijos de Israel;
+NUM001050 sino que pondrás a los levitas a cargo del tabernáculo del testimonio, de todos sus utensilios y de todo lo que le pertenece. Ellos llevarán el tabernáculo y todos sus utensilios, y lo cuidarán; además, acamparán alrededor del tabernáculo.
+NUM001051 Y cuando el tabernáculo haya de ser trasladado, los levitas lo desarmarán; y cuando el tabernáculo acampe, los levitas lo armarán. Pero el extraño que se acerque, morirá.
+NUM001052 Y acamparán los hijos de Israel, cada uno en su campamento, y cada uno junto a su bandera, según sus ejércitos.
+NUM001053 Pero los levitas acamparán alrededor del tabernáculo del testimonio, para que no venga la ira sobre la congregación de los hijos de Israel. Los levitas, pues, tendrán a su cargo el tabernáculo del testimonio.
+NUM001054 Así hicieron los hijos de Israel; conforme a todo lo que el SEÑOR había mandado a Moisés, así hicieron.
+NUM002001 Y habló el SEÑOR a Moisés y a Aarón, diciendo:
+NUM002002 Los hijos de Israel acamparán, cada uno junto a su bandera, bajo las insignias de sus casas paternas; acamparán alrededor de la tienda de reunión, a cierta distancia.
+NUM002003 Los que acampen al oriente, hacia la salida del sol, serán los de la bandera del campamento de Judá, según sus ejércitos. El jefe de los hijos de Judá, Naasón, hijo de Aminadab,
+NUM002004 y su ejército, los enumerados, setenta y cuatro mil seiscientos.
+NUM002005 Y junto a él acampará la tribu de Isacar. El jefe de los hijos de Isacar, Natanael, hijo de Zuar,
+NUM002006 y su ejército, los enumerados, cincuenta y cuatro mil cuatrocientos.
+NUM002007 Después, la tribu de Zabulón. El jefe de los hijos de Zabulón, Eliab, hijo de Helón,
+NUM002008 y su ejército, los enumerados, cincuenta y siete mil cuatrocientos.
+NUM002009 El total de los enumerados del campamento de Judá: ciento ochenta y seis mil cuatrocientos, según sus ejércitos. Ellos partirán primero.
+NUM002010 Al sur estará la bandera del campamento de Rubén, según sus ejércitos. El jefe de los hijos de Rubén, Elisur, hijo de Sedeur,
+NUM002011 y su ejército, los enumerados, cuarenta y seis mil quinientos.
+NUM002012 Y junto a él acampará la tribu de Simeón. El jefe de los hijos de Simeón, Selumiel, hijo de Zurisadai,
+NUM002013 y su ejército, los enumerados, cincuenta y nueve mil trescientos.
+NUM002014 Después, la tribu de Gad. El jefe de los hijos de Gad, Eliasaf, hijo de Deuel,
+NUM002015 y su ejército, los enumerados, cuarenta y cinco mil seiscientos cincuenta.
+NUM002016 El total de los enumerados del campamento de Rubén: ciento cincuenta y un mil cuatrocientos cincuenta, según sus ejércitos. Ellos partirán en segundo lugar .
+NUM002017 Entonces partirá la tienda de reunión con el campamento de levitas en medio de los campamentos; tal como acampan así partirán, cada uno en su lugar, por sus banderas.
+NUM002018 Al occidente estará la bandera del campamento de Efraín, según sus ejércitos. El jefe de los hijos de Efraín, Elisama, hijo de Amiud,
+NUM002019 y su ejército, los enumerados, cuarenta mil quinientos.
+NUM002020 Y junto a él estará la tribu de Manasés. El jefe de los hijos de Manasés, Gamaliel, hijo de Pedasur,
+NUM002021 y su ejército, los enumerados, treinta y dos mil doscientos.
+NUM002022 Después, la tribu de Benjamín. El jefe de los hijos de Benjamín, Abidán, hijo de Gedeoni,
+NUM002023 y su ejército, los enumerados, treinta y cinco mil cuatrocientos.
+NUM002024 El total de los enumerados del campamento de Efraín: ciento ocho mil cien, según sus ejércitos. Y ellos partirán en tercer lugar.
+NUM002025 Al norte estará la bandera del campamento de Dan, según sus ejércitos. El jefe de los hijos de Dan, Ahiezer, hijo de Amisadai,
+NUM002026 y su ejército, los enumerados, sesenta y dos mil setecientos.
+NUM002027 Y junto a él acampará la tribu de Aser. El jefe de los hijos de Aser, Pagiel, hijo de Ocrán,
+NUM002028 y su ejército, los enumerados, cuarenta y un mil quinientos.
+NUM002029 Después, la tribu de Neftalí. El jefe de los hijos de Neftalí, Ahira, hijo de Enán,
+NUM002030 y su ejército, los enumerados, cincuenta y tres mil cuatrocientos.
+NUM002031 El total de los enumerados del campamento de Dan: ciento cincuenta y siete mil seiscientos. Ellos serán los últimos en partir, según sus banderas.
+NUM002032 Estos son los enumerados de los hijos de Israel, por sus casas paternas; el total de los enumerados de los campamentos, según sus ejércitos: seiscientos tres mil quinientos cincuenta.
+NUM002033 Pero los levitas no fueron contados entre los hijos de Israel, tal como el SEÑOR había ordenado a Moisés.
+NUM002034 Y los hijos de Israel hicieron conforme a todo lo que el SEÑOR había ordenado a Moisés; así acamparon por sus banderas y así partieron, cada uno según su familia, conforme a su casa paterna.
+NUM003001 Y estos son los registros de los descendientes de Aarón y Moisés, el día en que el SEÑOR habló con Moisés en el monte Sinaí.
+NUM003002 Estos son los nombres de los hijos de Aarón: Nadab, el primogénito, Abiú, Eleazar e Itamar.
+NUM003003 Estos son los nombres de los hijos de Aarón, los sacerdotes ungidos, a quienes él ordenó para que ministraran como sacerdotes.
+NUM003004 Pero Nadab y Abiú murieron delante del SEÑOR cuando ofrecieron fuego extraño ante el SEÑOR en el desierto de Sinaí; y no tuvieron hijos. Y Eleazar e Itamar ejercieron el sacerdocio durante la vida de su padre Aarón.
+NUM003005 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM003006 Haz que se acerque la tribu de Leví y ponlos delante del sacerdote Aarón, para que le sirvan.
+NUM003007 Y se encargarán de las obligaciones para con él y para con toda la congregación delante de la tienda de reunión, para cumplir con el servicio del tabernáculo.
+NUM003008 Y guardarán también todos los utensilios de la tienda de reunión, junto con las obligaciones de los hijos de Israel, para cumplir con el servicio del tabernáculo.
+NUM003009 Darás, pues, los levitas a Aarón y a sus hijos; le son dedicados por completo de entre los hijos de Israel.
+NUM003010 Y designarás a Aarón y a sus hijos para que se encarguen de su sacerdocio; pero el extraño que se acerque será muerto.
+NUM003011 El SEÑOR habló además a Moisés, diciendo:
+NUM003012 Mira, yo he tomado a los levitas de entre los hijos de Israel en lugar de todos los primogénitos, los que abren el seno materno de entre los hijos de Israel. Los levitas, pues, serán míos.
+NUM003013 Porque mío es todo primogénito; el día en que herí a todos los primogénitos en la tierra de Egipto, consagré para mí a todos los primogénitos en Israel, desde el hombre hasta el animal. Míos serán; yo soy el SEÑOR.
+NUM003014 Después el SEÑOR habló a Moisés en el desierto de Sinaí, diciendo:
+NUM003015 Cuenta los hijos de Leví por sus casas paternas, por sus familias; contarás todo varón de un mes arriba.
+NUM003016 Entonces los contó Moisés conforme a la orden del SEÑOR, tal como se le había ordenado.
+NUM003017 Estos, pues, son los hijos de Leví por sus nombres: Gersón, Coat y Merari.
+NUM003018 Y estos son los nombres de los hijos de Gersón por sus familias: Libni y Simei;
+NUM003019 y los hijos de Coat, por sus familias: Amram, Izhar, Hebrón y Uziel;
+NUM003020 y los hijos de Merari, por sus familias: Mahli y Musi. Estas son las familias de los levitas conforme a sus casas paternas.
+NUM003021 De Gersón era la familia de Libni y la familia de Simei; éstas eran las familias de los gersonitas.
+NUM003022 Los enumerados en la cuenta de todos los varones de un mes arriba, los enumerados de ellos fueron siete mil quinientos.
+NUM003023 Las familias de los gersonitas habían de acampar detrás del tabernáculo, al occidente;
+NUM003024 el jefe de las casas paternas de los gersonitas era Eliasaf, hijo de Lael.
+NUM003025 Las responsabilidades de los hijos de Gersón en la tienda de reunión incluían el tabernáculo y la tienda, su cubierta, el velo de la entrada de la tienda de reunión,
+NUM003026 las cortinas del atrio, el velo para la entrada del atrio que está alrededor del tabernáculo y del altar, y sus cuerdas, conforme a todo su servicio.
+NUM003027 Y de Coat eran la familia de los amramitas, la familia de los izharitas, la familia de los hebronitas y la familia de los uzielitas; éstas eran las familias de los coatitas.
+NUM003028 Según el censo de todos los varones de un mes arriba, había ocho mil seiscientos, que desempeñaban los deberes del santuario.
+NUM003029 Las familias de los hijos de Coat habían de acampar al lado sur del tabernáculo;
+NUM003030 el jefe de las casas paternas de las familias coatitas era Elizafán, hijo de Uziel.
+NUM003031 A cargo de ellos estaban el arca, la mesa, el candelabro, los altares, los utensilios del santuario con que ministran, el velo y todo su servicio.
+NUM003032 El principal de los jefes de Leví era Eleazar, hijo del sacerdote Aarón, encargado de los guardas que cuidaban el santuario.
+NUM003033 De Merari eran la familia de los mahlitas y la familia de los musitas; éstas eran las familias de Merari.
+NUM003034 Los enumerados en el censo de todos los varones de un mes arriba eran seis mil doscientos.
+NUM003035 Y el jefe de las casas paternas de las familias de Merari era Zuriel, hijo de Abihail. Habían de acampar al lado norte del tabernáculo.
+NUM003036 A cargo de los hijos de Merari estaban el maderaje del tabernáculo, sus barras, sus columnas, sus basas, todos sus enseres y el servicio relacionado con ellos,
+NUM003037 las columnas alrededor del atrio con sus basas, sus estacas y sus cuerdas.
+NUM003038 Los que habían de acampar delante del tabernáculo al oriente, delante de la tienda de reunión hacia la salida del sol, eran Moisés, Aarón y sus hijos, desempeñando los deberes del santuario para cumplir la obligación de los hijos de Israel; pero el extraño que se acercara, moriría.
+NUM003039 Todos los enumerados de los levitas, que Moisés y Aarón contaron por sus familias por mandato del SEÑOR, todos los varones de un mes arriba, eran veintidós mil.
+NUM003040 Entonces el SEÑOR dijo a Moisés: Cuenta a todos los primogénitos varones de los hijos de Israel de un mes arriba, y haz una lista de sus nombres.
+NUM003041 Y tomarás a los levitas para mí, yo soy el SEÑOR, en lugar de todos los primogénitos entre los hijos de Israel, y el ganado de los levitas en lugar de todos los primogénitos del ganado de los hijos de Israel.
+NUM003042 Y contó Moisés a todos los primogénitos de los hijos de Israel, tal como el SEÑOR le había ordenado;
+NUM003043 y todos los primogénitos varones conforme al número de sus nombres de un mes arriba, los enumerados, eran veintidós mil doscientos setenta y tres.
+NUM003044 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM003045 Toma a los levitas en lugar de todos los primogénitos entre los hijos de Israel, y el ganado de los levitas. Los levitas serán míos; yo soy el SEÑOR.
+NUM003046 Y como precio de rescate por los doscientos setenta y tres de los primogénitos de los hijos de Israel que exceden a los levitas,
+NUM003047 tomarás cinco siclos por cada uno, por cabeza; los tomarás conforme al siclo del santuario (el siclo tiene veinte geras),
+NUM003048 y da el dinero, el rescate de los que hay en exceso entre ellos, a Aarón y a sus hijos.
+NUM003049 Moisés, pues, tomó el dinero de rescate de los que excedían el número de los redimidos por los levitas;
+NUM003050 de los primogénitos de los hijos de Israel tomó el dinero conforme al siclo del santuario, mil trescientos sesenta y cinco siclos.
+NUM003051 Entonces Moisés dio a Aarón y a sus hijos el dinero del rescate, por mandato del SEÑOR, tal como el SEÑOR había ordenado a Moisés.
+NUM004001 Entonces el SEÑOR habló a Moisés y a Aarón, diciendo:
+NUM004002 Haced un censo de los descendientes de Coat, de entre los hijos de Leví, por sus familias, conforme a sus casas paternas,
+NUM004003 de treinta años arriba hasta los cincuenta, todos los que se enlistan para servir en la tienda de reunión.
+NUM004004 Este será el servicio de los descendientes de Coat en la tienda de reunión, con relación a las cosas más sagradas:
+NUM004005 Cuando el campamento se traslade, Aarón y sus hijos entrarán y quitarán el velo de separación, y con él cubrirán el arca del testimonio;
+NUM004006 y colocarán sobre ella una cubierta de piel de marsopa, y extenderán encima un paño todo de azul puro, y luego colocarán sus varas.
+NUM004007 Sobre la mesa del pan de la Presencia tenderán también un paño azul, y en él pondrán las fuentes, las cucharas, los tazones para los sacrificios y los jarros para hacer libación; el pan perpetuo estará sobre él.
+NUM004008 Y extenderán sobre ellos un paño carmesí, y los cubrirán con una cubierta de piel de marsopa, y luego colocarán sus varas.
+NUM004009 Tomarán entonces un paño azul y cubrirán el candelabro del alumbrado, las lámparas, las despabiladeras, los platillos y todos los utensilios para el aceite con que lo sirven;
+NUM004010 lo pondrán con todos sus utensilios en una cubierta de piel de marsopa, y lo colocarán sobre las parihuelas.
+NUM004011 Y extenderán sobre el altar de oro un paño azul, y lo cubrirán con una cubierta de piel de marsopa, y colocarán sus varas;
+NUM004012 y tomarán todos los utensilios para el ministerio con que sirven en el santuario, los pondrán en un paño azul, los cubrirán con una cubierta de piel de marsopa y los colocarán sobre las parihuelas.
+NUM004013 Quitarán entonces las cenizas del altar y extenderán sobre él un paño de púrpura.
+NUM004014 Y le pondrán encima todos los utensilios con que sirven en relación con él: los braseros, los garfios, las palas y los tazones, todos los utensilios del altar. Y extenderán sobre él una cubierta de piel de marsopa y colocarán sus varas.
+NUM004015 Cuando Aarón y sus hijos hayan terminado de cubrir los objetos sagrados y todos los utensilios del santuario, cuando el campamento esté para trasladarse, vendrán después los hijos de Coat para transportarlos, pero que no toquen los objetos sagrados pues morirían. Estas son las cosas que transportarán los hijos de Coat en la tienda de reunión.
+NUM004016 Pero la responsabilidad de Eleazar, hijo del sacerdote Aarón, será el aceite para el alumbrado, el incienso aromático, la ofrenda continua de cereal y el aceite para ungir. Tendrá la responsabilidad de todo el tabernáculo y de todo lo que en él hay, con el santuario y sus enseres.
+NUM004017 Después el SEÑOR habló a Moisés y a Aarón, diciendo:
+NUM004018 No permitáis que la tribu de las familias de los coatitas sea cortada de entre los levitas.
+NUM004019 Esto haréis con ellos para que vivan y no perezcan cuando se acerquen a los objetos santísimos: Aarón y sus hijos entrarán y señalarán a cada uno de ellos su trabajo y su carga;
+NUM004020 pero no entrarán, ni por un momento, a ver los objetos sagrados, para que no mueran.
+NUM004021 Y habló el SEÑOR a Moisés, diciendo:
+NUM004022 Haz también un censo de los hijos de Gersón por sus casas paternas, según sus familias;
+NUM004023 los contarás desde los treinta hasta los cincuenta años de edad; todos los que se enlisten para cumplir el servicio, para hacer la obra en la tienda de reunión.
+NUM004024 Este será el ministerio de las familias de los gersonitas para servir y para transportar:
+NUM004025 llevarán las cortinas del tabernáculo, de la tienda de reunión, con su cubierta, la cubierta de piel de marsopa que está encima de él, el velo de la entrada de la tienda de reunión,
+NUM004026 las cortinas del atrio, el velo para la entrada del atrio que está alrededor del tabernáculo y del altar, con sus cuerdas y todos los utensilios para el servicio de ellos; todo lo que se deba hacer, ellos lo harán.
+NUM004027 Bajo las órdenes de Aarón y de sus hijos estará todo el ministerio de los hijos de los gersonitas, en relación con todas sus cargas y todo su trabajo; y tú les asignarás como responsabilidad todas sus cargas.
+NUM004028 Este es el servicio de las familias de los hijos de los gersonitas en la tienda de reunión; sus deberes estarán bajo la dirección de Itamar, hijo del sacerdote Aarón.
+NUM004029 A los hijos de Merari los contarás por sus familias, por sus casas paternas;
+NUM004030 los contarás desde los treinta hasta los cincuenta años de edad, todos los que se enlisten para servir en la tienda de reunión.
+NUM004031 Esta es su responsabilidad de lo que han de transportar, para todo su servicio en la tienda de reunión: las tablas del tabernáculo, sus barras, sus columnas, sus basas,
+NUM004032 las columnas alrededor del atrio y sus basas, sus estacas y sus cuerdas, con todos sus utensilios y con todo su servicio; y les asignarás por nombre los objetos que han de transportar.
+NUM004033 Este es el servicio de las familias de los hijos de Merari. Para todo su servicio en la tienda de reunión estarán bajo las órdenes de Itamar, hijo del sacerdote Aarón.
+NUM004034 Entonces Moisés y Aarón y los jefes de la congregación contaron a los hijos de los coatitas por sus familias y por sus casas paternas,
+NUM004035 de treinta años en adelante hasta los cincuenta, todo el que se enlistó para servir en la tienda de reunión.
+NUM004036 Y los enumerados por sus familias fueron dos mil setecientos cincuenta.
+NUM004037 Estos son los enumerados de las familias coatitas, todos los que servían en la tienda de reunión, a quienes Moisés y Aarón contaron conforme al mandamiento del SEÑOR por medio de Moisés.
+NUM004038 Estos son los enumerados de los hijos de Gersón por sus familias y por sus casas paternas,
+NUM004039 de treinta años en adelante hasta los cincuenta, todo el que se enlistó para servir en la tienda de reunión;
+NUM004040 los enumerados, por sus familias, por sus casas paternas, fueron dos mil seiscientos treinta.
+NUM004041 Estos son los enumerados de las familias de los hijos de Gersón, todos los que servían en la tienda de reunión, a quienes Moisés y Aarón contaron conforme al mandamiento del SEÑOR.
+NUM004042 Y estos son los enumerados de las familias de los hijos de Merari por sus familias y por sus casas paternas,
+NUM004043 de treinta años en adelante hasta los cincuenta, todo el que se enlistó para servir en la tienda de reunión;
+NUM004044 los enumerados por sus familias, fueron tres mil doscientos.
+NUM004045 Estos son los enumerados de las familias de los hijos de Merari, a quienes Moisés y Aarón contaron conforme al mandamiento del SEÑOR por medio de Moisés.
+NUM004046 Todos los enumerados de los levitas a quienes Moisés y Aarón y los jefes de Israel contaron, por sus familias y por sus casas paternas,
+NUM004047 de treinta años en adelante hasta los cincuenta, todo el que podía enlistarse para servir y hacer el trabajo de transportar la tienda de reunión,
+NUM004048 fueron ocho mil quinientos ochenta.
+NUM004049 Fueron contados conforme al mandamiento del SEÑOR dado por medio de Moisés, cada uno según su ministerio o según su cargo; y éstos fueron los enumerados, tal como el SEÑOR había ordenado a Moisés.
+NUM005001 Y habló el SEÑOR a Moisés, diciendo:
+NUM005002 Manda a los hijos de Israel que echen del campamento a todo leproso, a todo el que padece de flujo y a todo el que es inmundo por causa de un muerto.
+NUM005003 Echaréis tanto a hombres como a mujeres; los echaréis fuera del campamento para que no contaminen su campamento, donde yo habito en medio de ellos.
+NUM005004 Y así lo hicieron los hijos de Israel, y los echaron fuera del campamento; tal como el SEÑOR había dicho a Moisés, así lo hicieron los hijos de Israel.
+NUM005005 Entonces el SEÑOR habló a Moisés, diciendo:
+NUM005006 Habla a los hijos de Israel: 'El hombre o la mujer que cometa cualquiera de los pecados de la humanidad, actuando pérfidamente contra el SEÑOR, esa persona es culpable;
+NUM005007 entonces confesará los pecados que ha cometido, y hará completa restitución por el daño causado, añadirá un quinto y lo dará al que él perjudicó.
+NUM005008 'Pero si la persona no tiene pariente a quien se le haga la restitución por el daño, la restitución hecha por el daño debe ir al SEÑOR, para el sacerdote, además del carnero de expiación, con el cual se hace expiación por él.
+NUM005009 'También toda ofrenda correspondiente a todas las cosas consagradas de los hijos de Israel que ofrecen al sacerdote, serán suyas.
+NUM005010 'Las cosas consagradas de toda persona serán del sacerdote; lo que una persona dé al sacerdote será de él.'
+NUM005011 El SEÑOR habló además a Moisés, diciendo:
+NUM005012 Habla a los hijos de Israel, y diles: 'Si la mujer de alguno se desvía y le es infiel,
+NUM005013 teniendo alguno relaciones carnales con ella sin que su marido se dé cuenta, ni sea descubierta (aunque ella se haya contaminado y no haya testigo contra ella, ni haya sido sorprendida en el acto mismo ),
+NUM005014 y un espíritu de celo viene sobre él y tiene celos de su mujer, habiéndose ella contaminado, o si viene un espíritu de celos sobre él y tiene celos de su mujer, no habiéndose ella contaminado,
+NUM005015 el hombre llevará su mujer al sacerdote y llevará como ofrenda por ella un décimo de un efa de harina de cebada; no derramará aceite sobre la ofrenda, ni pondrá sobre ella incienso, porque es una ofrenda de cereal, de celos, una ofrenda memorial de cereal, un recordatorio de iniquidad.
+NUM005016 'Entonces el sacerdote hará que ella se acerque y la pondrá delante del SEÑOR,
+NUM005017 y el sacerdote tomará agua santa en una vasija de barro; y tomará del polvo que está sobre el piso del tabernáculo, y lo pondrá en el agua.
+NUM005018 'Luego el sacerdote hará que la mujer esté delante del SEÑOR y descubrirá la cabeza de la mujer, y pondrá en sus manos la ofrenda memorial de cereal, que es la ofrenda de celos, y en la mano del sacerdote estará el agua de amargura que trae maldición.
+NUM005019 'Y el sacerdote hará que ella pronuncie juramento, y dirá a la mujer: 'Si ningún hombre se ha acostado contigo, y si no te has desviado a la inmundicia, estando sujeta a tu marido, sé inmune a esta agua de amargura que trae maldición;
+NUM005020 pero si te has desviado, estando sujeta a tu marido, y te has corrompido, y otro hombre que no es tu marido se ha llegado a ti',
+NUM005021 (entonces el sacerdote hará que la mujer jure con el juramento de maldición, y el sacerdote dirá a la mujer): 'El SEÑOR te haga maldición y juramento entre tu pueblo, haciendo el SEÑOR que tu muslo se enjute y tu vientre se hinche;
+NUM005022 y esta agua que trae maldición entrará en tus entrañas, y hará que tu vientre se hinche y tu muslo se enjute.' Y la mujer dirá: 'Amén, amén.'
+NUM005023 'Entonces el sacerdote escribirá estas maldiciones en un rollo, y las lavará en el agua de amargura.
+NUM005024 'Después hará que la mujer beba el agua de amargura que trae maldición, para que el agua que trae maldición entre a ella para causar amargura.
+NUM005025 'Y el sacerdote tomará la ofrenda de cereal de los celos de la mano de la mujer, y mecerá la ofrenda de cereal delante del SEÑOR y la llevará al altar;
+NUM005026 tomará el sacerdote un puñado de la ofrenda de cereal como su ofrenda memorial y la quemará en el altar, y después hará que la mujer beba el agua.
+NUM005027 'Cuando le haya hecho beber el agua, sucederá que si ella se ha contaminado y ha sido infiel a su marido, el agua que trae maldición entrará en ella para producir amargura, y su vientre se hinchará, su muslo se enjutará y la mujer vendrá a ser una maldición en medio de su pueblo.
+NUM005028 'Mas si la mujer no se ha contaminado y es limpia, quedará libre y concebirá hijos.
+NUM005029 'Esta es la ley de los celos: cuando una mujer que esté sujeta a su marido, se desvíe y se contamine,
+NUM005030 o cuando un espíritu de celos venga sobre alguno y esté celoso de su mujer, entonces hará que la mujer se presente delante del SEÑOR, y el sacerdote le aplicará a ella toda esta ley.
+NUM005031 'Además, el marido quedará libre de culpa, pero la mujer llevará su culpa.'
+NUM006001 Y el SEÑOR habló a Moisés, diciendo:
+NUM006002 Habla a los hijos de Israel, y diles: 'El hombre o la mujer que haga un voto especial, el voto de nazareo, para dedicarse al SEÑOR,
+NUM006003 se abstendrá de vino y licor; no beberá vinagre, ya sea de vino o de licor, tampoco beberá ningún jugo de uva, ni comerá uvas frescas ni secas.
+NUM006004 'Todos los días de su nazareato no comerá nada de lo que se hace de la vid, desde las semillas hasta el hollejo.
+NUM006005 'Durante todos los días del voto de su nazareato no pasará navaja sobre su cabeza. Hasta que se cumplan los días por los cuales se apartó a sí mismo para el SEÑOR, será santo; dejará crecer las guedejas del cabello de su cabeza.
+NUM006006 'Durante todos los días de su nazareato para el SEÑOR, no se acercará a persona muerta.
+NUM006007 'Ni por su padre, ni por su madre, ni por su hermano, ni por su hermana se contaminará de ellos cuando mueran, pues su nazareato para Dios está sobre su cabeza.
+NUM006008 'Todos los días de su nazareato él es santo al SEÑOR.
+NUM006009 'Pero si alguno muere repentinamente junto a él, y el nazareo contamina su cabeza consagrada, entonces se rasurará la cabeza el día de su purificación; el día séptimo se la rasurará.
+NUM006010 'Y el octavo día traerá al sacerdote dos tórtolas o dos pichones a la entrada de la tienda de reunión.
+NUM006011 'El sacerdote ofrecerá uno como ofrenda por el pecado y el otro como holocausto, y hará expiación por él, por su pecado, a causa de la persona muerta. Y consagrará su cabeza ese mismo día,
+NUM006012 y dedicará al SEÑOR los días de su nazareato, y traerá un cordero de un año como ofrenda por su culpa; pero los primeros días quedarán anulados, por cuanto su nazareato fue contaminado.
+NUM006013 'Esta es la ley del nazareo cuando se hayan cumplido los días de su nazareato: llevará la ofrenda a la entrada de la tienda de reunión,
+NUM006014 y presentará su ofrenda delante del SEÑOR, un cordero de un año, sin defecto, como holocausto, y una cordera de un año, sin defecto, como ofrenda por el pecado, y un carnero sin defecto, como ofrenda de paz,
+NUM006015 y una cesta de tortas sin levadura de flor de harina mezcladas con aceite, y hojaldres sin levadura untados con aceite, junto con sus ofrendas de cereal y sus libaciones.
+NUM006016 'Entonces el sacerdote ofrecerá todo esto delante del SEÑOR, y presentará su ofrenda por el pecado y el holocausto.
+NUM006017 'Hará con el carnero un sacrificio de las ofrendas de paz al SEÑOR, junto con la cesta de los panes sin levadura; asimismo, el sacerdote presentará su ofrenda de cereal y su libación.
+NUM006018 'Entonces el nazareo se rasurará el cabello de su cabeza consagrada a la entrada de la tienda de reunión, y tomará el cabello de su cabeza consagrada y lo pondrá en el fuego que arde debajo del sacrificio de las ofrendas de paz.
+NUM006019 'Y el sacerdote tomará la espaldilla hervida, y un pan sin levadura de la cesta, y un hojaldre sin levadura, y los pondrá en las manos del nazareo cuando éste se haya rasurado su cabello de nazareo.
+NUM006020 'Después el sacerdote los mecerá como ofrenda mecida delante del SEÑOR. Es cosa sagrada para el sacerdote, junto con el pecho mecido y la pierna levantada; después el nazareo podrá beber vino.'
+NUM006021 Esta es la ley del nazareo que hace voto de su ofrenda al SEÑOR, según su nazareato, además de lo que sus recursos le permitan; según el voto que tome, así hará conforme a la ley de su nazareato.
+NUM006022 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM006023 Habla a Aarón y a sus hijos, y diles: 'Así bendeciréis a los hijos de Israel. Les diréis:
+NUM006024 'El SEÑOR te bendiga y te guarde;
+NUM006025 el SEÑOR haga resplandecer su rostro sobre ti, y tenga de ti misericordia;
+NUM006026 el SEÑOR alce sobre ti su rostro, y te dé paz.''
+NUM006027 Así invocarán mi nombre sobre los hijos de Israel, y yo los bendeciré.
+NUM007001 Y sucedió que el día en que Moisés terminó de levantar el tabernáculo, lo ungió y lo consagró con todos sus muebles; también ungió y consagró el altar y todos sus utensilios.
+NUM007002 Entonces los jefes de Israel, las cabezas de sus casas paternas, presentaron una ofrenda (ellos eran los jefes de las tribus, los que estaban sobre los enumerados).
+NUM007003 Y ellos trajeron su ofrenda delante del SEÑOR: seis carretas cubiertas y doce bueyes, una carreta por cada dos jefes y un buey por cada uno. Los presentaron ante el tabernáculo.
+NUM007004 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM007005 Acepta de ellos estas cosas, para que sean usadas en el servicio de la tienda de reunión, y las darás a los levitas, a cada uno conforme a su ministerio.
+NUM007006 Entonces Moisés tomó las carretas y los bueyes, y se los dio a los levitas.
+NUM007007 Dos carretas y cuatro bueyes dio a los hijos de Gersón, conforme a su ministerio,
+NUM007008 y cuatro carretas y ocho bueyes dio a los hijos de Merari, conforme a su ministerio, bajo la dirección de Itamar, hijo del sacerdote Aarón.
+NUM007009 Pero a los hijos de Coat no les dio nada, porque su ministerio consistía en llevar sobre sus hombros los objetos sagrados.
+NUM007010 Y los jefes presentaron la ofrenda de dedicación del altar el día que fue ungido; los jefes presentaron su ofrenda ante el altar.
+NUM007011 Entonces el SEÑOR dijo a Moisés: Que presenten su ofrenda, un jefe cada día, para la dedicación del altar.
+NUM007012 Y el que presentó su ofrenda el primer día fue Naasón, hijo de Aminadab, de la tribu de Judá.
+NUM007013 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007014 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007015 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007016 un macho cabrío como ofrenda por el pecado;
+NUM007017 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Naasón, hijo de Aminadab.
+NUM007018 El segundo día, Natanael, hijo de Zuar, jefe de Isacar, presentó su ofrenda.
+NUM007019 Y él presentó como su ofrenda una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007020 un recipiente de oro de diez siclos lleno de incienso;
+NUM007021 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007022 un macho cabrío como ofrenda por el pecado;
+NUM007023 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Natanael, hijo de Zuar.
+NUM007024 El tercer día se presentó Eliab, hijo de Helón, jefe de los hijos de Zabulón.
+NUM007025 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007026 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007027 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007028 un macho cabrío como ofrenda por el pecado;
+NUM007029 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Eliab, hijo de Helón.
+NUM007030 El cuarto día se presentó Elisur, hijo de Sedeur, jefe de los hijos de Rubén.
+NUM007031 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007032 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007033 un novillo, un carnero y un cordero de un año, como holocausto,
+NUM007034 un macho cabrío como ofrenda por el pecado;
+NUM007035 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Elisur, hijo de Zedeur.
+NUM007036 El quinto día se presentó Selumiel, hijo de Zurisadai, jefe de los hijos de Simeón.
+NUM007037 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007038 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007039 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007040 un macho cabrío como ofrenda por el pecado;
+NUM007041 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Selumiel, hijo de Zurisadai.
+NUM007042 El sexto día se presentó Eliasaf, hijo de Deuel, jefe de los hijos de Gad.
+NUM007043 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007044 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007045 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007046 un macho cabrío como ofrenda por el pecado;
+NUM007047 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Eliasaf, hijo de Deuel.
+NUM007048 El séptimo día se presentó Elisama, hijo de Amiud, jefe de los hijos de Efraín.
+NUM007049 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007050 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007051 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007052 un macho cabrío como ofrenda por el pecado;
+NUM007053 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Elisama, hijo de Amiud.
+NUM007054 El octavo día se presentó Gamaliel, hijo de Pedasur, jefe de los hijos de Manasés.
+NUM007055 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007056 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007057 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007058 un macho cabrío como ofrenda por el pecado;
+NUM007059 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Gamaliel, hijo de Pedasur.
+NUM007060 El noveno día se presentó Abidán, hijo de Gedeoni, jefe de los hijos de Benjamín.
+NUM007061 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007062 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007063 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007064 un macho cabrío como ofrenda por el pecado;
+NUM007065 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Abidán, hijo de Gedeoni.
+NUM007066 El décimo día se presentó Ahiezer, hijo de Amisadai, jefe de los hijos de Dan.
+NUM007067 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007068 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007069 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007070 un macho cabrío como ofrenda por el pecado;
+NUM007071 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Ahiezer, hijo de Amisadai.
+NUM007072 El undécimo día se presentó Pagiel, hijo de Ocrán, jefe de los hijos de Aser.
+NUM007073 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007074 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007075 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007076 un macho cabrío como ofrenda por el pecado;
+NUM007077 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Pagiel, hijo de Ocrán.
+NUM007078 El duodécimo día se presentó Ahira, hijo de Enán, jefe de los hijos de Neftalí.
+NUM007079 Y su ofrenda fue una fuente de plata de ciento treinta siclos de peso, un tazón de plata de setenta siclos, conforme al siclo del santuario, ambos llenos de flor de harina mezclada con aceite como ofrenda de cereal;
+NUM007080 un recipiente de oro de diez siclos, lleno de incienso;
+NUM007081 un novillo, un carnero y un cordero de un año, como holocausto;
+NUM007082 un macho cabrío como ofrenda por el pecado;
+NUM007083 y para el sacrificio de las ofrendas de paz, dos bueyes, cinco carneros, cinco machos cabríos y cinco corderos de un año. Esta fue la ofrenda de Ahira, hijo de Enán.
+NUM007084 Esta fue la ofrenda de dedicación del altar presentadas por los jefes de Israel cuando lo ungieron: doce fuentes de plata, doce tazones de plata, doce recipientes de oro,
+NUM007085 cada fuente de plata pesaba ciento treinta siclos, y cada tazón setenta siclos; toda la plata de los utensilios era dos mil cuatrocientos siclos, conforme al siclo del santuario;
+NUM007086 los doce recipientes de oro, llenos de incienso, pesaban diez siclos cada uno, conforme al siclo del santuario. Todo el oro de los recipientes era ciento veinte siclos.
+NUM007087 El total de los animales para el holocausto fue de doce novillos; los carneros, doce; los corderos de un año con sus ofrendas de cereal, doce; y los machos cabríos para la ofrenda por el pecado, doce.
+NUM007088 El total de los animales para el sacrificio de las ofrendas de paz, fue de veinticuatro novillos; los carneros, sesenta; los machos cabríos, sesenta; y los corderos de un año, sesenta. Esta fue la ofrenda de la dedicación del altar después que fue ungido.
+NUM007089 Y al entrar Moisés en la tienda de reunión para hablar con el Señor, oyó la voz que le hablaba desde encima del propiciatorio que estaba sobre el arca del testimonio, de entre los dos querubines, y El le habló.
+NUM008001 Entonces el SEÑOR habló a Moisés, diciendo:
+NUM008002 Habla a Aarón y dile: 'Cuando pongas las lámparas, las siete lámparas alumbrarán al frente del candelabro.'
+NUM008003 Y así lo hizo Aarón; puso las lámparas al frente del candelabro, como el SEÑOR había ordenado a Moisés.
+NUM008004 Y esta era la hechura del candelabro: de oro labrado a martillo; desde su base hasta sus flores fue obra labrada a martillo; según el modelo que el SEÑOR le mostró a Moisés, así hizo el candelabro.
+NUM008005 De nuevo el SEÑOR habló a Moisés, diciendo:
+NUM008006 Toma de entre los hijos de Israel a los levitas y purifícalos.
+NUM008007 Así harás con ellos para su purificación: rociarás sobre ellos agua purificadora, y que ellos hagan pasar una navaja sobre todo su cuerpo, laven sus ropas y quedarán purificados.
+NUM008008 Tomarán entonces un novillo con su ofrenda de cereal, flor de harina mezclada con aceite; y tú tomarás otro novillo como ofrenda por el pecado.
+NUM008009 Y harás que se acerquen los levitas delante de la tienda de reunión. Reunirás también a toda la congregación de los hijos de Israel,
+NUM008010 y presentarás a los levitas delante del SEÑOR; y los hijos de Israel pondrán sus manos sobre los levitas.
+NUM008011 Entonces Aarón presentará a los levitas delante del SEÑOR, como ofrenda mecida de los hijos de Israel, para que ellos puedan cumplir el ministerio del SEÑOR.
+NUM008012 Los levitas pondrán sus manos sobre la cabeza de los novillos, y entonces ofrecerán uno como ofrenda por el pecado y el otro como holocausto al SEÑOR, para hacer expiación por los levitas.
+NUM008013 Harás que los levitas estén de pie delante de Aarón y delante de sus hijos, para presentarlos como ofrenda mecida al SEÑOR.
+NUM008014 Así separarás a los levitas de entre los hijos de Israel, y los levitas serán míos.
+NUM008015 Y después de eso, los levitas podrán entrar para ministrar en la tienda de reunión, tú los purificarás y los presentarás como ofrenda mecida;
+NUM008016 porque son enteramente dedicados para mí de entre los hijos de Israel. Los he tomado para mí en lugar de todo primer fruto de la matriz, los primogénitos de todos los hijos de Israel.
+NUM008017 Porque míos son todos los primogénitos de entre los hijos de Israel, tanto de hombres como de animales; el día en que herí a todo primogénito en la tierra de Egipto, los santifiqué para mí.
+NUM008018 Pero he tomado a los levitas en lugar de los primogénitos de entre los hijos de Israel.
+NUM008019 Y he dado a los levitas como un don a Aarón y a sus hijos de entre los hijos de Israel, para cumplir el ministerio de los hijos de Israel en la tienda de reunión y para hacer expiación en favor de los hijos de Israel, para que no haya plaga entre los hijos de Israel al acercarse al santuario.
+NUM008020 Así hicieron a los levitas Moisés, Aarón y toda la congregación de los hijos de Israel; conforme a todo lo que el SEÑOR había mandado a Moisés acerca de los levitas, así hicieron con ellos los hijos de Israel.
+NUM008021 Los levitas se purificaron a sí mismos de pecados, y lavaron sus ropas; y Aarón los presentó como ofrenda mecida delante del SEÑOR. También Aarón hizo expiación por ellos para purificarlos.
+NUM008022 Entonces, después de eso, los levitas entraron para cumplir su ministerio en la tienda de reunión delante de Aarón y delante de sus hijos; como el SEÑOR había ordenado a Moisés acerca de los levitas, así hicieron con ellos.
+NUM008023 Y habló el SEÑOR a Moisés, diciendo:
+NUM008024 Esto es lo que se refiere a los levitas: desde los veinticinco años en adelante entrarán a cumplir el servicio en el ministerio de la tienda de reunión.
+NUM008025 Pero a los cincuenta años se jubilarán de ejercer el ministerio, y no trabajarán más.
+NUM008026 Sin embargo, pueden ayudar a sus hermanos en la tienda de reunión a cumplir sus obligaciones, pero no a ejercer el ministerio. Así harás con los levitas en cuanto a sus obligaciones.
+NUM009001 El SEÑOR habló a Moisés en el desierto del Sinaí, en el primer mes del segundo año de su salida de la tierra de Egipto, diciendo:
+NUM009002 Que los hijos de Israel celebren la Pascua a su tiempo señalado.
+NUM009003 En el día catorce de este mes, al atardecer, la celebraréis a su tiempo señalado; la celebraréis conforme a todos sus estatutos y conforme a todas sus ordenanzas.
+NUM009004 Mandó, pues, Moisés a los hijos de Israel que celebraran la Pascua.
+NUM009005 Y celebraron la Pascua en el mes primero, en el día catorce del mes, al atardecer, en el desierto de Sinaí; tal como el SEÑOR había ordenado a Moisés, así lo hicieron los hijos de Israel.
+NUM009006 Pero había algunos hombres que estaban inmundos por causa de una persona muerta, y no pudieron celebrar la Pascua aquel día. Y vinieron ante Moisés y Aarón aquel día,
+NUM009007 y aquellos hombres les dijeron: Aunque estemos inmundos por causa de una persona muerta, ¿por qué se nos impide presentar la ofrenda del SEÑOR en su tiempo señalado entre los hijos de Israel?
+NUM009008 Entonces Moisés les dijo: Esperad, y oiré lo que el SEÑOR ordene acerca de vosotros.
+NUM009009 Y habló el SEÑOR a Moisés, diciendo:
+NUM009010 Habla a los hijos de Israel y diles: 'Si alguno de vosotros o de vuestros descendientes está inmundo por causa de un muerto, o anda de viaje lejos, puede, sin embargo, celebrar la Pascua al SEÑOR.
+NUM009011 'La celebrarán a los catorce días del segundo mes, al atardecer; la comerán con pan sin levadura y hierbas amargas.
+NUM009012 'Nada dejarán de ella hasta la mañana, ni quebrarán hueso de ella; conforme a todos los estatutos de la Pascua la celebrarán.
+NUM009013 'Pero si alguno que está limpio y no anda de viaje, deja de celebrar la Pascua, esa persona será cortada de entre su pueblo, porque no presentó la ofrenda del SEÑOR a su tiempo señalado. Ese hombre llevará su pecado.
+NUM009014 'Y si un forastero reside entre vosotros y celebra la Pascua al SEÑOR, conforme al estatuto de la Pascua y conforme a su ordenanza lo hará; tendréis un solo estatuto, tanto para el forastero como para el nativo de la tierra.'
+NUM009015 Y el día que fue erigido el tabernáculo, la nube cubrió el tabernáculo, la tienda del testimonio, y al atardecer estaba sobre el tabernáculo como una apariencia de fuego, hasta la mañana.
+NUM009016 Así sucedía continuamente; la nube lo cubría de día, y la apariencia de fuego de noche.
+NUM009017 Y cuando la nube se levantaba de sobre la tienda, enseguida los hijos de Israel partían; y en el lugar donde la nube se detenía, allí acampaban los hijos de Israel.
+NUM009018 Al mandato del SEÑOR los hijos de Israel partían, y al mandato del SEÑOR acampaban; mientras la nube estaba sobre el tabernáculo, permanecían acampados.
+NUM009019 Aun cuando la nube se detenía sobre el tabernáculo por muchos días, los hijos de Israel guardaban la ordenanza del SEÑOR y no partían.
+NUM009020 Y sucedía que cuando la nube permanecía algunos días sobre el tabernáculo, según la orden del SEÑOR, permanecían acampados; y según la orden del SEÑOR, partían.
+NUM009021 Y sucedía que cuando la nube permanecía desde el atardecer hasta la mañana, cuando la nube se levantaba por la mañana, ellos partían; y si permanecía durante el día y durante la noche, cuando la nube se levantaba, ellos partían.
+NUM009022 Ya fuera que la nube se detuviera sobre el tabernáculo permaneciendo sobre él dos días, o un mes, o un año, los hijos de Israel permanecían acampados y no partían; pero cuando se levantaba, partían.
+NUM009023 Y al mandato del SEÑOR acampaban, y al mandato del SEÑOR partían; guardaban la ordenanza del SEÑOR según el mandato del SEÑOR por medio de Moisés.
+NUM010001 Y siguió el SEÑOR hablando a Moisés, diciendo:
+NUM010002 Hazte dos trompetas de plata; las harás labradas a martillo. Y te servirán para convocar a la congregación y para dar la orden de poner en marcha los campamentos.
+NUM010003 Cuando se toquen las dos, toda la congregación se reunirá junto a ti a la puerta de la tienda de reunión.
+NUM010004 Cuando se toque una sola, entonces se reunirán junto a ti los principales, los jefes de las divisiones de Israel.
+NUM010005 Pero cuando toquéis alarma, partirán los que estén acampados al oriente.
+NUM010006 Y cuando toquéis alarma la segunda vez, partirán los acampados al sur; se tocará una alarma para que ellos se pongan en marcha.
+NUM010007 Sin embargo, cuando se convoque la asamblea, tocaréis, pero no con toque de alarma.
+NUM010008 Además, los hijos de Aarón, los sacerdotes, tocarán las trompetas; y os será por estatuto perpetuo por vuestras generaciones.
+NUM010009 Cuando vayáis a la guerra en vuestra tierra contra el adversario que os ataque, tocaréis alarma con las trompetas a fin de que el SEÑOR vuestro Dios se acuerde de vosotros, y seáis salvados de vuestros enemigos.
+NUM010010 Asimismo, en el día de vuestra alegría, en vuestras fiestas señaladas y en el primer día de vuestros meses, tocaréis las trompetas durante vuestros holocaustos y durante los sacrificios de vuestras ofrendas de paz; y serán para vosotros como recordatorio delante de vuestro Dios. Yo soy el SEÑOR vuestro Dios.
+NUM010011 Y sucedió que en el año segundo, en el mes segundo, el día veinte del mes, la nube se levantó de sobre el tabernáculo del testimonio;
+NUM010012 y los hijos de Israel partieron, según su orden de marcha, del desierto de Sinaí. Y la nube se detuvo en el desierto de Parán.
+NUM010013 Así partieron la primera vez conforme al mandamiento del SEÑOR por medio de Moisés.
+NUM010014 La bandera del campamento de los hijos de Judá, según sus ejércitos, partió primero, con Naasón, hijo de Aminadab, al frente de su ejército;
+NUM010015 y Natanael, hijo de Zuar, al frente del ejército de la tribu de los hijos de Isacar;
+NUM010016 y Eliab, hijo de Helón, al frente del ejército de la tribu de los hijos de Zabulón.
+NUM010017 Entonces el tabernáculo fue desarmado; y los hijos de Gersón, y los hijos de Merari, que llevaban el tabernáculo, partieron.
+NUM010018 Después partió la bandera del campamento de Rubén, según sus ejércitos, con Elisur, hijo de Sedeur, al frente de su ejército;
+NUM010019 y Selumiel, hijo de Zurisadai, al frente del ejército de la tribu de los hijos de Simeón,
+NUM010020 y Eliasaf, hijo de Deuel, estaba al frente del ejército de la tribu de los hijos de Gad.
+NUM010021 Luego se pusieron en marcha los coatitas llevando los objetos sagrados; y el tabernáculo fue erigido antes de que ellos llegaran.
+NUM010022 Después partió la bandera del campamento de los hijos de Efraín, según sus ejércitos, con Elisama, hijo de Amiud, al frente de su ejército;
+NUM010023 y Gamaliel, hijo de Pedasur, al frente del ejército de la tribu de los hijos de Manasés;
+NUM010024 y Abidán, hijo de Gedeoni, al frente del ejército de la tribu de los hijos de Benjamín.
+NUM010025 Después partió la bandera del campamento de los hijos de Dan, según sus ejércitos, los cuales formaban la retaguardia de todos los campamentos, con Ahiezer, hijo de Amisadai, al frente de su ejército;
+NUM010026 y Pagiel, hijo de Ocrán, al frente del ejército de la tribu de los hijos de Aser;
+NUM010027 y Ahira, hijo de Enán, al frente del ejército de la tribu de los hijos de Neftalí.
+NUM010028 Este fue el orden de marcha de los hijos de Israel por sus ejércitos cuando partieron.
+NUM010029 Entonces Moisés dijo a Hobab, hijo de Reuel madianita, suegro de Moisés: Nosotros partimos hacia el lugar del cual el SEÑOR dijo: 'Yo os lo daré.' Ven con nosotros y te haremos bien, pues el SEÑOR ha prometido el bien a Israel.
+NUM010030 Pero él le dijo: No iré, sino que me iré a mi tierra y a mi parentela.
+NUM010031 Después dijo Moisés: Te ruego que no nos dejes, puesto que tú sabes dónde debemos acampar en el desierto, y serás como ojos para nosotros.
+NUM010032 Y será que si vienes con nosotros, el bien que el SEÑOR nos haga, nosotros te haremos.
+NUM010033 Así partieron desde el monte del SEÑOR tres días de camino, y el arca del pacto del SEÑOR iba delante de ellos por los tres días, buscándoles un lugar dónde descansar.
+NUM010034 Y la nube del SEÑOR iba sobre ellos de día desde que partieron del campamento.
+NUM010035 Y sucedía que cuando el arca se ponía en marcha, Moisés decía: ¡Levántate, oh SEÑOR! y sean dispersados tus enemigos, huyan de tu presencia los que te aborrecen.
+NUM010036 Y cuando el arca descansaba, él decía: Vuelve, oh SEÑOR, a los millares de millares de Israel.
+NUM011001 Y el pueblo comenzó a quejarse en la adversidad a oídos del SEÑOR; y cuando el SEÑOR lo oyó, se encendió su ira, y el fuego del SEÑOR ardió entre ellos y consumió un extremo del campamento.
+NUM011002 Entonces clamó el pueblo a Moisés, y Moisés oró al SEÑOR y el fuego se apagó.
+NUM011003 Y se le dio a aquel lugar el nombre de Tabera, porque el fuego del SEÑOR había ardido entre ellos.
+NUM011004 Y el populacho que estaba entre ellos tenía un deseo insaciable; y también los hijos de Israel volvieron a llorar, y dijeron: ¿Quién nos dará carne para comer?
+NUM011005 Nos acordamos del pescado que comíamos gratis en Egipto, de los pepinos, de los melones, los puerros, las cebollas y los ajos;
+NUM011006 pero ahora no tenemos apetito. Nada hay para nuestros ojos excepto este maná.
+NUM011007 Y el maná era como una semilla de cilantro, y su aspecto como el del bedelio.
+NUM011008 El pueblo iba, lo recogía y lo molía entre dos piedras de molino, o lo machacaba en el mortero, y lo hervía en el caldero y hacía tortas con él; y tenía el sabor de tortas cocidas con aceite.
+NUM011009 Cuando el rocío caía en el campamento por la noche, con él caía el maná.
+NUM011010 Y Moisés oyó llorar al pueblo, por sus familias, cada uno a la puerta de su tienda; y la ira del SEÑOR se encendió en gran manera, y a Moisés no le agradó.
+NUM011011 Entonces Moisés dijo al SEÑOR: ¿Por qué has tratado tan mal a tu siervo? ¿Y por qué no he hallado gracia ante tus ojos para que hayas puesto la carga de todo este pueblo sobre mí?
+NUM011012 ¿Acaso concebí yo a todo este pueblo? ¿Fui yo quien lo dio a luz para que me dijeras: 'Llévalo en tu seno, como la nodriza lleva al niño de pecho, a la tierra que yo juré a sus padres'?
+NUM011013 ¿De dónde he de conseguir carne para dar a todo este pueblo? Porque claman a mí, diciendo: 'Danos carne para que comamos.'
+NUM011014 Yo solo no puedo llevar a todo este pueblo, porque es mucha carga para mí.
+NUM011015 Y si así me vas a tratar, te ruego que me mates si he hallado gracia ante tus ojos, y no me permitas ver mi desventura.
+NUM011016 Entonces el SEÑOR dijo a Moisés: Reúneme a setenta hombres de los ancianos de Israel, a quienes tú conozcas como los ancianos del pueblo y a sus oficiales, y tráelos a la tienda de reunión y que permanezcan allí contigo.
+NUM011017 Entonces descenderé y hablaré contigo allí, y tomaré del Espíritu que está sobre ti y lo pondré sobre ellos, y llevarán contigo la carga del pueblo para que no la lleves tú solo.
+NUM011018 Y di al pueblo: 'Consagraos para mañana, y comeréis carne, pues habéis llorado a oídos del SEÑOR, diciendo: '¡Quién nos diera a comer carne! Porque nos iba mejor en Egipto.' El SEÑOR, pues, os dará carne y comeréis.
+NUM011019 'No comeréis un día, ni dos días, ni cinco días, ni diez días, ni veinte días,
+NUM011020 sino todo un mes, hasta que os salga por las narices y os sea aborrecible, porque habéis rechazado al SEÑOR, que está entre vosotros, y habéis llorado delante de El, diciendo: '¿Por qué salimos de Egipto?''
+NUM011021 Pero Moisés dijo: El pueblo, en medio del cual estoy, llega a seiscientos mil de a pie; y tú has dicho: 'Les daré carne a fin de que coman, por todo un mes.'
+NUM011022 ¿Sería suficiente degollar para ellos las ovejas y los bueyes? ¿O sería suficiente juntar para ellos todos los peces del mar?
+NUM011023 Y el SEÑOR dijo a Moisés: ¿Está limitado el poder del SEÑOR? Ahora verás si mi palabra se te cumple o no.
+NUM011024 Salió Moisés y dijo al pueblo las palabras del SEÑOR. Reunió después a setenta hombres de los ancianos del pueblo y los colocó alrededor de la tienda.
+NUM011025 Entonces el SEÑOR descendió en la nube y le habló; y tomó del Espíritu que estaba sobre él y lo colocó sobre los setenta ancianos. Y sucedió que cuando el Espíritu reposó sobre ellos, profetizaron; pero no volvieron a hacerlo más.
+NUM011026 Pero dos hombres habían quedado en el campamento; uno se llamaba Eldad, y el otro se llamaba Medad. Y el Espíritu reposó sobre ellos (ellos estaban entre los que se habían inscrito, pero no habían salido a la tienda), y profetizaron en el campamento.
+NUM011027 Y un joven corrió y avisó a Moisés, diciendo: Eldad y Medad están profetizando en el campamento.
+NUM011028 Entonces respondió Josué, hijo de Nun, ayudante de Moisés desde su juventud, y dijo: Moisés, señor mío, detenlos.
+NUM011029 Pero Moisés le dijo: ¿Tienes celos por causa mía? ¡Ojalá todo el pueblo del SEÑOR fuera profeta, que el SEÑOR pusiera su Espíritu sobre ellos!
+NUM011030 Después Moisés volvió al campamento, y con él los ancianos de Israel.
+NUM011031 Y salió de parte del SEÑOR un viento que trajo codornices desde el mar y las dejó caer junto al campamento, como un día de camino de este lado, y un día de camino del otro lado, por todo alrededor del campamento, y como dos codos de espesor sobre la superficie de la tierra.
+NUM011032 Y el pueblo estuvo levantado todo el día, toda la noche, y todo el día siguiente, y recogieron las codornices (el que recogió menos, recogió diez homeres), y las tendieron para sí por todos los alrededores del campamento.
+NUM011033 Pero mientras la carne estaba aún entre sus dientes, antes que la masticaran, la ira del SEÑOR se encendió contra el pueblo, y el SEÑOR hirió al pueblo con una plaga muy mala.
+NUM011034 Por eso llamaron a aquel lugar Kibrot-hataava, porque allí sepultaron a los que habían sido codiciosos.
+NUM011035 Y de Kibrot-hataava el pueblo partió para Hazerot, y permaneció en Hazerot.
+NUM012001 Entonces Miriam y Aarón hablaron contra Moisés por causa de la mujer cusita con quien se había casado (pues se había casado con una mujer cusita);
+NUM012002 y dijeron: ¿Es cierto que el SEÑOR ha hablado sólo mediante Moisés? ¿No ha hablado también mediante nosotros? Y el SEÑOR lo oyó.
+NUM012003 (Moisés era un hombre muy humilde, más que cualquier otro hombre sobre la faz de la tierra.)
+NUM012004 Y el SEÑOR de repente dijo a Moisés, a Aarón y a Miriam: Salid vosotros tres a la tienda de reunión. Y salieron los tres.
+NUM012005 Entonces el SEÑOR descendió en una columna de nube y se puso a la puerta de la tienda; y llamó a Aarón y a Miriam. Y cuando los dos se adelantaron,
+NUM012006 El dijo: Oíd ahora mis palabras: Si entre vosotros hay profeta, yo, el SEÑOR, me manifestaré a él en visión. Hablaré con él en sueños.
+NUM012007 No así con mi siervo Moisés; en toda mi casa él es fiel.
+NUM012008 Cara a cara hablo con él, abiertamente y no en dichos oscuros, y él contempla la imagen del SEÑOR. ¿Por qué, pues, no temisteis hablar contra mi siervo, contra Moisés?
+NUM012009 Y se encendió la ira del SEÑOR contra ellos, y El se fue.
+NUM012010 Pero cuando la nube se retiró de sobre la tienda, he aquí que Miriam estaba leprosa, blanca como la nieve. Y cuando Aarón se volvió hacia Miriam, vio que estaba leprosa.
+NUM012011 Entonces Aarón dijo a Moisés: Señor mío, te ruego que no nos cargues este pecado, en el cual hemos obrado neciamente y con el cual hemos pecado.
+NUM012012 No permitas que ella sea como quien nace muerto, que cuando sale del vientre de su madre su carne está ya medio consumida.
+NUM012013 Y Moisés clamó al SEÑOR, diciendo: Oh Dios, sánala ahora, te ruego.
+NUM012014 Pero el SEÑOR dijo a Moisés: Si su padre le hubiera escupido a ella en el rostro, ¿no llevaría su vergüenza por siete días? Que sea echada fuera del campamento por siete días, y después puede ser admitida de nuevo.
+NUM012015 Miriam fue confinada fuera del campamento por siete días y el pueblo no se puso en marcha hasta que Miriam volvió.
+NUM012016 Después el pueblo partió de Hazerot y acampó en el desierto de Parán.
+NUM013001 Y el SEÑOR habló a Moisés, diciendo:
+NUM013002 Tú mismo envía hombres a fin de que reconozcan la tierra de Canaán, que voy a dar a los hijos de Israel; enviarás un hombre de cada una de las tribus de sus padres, cada uno de ellos jefe entre ellos.
+NUM013003 Entonces Moisés los envió desde el desierto de Parán, al mandato del SEÑOR; todos aquellos hombres eran jefes de los hijos de Israel.
+NUM013004 Y estos eran sus nombres: de la tribu de Rubén, Samúa, hijo de Zacur;
+NUM013005 de la tribu de Simeón, Safat, hijo de Hori;
+NUM013006 de la tribu de Judá, Caleb, hijo de Jefone;
+NUM013007 de la tribu de Isacar, Igal, hijo de José;
+NUM013008 de la tribu de Efraín, Oseas, hijo de Nun;
+NUM013009 de la tribu de Benjamín, Palti, hijo de Rafú;
+NUM013010 de la tribu de Zabulón, Gadiel, hijo de Sodi;
+NUM013011 de la tribu de los hijos de José: de la tribu de Manasés, Gadi, hijo de Susi;
+NUM013012 de la tribu de Dan, Amiel, hijo de Gemali;
+NUM013013 de la tribu de Aser, Setur, hijo de Micael;
+NUM013014 de la tribu de Neftalí, Nahbi, hijo de Vapsi;
+NUM013015 de la tribu de Gad, Geuel, hijo de Maqui.
+NUM013016 Así se llamaban los hombres a quienes Moisés envió a reconocer la tierra; pero a Oseas, hijo de Nun, Moisés lo llamó Josué.
+NUM013017 Cuando Moisés los envió a reconocer la tierra de Canaán, les dijo: Subid allá, al Neguev; después subid a la región montañosa.
+NUM013018 Ved cómo es la tierra, y si la gente que habita en ella es fuerte o débil, si son pocos o muchos;
+NUM013019 y cómo es la tierra en que viven, si es buena o mala; y cómo son las ciudades en que habitan, si son como campamentos abiertos o con fortificaciones;
+NUM013020 y cómo es el terreno, si fértil o estéril. ¿Hay allí árboles o no? Procurad obtener algo del fruto de la tierra. (Aquel tiempo era el tiempo de las primeras uvas maduras.)
+NUM013021 Entonces ellos subieron y reconocieron la tierra desde el desierto de Zin hasta Rehob, en Lebo-hamat.
+NUM013022 Y subieron por el Neguev, y llegaron hasta Hebrón, donde estaban Ahimán, Sesai y Talmai, los descendientes de Anac. (Hebrón fue edificada siete años antes que Zoán en Egipto.)
+NUM013023 Y llegaron hasta el valle de Escol y de allí cortaron un sarmiento con un solo racimo de uvas; y lo llevaban en un palo entre dos hombres, con algunas de las granadas y de los higos.
+NUM013024 A aquel lugar se le llamó el valle de Escol por razón del racimo que los hijos de Israel cortaron allí.
+NUM013025 Y volvieron de reconocer la tierra al cabo de cuarenta días,
+NUM013026 y fueron y se presentaron a Moisés y a Aarón, y a toda la congregación de los hijos de Israel en el desierto de Parán, en Cades; y les dieron un informe a ellos y a toda la congregación, y les enseñaron el fruto de la tierra.
+NUM013027 Y le contaron a Moisés, y le dijeron: Fuimos a la tierra adonde nos enviaste; ciertamente mana leche y miel, y este es el fruto de ella.
+NUM013028 Sólo que es fuerte el pueblo que habita en la tierra, y las ciudades, fortificadas y muy grandes; y además vimos allí a los descendientes de Anac.
+NUM013029 Amalec habita en la tierra del Neguev, y los hititas, los jebuseos y los amorreos habitan en la región montañosa, y los cananeos habitan junto al mar y a la ribera del Jordán.
+NUM013030 Entonces Caleb calmó al pueblo delante de Moisés, y dijo: Debemos ciertamente subir y tomar posesión de ella, porque sin duda la conquistaremos.
+NUM013031 Pero los hombres que habían subido con él dijeron: No podemos subir contra ese pueblo, porque es más fuerte que nosotros.
+NUM013032 Y dieron un mal informe a los hijos de Israel de la tierra que habían reconocido, diciendo: La tierra por la que hemos ido para reconocerla es una tierra que devora a sus habitantes, y toda la gente que vimos en ella son hombres de gran estatura.
+NUM013033 Vimos allí también a los gigantes (los hijos de Anac son parte de la raza de los gigantes); y a nosotros nos pareció que éramos como langostas; y así parecíamos ante sus ojos.
+NUM014001 Entonces toda la congregación levantó la voz y clamó, y el pueblo lloró aquella noche.
+NUM014002 Y murmuraron contra Moisés y Aarón todos los hijos de Israel; y les dijo toda la congregación: ¡Ojalá hubiéramos muerto en la tierra de Egipto! ¡Ojalá hubiéramos muerto en este desierto!
+NUM014003 ¿Y por qué nos trae el SEÑOR a esta tierra para caer a espada? Nuestras mujeres y nuestros hijos vendrán a ser presa. ¿No sería mejor que nos volviéramos a Egipto?
+NUM014004 Y se decían unos a otros: Nombremos un jefe y volvamos a Egipto.
+NUM014005 Entonces Moisés y Aarón cayeron sobre sus rostros en presencia de toda la asamblea de la congregación de los hijos de Israel.
+NUM014006 Y Josué, hijo de Nun, y Caleb, hijo de Jefone, que eran de los que habían reconocido la tierra, rasgaron sus vestidos;
+NUM014007 y hablaron a toda la congregación de los hijos de Israel, diciendo: La tierra por la que pasamos para reconocerla es una tierra buena en gran manera.
+NUM014008 Si el SEÑOR se agrada de nosotros, nos llevará a esa tierra y nos la dará; es una tierra que mana leche y miel.
+NUM014009 Sólo que no os rebeléis contra el SEÑOR, ni tengáis miedo de la gente de la tierra, pues serán presa nuestra. Su protección les ha sido quitada, y el SEÑOR está con nosotros; no les tengáis miedo.
+NUM014010 Pero toda la congregación dijo que los apedrearan. Entonces la gloria del SEÑOR apareció en la tienda de reunión a todos los hijos de Israel.
+NUM014011 Y el SEÑOR dijo a Moisés: ¿Hasta cuándo me desdeñará este pueblo? ¿Y hasta cuándo no creerán en mí a pesar de todas las señales que he hecho en medio de ellos?
+NUM014012 Los heriré con pestilencia y los desalojaré, y a ti te haré una nación más grande y poderosa que ellos.
+NUM014013 Pero Moisés respondió al SEÑOR: Entonces lo oirán los egipcios, pues tú sacaste a este pueblo de en medio de ellos con tu poder,
+NUM014014 y se lo dirán a los habitantes de esta tierra. Estos han oído que tú, oh SEÑOR, estás en medio de tu pueblo, porque tú, oh SEÑOR, eres visto cara a cara cuando tu nube está sobre ellos; y tú vas delante de ellos de día en una columna de nube, y de noche en una columna de fuego.
+NUM014015 Pero si tú destruyes a este pueblo como a un solo hombre, entonces las naciones que han oído de tu fama, dirán:
+NUM014016 'Porque el SEÑOR no pudo introducir a este pueblo a la tierra que les había prometido con juramento, por eso los mató en el desierto.'
+NUM014017 Pero ahora, yo te ruego que sea engrandecido el poder del Señor, tal como tú lo has declarado, diciendo:
+NUM014018 'El SEÑOR es lento para la ira y abundante en misericordia, y perdona la iniquidad y la transgresión; mas de ninguna manera tendrá por inocente al culpable ; sino que castigará la iniquidad de los padres sobre los hijos hasta la tercera y la cuarta generación .'
+NUM014019 Perdona, te ruego, la iniquidad de este pueblo conforme a la grandeza de tu misericordia, así como has perdonado a este pueblo desde Egipto hasta aquí.
+NUM014020 Entonces el SEÑOR dijo: Los he perdonado según tu palabra;
+NUM014021 pero ciertamente, vivo yo, que toda la tierra será llena de la gloria del SEÑOR;
+NUM014022 ciertamente todos los que han visto mi gloria y las señales que hice en Egipto y en el desierto, y que me han puesto a prueba estas diez veces y no han oído mi voz,
+NUM014023 no verán la tierra que juré a sus padres, ni la verá ninguno de los que me desdeñaron.
+NUM014024 Pero a mi siervo Caleb, porque ha habido en él un espíritu distinto y me ha seguido plenamente, lo introduciré a la tierra donde entró, y su descendencia tomará posesión de ella.
+NUM014025 Ahora bien, los amalecitas y los cananeos moran en los valles. Mañana volveos y partid para el desierto, camino del mar Rojo.
+NUM014026 Y habló el SEÑOR a Moisés y a Aarón, diciendo:
+NUM014027 ¿Hasta cuándo tendré que sobrellevar a esta congregación malvada que murmura contra mí? He oído las quejas de los hijos de Israel, que murmuran contra mí.
+NUM014028 Diles: 'Vivo yo'--declara el SEÑOR-- 'que tal como habéis hablado a mis oídos, así haré yo con vosotros.
+NUM014029 'En este desierto caerán vuestros cadáveres, todos vuestros enumerados de todos los contados de veinte años arriba, que han murmurado contra mí.
+NUM014030 'De cierto que vosotros no entraréis en la tierra en la cual juré estableceros, excepto Caleb, hijo de Jefone, y Josué, hijo de Nun.
+NUM014031 'Sin embargo, vuestros pequeños, de quienes dijisteis que serían presa del enemigo a ellos los introduciré, y conocerán la tierra que vosotros habéis despreciado.
+NUM014032 'Pero en cuanto a vosotros, vuestros cadáveres caerán en este desierto.
+NUM014033 'Y vuestros hijos serán pastores por cuarenta años en el desierto, y sufrirán por vuestra infidelidad, hasta que vuestros cadáveres queden en el desierto.
+NUM014034 'Según el número de los días que reconocisteis la tierra, cuarenta días, por cada día llevaréis vuestra culpa un año, hasta cuarenta años, y conoceréis mi enemistad.
+NUM014035 'Yo, el SEÑOR, he hablado; ciertamente esto haré a toda esta perversa congregación que se han juntado contra mí. En este desierto serán destruidos, y aquí morirán.'
+NUM014036 En cuanto a los hombres a quienes Moisés envió a reconocer la tierra, y que volvieron e hicieron a toda la congregación murmurar contra él dando un mal informe acerca de la tierra,
+NUM014037 aquellos hombres que dieron el mal informe acerca de la tierra, murieron debido a una plaga delante del SEÑOR.
+NUM014038 Pero Josué, hijo de Nun, y Caleb, hijo de Jefone, sobrevivieron de entre aquellos hombres que fueron a reconocer la tierra.
+NUM014039 Y cuando Moisés habló estas palabras a todos los hijos de Israel, el pueblo lloró mucho.
+NUM014040 Y muy de mañana se levantaron y subieron a la cumbre del monte, y dijeron: Aquí estamos; subamos al lugar que el SEÑOR ha dicho, porque hemos pecado.
+NUM014041 Mas Moisés dijo: ¿Por qué, entonces, quebrantáis el mandamiento del SEÑOR, si esto no os saldrá bien?
+NUM014042 No subáis, no sea que seáis derribados delante de vuestros enemigos, pues el SEÑOR no está entre vosotros.
+NUM014043 Pues los amalecitas y los cananeos estarán allí frente a vosotros, y caeréis a espada por cuanto os habéis negado a seguir al SEÑOR. Y el SEÑOR no estará con vosotros.
+NUM014044 Pero ellos se obstinaron en subir a la cumbre del monte; mas ni el arca del pacto del SEÑOR ni Moisés se apartaron del campamento.
+NUM014045 Entonces descendieron los amalecitas y los cananeos que habitaban en la región montañosa, y los hirieron y los derrotaron persiguiéndolos hasta Horma.
+NUM015001 Y el SEÑOR habló a Moisés, diciendo:
+NUM015002 Habla a los hijos de Israel, y diles: 'Cuando entréis en la tierra que yo os doy por morada,
+NUM015003 y presentéis, de vacas o de ovejas, una ofrenda encendida al SEÑOR en holocausto o sacrificio para cumplir un voto especial, o como ofrenda voluntaria, o para ofrecer en vuestras fiestas señaladas aroma agradable al SEÑOR,
+NUM015004 entonces el que presente su ofrenda, traerá al SEÑOR una ofrenda de cereal de una décima de un efa de flor de harina mezclada con un cuarto de un hin de aceite.
+NUM015005 'Tú prepararás vino para la libación, un cuarto de un hin con el holocausto o para el sacrificio, por cada cordero.
+NUM015006 'O por un carnero prepararás como ofrenda de cereal dos décimas de un efa de flor de harina mezclada con la tercera parte de un hin de aceite;
+NUM015007 y para la libación ofrecerás la tercera parte de un hin de vino, como aroma suave al SEÑOR.
+NUM015008 'Y cuando prepares un novillo, como holocausto o sacrificio para cumplir un voto especial, o para las ofrendas de paz al SEÑOR,
+NUM015009 entonces ofrecerás con el novillo una ofrenda de cereal de tres décimas de un efa de flor de harina mezclada con la mitad de un hin de aceite;
+NUM015010 y ofrecerás como libación medio hin de vino como ofrenda encendida, como aroma agradable al SEÑOR.
+NUM015011 'Así se hará con cada buey, o con cada carnero, o con cada uno de los corderos o de las cabras.
+NUM015012 'Según el número que preparéis, así haréis con cada uno conforme a su número.
+NUM015013 'Todo nativo hará estas cosas en esta forma al presentar una ofrenda encendida, como aroma agradable al SEÑOR.
+NUM015014 'Y si un extranjero reside con vosotros, o uno que esté entre vosotros por vuestras generaciones, y desea presentar una ofrenda encendida como aroma agradable al SEÑOR, como lo hacéis vosotros, así lo hará él.
+NUM015015 'En cuanto a la asamblea, un estatuto habrá para vosotros y para el extranjero que reside con vosotros , un estatuto perpetuo por vuestras generaciones; como vosotros sois, así será el extranjero delante del SEÑOR.
+NUM015016 'Una sola ley habrá, una sola ordenanza, para vosotros y para el extranjero que reside con vosotros.'
+NUM015017 Después el SEÑOR habló a Moisés, diciendo:
+NUM015018 Habla a los hijos de Israel, y diles: 'Cuando entréis en la tierra adonde os llevo,
+NUM015019 será que cuando comáis de la comida de la tierra, elevaréis una ofrenda al SEÑOR.
+NUM015020 'De las primicias de vuestra masa elevaréis una torta como ofrenda; como la ofrenda de la era, así la elevaréis.
+NUM015021 'De las primicias de vuestra masa daréis al SEÑOR una ofrenda por vuestras generaciones.
+NUM015022 'Pero cuando erréis y no observéis todos estos mandamientos que el SEÑOR ha hablado a Moisés,
+NUM015023 todo lo que el SEÑOR os ha mandado por medio de Moisés, desde el día en que el SEÑOR dio mandamiento, en el futuro, por todas vuestras generaciones,
+NUM015024 entonces sucederá que si se hizo inadvertidamente, sin el conocimiento de la congregación, toda la congregación ofrecerá un novillo como holocausto, como aroma agradable al SEÑOR, con su ofrenda de cereal y su libación, según la ordenanza, y un macho cabrío como ofrenda por el pecado.
+NUM015025 'Entonces el sacerdote hará expiación por toda la congregación de los hijos de Israel, y serán perdonados, pues fue un error. Cuando presenten su ofrenda, una ofrenda encendida al SEÑOR, y su ofrenda por el pecado delante del SEÑOR por su error,
+NUM015026 será perdonada toda la congregación de los hijos de Israel, y el extranjero que reside entre ellos, pues sucedió a todo el pueblo por error.
+NUM015027 'También, si una persona peca inadvertidamente, ofrecerá una cabra de un año como ofrenda por el pecado.
+NUM015028 'Y el sacerdote hará expiación delante del SEÑOR por la persona que ha cometido error, cuando peca inadvertidamente, haciendo expiación por él, y será perdonado.
+NUM015029 'Para el que es nativo entre los hijos de Israel y para el extranjero que reside entre ellos, tendréis una sola ley para el que haga algo inadvertidamente.
+NUM015030 'Pero aquél que obre con desafío, ya sea nativo o extranjero, ése blasfema contra el SEÑOR, y esa persona será cortada de entre su pueblo.
+NUM015031 'Porque ha menospreciado la palabra del SEÑOR, y ha quebrantado su mandamiento, esa persona será enteramente cortada; su culpa caerá sobre ella.'
+NUM015032 Cuando los hijos de Israel estaban en el desierto, encontraron a un hombre que recogía leña en el día de reposo.
+NUM015033 Los que lo encontraron recogiendo leña, lo llevaron a Moisés y a Aarón y a toda la congregación;
+NUM015034 y lo pusieron bajo custodia, porque no se había aclarado qué debería hacerse con él.
+NUM015035 Entonces el SEÑOR dijo a Moisés: Ciertamente al hombre se le dará muerte; toda la congregación lo apedreará fuera del campamento.
+NUM015036 Y toda la congregación lo sacó fuera del campamento y lo apedrearon, y murió, tal como el SEÑOR había ordenado a Moisés.
+NUM015037 También habló el SEÑOR a Moisés, diciendo:
+NUM015038 Habla a los hijos de Israel y diles que se hagan flecos en los bordes de sus vestidos, por sus generaciones, y que pongan en el fleco de cada borde un cordón azul.
+NUM015039 Y os servirá el fleco, para que cuando lo veáis os acordéis de todos los mandamientos del SEÑOR, a fin de que los cumpláis y no sigáis vuestro corazón ni vuestros ojos, tras los cuales os habéis prostituido,
+NUM015040 para que os acordéis de cumplir todos mis mandamientos y seáis santos a vuestro Dios.
+NUM015041 Yo soy el SEÑOR vuestro Dios que os saqué de la tierra de Egipto para ser vuestro Dios. Yo soy el SEÑOR vuestro Dios.
+NUM016001 Y se rebeló Coré, hijo de Izhar, hijo de Coat, hijo de Leví, con Datán y Abiram, hijos de Eliab, y On, hijo de Pelet, hijos de Rubén,
+NUM016002 y se alzaron contra Moisés, junto con algunos de los hijos de Israel, doscientos cincuenta jefes de la congregación, escogidos en la asamblea, hombres de renombre.
+NUM016003 Y se juntaron contra Moisés y Aarón, y les dijeron: ¡Basta ya de vosotros! Porque toda la congregación, todos ellos son santos, y el SEÑOR está en medio de ellos. ¿Por qué, entonces, os levantáis por encima de la asamblea del SEÑOR?
+NUM016004 Cuando Moisés escuchó esto, cayó sobre su rostro;
+NUM016005 y habló a Coré y a todo su grupo, diciendo: Mañana temprano el SEÑOR mostrará quién es de El, y quién es santo, y lo acercará a sí; aquel a quien El escoja, lo acercará a sí.
+NUM016006 Haced esto, Coré y todo vuestro grupo: tomad incensarios para vosotros,
+NUM016007 y poned fuego en ellos, y echad incienso sobre ellos mañana en la presencia del SEÑOR; y el hombre a quien el SEÑOR escoja será el que es santo. ¡Basta ya de vosotros, hijos de Leví!
+NUM016008 Entonces Moisés dijo a Coré: Oíd ahora, hijos de Leví.
+NUM016009 ¿No os es suficiente que el Dios de Israel os haya separado del resto de la congregación de Israel, para acercaros a sí, a fin de cumplir el ministerio del tabernáculo del SEÑOR, y para estar ante la congregación para ministrarles,
+NUM016010 y que se te ha acercado a ti, Coré, y a todos tus hermanos, hijos de Leví, contigo? ¿Y pretendéis también el sacerdocio?
+NUM016011 Por tanto, tú y toda tu compañía os habéis juntado contra el SEÑOR; pues en cuanto a Aarón, ¿quién es él para que murmuréis contra él?
+NUM016012 Entonces Moisés mandó llamar a Datán y a Abiram, hijos de Eliab, pero ellos dijeron: No iremos.
+NUM016013 ¿No es suficiente que nos hayas sacado de una tierra que mana leche y miel para que muramos en el desierto, sino que también quieras enseñorearte sobre nosotros?
+NUM016014 En verdad, tú no nos has traído a una tierra que mana leche y miel, ni nos has dado herencia de campos y viñas. ¿Les sacarías los ojos a estos hombres? ¡No iremos!
+NUM016015 Moisés se enojó mucho y dijo al SEÑOR: ¡No aceptes su ofrenda! No he tomado de ellos ni un solo asno, ni le he hecho daño a ninguno de ellos.
+NUM016016 Y dijo Moisés a Coré: Tú y toda tu compañía presentaos mañana delante del SEÑOR; tú, ellos y Aarón.
+NUM016017 Cada uno de vosotros tome su incensario y ponga incienso en él, y cada uno de vosotros traiga su incensario delante del SEÑOR, doscientos cincuenta incensarios; tú también, y Aarón, cada uno traiga su incensario.
+NUM016018 Y cada uno tomó su incensario y puso fuego en él, y echó incienso en él; y se pusieron a la puerta de la tienda de reunión con Moisés y Aarón.
+NUM016019 Así reunió Coré a toda la congregación en contra de ellos a la puerta de la tienda de reunión, y la gloria del SEÑOR apareció a toda la congregación.
+NUM016020 Entonces el SEÑOR habló a Moisés y a Aarón, diciendo:
+NUM016021 Apartaos de entre esta congregación, para que yo la destruya en un instante.
+NUM016022 Pero ellos cayeron sobre sus rostros, y dijeron: Oh Dios, Dios de los espíritus de toda carne, cuando un hombre peque, ¿te enojarás con toda la congregación?
+NUM016023 Entonces respondió el SEÑOR a Moisés, diciendo:
+NUM016024 Habla a la congregación, y diles: 'Alejaos de los alrededores de las tiendas de Coré, Datán y Abiram.'
+NUM016025 Entonces se levantó Moisés y fue a Datán y a Abiram, y le seguían los ancianos de Israel,
+NUM016026 y habló a la congregación, diciendo: Apartaos ahora de las tiendas de estos malvados, y no toquéis nada que les pertenezca, no sea que perezcáis con todo su pecado.
+NUM016027 Se retiraron, pues, de los alrededores de las tiendas de Coré, Datán y Abiram; y Datán y Abiram salieron y se pusieron a la puerta de sus tiendas, junto con sus mujeres, sus hijos y sus pequeños.
+NUM016028 Y Moisés dijo: En esto conoceréis que el SEÑOR me ha enviado para hacer todas estas obras, y que no es iniciativa mía:
+NUM016029 si éstos mueren como mueren todos los hombres o si sufren la suerte de todos los hombres, entonces el SEÑOR no me envió.
+NUM016030 Pero si el SEÑOR hace algo enteramente nuevo y la tierra abre su boca y los traga con todo lo que les pertenece, y descienden vivos al Seol, entonces sabréis que estos hombres han menospreciado al SEÑOR.
+NUM016031 Y aconteció que cuando terminó de hablar todas estas palabras, la tierra debajo de ellos se partió,
+NUM016032 y la tierra abrió su boca y se los tragó, a ellos y a sus casas y a todos los hombres de Coré con todos sus bienes.
+NUM016033 Ellos y todo lo que les pertenecía descendieron vivos al Seol; y la tierra los cubrió y perecieron de en medio de la asamblea.
+NUM016034 Y todos los israelitas que estaban alrededor de ellos huyeron a sus gritos, pues decían: ¡No sea que la tierra nos trague!
+NUM016035 Salió también fuego del SEÑOR y consumió a los doscientos cincuenta hombres que ofrecían el incienso.
+NUM016036 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM016037 Di a Eleazar, hijo del sacerdote Aarón, que levante los incensarios de en medio de la hoguera, pues son santos; y esparce allí las brasas.
+NUM016038 En cuanto a los incensarios de estos que han pecado a costa de sus vidas, que se hagan de ellos láminas batidas para cubrir el altar, puesto que los presentaron ante el SEÑOR y son santos; y serán por señal a los hijos de Israel.
+NUM016039 El sacerdote Eleazar tomó los incensarios de bronce que habían presentado los que fueron quemados, y a martillo los hicieron una cubierta para el altar,
+NUM016040 como recordatorio para los hijos de Israel de que ningún laico, que no fuera descendiente de Aarón, debería acercarse a quemar incienso delante del SEÑOR, para que no le sucediera como a Coré y a su grupo, tal como el SEÑOR se lo había dicho por medio de Moisés.
+NUM016041 Pero al día siguiente, toda la congregación de los hijos de Israel murmuró contra Moisés y Aarón, diciendo: Vosotros sois los que habéis sido la causa de la muerte del pueblo del SEÑOR.
+NUM016042 Sucedió, sin embargo, que cuando la congregación se había juntado contra Moisés y Aarón, se volvieron hacia la tienda de reunión, y he aquí, la nube la cubría y la gloria del SEÑOR apareció.
+NUM016043 Y Moisés y Aarón fueron al frente de la tienda de reunión,
+NUM016044 y el SEÑOR habló a Moisés, diciendo:
+NUM016045 Apartaos de en medio de esta congregación, para que yo la destruya en un instante. Entonces ellos cayeron sobre sus rostros.
+NUM016046 Y Moisés le dijo a Aarón: Toma tu incensario y pon en él fuego del altar, y echa incienso en él; tráelo entonces pronto a la congregación y haz expiación por ellos, porque la ira ha salido de parte del SEÑOR. ¡La plaga ha comenzado!
+NUM016047 Aarón lo tomó como Moisés le había dicho, y corrió hacia el medio de la asamblea, pues he aquí que la plaga ya había comenzado entre el pueblo. Y echó el incienso e hizo expiación por el pueblo.
+NUM016048 Y se colocó entre los muertos y los vivos, y la plaga se detuvo.
+NUM016049 Y los que murieron a causa de la plaga fueron catorce mil setecientos, sin contar los que murieron por causa de Coré.
+NUM016050 Después Aarón regresó a Moisés a la puerta de la tienda de reunión, pues la plaga había sido detenida.
+NUM017001 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM017002 Habla a los hijos de Israel y toma de ellos una vara por cada una de las casas paternas: doce varas de todos los jefes conforme a sus casas paternas. Y escribirás el nombre de cada uno en su vara,
+NUM017003 y escribirás el nombre de Aarón en la vara de Leví; porque hay una vara para cada jefe de sus casas paternas.
+NUM017004 Y las pondrás en la tienda de reunión delante del testimonio donde me encuentro contigo.
+NUM017005 Y acontecerá que la vara del hombre que yo escoja, retoñará. Así disminuiré de sobre mí las quejas de los hijos de Israel que murmuran contra vosotros.
+NUM017006 Habló, pues, Moisés a los hijos de Israel, y todos los jefes de ellos le dieron varas, una por cada jefe según sus casas paternas; doce varas, con la vara de Aarón entre sus varas.
+NUM017007 Y Moisés colocó las varas en la tienda del testimonio delante del SEÑOR.
+NUM017008 Y aconteció que el día siguiente, Moisés entró en la tienda del testimonio, y he aquí, la vara de Aarón de la casa de Leví había retoñado y echado botones, y había producido flores, y almendras maduras.
+NUM017009 Moisés entonces sacó todas las varas de la presencia del SEÑOR y las llevó a los hijos de Israel; y ellos las miraron y cada uno tomó su vara.
+NUM017010 Pero el SEÑOR dijo a Moisés: Vuelve a poner la vara de Aarón delante del testimonio para guardarla por señal a los rebeldes, para que hagas cesar sus murmuraciones contra mí, y no mueran.
+NUM017011 Así lo hizo Moisés; como el SEÑOR le había ordenado, así lo hizo.
+NUM017012 Entonces los hijos de Israel hablaron a Moisés, diciendo: He aquí, perecemos, estamos perdidos; todos nosotros estamos perdidos.
+NUM017013 Cualquiera que se acerca al tabernáculo del SEÑOR, muere. ¿Hemos de perecer todos?
+NUM018001 Entonces el SEÑOR dijo a Aarón: Tú y tus hijos, y tu casa paterna contigo, llevaréis la culpa en relación con el santuario; y tú y tus hijos contigo llevaréis la culpa en relación con vuestro sacerdocio.
+NUM018002 Mas también a tus hermanos, la tribu de Leví, la tribu de tu padre, haz que se acerquen para que se junten contigo y te sirvan, mientras que tú y tus hijos contigo estéis delante de la tienda del testimonio.
+NUM018003 Y atenderán a lo que tú ordenes y a las obligaciones de toda la tienda, pero no se acercarán a los utensilios del santuario y del altar, para que no mueran, tanto ellos como vosotros.
+NUM018004 Y ellos se juntarán contigo, y atenderán a las obligaciones de la tienda de reunión, para todo el servicio de la tienda; pero ningún extraño se acercará a vosotros.
+NUM018005 Así atenderéis a las obligaciones del santuario y a las obligaciones del altar, a fin de que la ira no venga más sobre los hijos de Israel.
+NUM018006 He aquí, yo mismo he tomado a vuestros hermanos, los levitas, de entre los hijos de Israel; son un regalo para vosotros, dedicados al SEÑOR, para servir en el ministerio de la tienda de reunión.
+NUM018007 Pero tú y tus hijos contigo atenderéis a vuestro sacerdocio en todo lo concerniente al altar y a lo que está dentro del velo, y ministraréis. Os doy el sacerdocio como un regalo para servir, pero el extraño que se acerque morirá.
+NUM018008 Entonces habló el SEÑOR a Aarón: He aquí que yo te he dado el cuidado de mis ofrendas, todas las cosas consagradas de los hijos de Israel; te las he dado a ti como porción, y a tus hijos como provisión perpetua.
+NUM018009 Esto será tuyo de las ofrendas santísimas preservadas del fuego: toda ofrenda de ellos, aun toda ofrenda de cereal y toda ofrenda por el pecado y toda ofrenda por la culpa, que ellos me han de presentar, será santísima para ti y para tus hijos.
+NUM018010 Como ofrenda santísima la comerás; todo varón la comerá. Cosa santa será para ti.
+NUM018011 Esto también será para ti: la ofrenda de sus dádivas, todas las ofrendas mecidas de los hijos de Israel; las he dado a ti, a tus hijos y a tus hijas contigo, como porción perpetua. Todo el que esté limpio en tu casa podrá comerla.
+NUM018012 Todo lo mejor del aceite nuevo y todo lo mejor del mosto y del cereal, las primicias que presenten al SEÑOR, te las daré a ti.
+NUM018013 Los primeros frutos maduros de todo lo que hay en su tierra, que traigan al SEÑOR, serán tuyos. Todo el que esté limpio en tu casa podrá comer de ello.
+NUM018014 Toda cosa dedicada en Israel, será tuya.
+NUM018015 Todo lo que abre la matriz de toda carne, ya sea hombre o animal, que presenten al SEÑOR, será tuyo; sin embargo, el primogénito de hombre ciertamente redimirás, y el primogénito de animales inmundos redimirás.
+NUM018016 En cuanto a su redención, de un mes los redimirás, según tu valuación, por cinco siclos en plata, según el siclo del santuario que es de veinte geras.
+NUM018017 Pero no redimirás el primogénito de buey, ni el primogénito de oveja, ni el primogénito de cabra; son sagrados. Rociarás su sangre en el altar y quemarás su grasa como ofrenda encendida, como aroma agradable al SEÑOR.
+NUM018018 Y su carne será para ti; así como el pecho de la ofrenda mecida y la pierna derecha son tuyas.
+NUM018019 Todas las ofrendas de lo que es santo, que los hijos de Israel ofrezcan al SEÑOR, las he dado a ti, a tus hijos y a tus hijas contigo, como porción perpetua; es un pacto permanente delante del SEÑOR para ti y para tu descendencia contigo.
+NUM018020 Entonces el SEÑOR dijo a Aarón: No tendrás heredad en su tierra, ni tendrás posesión entre ellos; yo soy tu porción y tu herencia entre los hijos de Israel.
+NUM018021 Y he aquí que yo he dado a los hijos de Leví todos los diezmos en Israel por heredad, a cambio de su ministerio en el cual sirven, el ministerio de la tienda de reunión.
+NUM018022 Y los hijos de Israel no se acercarán más a la tienda de reunión, no sea que carguen con un pecado y mueran.
+NUM018023 Sólo los levitas servirán en el ministerio de la tienda de reunión, y ellos cargarán con la iniquidad del pueblo; será estatuto perpetuo por todas vuestras generaciones, y entre los hijos de Israel no tendrán heredad.
+NUM018024 Porque el diezmo de los hijos de Israel, el cual ofrecen como ofrenda al SEÑOR, yo lo he dado a los levitas por heredad; por tanto, he dicho en cuanto a ellos: 'Entre los hijos de Israel no tendrán heredad.'
+NUM018025 Entonces el SEÑOR habló a Moisés, diciendo:
+NUM018026 También hablarás a los levitas y les dirás: 'Cuando recibáis de los hijos de Israel los diezmos que de ellos os he dado por vuestra heredad, ofreceréis de ello una ofrenda al SEÑOR, el diezmo de los diezmos.
+NUM018027 'Y vuestra ofrenda os será considerada como los cereales de la era o como el producto del lagar.
+NUM018028 'Así también vosotros presentaréis al SEÑOR una ofrenda de vuestros diezmos que recibís de los hijos de Israel; y de ellos daréis la ofrenda del SEÑOR al sacerdote Aarón.
+NUM018029 'De todos los dones que recibís presentaréis las ofrendas que le pertenecen al SEÑOR, de lo mejor de ellas, la parte consagrada de ellas.'
+NUM018030 Y les dirás: 'Cuando hayáis ofrecido de ello lo mejor, entonces el resto será contado a los levitas como el producto de la era o como el producto del lagar.
+NUM018031 'Lo comeréis en cualquier lugar, vosotros y vuestras casas, porque es vuestra remuneración a cambio de vuestro ministerio en la tienda de reunión.
+NUM018032 'Y no llevaréis pecado por ello, cuando hayáis ofrecido lo mejor; así no profanaréis las cosas consagradas de los hijos de Israel, y no moriréis.'
+NUM019001 Después el SEÑOR habló a Moisés y a Aarón, diciendo:
+NUM019002 Este es el estatuto de la ley que el SEÑOR ha ordenado, diciendo: 'Di a los hijos de Israel que te traigan una novilla alazana sin defecto, que no tenga manchas y sobre la cual nunca se haya puesto yugo.
+NUM019003 'Y la daréis al sacerdote Eleazar, y él la sacará fuera del campamento, y será degollada en su presencia.
+NUM019004 'Entonces el sacerdote Eleazar tomará con su dedo de la sangre, y rociará un poco de sangre hacia el frente de la tienda de reunión, siete veces.
+NUM019005 'Luego la novilla será quemada en su presencia; todo se quemará, su cuero, su carne, su sangre y su estiércol.
+NUM019006 'Y el sacerdote tomará madera de cedro, e hisopo y escarlata, y los echará en medio del fuego en que arde la novilla.
+NUM019007 'Luego el sacerdote lavará su ropa y bañará su cuerpo en agua, y después entrará en el campamento, pero el sacerdote quedará inmundo hasta el atardecer.
+NUM019008 'Asimismo, el que la haya quemado lavará su ropa con agua y bañará su cuerpo con agua, y quedará inmundo hasta el atardecer.
+NUM019009 'Entonces un hombre que esté limpio juntará las cenizas de la novilla y las depositará fuera del campamento en un lugar limpio, y la congregación de los hijos de Israel las guardará para el agua para la impureza; es agua para purificar del pecado.
+NUM019010 'Y el que haya recogido las cenizas de la novilla lavará su ropa y quedará inmundo hasta el atardecer; y será un estatuto perpetuo para los hijos de Israel y para el extranjero que reside entre ellos.
+NUM019011 'El que toque el cadáver de una persona quedará inmundo por siete días.
+NUM019012 'Y aquél se purificará a sí mismo de su inmundicia con el agua al tercer día y al séptimo día, y entonces quedará limpio; pero si no se purifica a sí mismo al tercer día y al séptimo día, no quedará limpio.
+NUM019013 'Cualquiera que toque un cadáver, el cuerpo de un hombre que ha muerto, y no se purifique a sí mismo, contamina el tabernáculo del SEÑOR; y esa persona será cortada de Israel. Será inmundo porque el agua para la impureza no se roció sobre él; su impureza aún permanece sobre él.
+NUM019014 'Esta es la ley para cuando un hombre muera en una tienda; todo el que entre en la tienda y todo el que esté en la tienda, quedará inmundo por siete días.
+NUM019015 'Y toda vasija abierta que no tenga la cubierta atada sobre ella, será inmunda.
+NUM019016 'De igual manera, todo el que en campo abierto toque a uno que ha sido muerto a espada, o que ha muerto de causas naturales, o que toque hueso humano, o tumba, quedará inmundo durante siete días.
+NUM019017 'Entonces para la persona inmunda tomarán de las cenizas de lo que se quemó para purificación del pecado, y echarán sobre ella agua corriente en una vasija.
+NUM019018 'Y una persona limpia tomará hisopo y lo mojará en el agua, y lo rociará sobre la tienda y sobre todos los muebles, y sobre las personas que estuvieron allí y sobre aquel que tocó el hueso, o al muerto, o al que moría por causas naturales, o la tumba.
+NUM019019 'Entonces la persona limpia rociará sobre el inmundo al tercero y al séptimo día; al séptimo día lo purificará de la inmundicia, y él lavará su ropa y se bañará en agua, y quedará limpio al llegar la tarde.
+NUM019020 'Pero el hombre que sea inmundo y que no se haya purificado a sí mismo de su inmundicia, esa persona será cortada de en medio de la asamblea, porque ha contaminado el santuario del SEÑOR; el agua para la impureza no se ha rociado sobre él; es inmundo.
+NUM019021 'Por tanto será estatuto perpetuo para ellos. Y el que rocíe el agua para la impureza lavará su ropa, y el que toque el agua para impureza quedará inmundo hasta el atardecer.
+NUM019022 'Y todo lo que la persona inmunda toque quedará inmundo; y la persona que lo toque quedará inmunda hasta el atardecer.'
+NUM020001 Los hijos de Israel, toda la congregación, llegaron al desierto de Zin en el mes primero; y el pueblo se quedó en Cades. Allí murió Miriam y allí la sepultaron.
+NUM020002 Y no había agua para la congregación; y se juntaron contra Moisés y Aarón.
+NUM020003 El pueblo contendió con Moisés y le habló, diciendo: ¡Ojalá hubiéramos perecido cuando nuestros hermanos murieron delante del SEÑOR!
+NUM020004 ¿Por qué, pues, has traído al pueblo del SEÑOR a este desierto, para que nosotros y nuestros animales muramos aquí?
+NUM020005 ¿Y por qué nos hiciste subir de Egipto, para traernos a este miserable lugar? No es lugar de sementeras, ni de higueras, ni de viñas, ni de granados, ni aun hay agua para beber.
+NUM020006 Entonces Moisés y Aarón fueron de delante de la asamblea a la puerta de la tienda de reunión, y se postraron sobre sus rostros; y se les apareció la gloria del SEÑOR.
+NUM020007 Y habló el SEÑOR a Moisés, diciendo:
+NUM020008 Toma la vara y reúne a la congregación, tú y tu hermano Aarón, y hablad a la peña a la vista de ellos, para que la peña dé su agua. Así sacarás para ellos agua de la peña, y beban la congregación y sus animales.
+NUM020009 Tomó Moisés la vara de la presencia del SEÑOR, tal como El se lo había ordenado;
+NUM020010 y Moisés y Aarón reunieron al pueblo ante la peña. Y él les dijo: Oíd, ahora, rebeldes. ¿Sacaremos agua de esta peña para vosotros?
+NUM020011 Entonces Moisés levantó su mano y golpeó la peña dos veces con su vara, y brotó agua en abundancia, y bebió el pueblo y sus animales.
+NUM020012 Y el SEÑOR dijo a Moisés y a Aarón: Porque vosotros no me creísteis a fin de tratarme como santo ante los ojos de los hijos de Israel, por tanto no conduciréis a este pueblo a la tierra que les he dado.
+NUM020013 Aquellas fueron las aguas de Meriba porque los hijos de Israel contendieron con el SEÑOR, y El manifestó su santidad entre ellos.
+NUM020014 Moisés envió mensajeros desde Cades al rey de Edom, diciendo: Así ha dicho tu hermano Israel: 'Tú sabes todas las dificultades que nos han sobrevenido;
+NUM020015 que nuestros padres descendieron a Egipto, y estuvimos por largo tiempo en Egipto, y los egipcios nos maltrataron a nosotros y a nuestros padres.
+NUM020016 'Pero cuando clamamos al SEÑOR, El oyó nuestra voz y envió un ángel y nos sacó de Egipto. Ahora, mira, estamos en Cades, un pueblo de la frontera de tu territorio.
+NUM020017 'Permítenos, por favor, pasar por tu tierra. No pasaremos por campo labrado ni por viñedo; ni siquiera beberemos agua de pozo. Iremos por el camino real, sin volver a la derecha ni a la izquierda hasta que crucemos tu territorio.'
+NUM020018 Pero, Edom le respondió: Tú no pasarás por mi tierra; para que no salga yo con espada a tu encuentro.
+NUM020019 Entonces los hijos de Israel le contestaron: Iremos por el camino principal, y si yo y mi ganado bebemos de tu agua, entonces te pagaré su precio. Solamente déjame pasar a pie, nada más .
+NUM020020 Pero él dijo: Tú no pasarás. Y Edom salió a su encuentro con mucha gente y con mano fuerte.
+NUM020021 Rehusó, pues, Edom dejar pasar a Israel por su territorio, así que Israel tuvo que desviarse de él.
+NUM020022 Partiendo de Cades los hijos de Israel, toda la congregación, llegaron al monte Hor.
+NUM020023 Y habló el SEÑOR a Moisés y a Aarón en el monte Hor, en la frontera de la tierra de Edom, diciendo:
+NUM020024 Aarón será reunido a su pueblo, pues no entrará a la tierra que yo he dado a los hijos de Israel, porque vosotros os rebelasteis contra mi orden en las aguas de Meriba.
+NUM020025 Toma a Aarón y a su hijo Eleazar y tráelos al monte Hor;
+NUM020026 y quita a Aarón sus vestidos y ponlos sobre su hijo Eleazar. Entonces Aarón será reunido a su pueblo , y morirá allí.
+NUM020027 Moisés hizo tal como el SEÑOR le ordenó, y subieron al monte Hor ante los ojos de toda la congregación.
+NUM020028 Y después que Moisés le quitó a Aarón sus vestidos y se los puso a su hijo Eleazar, Aarón murió allí sobre la cumbre del monte, y Moisés y Eleazar descendieron del monte.
+NUM020029 Cuando toda la congregación vio que Aarón había muerto, toda la casa de Israel lloró a Aarón por treinta días.
+NUM021001 Cuando el cananeo, el rey de Arad, que habitaba en el Neguev, oyó que Israel subía por el camino de Atarim, peleó contra Israel y le tomó algunos prisioneros.
+NUM021002 Entonces Israel hizo un voto al SEÑOR y dijo: Si en verdad entregas a este pueblo en mis manos, yo destruiré por completo sus ciudades.
+NUM021003 Y oyó el SEÑOR la voz de Israel y les entregó a los cananeos; y los israelitas los destruyeron por completo, a ellos y a sus ciudades. Por eso se llamó a aquel lugar Horma.
+NUM021004 Partieron del monte de Hor, por el camino del mar Rojo, para rodear la tierra de Edom, y el pueblo se impacientó por causa del viaje.
+NUM021005 Y el pueblo habló contra Dios y Moisés: ¿Por qué nos habéis sacado de Egipto para morir en el desierto? Pues no hay comida ni agua, y detestamos este alimento tan miserable.
+NUM021006 Y el SEÑOR envió serpientes abrasadoras entre el pueblo, y mordieron al pueblo, y mucha gente de Israel murió.
+NUM021007 Entonces el pueblo vino a Moisés y dijo: Hemos pecado, porque hemos hablado contra el SEÑOR y contra ti; intercede con el SEÑOR para que quite las serpientes de entre nosotros. Y Moisés intercedió por el pueblo.
+NUM021008 Y el SEÑOR dijo a Moisés: Hazte una serpiente abrasadora y ponla sobre un asta; y acontecerá que cuando todo el que sea mordido la mire, vivirá.
+NUM021009 Y Moisés hizo una serpiente de bronce y la puso sobre el asta; y sucedía que cuando una serpiente mordía a alguno, y éste miraba a la serpiente de bronce, vivía.
+NUM021010 Después los hijos de Israel partieron y acamparon en Obot.
+NUM021011 Y partieron de Obot y acamparon en Ije-abarim, en el desierto que está frente a Moab, al oriente.
+NUM021012 De allí partieron y acamparon en el valle de Zered.
+NUM021013 De allí partieron y acamparon al otro lado del Arnón, que está en el desierto y que sale del territorio de los amorreos, pues el Arnón es la frontera de Moab, entre Moab y los amorreos.
+NUM021014 Por tanto se dice en el Libro de las Guerras del SEÑOR: Vaheb que está en Sufa y los arroyos del Arnón,
+NUM021015 y la ladera de los arroyos que llega hasta el sitio de Ar y se apoya en la frontera de Moab.
+NUM021016 Y de allí continuaron hasta Beer; este es el pozo donde el SEÑOR le dijo a Moisés: Reúne al pueblo y les daré agua.
+NUM021017 Entonces cantó Israel este cántico: ¡Salta, oh pozo! A él cantad.
+NUM021018 El pozo que cavaron los jefes, que los nobles del pueblo hicieron con el cetro y con sus báculos. Y desde el desierto fueron a Mataná.
+NUM021019 Y de Mataná a Nahaliel, y de Nahaliel a Bamot,
+NUM021020 y de Bamot al valle que está en la tierra de Moab, en la cumbre del Pisga, que da al desierto.
+NUM021021 Entonces Israel envió mensajeros a Sehón, rey de los amorreos, diciendo:
+NUM021022 Déjame pasar por tu tierra. No nos desviaremos, ni por campos ni por viñedos, ni beberemos agua de pozo. Iremos por el camino real hasta que hayamos cruzado tus fronteras.
+NUM021023 Pero Sehón no permitió a Israel pasar por su territorio. Y reunió Sehón a todo su pueblo y salió al encuentro de Israel en el desierto, y llegó a Jahaza y peleó contra Israel.
+NUM021024 Pero Israel lo hirió a filo de espada y tomó posesión de su tierra desde el Arnón hasta el Jaboc, hasta la frontera con los hijos de Amón, porque Jazer era la frontera de los hijos de Amón.
+NUM021025 Israel tomó todas estas ciudades, y habitó Israel en todas las ciudades de los amorreos, en Hesbón y en todas sus aldeas.
+NUM021026 Porque Hesbón era la ciudad de Sehón, rey de los amorreos, quien había peleado contra el rey anterior de Moab y le había quitado de su mano toda su tierra, hasta el Arnón.
+NUM021027 Por eso dicen los que usan proverbios: Venid a Hesbón. Sea edificada. Sea establecida la ciudad de Sehón.
+NUM021028 Porque fuego salió de Hesbón, una llama del pueblo de Sehón; devoró a Ar de Moab, a los señores de las alturas del Arnón.
+NUM021029 ¡Ay de ti, Moab! ¡Destruido eres, oh pueblo de Quemos! Ha dado a sus hijos como fugitivos y a sus hijas a la cautividad, a un rey amorreo, Sehón.
+NUM021030 Mas nosotros los hemos arrojado; Hesbón está destruido hasta Dibón; después también asolamos hasta Nofa, la que llega hasta Medeba.
+NUM021031 Así habitó Israel en la tierra de los amorreos.
+NUM021032 Y Moisés envió a reconocer a Jazer, y tomaron sus villas y expulsaron a los amorreos que vivían allí.
+NUM021033 Después se volvieron y subieron por el camino de Basán; y Og, rey de Basán, salió con todo su pueblo para presentarles batalla en Edrei.
+NUM021034 Pero el SEÑOR dijo a Moisés: No le tengas miedo porque lo he entregado en tu mano, y a todo su pueblo y a su tierra; y harás con él como hiciste con Sehón, rey de los amorreos, el que habitaba en Hesbón.
+NUM021035 Así que lo mataron a él, a sus hijos y a todo su pueblo, hasta que no le quedó remanente; y tomaron posesión de su tierra.
+NUM022001 Después partieron los hijos de Israel y acamparon en las llanuras de Moab, al otro lado del Jordán, frente a Jericó.
+NUM022002 Y Balac, hijo de Zipor, vio todo lo que Israel había hecho a los amorreos.
+NUM022003 Entonces Moab tuvo mucho temor a causa del pueblo, porque eran muchos; y Moab tuvo miedo ante los hijos de Israel.
+NUM022004 Y Moab dijo a los ancianos de Madián: Esta multitud lamerá todo lo que hay a nuestro derredor, como el buey lame la hierba del campo. Y en aquel tiempo Balac, hijo de Zipor, era rey de Moab.
+NUM022005 Y envió mensajeros a Balaam, hijo de Beor, en Petor, que está cerca del río, en la tierra de los hijos de su pueblo, para llamarlo, diciendo: Mira, un pueblo salió de Egipto y he aquí, cubren la faz de la tierra y habitan frente a mí.
+NUM022006 Ven ahora, te ruego, y maldíceme a este pueblo porque es demasiado poderoso para mí; quizá pueda derrotarlos y echarlos de la tierra. Porque yo sé que a quien tú bendices es bendecido, y a quien tú maldices es maldecido.
+NUM022007 Y los ancianos de Moab y los ancianos de Madián fueron con el precio de la adivinación en la mano; y llegaron a Balaam, y le repitieron las palabras de Balac.
+NUM022008 Y él les dijo: Pasad la noche aquí y yo os traeré palabra según lo que el SEÑOR me diga. Y los jefes de Moab se quedaron con Balaam.
+NUM022009 Entonces Dios vino a Balaam y le dijo: ¿Quiénes son estos hombres que están contigo?
+NUM022010 Y Balaam dijo a Dios: Balac, hijo de Zipor, rey de Moab, me ha enviado un mensaje:
+NUM022011 'Mira, el pueblo que salió de Egipto cubre la faz de la tierra; ven ahora, maldícemelos; quizá yo pueda pelear contra ellos y expulsarlos.'
+NUM022012 Y Dios dijo a Balaam: No vayas con ellos; no maldecirás al pueblo, porque es bendito.
+NUM022013 Balaam se levantó de mañana y dijo a los jefes de Balac: Volved a vuestra tierra, porque el SEÑOR ha rehusado dejarme ir con vosotros.
+NUM022014 Y los jefes de Moab se levantaron y volvieron a Balac, y le dijeron: Balaam rehusó venir con nosotros.
+NUM022015 Entonces Balac envió jefes otra vez, más numerosos y más distinguidos que los anteriores.
+NUM022016 Y fueron a Balaam, y le dijeron: Así dice Balac, hijo de Zipor: 'Te ruego que no rehúses venir a mí;
+NUM022017 porque en verdad te honraré en gran manera, y haré cualquier cosa que me digas. Ven, pues, te ruego, y maldíceme a este pueblo.'
+NUM022018 Y Balaam respondió, y dijo a los siervos de Balac: Aunque Balac me diera su casa llena de plata y oro, yo no podría traspasar el mandamiento del SEÑOR mi Dios para hacer ni poco ni mucho.
+NUM022019 Pero, os ruego que permanezcáis aquí también esta noche, y sabré qué más me dice el SEÑOR.
+NUM022020 Y Dios vino a Balaam de noche, y le dijo: Si los hombres han venido a llamarte, levántate y ve con ellos; pero sólo dirás la palabra que yo te hable.
+NUM022021 Y Balaam se levantó muy de mañana, aparejó su asna y se fue con los jefes de Moab.
+NUM022022 Pero Dios se airó porque él iba, y el ángel del SEÑOR se puso en el camino como un adversario contra él. Y Balaam iba montado sobre su asna, y sus dos sirvientes con él.
+NUM022023 Cuando el asna vio al ángel del SEÑOR de pie en el camino con la espada desenvainada en la mano, el asna se salió del camino y se fue por medio del campo; pero Balaam golpeó el asna para hacerla volver al camino.
+NUM022024 Entonces el ángel del SEÑOR se puso en una senda estrecha de los viñedos, con una pared a un lado y otra pared al otro lado.
+NUM022025 Al ver el asna al ángel del SEÑOR, se pegó contra la pared y presionó el pie de Balaam contra la pared; entonces él la golpeó otra vez.
+NUM022026 Y el ángel del SEÑOR se fue más lejos, y se puso en un sitio estrecho donde no había manera de volverse ni a la derecha ni a la izquierda.
+NUM022027 Y viendo el asna al ángel del SEÑOR, se echó debajo de Balaam; y Balaam se enojó y golpeó al asna con su palo.
+NUM022028 Entonces el SEÑOR abrió la boca del asna, la cual dijo a Balaam: ¿Qué te he hecho yo que me has golpeado estas tres veces?
+NUM022029 Y Balaam respondió al asna: Porque te has burlado de mí. Ojalá tuviera una espada en mi mano, que ahora mismo te mataba.
+NUM022030 Y el asna dijo a Balaam: ¿No soy yo tu asna, y sobre mí has cabalgado toda tu vida hasta hoy? ¿He tenido la costumbre de portarme así contigo? Y él dijo: No.
+NUM022031 Entonces el SEÑOR abrió los ojos de Balaam, y él vio al ángel del SEÑOR de pie en el camino, con la espada desenvainada en su mano, e inclinándose, se postró rostro en tierra;
+NUM022032 y el ángel del SEÑOR le dijo: ¿Por qué has golpeado a tu asna estas tres veces? Mira, yo he salido como adversario, porque tu camino me era contrario;
+NUM022033 pero el asna me vio y se apartó de mí estas tres veces. Si no se hubiera apartado de mí, ciertamente yo te hubiera matado ahora mismo, y a ella la hubiera dejado vivir.
+NUM022034 Y Balaam dijo al ángel del SEÑOR: He pecado, pues no sabía que tú estabas en el camino para enfrentarte a mí. Pero ahora, si te desagrada, me volveré.
+NUM022035 El ángel del SEÑOR respondió a Balaam: Ve con los hombres, pero hablarás sólo la palabra que yo te diga. Y Balaam se fue con los jefes de Balac.
+NUM022036 Al oír Balac que Balaam se acercaba, salió a recibirlo en una ciudad de Moab, que está sobre la frontera del Arnón, al extremo de la frontera.
+NUM022037 Entonces Balac dijo a Balaam: ¿No envié a llamarte con urgencia? ¿Por qué no viniste a mí? ¿Acaso no soy capaz de honrarte?
+NUM022038 Balaam respondió a Balac: Mira, ahora he venido a ti. ¿Hay algo, acaso, que pueda decir? La palabra que Dios ponga en mi boca, ésa diré.
+NUM022039 Balaam fue con Balac, y llegaron a Quiriat-huzot.
+NUM022040 Y Balac sacrificó bueyes y ovejas, y envió algunos a Balaam y a los jefes que estaban con él.
+NUM022041 Y sucedió que a la mañana siguiente, Balac tomó a Balaam y lo hizo subir a los lugares altos de Baal, y desde allí vio un extremo del pueblo.
+NUM023001 Entonces Balaam dijo a Balac: Constrúyeme aquí siete altares y prepárame aquí siete novillos y siete carneros.
+NUM023002 Y Balac hizo tal como Balaam le había dicho, y Balac y Balaam ofrecieron un novillo y un carnero en cada altar.
+NUM023003 Entonces Balaam dijo a Balac: Ponte junto a tu holocausto, y yo iré; quizá el SEÑOR venga a mi encuentro, y lo que me manifieste te lo haré saber. Y se fue a un cerro pelado.
+NUM023004 Dios salió al encuentro de Balaam, y éste le dijo: He preparado los siete altares y he ofrecido un novillo y un carnero sobre cada altar.
+NUM023005 Y el SEÑOR puso palabra en la boca de Balaam, y le dijo: Vuelve a Balac y así hablarás.
+NUM023006 El entonces volvió a Balac, y he aquí que estaba junto a su holocausto, él y todos los jefes de Moab.
+NUM023007 Y comenzó su profecía, y dijo: Desde Aram me ha traído Balac, rey de Moab, desde los montes del oriente: 'Ven, y maldíceme a Jacob; ven, y condena a Israel.'
+NUM023008 ¿Cómo maldeciré a quien Dios no ha maldecido? ¿Cómo condenaré a quien el SEÑOR no ha condenado?
+NUM023009 Porque desde la cumbre de las peñas lo veo, y desde los montes lo observo. He aquí, es un pueblo que mora aparte, y que no será contado entre las naciones.
+NUM023010 ¿Quién puede contar el polvo de Jacob, o numerar la cuarta parte de Israel? Muera yo la muerte de los rectos, y sea mi fin como el suyo.
+NUM023011 Entonces Balac dijo a Balaam: ¿Qué me has hecho? Te tomé para maldecir a mis enemigos, pero mira, ¡los has llenado de bendiciones!
+NUM023012 Y él respondió y dijo: ¿No debo tener cuidado de hablar lo que el SEÑOR pone en mi boca?
+NUM023013 Balac le dijo entonces: Te ruego que vengas conmigo a otro sitio desde donde podrás verlos, aunque sólo verás el extremo de ellos, y no los verás a todos; y desde allí maldícemelos.
+NUM023014 Lo llevó al campo de Zofim, sobre la cumbre del Pisga, y edificó siete altares y ofreció un novillo y un carnero en cada altar.
+NUM023015 Y él dijo a Balac: Ponte aquí junto a tu holocausto, mientras voy allá a encontrarme con el SEÑOR.
+NUM023016 El SEÑOR salió al encuentro de Balaam y puso palabra en su boca y le dijo: Vuelve a Balac y así hablarás.
+NUM023017 Y él volvió a Balac, y he aquí, estaba de pie junto a su holocausto, y los jefes de Moab con él. Y Balac le dijo: ¿Qué ha dicho el SEÑOR?
+NUM023018 Y comenzó su profecía, y dijo: Levántate, Balac, y escucha; dame oídos, hijo de Zipor.
+NUM023019 Dios no es hombre, para que mienta, ni hijo de hombre, para que se arrepienta. ¿Lo ha dicho El, y no lo hará?, ¿ha hablado, y no lo cumplirá?
+NUM023020 Mira, he recibido orden de bendecir; si El ha bendecido, yo no lo puedo anular.
+NUM023021 El no ha observado iniquidad en Jacob, ni ha visto malicia en Israel; está en él el SEÑOR su Dios, y el júbilo de un rey está en él.
+NUM023022 Dios lo saca de Egipto; es para él como los cuernos del búfalo.
+NUM023023 Porque no hay agüero contra Jacob, ni hay adivinación contra Israel. A su tiempo se le dirá a Jacob y a Israel: ¡Ved lo que ha hecho Dios!
+NUM023024 He aquí, un pueblo se levanta como leona, y se yergue como león; no se echará hasta que devore la presa y beba la sangre de los que ha matado.
+NUM023025 Entonces Balac dijo a Balaam: ¡De ninguna manera los maldigas ni los bendigas!
+NUM023026 Pero Balaam respondió y dijo a Balac: ¿No te dije que todo lo que el SEÑOR habla, eso debo hacer?
+NUM023027 Y Balac dijo a Balaam: Ven, te ruego, te llevaré a otro lugar; quizá le plazca a Dios que me los maldigas desde allí.
+NUM023028 Entonces Balac llevó a Balaam a la cumbre del Peor, que da hacia el desierto.
+NUM023029 Y Balaam dijo a Balac: Constrúyeme aquí siete altares y prepárame aquí siete novillos y siete carneros.
+NUM023030 Balac hizo tal como Balaam le había dicho y ofreció un novillo y un carnero en cada altar.
+NUM024001 Cuando Balaam vio que agradaba al SEÑOR bendecir a Israel, no fue como otras veces a buscar agüeros, sino que puso su rostro hacia el desierto.
+NUM024002 Y levantó Balaam sus ojos y vio a Israel acampado por tribus; y vino sobre él el Espíritu de Dios.
+NUM024003 Y comenzando su profecía, dijo: Oráculo de Balaam, hijo de Beor, y oráculo del hombre de ojos abiertos;
+NUM024004 oráculo del que escucha las palabras de Dios, del que ve la visión del Todopoderoso; caído, pero con los ojos descubiertos.
+NUM024005 ¡Cuán hermosas son tus tiendas, oh Jacob; tus moradas, oh Israel!
+NUM024006 Como valles que se extienden, como jardines junto al río, como áloes plantados por el SEÑOR, como cedros junto a las aguas.
+NUM024007 Agua correrá de sus baldes, y su simiente estará junto a muchas aguas; más grande que Agag será su rey, y su reino será exaltado.
+NUM024008 Dios lo saca de Egipto; es para él como los cuernos del búfalo. Devorará a las naciones que son sus adversarios, y desmenuzará sus huesos, y los traspasará con sus saetas.
+NUM024009 Se agazapa, se echa como león, o como leona ¿quién se atreverá a despertarlo? Benditos los que te bendigan, y malditos los que te maldigan.
+NUM024010 Entonces se encendió la ira de Balac contra Balaam, y palmoteando, dijo Balac a Balaam: Te llamé para maldecir a mis enemigos, pero he aquí, los has llenado de bendiciones estas tres veces.
+NUM024011 Ahora pues, huye a tu lugar. Yo dije que te colmaría de honores, pero mira, el SEÑOR te ha privado de honores.
+NUM024012 Y Balaam dijo a Balac: ¿No les hablé yo también a los mensajeros que me enviaste, diciendo:
+NUM024013 'Aunque Balac me diera su casa llena de plata y oro, no podría yo traspasar el mandamiento del SEÑOR para hacer lo bueno o lo malo de mi propia iniciativa. Lo que hable el SEÑOR, eso hablaré'?
+NUM024014 Ahora, mira, me voy a mi pueblo; pero ven, y te advertiré lo que este pueblo hará a tu pueblo en los días venideros.
+NUM024015 Y comenzando su profecía, dijo: Oráculo de Balaam, hijo de Beor, y oráculo del hombre de ojos abiertos.
+NUM024016 Oráculo del que escucha las palabras de Dios, y conoce la sabiduría del Altísimo; del que ve la visión del Todopoderoso, caído, pero con los ojos descubiertos.
+NUM024017 Lo veo, pero no ahora; lo contemplo, pero no cerca; una estrella saldrá de Jacob, y un cetro se levantará de Israel que aplastará la frente de Moab y derrumbará a todos los hijos de Set.
+NUM024018 Edom será una posesión, también será una posesión Seir, su enemigo; mientras que Israel se conducirá con valor.
+NUM024019 De Jacob saldrá el que tendrá dominio, y destruirá al remanente de la ciudad.
+NUM024020 Al ver a Amalec, continuó su profecía, y dijo: Amalec fue la primera de las naciones, pero su fin será destrucción.
+NUM024021 Después vio al ceneo, y continuó su profecía, y dijo: Perdurable es tu morada, y en la peña está puesto tu nido.
+NUM024022 No obstante, el ceneo será consumido; ¿hasta cuándo te tendrá cautivo Asiria?
+NUM024023 Y continuando su profecía, dijo: ¡Ay! ¿Quién puede vivir, si Dios no lo ha ordenado?
+NUM024024 Pero las naves vendrán de la costa de Quitim, y afligirán a Asiria y afligirán a Heber; pero él también perecerá para siempre.
+NUM024025 Entonces se levantó Balaam y se marchó, y volvió a su lugar; también Balac se fue por su camino.
+NUM025001 Mientras Israel habitaba en Sitim, el pueblo comenzó a prostituirse con las hijas de Moab.
+NUM025002 Y éstas invitaron al pueblo a los sacrificios que hacían a sus dioses, y el pueblo comió y se postró ante sus dioses.
+NUM025003 Así Israel se unió a Baal de Peor, y se encendió la ira del SEÑOR contra Israel.
+NUM025004 Y el SEÑOR dijo a Moisés: Toma a todos los jefes del pueblo y ejecútalos delante del SEÑOR a plena luz del día, para que se aparte de Israel la ardiente ira del SEÑOR.
+NUM025005 Entonces Moisés dijo a los jueces de Israel: Cada uno de vosotros mate a aquellos de los suyos que se han unido a Baal de Peor.
+NUM025006 Y he aquí que un hombre, uno de los hijos de Israel, vino y presentó una madianita a sus parientes, a la vista de Moisés y a la vista de toda la congregación de los hijos de Israel, que lloraban a la puerta de la tienda de reunión.
+NUM025007 Y cuando lo vio Finees, hijo de Eleazar, hijo del sacerdote Aarón, se levantó de en medio de la congregación, y tomando una lanza en su mano,
+NUM025008 fue tras el hombre de Israel, entró en la alcoba y los traspasó a los dos, al hombre de Israel y a la mujer por su vientre. Y así cesó la plaga sobre los hijos de Israel.
+NUM025009 Y los que murieron por la plaga fueron veinticuatro mil.
+NUM025010 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM025011 Finees, hijo de Eleazar, hijo del sacerdote Aarón, ha apartado mi furor de los hijos de Israel porque demostró su celo por mí entre ellos, y en mi celo no he destruido a los hijos de Israel.
+NUM025012 Por tanto, di: 'He aquí, yo le doy mi pacto de paz;
+NUM025013 y será para él y para su descendencia después de él, un pacto de sacerdocio perpetuo, porque tuvo celo por su Dios e hizo expiación por los hijos de Israel.'
+NUM025014 El nombre del hombre de Israel que fue muerto con la madianita era Zimri, hijo de Salu, jefe de una casa paterna de Simeón.
+NUM025015 Y el nombre de la mujer madianita que fue muerta era Cozbi, hija de Zur, el cual era cabeza del pueblo de una casa paterna en Madián.
+NUM025016 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM025017 Hostigad a los madianitas y heridlos;
+NUM025018 pues ellos os han sido hostiles con sus engaños, con los que os engañaron en el asunto de Peor, y en el asunto de Cozbi, hija del jefe de Madián, su hermana, que fue muerta el día de la plaga por causa de Peor.
+NUM026001 Y aconteció después de la plaga, que el SEÑOR habló a Moisés y a Eleazar, hijo del sacerdote Aarón, diciendo:
+NUM026002 Levantad un censo de toda la congregación de los hijos de Israel de veinte años arriba por sus casas paternas, todo el que en Israel pueda salir a la guerra.
+NUM026003 Entonces Moisés y el sacerdote Eleazar hablaron con ellos en las llanuras de Moab, junto al Jordán, frente a Jericó, diciendo:
+NUM026004 Haced un censo del pueblo de veinte años arriba, como el SEÑOR ordenó a Moisés. Y los hijos de Israel que salieron de la tierra de Egipto fueron:
+NUM026005 Rubén, primogénito de Israel. Los hijos de Rubén: de Enoc, la familia de los enoquitas; de Falú, la familia de los faluitas;
+NUM026006 de Hezrón, la familia de los hezronitas; de Carmi, la familia de los carmitas.
+NUM026007 Estas son las familias de los rubenitas, y los que fueron contados de ellas eran cuarenta y tres mil setecientos treinta.
+NUM026008 El hijo de Falú: Eliab.
+NUM026009 Y los hijos de Eliab: Nemuel, Datán y Abiram. Estos son el Datán y el Abiram que fueron escogidos por la congregación, y que contendieron contra Moisés y contra Aarón con el grupo de Coré, cuando contendieron contra el SEÑOR,
+NUM026010 y la tierra abrió su boca y los tragó a ellos junto con Coré cuando aquel grupo murió, y cuando el fuego devoró a doscientos cincuenta hombres, y sirvieron de escarmiento.
+NUM026011 Pero los hijos de Coré no murieron.
+NUM026012 Los hijos de Simeón según sus familias: de Nemuel, la familia de los nemuelitas; de Jamín, la familia de los jaminitas; de Jaquín, la familia de los jaquinitas;
+NUM026013 de Zera, la familia de los zeraítas; de Saúl, la familia de los saulitas.
+NUM026014 Estas son las familias de los simeonitas: veintidós mil doscientos.
+NUM026015 Los hijos de Gad según sus familias: de Zefón, la familia de los zefonitas; de Hagui, la familia de los haguitas; de Suni, la familia de los sunitas;
+NUM026016 de Ozni, la familia de los oznitas; de Eri, la familia de los eritas;
+NUM026017 de Arod, la familia de los aroditas; de Areli, la familia de los arelitas.
+NUM026018 Estas son las familias de los hijos de Gad según los que fueron contados en ellas: cuarenta mil quinientos.
+NUM026019 Los hijos de Judá: Er y Onán; pero Er y Onán murieron en la tierra de Canaán.
+NUM026020 Y los hijos de Judá según sus familias fueron: de Sela, la familia de los selaítas; de Fares, la familia de los faresitas; de Zera, la familia de los zeraítas.
+NUM026021 Y los hijos de Fares fueron: de Hezrón, la familia de los hezronitas; de Hamul, la familia de los hamulitas.
+NUM026022 Estas son las familias de Judá según los que fueron contados en ellas: setenta y seis mil quinientos.
+NUM026023 Los hijos de Isacar según sus familias: de Tola, la familia de los tolaítas; de Fúa, la familia de los funitas;
+NUM026024 de Jasub, la familia de los jasubitas; de Simrón, la familia de los simronitas.
+NUM026025 Estas son las familias de Isacar según los que fueron contados en ellas: sesenta y cuatro mil trescientos.
+NUM026026 Los hijos de Zabulón según sus familias: de Sered, la familia de los sereditas; de Elón, la familia de los elonitas; de Jahleel, la familia de los jahleelitas.
+NUM026027 Estas son las familias de los zabulonitas según los que fueron contados en ellas: sesenta mil quinientos.
+NUM026028 Los hijos de José según sus familias: Manasés y Efraín.
+NUM026029 Los hijos de Manasés: de Maquir, la familia de los maquiritas; y Maquir engendró a Galaad; de Galaad, la familia de los galaaditas.
+NUM026030 Estos son los hijos de Galaad: de Jezer, la familia de los jezeritas; de Helec, la familia de los helequitas;
+NUM026031 y de Asriel, la familia de los asrielitas; de Siquem, la familia de los siquemitas;
+NUM026032 y de Semida, la familia de los semidaítas; de Hefer, la familia de los heferitas.
+NUM026033 Pero Zelofehad, hijo de Hefer, no tuvo hijos, sino sólo hijas; y los nombres de las hijas de Zelofehad fueron Maala, Noa, Hogla, Milca y Tirsa.
+NUM026034 Estas son las familias de Manasés, y los que fueron contados de ellas: cincuenta y dos mil setecientos.
+NUM026035 Estos son los hijos de Efraín según sus familias: de Sutela, la familia de los sutelaítas; de Bequer, la familia de los bequeritas; de Tahán, la familia de los tahanitas.
+NUM026036 Y estos son los hijos de Sutela: de Erán, la familia de los eranitas.
+NUM026037 Estas son las familias de los hijos de Efraín según los que fueron contados de ellas: treinta y dos mil quinientos. Estos son los hijos de José según sus familias.
+NUM026038 Los hijos de Benjamín según sus familias: de Bela, la familia de los belaítas; de Asbel, la familia de los asbelitas; de Ahiram, la familia de los ahiramitas;
+NUM026039 de Sufam, la familia de los sufamitas; de Hufam, la familia de los hufamitas.
+NUM026040 Y los hijos de Bela fueron Ard y Naamán: de Ard, la familia de los arditas; de Naamán, la familia de los naamitas.
+NUM026041 Estos son los hijos de Benjamín según sus familias, y de ellos los que fueron contados: cuarenta y cinco mil seiscientos.
+NUM026042 Estos son los hijos de Dan según sus familias: de Súham, la familia de los suhamitas. Estas son las familias de Dan según sus familias.
+NUM026043 Todas las familias de los suhamitas, según los que fueron contados en ellas: sesenta y cuatro mil cuatrocientos.
+NUM026044 Los hijos de Aser según sus familias: de Imna, la familia de los imnitas; de Isúi, la familia de los isuitas; de Bería, la familia de los beriaítas.
+NUM026045 De los hijos de Bería: de Heber, la familia de los heberitas; de Malquiel, la familia de los malquielitas.
+NUM026046 Y el nombre de la hija de Aser era Sera.
+NUM026047 Estas son las familias de los hijos de Aser según los que fueron contados en ellas: cincuenta y tres mil cuatrocientos.
+NUM026048 Los hijos de Neftalí según sus familias: de Jahzeel, la familia de los jahzeelitas; de Guni, la familia de los gunitas;
+NUM026049 de Jezer, la familia de los jezeritas; de Silem, la familia de los silemitas.
+NUM026050 Estas son las familias de Neftalí según sus familias, y los que fueron contados en ellas: cuarenta y cinco mil cuatrocientos.
+NUM026051 Estos son los que fueron contados de los hijos de Israel: seiscientos un mil setecientos treinta.
+NUM026052 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM026053 La tierra se dividirá entre éstos por heredad según el número de nombres.
+NUM026054 Al grupo más grande aumentarás su heredad, y al grupo más pequeño disminuirás su heredad; a cada uno se le dará su heredad según los que fueron contados de ellos.
+NUM026055 Pero la tierra se dividirá por suerte. Recibirán su heredad según los nombres de las tribus de sus padres.
+NUM026056 Según la selección por suerte se dividirá la heredad entre el grupo más grande y el más pequeño.
+NUM026057 Y estos son los que fueron contados de los levitas según sus familias: de Gersón, la familia de los gersonitas; de Coat, la familia de los coatitas; de Merari, la familia de los meraritas.
+NUM026058 Estas son las familias de Leví: la familia de los libnitas, la familia de los hebronitas, la familia de los mahlitas, la familia de los musitas, la familia de los coreítas. Y Coat engendró a Amram.
+NUM026059 Y el nombre de la mujer de Amram era Jocabed, hija de Leví, que le nació a Leví en Egipto; y ella dio a luz de Amram, a Aarón, a Moisés y a su hermana Miriam.
+NUM026060 Y a Aarón le nacieron Nadab, Abiú, Eleazar e Itamar.
+NUM026061 Pero Nadab y Abiú murieron cuando ofrecieron fuego extraño delante del SEÑOR.
+NUM026062 Y los contados de los levitas fueron veintitrés mil, todo varón de un mes en adelante. Pues no fueron contados entre los hijos de Israel, ya que ninguna heredad les fue dada entre los hijos de Israel.
+NUM026063 Estos son los que fueron contados por Moisés y el sacerdote Eleazar, los cuales contaron a los hijos de Israel en los llanos de Moab, junto al Jordán, frente a Jericó.
+NUM026064 Pero entre éstos no había ninguno de los que fueron contados por Moisés y el sacerdote Aarón, cuando contaron a los hijos de Israel en el desierto de Sinaí.
+NUM026065 Porque el SEÑOR había dicho de ellos: Ciertamente morirán en el desierto. Y no quedó ninguno de ellos, sino Caleb, hijo de Jefone, y Josué, hijo de Nun.
+NUM027001 Entonces las hijas de Zelofehad, hijo de Hefer, hijo de Galaad, hijo de Maquir, hijo de Manasés, de las familias de Manasés, hijo de José, se acercaron; y estos eran los nombres de sus hijas: Maala, Noa, Hogla, Milca y Tirsa.
+NUM027002 Y se presentaron delante de Moisés, delante del sacerdote Eleazar, delante de los jefes y de toda la congregación, a la entrada de la tienda de reunión, diciendo:
+NUM027003 Nuestro padre murió en el desierto, aunque no estuvo entre el grupo de los que se juntaron contra el SEÑOR, en el grupo de Coré, sino que murió por su pecado, y no tuvo hijos.
+NUM027004 ¿Por qué ha de desaparecer el nombre de nuestro padre de entre su familia sólo porque no tuvo hijo? Dadnos herencia entre los hermanos de nuestro padre.
+NUM027005 Y Moisés presentó su caso ante el SEÑOR.
+NUM027006 Entonces el SEÑOR habló a Moisés, diciendo:
+NUM027007 Las hijas de Zelofehad tienen razón en lo que dicen. Ciertamente les darás herencia entre los hermanos de su padre, y pasarás a ellas la herencia de su padre.
+NUM027008 Además, hablarás a los hijos de Israel, diciendo: 'Si un hombre muere y no tiene hijo, pasaréis su herencia a su hija.
+NUM027009 'Y si no tiene hija, entonces daréis su herencia a sus hermanos.
+NUM027010 'Y si no tiene hermanos, entonces daréis su herencia a los hermanos de su padre.
+NUM027011 'Y si su padre no tiene hermanos, entonces daréis su herencia al pariente más cercano en su familia, y él la poseerá. Y será norma de derecho para los hijos de Israel, tal como el SEÑOR ordenó a Moisés.'
+NUM027012 Entonces el SEÑOR dijo a Moisés: Sube a este monte Abarim, y mira la tierra que yo he dado a los hijos de Israel.
+NUM027013 Y cuando la hayas visto, tú también te reunirás a tu pueblo, como se reunió tu hermano Aarón.
+NUM027014 Porque cuando os rebelasteis contra mi mandamiento en el desierto de Zin durante la contienda de la congregación, debisteis santificarme en las aguas ante sus ojos. (Esas son las aguas de Meriba, de Cades, en el desierto de Zin.)
+NUM027015 Entonces Moisés habló al SEÑOR, diciendo:
+NUM027016 Ponga el SEÑOR, Dios de los espíritus de toda carne, un hombre sobre la congregación,
+NUM027017 que salga y entre delante de ellos, y que los haga salir y entrar a fin de que la congregación del SEÑOR no sea como ovejas que no tienen pastor.
+NUM027018 Y el SEÑOR dijo a Moisés: Toma a Josué, hijo de Nun, hombre en quien está el Espíritu, y pon tu mano sobre él;
+NUM027019 y haz que se ponga delante del sacerdote Eleazar, y delante de toda la congregación, e impártele autoridad a la vista de ellos.
+NUM027020 Y pondrás sobre él parte de tu dignidad a fin de que le obedezca toda la congregación de los hijos de Israel.
+NUM027021 El se presentará delante del sacerdote Eleazar, quien inquirirá por él por medio del juicio del Urim delante del SEÑOR. A su palabra saldrán y a su palabra entrarán, él y todos los hijos de Israel con él, es decir, toda la congregación.
+NUM027022 Y Moisés hizo tal como el SEÑOR le ordenó: tomó a Josué y lo puso delante del sacerdote Eleazar y delante de toda la congregación.
+NUM027023 Luego puso sus manos sobre él y le impartió autoridad, tal como el SEÑOR había hablado por medio de Moisés.
+NUM028001 Después habló el SEÑOR a Moisés, diciendo:
+NUM028002 Ordena a los hijos de Israel, y diles: 'Tendréis cuidado de presentar mi ofrenda, mi alimento para mis ofrendas encendidas, aroma agradable para mí, a su tiempo señalado.'
+NUM028003 Y les dirás: 'Esta es la ofrenda encendida que ofreceréis al SEÑOR: dos corderos de un año, sin defecto, cada día como holocausto continuo.
+NUM028004 'Ofrecerás un cordero por la mañana, y ofrecerás el otro cordero al atardecer;
+NUM028005 y como ofrenda de cereal, una décima de un efa de flor de harina mezclada con la cuarta parte de un hin de aceite batido.
+NUM028006 'Es un holocausto continuo instituido en el monte Sinaí como aroma agradable, ofrenda encendida al SEÑOR.
+NUM028007 'Y su libación será la cuarta parte de un hin por cada cordero; en el lugar santo derramarás una libación de bebida fermentada al SEÑOR.
+NUM028008 'Y el segundo cordero lo ofrecerás al atardecer; como la ofrenda de cereal de la mañana y como su libación lo ofrecerás, ofrenda encendida, aroma agradable al SEÑOR.
+NUM028009 'El día de reposo ofrecerás dos corderos de un año, sin defecto, y dos décimas de un efa de flor de harina mezclada con aceite, como ofrenda de cereal y su libación.
+NUM028010 'El holocausto de cada día de reposo será además del holocausto continuo y de su libación.
+NUM028011 'También, al principio de cada mes, presentaréis un holocausto al SEÑOR: dos novillos y un carnero, y siete corderos de un año, sin defecto,
+NUM028012 y tres décimas de un efa de flor de harina, como ofrenda de cereal, mezclada con aceite, por cada novillo; y dos décimas de flor de harina como ofrenda de cereal, mezclada con aceite, por el carnero;
+NUM028013 y una décima de un efa de flor de harina mezclada con aceite como ofrenda de cereal por cada cordero, como holocausto de aroma agradable, ofrenda encendida al SEÑOR.
+NUM028014 'Sus libaciones serán medio hin de vino por novillo, la tercera parte de un hin por el carnero y la cuarta parte de un hin por cordero; este es el holocausto de cada mes por los meses del año.
+NUM028015 'Y un macho cabrío como ofrenda por el pecado al SEÑOR, se ofrecerá con su libación además del holocausto continuo.
+NUM028016 'El mes primero, el día catorce del mes, será la Pascua del SEÑOR.
+NUM028017 'Y el día quince de este mes habrá fiesta; por siete días se comerá pan sin levadura.
+NUM028018 'El primer día habrá santa convocación; no haréis trabajo servil.
+NUM028019 'Y presentaréis una ofrenda encendida, holocausto al SEÑOR: dos novillos, un carnero y siete corderos de un año; serán sin defecto.
+NUM028020 'Y como su ofrenda de cereal, prepararéis flor de harina mezclada con aceite: tres décimas de un efa por novillo y dos décimas por el carnero;
+NUM028021 una décima de un efa prepararéis por cada uno de los siete corderos;
+NUM028022 y un macho cabrío como ofrenda por el pecado, para hacer expiación por vosotros.
+NUM028023 'Estos prepararéis además del holocausto de la mañana, el cual es como holocausto continuo.
+NUM028024 'De esta manera prepararéis cada día, por siete días, el alimento de la ofrenda encendida, como aroma agradable al SEÑOR; se preparará con su libación además del holocausto continuo.
+NUM028025 'Y al séptimo día tendréis santa convocación; no haréis trabajo servil.
+NUM028026 'También, el día de los primeros frutos, cuando presentéis una ofrenda de cereal nuevo al SEÑOR en vuestra fiesta de las semanas, tendréis santa convocación; no haréis trabajo servil.
+NUM028027 'Y ofreceréis un holocausto como aroma agradable al SEÑOR: dos novillos, un carnero, siete corderos de un año;
+NUM028028 y su ofrenda de cereal, flor de harina mezclada con aceite: tres décimas de un efa por cada novillo, dos décimas por el carnero,
+NUM028029 una décima por cada uno de los siete corderos,
+NUM028030 y un macho cabrío para hacer expiación por vosotros.
+NUM028031 'Esto haréis además del holocausto continuo con su ofrenda de cereal y sus libaciones. Serán sin defecto.
+NUM029001 'En el séptimo mes, el primer día del mes, tendréis también santa convocación; no haréis trabajo servil. Será para vosotros día de tocar las trompetas.
+NUM029002 'Y ofreceréis un holocausto como aroma agradable al SEÑOR: un novillo, un carnero y siete corderos de un año, sin defecto;
+NUM029003 y su ofrenda de cereal, flor de harina mezclada con aceite: tres décimas de un efa por el novillo, dos décimas por el carnero,
+NUM029004 una décima por cada uno de los siete corderos;
+NUM029005 y un macho cabrío como ofrenda por el pecado, para hacer expiación por vosotros;
+NUM029006 esto, además del holocausto de la luna nueva y de su ofrenda de cereal, y del holocausto continuo y de su ofrenda de cereal y de sus libaciones, según su ordenanza, como aroma agradable, ofrenda encendida al SEÑOR.
+NUM029007 'El décimo día de este mes séptimo tendréis santa convocación y os humillaréis; no haréis ningún trabajo.
+NUM029008 'Y ofreceréis al SEÑOR un holocausto como aroma agradable: un novillo, un carnero, siete corderos de un año, sin defecto;
+NUM029009 y su ofrenda de cereal, flor de harina mezclada con aceite: tres décimas de un efa por el novillo, dos décimas por el carnero,
+NUM029010 una décima por cada uno de los siete corderos;
+NUM029011 y un macho cabrío como ofrenda por el pecado, además de la ofrenda de expiación por el pecado y del holocausto continuo, de su ofrenda de cereal y de sus libaciones.
+NUM029012 'Después, el día quince del séptimo mes, tendréis santa convocación; no haréis trabajo servil, y por siete días celebraréis una fiesta al SEÑOR.
+NUM029013 'Y ofreceréis un holocausto, una ofrenda encendida como aroma agradable al SEÑOR: trece novillos, dos carneros, catorce corderos de un año, que sean sin defecto;
+NUM029014 y su ofrenda de cereal, flor de harina mezclada con aceite: tres décimas de un efa por cada uno de los trece novillos, dos décimas por cada uno de los dos carneros,
+NUM029015 y una décima por cada uno de los catorce corderos;
+NUM029016 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de su libación.
+NUM029017 'El segundo día: doce novillos, dos carneros, catorce corderos de un año, sin defecto;
+NUM029018 y su ofrenda de cereal, y sus libaciones por los novillos, por los carneros y por los corderos, por su número según la ordenanza;
+NUM029019 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de sus libaciones.
+NUM029020 'El tercer día: once novillos, dos carneros, catorce corderos de un año, sin defecto;
+NUM029021 y su ofrenda de cereal, y sus libaciones por los novillos, por los carneros y por los corderos, por su número según la ordenanza;
+NUM029022 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de su libación.
+NUM029023 'El cuarto día: diez novillos, dos carneros, catorce corderos de un año, sin defecto;
+NUM029024 y su ofrenda de cereal, y sus libaciones por los novillos, por los carneros y por los corderos, por su número según la ordenanza;
+NUM029025 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de su libación.
+NUM029026 'El quinto día: nueve novillos, dos carneros, catorce corderos de un año, sin defecto;
+NUM029027 y su ofrenda de cereal, y sus libaciones por los novillos, por los carneros y por los corderos, por su número según la ordenanza;
+NUM029028 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de su libación.
+NUM029029 'El sexto día: ocho novillos, dos carneros, catorce corderos de un año, sin defecto;
+NUM029030 y su ofrenda de cereal, y sus libaciones por los novillos, por los carneros y por los corderos, por su número según la ordenanza;
+NUM029031 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de sus libaciones.
+NUM029032 'El séptimo día: siete novillos, dos carneros, catorce corderos de un año, sin defecto;
+NUM029033 y su ofrenda de cereal, y sus libaciones por los novillos, por los carneros y por sus corderos, por su número según la ordenanza;
+NUM029034 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de su libación.
+NUM029035 'El octavo día tendréis asamblea solemne; no haréis trabajo servil.
+NUM029036 'Mas ofreceréis un holocausto, una ofrenda encendida como aroma agradable al SEÑOR: un novillo, un carnero, siete corderos de un año, sin defecto;
+NUM029037 y su ofrenda de cereal, y sus libaciones por el novillo, por el carnero y por los corderos, por su número según la ordenanza;
+NUM029038 y un macho cabrío como ofrenda por el pecado, además del holocausto continuo, de su ofrenda de cereal y de su libación.
+NUM029039 'Esto prepararéis para el SEÑOR en vuestras fechas señaladas, además de vuestras ofrendas votivas y de vuestras ofrendas de buena voluntad, para vuestros holocaustos, para vuestras ofrendas de cereal, para vuestras libaciones y para vuestras ofrendas de paz.'
+NUM029040 Y habló Moisés a los hijos de Israel conforme a todo lo que el SEÑOR había ordenado a Moisés.
+NUM030001 Entonces Moisés habló a los jefes de las tribus de los hijos de Israel, diciendo: Esto es lo que el SEÑOR ha ordenado.
+NUM030002 Si un hombre hace un voto al SEÑOR, o hace un juramento para imponerse una obligación, no faltará a su palabra; hará conforme a todo lo que salga de su boca.
+NUM030003 Asimismo, si una mujer hace un voto al SEÑOR, y se impone una obligación en su juventud estando en casa de su padre,
+NUM030004 y su padre escucha su voto y la obligación que se ha impuesto, y su padre no le dice nada, entonces todos los votos de ella serán firmes, y toda obligación que se ha impuesto será firme.
+NUM030005 Pero si su padre se lo prohíbe el día en que se entera de ello, ninguno de sus votos ni las obligaciones que se ha impuesto serán firmes. El SEÑOR la perdonará porque su padre se lo prohibió.
+NUM030006 Mas si se casa mientras está bajo sus votos o bajo la declaración imprudente de sus labios con que se ha atado,
+NUM030007 y su marido se entera de ello y no le dice nada el día en que lo oye, entonces su voto permanecerá firme, y las obligaciones que se ha impuesto, serán firmes.
+NUM030008 Pero si el día en que su marido se entera de ello, se lo prohíbe, entonces él anulará el voto bajo el cual ella está, y la declaración imprudente de sus labios con que se ha comprometido, y el SEÑOR la perdonará.
+NUM030009 Pero el voto de una viuda o de una divorciada, todo aquello por lo cual se ha comprometido, será firme contra ella.
+NUM030010 Sin embargo, si hizo el voto en casa de su marido, o se impuso una obligación por juramento,
+NUM030011 y su marido lo oyó, pero no le dijo nada y no se lo prohibió, entonces sus votos serán firmes, y toda obligación que se impuso será firme.
+NUM030012 Pero si el marido en verdad los anula el día en que se entera de ello, entonces todo lo que salga de los labios de ella en relación con sus votos, o en relación con la obligación de sí misma, no será firme; su marido los ha anulado, y el SEÑOR la perdonará.
+NUM030013 Todo voto y todo juramento de obligación para humillarse a sí misma, su marido puede confirmarlo o su marido puede anularlo.
+NUM030014 Pero si en verdad el marido nunca le dice nada a ella, entonces confirma todos sus votos o todas sus obligaciones que están sobre ella; las ha confirmado porque no le dijo nada el día en que se enteró de ello.
+NUM030015 Pero si en verdad él los anula después de haberlos oído, entonces él llevará la culpa de ella.
+NUM030016 Estos son los estatutos que el SEÑOR mandó a Moisés, entre un marido y su mujer, y entre un padre y su hija que durante su juventud está aún en casa de su padre.
+NUM031001 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM031002 Toma venganza completa sobre los madianitas por los hijos de Israel; después serás reunido a tu pueblo.
+NUM031003 Y habló Moisés al pueblo, diciendo: Armad a algunos hombres de entre vosotros para la guerra, a fin de que suban contra Madián para ejecutar la venganza del SEÑOR en Madián.
+NUM031004 Enviaréis a la guerra mil de cada tribu, de todas las tribus de Israel.
+NUM031005 Entonces se prepararon de entre los miles de Israel, mil de cada tribu, doce mil hombres armados para la guerra.
+NUM031006 Y Moisés los envió a la guerra, mil de cada tribu, y a Finees, hijo del sacerdote Eleazar, a la guerra con ellos, con los vasos sagrados y las trompetas en su mano para la alarma.
+NUM031007 E hicieron guerra contra Madián, tal como el SEÑOR había ordenado a Moisés, y mataron a todos los varones.
+NUM031008 Y junto con sus muertos, mataron a los reyes de Madián: Evi, Requem, Zur, Hur y Reba, los cinco reyes de Madián. También mataron a espada a Balaam, hijo de Beor.
+NUM031009 Y los hijos de Israel tomaron cautivas a las mujeres de Madián y a sus pequeños; y saquearon todo su ganado, todos sus rebaños y todos sus bienes.
+NUM031010 Después prendieron fuego a todas las ciudades donde habitaban y a todos sus campamentos.
+NUM031011 Y tomaron todo el despojo y todo el botín, tanto de hombres como de animales.
+NUM031012 Y trajeron los cautivos, el botín y los despojos a Moisés, al sacerdote Eleazar y a la congregación de los hijos de Israel, al campamento en las llanuras de Moab que están junto al Jordán, frente a Jericó.
+NUM031013 Moisés y el sacerdote Eleazar, y todos los jefes de la congregación salieron a recibirlos fuera del campamento.
+NUM031014 Moisés se enojó con los oficiales del ejército, los capitanes de miles y los capitanes de cientos, que volvían del servicio en la guerra,
+NUM031015 y les dijo Moisés: ¿Habéis dejado con vida a todas las mujeres?
+NUM031016 He aquí, éstas fueron la causa de que los hijos de Israel, por el consejo de Balaam, fueran infieles al SEÑOR en el asunto de Peor, por lo que hubo plaga entre la congregación del SEÑOR.
+NUM031017 Ahora pues, matad a todo varón entre los niños, y matad a toda mujer que haya conocido varón acostándose con él.
+NUM031018 Pero a todas las jóvenes que no hayan conocido varón acostándose con él, las dejaréis con vida para vosotros.
+NUM031019 Y vosotros, acampad fuera del campamento por siete días; todo el que haya matado a una persona y todo el que haya tocado a un muerto, purificaos, vosotros y vuestros cautivos, al tercero y al séptimo día.
+NUM031020 Y purificaréis todo vestido, todo artículo de cuero y toda obra de pelo de cabra y todo objeto de madera.
+NUM031021 Entonces el sacerdote Eleazar dijo a los hombres de guerra que habían ido a la batalla: Este es el estatuto de la ley que el SEÑOR ha ordenado a Moisés:
+NUM031022 sólo el oro, la plata, el bronce, el hierro, el estaño y el plomo,
+NUM031023 todo lo que resiste el fuego, pasaréis por el fuego y será limpio, pero será purificado con el agua para la impureza. Mas todo lo que no resiste el fuego lo pasaréis por agua.
+NUM031024 Y en el séptimo día lavaréis vuestra ropa y seréis limpios; después podréis entrar al campamento.
+NUM031025 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM031026 Cuenta el botín que fue tomado tanto de hombres como de animales; tú con el sacerdote Eleazar, y los jefes de las casas paternas de la congregación,
+NUM031027 y divide en mitades el botín entre los guerreros que salieron a la batalla y toda la congregación.
+NUM031028 Y toma un tributo para el SEÑOR de los hombres de guerra que salieron a la batalla, uno por cada quinientos, tanto de las personas como de los bueyes, de los asnos y de las ovejas;
+NUM031029 tómalo de la mitad de ellos, y dáselo al sacerdote Eleazar, como ofrenda al SEÑOR.
+NUM031030 Y de la mitad de los hijos de Israel tomarás uno de cada cincuenta, tanto de las personas como de los bueyes, de los asnos y de las ovejas, de cualquier animal, y los darás a los levitas que guardan el tabernáculo del SEÑOR.
+NUM031031 Moisés y el sacerdote Eleazar hicieron tal como el SEÑOR había ordenado a Moisés.
+NUM031032 Y el botín que quedó del despojo que los hombres de guerra habían tomado fue de seiscientas setenta y cinco mil ovejas,
+NUM031033 setenta y dos mil cabezas de ganado,
+NUM031034 y sesenta y un mil asnos;
+NUM031035 y de los seres humanos, de las mujeres que no habían conocido varón acostándose con él, fueron en total treinta y dos mil.
+NUM031036 Y la mitad, la porción para los que salieron a la guerra, fue de trescientas treinta y siete mil quinientas ovejas en número;
+NUM031037 el tributo al SEÑOR fue de seiscientas setenta y cinco ovejas;
+NUM031038 y las cabezas de ganado, treinta y seis mil, de las cuales el tributo al SEÑOR fue de setenta y dos;
+NUM031039 y los asnos, treinta mil quinientos, de los cuales el tributo al SEÑOR fue de sesenta y uno.
+NUM031040 Y los seres humanos, dieciséis mil, de los cuales el tributo al SEÑOR fue de treinta y dos personas.
+NUM031041 Y Moisés dio el tributo, que era la ofrenda del SEÑOR, al sacerdote Eleazar, tal como el SEÑOR había ordenado a Moisés.
+NUM031042 En cuanto a la mitad para los hijos de Israel, que Moisés había apartado de los hombres que habían ido a la guerra,
+NUM031043 la mitad del botín de la congregación fue de trescientas treinta y siete mil quinientas ovejas,
+NUM031044 treinta y seis mil cabezas de ganado,
+NUM031045 treinta mil quinientos asnos,
+NUM031046 y dieciséis mil seres humanos.
+NUM031047 Y de la mitad del botín de los hijos de Israel, Moisés tomó uno de cada cincuenta, tanto de hombres como de animales, y se los dio a los levitas, los cuales estaban encargados del tabernáculo del SEÑOR, tal como el SEÑOR había ordenado a Moisés.
+NUM031048 Entonces los oficiales que estaban sobre los miles del ejército, los capitanes de miles y los capitanes de cientos, se acercaron a Moisés;
+NUM031049 y dijeron a Moisés: Tus siervos han levantado un censo de los hombres de guerra que están a nuestro cargo, y ninguno de nosotros falta.
+NUM031050 Por tanto, hemos traído al SEÑOR, como ofrenda, lo que cada hombre ha hallado: objetos de oro, pulseras, brazaletes, anillos, pendientes y collares, para hacer expiación por nosotros ante el SEÑOR.
+NUM031051 Y Moisés y el sacerdote Eleazar recibieron de ellos el oro y toda clase de objetos labrados.
+NUM031052 Y el total del oro de la ofrenda que ellos ofrecieron al SEÑOR, de los capitanes de miles y de los capitanes de cientos, fue de dieciséis mil setecientos cincuenta siclos.
+NUM031053 Los hombres de guerra habían tomado botín, cada hombre algo para sí mismo.
+NUM031054 Moisés y el sacerdote Eleazar recibieron el oro de los capitanes de miles y de cientos, y lo llevaron a la tienda de reunión como memorial para los hijos de Israel delante del SEÑOR
+NUM032001 Los hijos de Rubén y los hijos de Gad tenían una cantidad muy grande de ganado. Por eso, cuando vieron la tierra de Jazer y la tierra de Galaad, que en verdad era un lugar bueno para ganado,
+NUM032002 los hijos de Gad y los hijos de Rubén fueron y hablaron a Moisés, al sacerdote Eleazar y a los jefes de la congregación, diciendo:
+NUM032003 Atarot, Dibón, Jazer, Nimra, Hesbón, Eleale, Sebam, Nebo y Beón,
+NUM032004 la tierra que el SEÑOR conquistó delante de la congregación de Israel es tierra para ganado; y tus siervos tienen ganado.
+NUM032005 Y dijeron: Si hemos hallado gracia ante tus ojos, que se dé esta tierra a tus siervos como posesión; no nos hagas pasar el Jordán.
+NUM032006 Pero Moisés dijo a los hijos de Gad y a los hijos de Rubén: ¿Irán vuestros hermanos a la guerra, mientras vosotros os quedáis aquí?
+NUM032007 ¿Por qué desalentáis a los hijos de Israel a fin de que no pasen a la tierra que el SEÑOR les ha dado?
+NUM032008 Esto es lo que vuestros padres hicieron cuando los envié de Cades-barnea a ver la tierra.
+NUM032009 Pues cuando subieron hasta el valle de Escol, y vieron la tierra, desalentaron a los hijos de Israel para que no entraran a la tierra que el SEÑOR les había dado.
+NUM032010 Y la ira del SEÑOR se encendió aquel día y juró, diciendo:
+NUM032011 'Ninguno de estos hombres que salieron de Egipto, de veinte años arriba, verá la tierra que juré a Abraham, a Isaac y a Jacob, porque no me siguieron fielmente,
+NUM032012 sino Caleb, hijo de Jefone cenezeo, y Josué, hijo de Nun, pues ellos sí han seguido fielmente al SEÑOR.'
+NUM032013 Y se encendió la ira del SEÑOR contra Israel, y los hizo vagar en el desierto por cuarenta años, hasta que fue acabada toda la generación de los que habían hecho mal ante los ojos del SEÑOR.
+NUM032014 Y he aquí, vosotros os habéis levantado en lugar de vuestros padres, prole de hombres pecadores, para añadir aún más a la ardiente ira del SEÑOR contra Israel.
+NUM032015 Pues si dejáis de seguirle, otra vez os abandonará en el desierto, y destruiréis a todo este pueblo.
+NUM032016 Entonces ellos se acercaron a él, y le dijeron: Edificaremos aquí apriscos para nuestro ganado y ciudades para nuestros pequeños;
+NUM032017 pero nosotros nos armaremos para ir delante de los hijos de Israel hasta que los introduzcamos en su lugar, mientras que nuestros pequeños se quedarán en las ciudades fortificadas por causa de los habitantes de la tierra.
+NUM032018 No volveremos a nuestros hogares hasta que cada uno de los hijos de Israel haya ocupado su heredad.
+NUM032019 Porque no tendremos heredad con ellos al otro lado del Jordán y más allá, pues nuestra heredad nos ha tocado de este lado del Jordán, al oriente.
+NUM032020 Y Moisés les dijo: Si hacéis esto, si os armáis delante del SEÑOR para la guerra,
+NUM032021 y todos vuestros guerreros cruzan el Jordán delante del SEÑOR hasta que El haya expulsado a sus enemigos delante de El,
+NUM032022 y la tierra quede sojuzgada delante del SEÑOR; después volveréis y quedaréis libres de obligación para con el SEÑOR y para con Israel; y esta tierra será vuestra en posesión delante del SEÑOR.
+NUM032023 Pero si no lo hacéis así, mirad, habréis pecado ante el SEÑOR, y tened por seguro que vuestro pecado os alcanzará.
+NUM032024 Edificaos ciudades para vuestros pequeños, y apriscos para vuestras ovejas; y haced lo que habéis prometido.
+NUM032025 Y los hijos de Gad y los hijos de Rubén hablaron a Moisés, diciendo: Tus siervos harán tal como mi señor ordena.
+NUM032026 Nuestros pequeños, nuestras mujeres, nuestro ganado y nuestros rebaños quedarán allí en las ciudades de Galaad;
+NUM032027 mientras tus siervos, todos los que están armados para la guerra, cruzarán delante del SEÑOR para la batalla, tal como mi señor dice.
+NUM032028 Así lo ordenó Moisés en relación a ellos, al sacerdote Eleazar, a Josué, hijo de Nun, y a los jefes de las casas paternas de las tribus de los hijos de Israel.
+NUM032029 Y Moisés les dijo: Si los hijos de Gad y los hijos de Rubén, todos los que están armados para la batalla, cruzan con vosotros el Jordán en presencia del SEÑOR, y la tierra es sojuzgada delante de vosotros, entonces les daréis la tierra de Galaad en posesión;
+NUM032030 pero si no cruzan armados con vosotros, tendrán la herencia entre vosotros en la tierra de Canaán.
+NUM032031 Y respondieron los hijos de Gad y los hijos de Rubén, diciendo: Como el SEÑOR ha dicho a vuestros siervos, así haremos.
+NUM032032 Nosotros cruzaremos armados en la presencia del SEÑOR a la tierra de Canaán, y la posesión de nuestra heredad quedará con nosotros de este lado del Jordán.
+NUM032033 Y Moisés dio a los hijos de Gad, y a los hijos de Rubén, y a la media tribu de Manasés, hijo de José, el reino de Sehón, rey de los amorreos, y el reino de Og, rey de Basán: la tierra con sus ciudades, con sus territorios, y las ciudades de la tierra circunvecina.
+NUM032034 Y los hijos de Gad construyeron a Dibón, Atarot, Aroer,
+NUM032035 Atarot-sofán, Jazer, Jogbeha,
+NUM032036 Bet-nimra y Bet-arán, ciudades fortificadas, y apriscos para las ovejas;
+NUM032037 y los hijos de Rubén construyeron a Hesbón, Eleale y Quiriataim,
+NUM032038 y Nebo, y Baal-meón (cambiando sus nombres), y Sibma; y dieron otros nombres a las ciudades que edificaron.
+NUM032039 Y los hijos de Maquir, hijo de Manasés, fueron a Galaad y la tomaron, y expulsaron a los amorreos que estaban en ella.
+NUM032040 Entonces Moisés dio Galaad a Maquir, hijo de Manasés, y éste habitó en ella.
+NUM032041 Y Jair, hijo de Manasés, fue y conquistó sus pueblos, y los llamó Havot-jair.
+NUM032042 También Noba fue y conquistó a Kenat y sus aldeas, y la llamó Noba, igual que él.
+NUM033001 Estas son las jornadas de los hijos de Israel, que salieron de la tierra de Egipto por sus ejércitos, bajo la dirección de Moisés y Aarón.
+NUM033002 Y Moisés anotó los puntos de partida según sus jornadas, por el mandamiento del SEÑOR, y estas son sus jornadas, conforme a sus puntos de partida.
+NUM033003 El mes primero partieron de Ramsés el día quince del mes primero; el día después de la Pascua, los hijos de Israel marcharon con mano poderosa a la vista de todos los egipcios,
+NUM033004 mientras los egipcios sepultaban a todos sus primogénitos, a quienes el SEÑOR había herido entre ellos. El SEÑOR también había ejecutado juicios contra sus dioses.
+NUM033005 Entonces los hijos de Israel partieron de Ramsés y acamparon en Sucot.
+NUM033006 Partieron de Sucot y acamparon en Etam, que está en el extremo del desierto.
+NUM033007 Partieron de Etam, se volvieron a Pi-hahirot, frente a Baal-zefón, y acamparon delante de Migdol.
+NUM033008 Partieron de delante de Hahirot y pasaron por en medio del mar al desierto; y anduvieron tres días en el desierto de Etam y acamparon en Mara.
+NUM033009 Partieron de Mara y llegaron a Elim; y en Elim había doce fuentes de agua y setenta palmeras; y acamparon allí.
+NUM033010 Partieron de Elim y acamparon junto al mar Rojo.
+NUM033011 Partieron del mar Rojo y acamparon en el desierto de Sin.
+NUM033012 Partieron del desierto de Sin y acamparon en Dofca.
+NUM033013 Partieron de Dofca y acamparon en Alús.
+NUM033014 Partieron de Alús y acamparon en Refidim; allí fue donde el pueblo no tuvo agua para beber.
+NUM033015 Partieron de Refidim y acamparon en el desierto de Sinaí.
+NUM033016 Partieron del desierto de Sinaí y acamparon en Kibrot-hataava.
+NUM033017 Partieron de Kibrot-hataava y acamparon en Hazerot.
+NUM033018 Partieron de Hazerot y acamparon en Ritma.
+NUM033019 Partieron de Ritma y acamparon en Rimón-peres.
+NUM033020 Partieron de Rimón-peres y acamparon en Libna.
+NUM033021 Partieron de Libna y acamparon en Rissa.
+NUM033022 Partieron de Rissa y acamparon en Ceelata.
+NUM033023 Partieron de Ceelata y acamparon en el monte Sefer.
+NUM033024 Partieron del monte Sefer y acamparon en Harada.
+NUM033025 Partieron de Harada y acamparon en Macelot.
+NUM033026 Partieron de Macelot y acamparon en Tahat.
+NUM033027 Partieron de Tahat y acamparon en Tara.
+NUM033028 Partieron de Tara y acamparon en Mitca.
+NUM033029 Partieron de Mitca y acamparon en Hasmona.
+NUM033030 Partieron de Hasmona y acamparon en Moserot.
+NUM033031 Partieron de Moserot y acamparon en Bene-jaacán.
+NUM033032 Partieron de Bene-jaacán y acamparon en Hor-haggidgad.
+NUM033033 Partieron de Hor-haggidgad y acamparon en Jotbata.
+NUM033034 Partieron de Jotbata y acamparon en Abrona.
+NUM033035 Partieron de Abrona y acamparon en Ezión-geber.
+NUM033036 Partieron de Ezión-geber y acamparon en el desierto de Zin, esto es, Cades.
+NUM033037 Partieron de Cades y acamparon en el monte Hor, al extremo de la tierra de Edom.
+NUM033038 Entonces el sacerdote Aarón subió al monte Hor por mandato del SEÑOR, y allí murió, el año cuarenta después que los hijos de Israel habían salido de la tierra de Egipto, el primer día del mes quinto.
+NUM033039 Aarón tenía ciento veintitrés años de edad cuando murió en el monte Hor.
+NUM033040 Y el cananeo, el rey de Arad que habitaba en el Neguev, en la tierra de Canaán, oyó de la llegada de los hijos de Israel.
+NUM033041 Entonces partieron del monte Hor y acamparon en Zalmona.
+NUM033042 Partieron de Zalmona y acamparon en Punón.
+NUM033043 Partieron de Punón y acamparon en Obot.
+NUM033044 Partieron de Obot y acamparon en Ije-abarim, en la frontera con Moab.
+NUM033045 Partieron de Ije-abarim y acamparon en Dibón-gad.
+NUM033046 Partieron de Dibón-gad y acamparon en Almón-diblataim.
+NUM033047 Partieron de Almón-diblataim y acamparon en los montes de Abarim, frente a Nebo.
+NUM033048 Partieron de los montes de Abarim y acamparon en las llanuras de Moab, junto al Jordán, frente a Jericó.
+NUM033049 Y acamparon junto al Jordán, desde Bet-jesimot hasta Abel-sitim, en las llanuras de Moab.
+NUM033050 Entonces habló el SEÑOR a Moisés en las llanuras de Moab, junto al Jordán, frente a Jericó, diciendo:
+NUM033051 Habla a los hijos de Israel, y diles: 'Cuando crucéis el Jordán a la tierra de Canaán,
+NUM033052 expulsaréis a todos los habitantes de la tierra delante de vosotros, y destruiréis todas sus piedras grabadas, y destruiréis todas sus imágenes fundidas, y demoleréis todos sus lugares altos;
+NUM033053 y tomaréis posesión de la tierra y habitaréis en ella, porque os he dado la tierra para que la poseáis.
+NUM033054 'Y heredaréis la tierra por sorteo, por vuestras familias; a las más grandes daréis más heredad, y a las más pequeñas daréis menos heredad. Donde la suerte caiga a cada uno, eso será suyo. Heredaréis conforme a las tribus de vuestros padres.
+NUM033055 'Pero si no expulsáis de delante de vosotros a los habitantes de la tierra, entonces sucederá que los que de ellos dejéis serán como aguijones en vuestros ojos y como espinas en vuestros costados, y os hostigarán en la tierra en que habitéis.
+NUM033056 'Y sucederá que como pienso hacerles a ellos, os haré a vosotros.'
+NUM034001 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM034002 Manda a los hijos de Israel y diles: 'Cuando entréis en la tierra de Canaán, esta es la tierra que os tocará como herencia, la tierra de Canaán según sus fronteras.
+NUM034003 'Vuestro límite sur será desde el desierto de Zin, por la frontera de Edom, y vuestra frontera sur será desde el extremo del mar Salado hacia el oriente.
+NUM034004 'Luego, vuestra frontera cambiará de dirección, del sur a la subida de Acrabim y continuará a Zin, y su término será al sur de Cades-barnea; y llegará a Hasaradar y continuará hasta Asmón.
+NUM034005 'Y la frontera cambiará de dirección de Asmón al torrente de Egipto, y su término será el mar.
+NUM034006 'En cuanto a la frontera occidental, tendréis el mar Grande, esto es, su costa; esta será vuestra frontera occidental.
+NUM034007 'Y esta será vuestra frontera norte: trazaréis la línea fronteriza desde el mar Grande hasta el monte Hor.
+NUM034008 'Trazaréis una línea desde el monte Hor hasta Lebo-hamat, y el término de la frontera será Zedad;
+NUM034009 y la frontera seguirá hacia Zifrón, y su término será Hazar-enán. Esta será vuestra frontera norte.
+NUM034010 'Para vuestra frontera oriental, trazaréis también una línea desde Hazar-enán hasta Sefam,
+NUM034011 y la frontera descenderá de Sefam a Ribla, sobre el lado oriental de Aín; y la frontera descenderá y alcanzará la ribera sobre el lado oriental del mar de Cineret.
+NUM034012 'Y la frontera descenderá al Jordán, y su término será el mar Salado. Esta será vuestra tierra, según sus fronteras alrededor.'
+NUM034013 Entonces Moisés dio órdenes a los hijos de Israel, diciendo: Esta es la tierra que repartiréis por sorteo entre vosotros como posesión, la cual el SEÑOR ha ordenado dar a las nueve tribus y a la media tribu.
+NUM034014 Pues la tribu de los hijos de Rubén ha recibido lo suyo según sus casas paternas, y la tribu de los hijos de Gad según sus casas paternas y la media tribu de Manasés han recibido su posesión.
+NUM034015 Las dos tribus y la media tribu han recibido su posesión al otro lado del Jordán, frente a Jericó, al oriente, hacia la salida del sol.
+NUM034016 Entonces habló el SEÑOR a Moisés, diciendo:
+NUM034017 Estos son los nombres de los hombres que os repartirán la tierra por heredad: el sacerdote Eleazar y Josué, hijo de Nun.
+NUM034018 De cada tribu tomarás un jefe para repartir la tierra por heredad.
+NUM034019 Y estos son los nombres de los hombres: de la tribu de Judá, Caleb, hijo de Jefone.
+NUM034020 De la tribu de los hijos de Simeón, Semuel, hijo de Amiud.
+NUM034021 De la tribu de Benjamín, Elidad, hijo de Quislón.
+NUM034022 De la tribu de los hijos de Dan, un jefe: Buqui, hijo de Jogli.
+NUM034023 De los hijos de José: de la tribu de los hijos de Manasés, un jefe: Haniel, hijo de Efod.
+NUM034024 De la tribu de los hijos de Efraín, un jefe: Kemuel, hijo de Siftán.
+NUM034025 De la tribu de los hijos de Zabulón, un jefe: Elizafán, hijo de Parnac.
+NUM034026 De la tribu de los hijos de Isacar, un jefe: Paltiel, hijo de Azán.
+NUM034027 De la tribu de los hijos de Aser, un jefe: Ahiud, hijo de Selomi.
+NUM034028 Y de la tribu de los hijos de Neftalí, un jefe: Pedael, hijo de Amiud.
+NUM034029 Estos son los que el SEÑOR mandó que repartieran la heredad a los hijos de Israel en la tierra de Canaán.
+NUM035001 El SEÑOR habló a Moisés en las llanuras de Moab, junto al Jordán, frente a Jericó, diciendo:
+NUM035002 Manda a los hijos de Israel que de la herencia de su posesión den a los levitas ciudades en que puedan habitar; también daréis a los levitas tierras de pasto alrededor de las ciudades.
+NUM035003 Y las ciudades serán suyas para habitar; y sus tierras de pasto serán para sus animales, para sus ganados y para todas sus bestias.
+NUM035004 Las tierras de pasto de las ciudades que daréis a los levitas se extenderán desde la muralla de la ciudad hacia afuera mil codos alrededor.
+NUM035005 Mediréis también afuera de la ciudad, al lado oriental dos mil codos, al lado sur dos mil codos, al lado occidental dos mil codos, y al lado norte dos mil codos, con la ciudad en el centro. Esto será de ellos como tierras de pasto para las ciudades.
+NUM035006 Las ciudades que daréis a los levitas serán las seis ciudades de refugio, las que daréis para que el homicida huya a ellas; además de ellas les daréis cuarenta y dos ciudades.
+NUM035007 Todas las ciudades que daréis a los levitas serán cuarenta y ocho ciudades, junto con sus tierras de pasto.
+NUM035008 En cuanto a las ciudades que daréis de la posesión de los hijos de Israel, tomaréis más del más grande y tomaréis menos del más pequeño; cada uno dará algunas de sus ciudades a los levitas en proporción a la posesión que herede.
+NUM035009 Luego el SEÑOR habló a Moisés, diciendo:
+NUM035010 Habla a los hijos de Israel, y diles: 'Cuando crucéis el Jordán a la tierra de Canaán,
+NUM035011 escogeréis para vosotros ciudades para que sean vuestras ciudades de refugio, a fin de que pueda huir allí el homicida que haya matado a alguna persona sin intención.
+NUM035012 'Las ciudades serán para vosotros como refugio del vengador, para que el homicida no muera hasta que comparezca delante de la congregación para juicio.
+NUM035013 'Las ciudades que daréis serán vuestras seis ciudades de refugio.
+NUM035014 'Daréis tres ciudades al otro lado del Jordán y tres ciudades en la tierra de Canaán; serán ciudades de refugio.
+NUM035015 'Estas seis ciudades serán por refugio para los hijos de Israel, y para el forastero y para el peregrino entre ellos, para que huya allí cualquiera que sin intención mate a una persona.
+NUM035016 'Pero si lo hirió con un objeto de hierro, y murió, es un asesino; al asesino ciertamente se le dará muerte.
+NUM035017 'Y si lo hirió con una piedra en la mano, por la cual pueda morir, y muere, es un asesino; al asesino ciertamente se le dará muerte.
+NUM035018 'O si lo golpeó con un objeto de madera en la mano, por lo cual pueda morir, y muere, es un asesino; al asesino ciertamente se le dará muerte.
+NUM035019 'El vengador de sangre, él mismo dará muerte al asesino; le dará muerte cuando se encuentre con él.
+NUM035020 'Y si lo empujó con odio, o le arrojó algo mientras lo acechaba, y murió,
+NUM035021 o si lo hirió con la mano en enemistad, y murió, al que lo hirió ciertamente se le dará muerte; es un asesino. El vengador de sangre dará muerte al asesino cuando se encuentre con él.
+NUM035022 'Pero si lo empujó súbitamente sin enemistad, o le arrojó algo sin acecharlo,
+NUM035023 o tiró cualquier piedra que pudo matarlo, y sin ver que le cayó encima, murió, no siendo su enemigo ni procurando herirlo,
+NUM035024 entonces la congregación juzgará entre el homicida y el vengador de la sangre conforme a estas ordenanzas.
+NUM035025 'Y la congregación librará al homicida de la mano del vengador de sangre, y la congregación lo restaurará a la ciudad de refugio a la cual huyó; y vivirá en ella hasta la muerte del sumo sacerdote que fue ungido con óleo santo.
+NUM035026 'Pero si el homicida sale en cualquier tiempo de los límites de la ciudad de refugio a la cual pudo huir,
+NUM035027 y el vengador de sangre lo halla fuera de los límites de la ciudad de refugio, y el vengador de sangre mata al homicida, no será culpable de sangre,
+NUM035028 porque el homicida debió haber permanecido en la ciudad de refugio hasta la muerte del sumo sacerdote. Pero después de la muerte del sumo sacerdote, el homicida volverá a su tierra.
+NUM035029 'Estas cosas serán por norma de derecho para vosotros por vuestras generaciones en todas vuestras moradas.
+NUM035030 'Si alguno mata a una persona, al asesino se le dará muerte ante la evidencia de testigos, pero a ninguna persona se le dará muerte por el testimonio de un solo testigo.
+NUM035031 'Además, no tomaréis rescate por la vida de un asesino que es culpable de muerte, sino que de cierto se le dará muerte;
+NUM035032 y no tomaréis rescate por el que ha huido a la ciudad de refugio para que vuelva y habite en la tierra antes de la muerte del sacerdote.
+NUM035033 'Así que no contaminaréis la tierra en que estáis; porque la sangre contamina la tierra, y no se puede hacer expiación por la tierra, por la sangre derramada en ella, excepto mediante la sangre del que la derramó.
+NUM035034 'Y no contaminaréis la tierra en que habitáis, en medio de la cual yo moro, pues yo, el SEÑOR, habito en medio de los hijos de Israel.'
+NUM036001 Y los jefes de las casas paternas de la familia de los hijos de Galaad, hijo de Maquir, hijo de Manasés, de las familias de los hijos de José, se acercaron y hablaron ante Moisés y ante los jefes, las cabezas de las casas paternas de los hijos de Israel.
+NUM036002 Y dijeron: El SEÑOR ordenó a mi señor dar la tierra por sorteo a los hijos de Israel por heredad, y el SEÑOR ordenó a mi señor dar la heredad de Zelofehad, nuestro hermano, a sus hijas.
+NUM036003 Pero si ellas se casan con alguno de los hijos de las otras tribus de los hijos de Israel, su heredad será quitada de la herencia de nuestros padres, y será añadida a la heredad de la tribu a la que ellos pertenezcan; y así será quitada de nuestra heredad.
+NUM036004 Y cuando llegue el jubileo de los hijos de Israel, entonces su heredad será añadida a la heredad de la tribu a la que ellos pertenezcan; así su heredad será quitada de la heredad de la tribu de nuestros padres.
+NUM036005 Entonces Moisés ordenó a los hijos de Israel, conforme a la palabra del SEÑOR, diciendo: La tribu de los hijos de José tiene razón en lo que dice.
+NUM036006 Esto es lo que el SEÑOR ha ordenado tocante a las hijas de Zelofehad, diciendo: 'Cásense con el que bien les parezca; pero deben casarse dentro de la familia de la tribu de su padre.'
+NUM036007 Así, ninguna heredad de los hijos de Israel será traspasada de tribu a tribu, pues los hijos de Israel retendrán cada uno la heredad de la tribu de sus padres.
+NUM036008 Y toda hija que entre en posesión de una heredad en alguna de las tribus de los hijos de Israel, se casará con alguno de la familia de la tribu de su padre, a fin de que los hijos de Israel posean cada uno la heredad de sus padres.
+NUM036009 De esta manera, ninguna heredad será traspasada de una tribu a otra tribu, pues las tribus de los hijos de Israel retendrán cada una su propia heredad.
+NUM036010 Y las hijas de Zelofehad hicieron tal como el SEÑOR había ordenado a Moisés,
+NUM036011 pues Maala, Tirsa, Hogla, Milca y Noa, las hijas de Zelofehad, se casaron con los hijos de sus tíos.
+NUM036012 Se casaron con los de las familias de los hijos de Manasés, hijo de José, y su heredad permaneció con la tribu de la familia de su padre.
+NUM036013 Estos son los mandamientos y las ordenanzas que el SEÑOR dio a los hijos de Israel por medio de Moisés en las llanuras de Moab, junto al Jordán, frente a Jericó.
